@@ -22,7 +22,7 @@ Suomen matematiikkavalmennuksen puolella olen tehnyt (muiden valmentajien avusta
 
 Yläkoulu- ja lukioaikana osallistuin aktiivisesti matematiikka-, ohjelmointi- ja tiedekilpailuihin. Alla isoimpia saavutuksiani:
 
-- Saavutin Suomen historian parhaan tuloksen Kansainvälisissä matematiikkaolympialaisissa (2019)
+- Sain Suomen historian parhaan tuloksen Kansainvälisissä matematiikkaolympialaisissa (2019)
  
 - Voitin toisen palkinnon European Union Contest for Young Scientists -tiedekilpailussa (2019)
 
