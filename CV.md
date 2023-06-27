@@ -14,20 +14,6 @@ Suoritin koulutukseni paljon tavanomaista nopeammin.
 
 Suoritin myös lukion tavanomaista nopeammin kahdessa vuodessa Valkeakosken Tietotien lukiossa / Päivölän opiston matematiikkalinjalla (2017-2019).
 
-## Tutkimus
-
-Lista kaikista artikkeleistani löytyy täältä: https://orcid.org/0000-0002-5237-1589
-
-Pidän erityisesti niistä töistä, joissa käsitellään hyvin yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaikuttavimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
-
-- [Solvability of a system of polynomial equations modulo primes](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/solvability-of-a-system-of-polynomial-equations-modulo-primes/B364E624AB54DA6B8C839B54003A1711)
-
-- [Composite values of shifted exponentials](https://arxiv.org/abs/2010.01789) yhdessä Joni Teräväisen kanssa
-
-- [Positive lower density for prime divisors of generic linear recurrences](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/positive-lower-density-for-prime-divisors-of-generic-linear-recurrences/D17E3133C02E61A03F2BBE4A75C3805C)
-
-Mainitsen myös [graduni](https://helda.helsinki.fi/handle/10138/330738), joka on parhaimpia töitäni.
-
 ## Opetus
 
 Suomen matematiikkavalmennuksen puolella olen tehnyt (muiden valmentajien avustamana) [kurssin kilpamatematiikasta](https://kurssi.matematiikkakilpailut.fi/) ja niissä esiintyvästä ongelmanratkaisusta. Panostin paljon sisältöön ja pedagogiaan, ja koen kurssin onnistuneen tehtävässään. Aiempana yrityksenä kirjoitin aiheesta [kirjan](https://matematiikkakilpailut.fi/kirjallisuus/OOOO.pdf).
@@ -45,13 +31,16 @@ Yläkoulu- ja lukioaikana osallistuin aktiivisesti matematiikka-, ohjelmointi- j
 - Voitin kansallisen lukion matematiikkakilpailun vuosina 2018 ja 2019
 
 
+## Tutkimus
 
+Lista kaikista artikkeleistani löytyy täältä: [https://orcid.org/0000-0002-5237-1589](https://orcid.org/0000-0002-5237-1589)
 
+Pidän erityisesti niistä töistä, joissa käsitellään hyvin yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaikuttavimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
 
+- [Solvability of a system of polynomial equations modulo primes](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/solvability-of-a-system-of-polynomial-equations-modulo-primes/B364E624AB54DA6B8C839B54003A1711)
 
+- [Composite values of shifted exponentials](https://arxiv.org/abs/2010.01789) yhdessä Joni Teräväisen kanssa
 
+- [Positive lower density for prime divisors of generic linear recurrences](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/positive-lower-density-for-prime-divisors-of-generic-linear-recurrences/D17E3133C02E61A03F2BBE4A75C3805C)
 
-
-
-
-
+Mainitsen myös [graduni](https://helda.helsinki.fi/handle/10138/330738), joka on parhaimpia töitäni.
