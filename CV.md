@@ -33,7 +33,7 @@ Yläkoulu- ja lukioaikana osallistuin aktiivisesti matematiikka-, ohjelmointi- j
 
 ## Tutkimus
 
-Lista kaikista artikkeleistani löytyy täältä: [https://orcid.org/0000-0002-5237-1589](https://orcid.org/0000-0002-5237-1589)
+Lista kaikista artikkeleistani löytyy [Tutkimus](https://ollij.fi/tutkimus)-osiosta.
 
 Pidän erityisesti niistä töistä, joissa käsitellään hyvin yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaikuttavimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
 
