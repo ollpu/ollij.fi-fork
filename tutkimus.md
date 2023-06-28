@@ -11,3 +11,7 @@
 - Orders of algebraic numbers in finite fields, (2021). [arXiv](https://arxiv.org/abs/2106.09813)
 - Composite values of shifted exponentials, yhdessä Joni Teräväisen kanssa, (2020). [arXiv](https://arxiv.org/abs/2010.01789)
 
+Väitöskirja: [Problems in Analytic and Algebraic Number Theory](https://urn.fi/URN:ISBN:978-951-29-9305-5)
+
+Pro gradu: [Polynomial and exponential equations modulo primes](http://urn.fi/URN:NBN:fi:hulib-202106082543)
+
