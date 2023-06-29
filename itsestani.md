@@ -12,11 +12,11 @@ Vuosina 2019-2021 opiskelin Helsingin yliopistolla, toimin valmentajana matemati
 
 Kunnes tapahtui suuri käänne.
 
-Luin tekstejä koskien... oman ajattelun tutkiskelua ja kehittämistä? Minulla ei valitettavasti ole antaa parempaa lyhyttä kuvausta. Mutta tiedäthän, sellaisia tekstejä kuten Daniel Kahnemanin "Thinking, Fast and Slow". Joissa käsitellään kuinka ihmiset sortuvat välillä tällaiseen ajatteluvirheeseen. Tai kuinka monet ihmiset ovat ihan väärässä käsityksessä tähän juttuun liittyen. Tai yleisesti kuinka ihmiset ovat vähän tyhmiä tämäntyyppisissä asioissa.
+Luin tekstejä koskien... oman ajattelun tutkiskelua ja kehittämistä? Minulla ei valitettavasti ole antaa parempaa lyhyttä kuvausta. Mutta tiedäthän, sellaisia tekstejä kuten Daniel Kahnemanin "Thinking, Fast and Slow". Joissa käsitellään kuinka ihmiset sortuvat välillä tällaiseen ajatteluvirheeseen. Tai kuinka monet ihmiset ovat ihan väärässä käsityksessä tähän juttuun liittyen. Tai yleisesti kuinka ihmiset ovat vähän tyhmiä tässä ja tuossa.
 
 Monet huomiot pätivät myös minun kohdallani.
 
-Tajusin olevani väärässä monista jutuista, ja aloin myös nähdä _miksi_ olin ollut väärässä. Luin paljon ja opin paljon. Tekstit käsittelivät laajasti eri aiheita - kuten sanoin, en osaa antaa lyhyttä kuvausta - ja voin liioittelematta sanoa, että maailmankuvani muuttui.
+Tajusin olevani väärässä monista jutuista, ja aloin myös nähdä _miksi_ olin ollut väärässä. Luin paljon ja opin paljon. Tekstit käsittelivät laajasti eri aiheita - kuten sanoin, en osaa antaa lyhyttä kuvausta - ja maailmankuvani muovautui uudelleen.
 
 Yksi lukemisteni seuraus oli, että ilmoitin väitöskirjani ohjaajalle, etten haluaisikaan jatkaa lukuteorian parissa. Sovimme, että teen tohtoriopintoni tavallista nopeammin loppuun.
 
