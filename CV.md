@@ -39,8 +39,8 @@ Pidän erityisesti niistä töistä, joissa käsitellään hyvin yksinkertaisen 
 
 - [Solvability of a system of polynomial equations modulo primes](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/solvability-of-a-system-of-polynomial-equations-modulo-primes/B364E624AB54DA6B8C839B54003A1711)
 
-- [Composite values of shifted exponentials](https://arxiv.org/abs/2010.01789) yhdessä Joni Teräväisen kanssa
+- [Composite values of shifted exponentials](https://doi.org/10.1016/j.aim.2023.109187) yhdessä Joni Teräväisen kanssa
 
 - [Positive lower density for prime divisors of generic linear recurrences](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/positive-lower-density-for-prime-divisors-of-generic-linear-recurrences/D17E3133C02E61A03F2BBE4A75C3805C)
 
-Mainitsen myös [graduni](https://helda.helsinki.fi/handle/10138/330738), joka on parhaimpia töitäni.
+Mainitsen myös [graduni](https://helda.helsinki.fi/handle/10138/330738), joka on mielestäni parhaimpia töitäni.
