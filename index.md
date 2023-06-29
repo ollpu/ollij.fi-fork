@@ -1,4 +1,4 @@
-# Olli J.
+# Olli Järviniemi
 
 Työskentelen tekoälyturvallisuuden parissa. Koulutukseltani olen filosofian tohtori ja olen tehnyt lukuteorian tutkimusta.
 
