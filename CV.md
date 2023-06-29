@@ -4,23 +4,19 @@
 
 ## Koulutus
 
-Suoritin koulutukseni paljon tavanomaista nopeammin.
+Koulutukseltani olen filosofian tohtori, väitöstutkimuksen alana matematiikka.
 
-- Filosofian tohtori (2021-2023), Turun yliopisto. Linkki väitöskirjaan. Sain tohtorin tutkinnon 21-vuotiaana.
+- Filosofian tohtori (2021-2023), Turun yliopisto. Sain tohtorin tutkinnon 21-vuotiaana.
 
 - Filosofian maisteri (2020-2021), Helsingin yliopisto.
 
 - Luonnontieteiden kandidaatti (2019-2020), Helsingin yliopisto.
 
-Suoritin myös lukion tavanomaista nopeammin kahdessa vuodessa Valkeakosken Tietotien lukiossa / Päivölän opiston matematiikkalinjalla (2017-2019).
-
-## Opetus
-
-Suomen matematiikkavalmennuksen puolella olen tehnyt (muiden valmentajien avustamana) [kurssin kilpamatematiikasta](https://kurssi.matematiikkakilpailut.fi/) ja niissä esiintyvästä ongelmanratkaisusta. Panostin paljon sisältöön ja pedagogiaan, ja koen kurssin onnistuneen tehtävässään. Aiempana yrityksenä kirjoitin aiheesta [kirjan](https://matematiikkakilpailut.fi/kirjallisuus/OOOO.pdf).
+Suoritin lukion Valkeakosken Tietotien lukiossa / Päivölän opiston matematiikkalinjalla (2017-2019).
 
 ## Kilpailumenestys
 
-Yläkoulu- ja lukioaikana osallistuin aktiivisesti matematiikka-, ohjelmointi- ja tiedekilpailuihin. Alla isoimpia saavutuksiani:
+Lukioaikanani osallistuin aktiivisesti matematiikka-, ohjelmointi- ja tiedekilpailuihin. Alla isoimpia saavutuksiani:
 
 - Sain Suomen historian parhaan tuloksen Kansainvälisissä matematiikkaolympialaisissa (2019)
  
@@ -30,12 +26,16 @@ Yläkoulu- ja lukioaikana osallistuin aktiivisesti matematiikka-, ohjelmointi- j
 
 - Voitin kansallisen lukion matematiikkakilpailun vuosina 2018 ja 2019
 
+## Opetus
+
+Suomen matematiikkavalmennuksen puolella olen tehnyt (muiden valmentajien tuella) [kurssin kilpamatematiikasta](https://kurssi.matematiikkakilpailut.fi/) ja niissä esiintyvästä ongelmanratkaisusta. Panostin paljon sisältöön ja pedagogiaan, ja koen kurssin onnistuneen tehtävässään. Aiempana yrityksenä kirjoitin aiheesta [kirjan](https://matematiikkakilpailut.fi/kirjallisuus/OOOO.pdf).
+
 
 ## Tutkimus
 
 Lista kaikista artikkeleistani löytyy [Tutkimus](https://ollij.fi/tutkimus)-osiosta.
 
-Pidän erityisesti niistä töistä, joissa käsitellään hyvin yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaikuttavimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
+Pidän erityisesti niistä töistä, joissa käsitellään yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaativimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
 
 - [Solvability of a system of polynomial equations modulo primes](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/solvability-of-a-system-of-polynomial-equations-modulo-primes/B364E624AB54DA6B8C839B54003A1711)
 
