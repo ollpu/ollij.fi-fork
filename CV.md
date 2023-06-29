@@ -1,6 +1,6 @@
 # Saavutuksia
 
-[Tässä linkki](https://ollij.fi/CV_TODO.pdf) tavanomaiseen CV:hen. Alla vapaamuotoisempi lista saavutuksistani, joista olen erityisen ylpeä.
+[Tässä linkki](https://ollij.fi/cv2023-6_FIN.pdf) tavanomaiseen CV:hen. Alla vapaamuotoisempi lista saavutuksistani, joista olen erityisen ylpeä.
 
 ## Koulutus
 
