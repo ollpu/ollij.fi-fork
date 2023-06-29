@@ -1,6 +1,6 @@
 # Tutkimus
 
-- Composite values of shifted exponentials, yhdessä Joni Teräväisen kanssa. __Adv. Math.__, 2023. [arXiv](https://arxiv.org/abs/2010.01789), [julkaisija](https://doi.org/10.1016/j.aim.2023.109187)
+- Composite values of shifted exponentials, yhdessä Joni Teräväisen kanssa. _Adv. Math._, 2023. [arXiv](https://arxiv.org/abs/2010.01789), [julkaisija](https://doi.org/10.1016/j.aim.2023.109187)
 - Positive lower density for prime divisors of generic linear recurrences. _Math. Proc. Cambridge Philos. Soc._, 2023. [arXiv](https://arxiv.org/abs/2102.04042), [julkaisija](https://doi.org/10.1017/S0305004123000257)
 - Unified treatment of Artin-type problems, yhdessä Antonella Peruccan kanssa. _Res. in Number Theory_, __9__, 10, 2023.  [arXiv](https://arxiv.org/abs/2202.11329), [julkaisija](https://doi.org/10.1007/s40993-022-00418-6)
 - Gaussian almost primes in almost all narrow sectors, yhdessä Joni Teräväisen kanssa, 2023. [arXiv](https://arxiv.org/abs/2303.05822)
