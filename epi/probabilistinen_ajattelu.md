@@ -20,19 +20,19 @@ Näitä intuitioita voi muuttaa luvuiksi. Sanotaan, että on 90% todennäköisyy
 
 Alla kuvassa on yksi esimerkki siitä, miltä uskomukset voivat näyttää. Kukin palikka vastaa yhtä prosenttia kyseiselle lopputulokselle.
 
-*KUVA*
+![Todennäköisyydet tutun saapumisajalle](Kuvat/prob_1)
 
 Takaisin oikeaan maailmaan: Odotat. Kello näyttää 10:10. Vieraasi ei ole tullut paikalle. Tämä on hieman yllättävää. Uskomuksesi muuttuvat.
 
 Tutkitaan edellistä kuvaa. Palikat, jotka oli asetettu ennen kello 10:10 tulee unohtaa. (Lasken sinun puolestasi: niitä on 75 kappaletta.) Laitoit panoksesi väärälle vaihtoehdolle ja menetät ne. Kuva näyttää seuraavalta:
 
-*KUVA*
+![Osa panoksista katoaa](Kuvat/prob_2)
 
 Tässä on... jotakin hassua. 10%, ettei kaveri saavu, 15% sille, että hän vielä tulee, ja... ai niin, menetit sen 75%.
 
 Mutta uskomusten pitäisi yhteensä olla 100% -- ei enempää, ei vähempää. Täten deflaatio iskee ja palikoiden arvo kasvaa! Palikoita on jäljellä enää 25, joten nyt jokainen palikka on neljän prosentin arvoinen.
 
-*KUVA*
+![Uudet todennäköisyydet tutun saapumisajalle](Kuvat/prob_3)
 
 Nyt on 40% todennäköisyys, että kaverisi ei saavu paikalle! Käy tietysti järkeen, että todennäköisyys on kasvanut: jos odotat kaveriasi ja häntä ei näy, alat epäilemään, että hän ei tule ollenkaan.
 

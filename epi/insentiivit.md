@@ -80,15 +80,15 @@ Muinaisen perinteen mukaan missä tahansa peliteoriaa käsittelevässä tekstiss
 
 Kuva tilanteesta, jossa x-koordinaatti kuvaa omaa rahasummaa, y-koordinaatti toisen ja jossa esimerkiksi lyhenne "PE" tarkoittaa "minä painan, toinen ei":
 
-*KUVA*
+![Vangin dilemma](Kuvat/vanki_2-1.jpg)
 
 Omat insentiivit ovat ilmiantamisen puolella: riippumatta siitä, mitä toinen tekee, on sinun parempi painaa nappia. Painaminen (kuvassa nuolen seuraaminen) antaa sinulle 100 euroa enemmän rahaa.
 
-*KUVA*
+![Insentiivit ovat painamisen puolella](Kuvat/vanki_3-1.jpg)
 
 Mitä käy, jos molemmat ajattelevat näin? Seuraa nuolia.
 
-*KUVA*
+![...myös toisella osapuolella](Kuvat/vanki_4-1.jpg)
 
 Insentiivit työntävät osapuolia, kunnes päädytään "kuoppaan", "stabiiliin pisteeseen", jossa molemmat painavat nappia. (Tekninen muotoilu: tämä on pelin ainoa Nashin tasapaino.)
 
@@ -96,7 +96,7 @@ Mikä on ongelma? *Kumpikin* teistä preferoi tilaa EE tilan PP sijasta: tällö
 
 Yleisesti *kaikki* osapuolet haluavat toteuttaa Pareto-parannuksen, jos niitä suinkin on olemassa. *Pareto-käyräksi* kutsutaan tiloja, joille ei enää ole olemassa Pareto-parannusta. *Kaikki* haluavat Pareto-käyrälle tai lähemmäs sitä (kyse on vain *mihin kohtaan* Pareto-käyrällä tähdätään).
 
-*KUVA*
+![Pareto-käyrä](Kuvat/vanki_5-1.jpg)
 
 Silti aina sinne ei päästä. Insentiivit voivat välillä olla sellaisia, joita seuraamalla päädytään stabiiliin mutta huonoon tilaan. Ihmiset tekevät (naiivisti ajateltuna) itselleen parhaan asian ja tämän seurauksena kollektiivisesti pudotaan Pareto-käyrältä. (Ehkä se ei ollutkaan itselle paras asia...)
 

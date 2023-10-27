@@ -4,11 +4,11 @@ Kerran kuulin jonkun sanovan "Nykyään ihmisillä on huono kunto, paitsi ne, jo
 
 Pysähdyin miettimään. Kuva, jonka kommentti maalaa, näyttää tällaiselta:
 
-*kuva*
+![Binäärinen näkökulma](Kuvat/jakauma_1-1.jpg)
 
 Hmm, erikoista. Nimittäin yleensä kun olen nähnyt oikeaan dataan perustuvia jakaumia, niin ne ovat pikemminkin tämänmuotoisia:
 
-*kuva*
+![Jatkuvampi näkökulma](Kuvat/jakauma_2-1.jpg)
 
 Binäärinen jaottelu ei ole oikea näkökulma aiheeseen. Vasta kun karkea kuva jatkuvasta jakaumasta on kunnossa, voidaan lähteä esittämään väitteitä kuten "ihmisten kunto on keskimäärin heikentynyt" tai "hyväkuntoisimman 1% ihmisistä kunto on noussut".
 

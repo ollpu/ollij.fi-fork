@@ -50,17 +50,17 @@ Ja kuten todettiin, nämä eri selitykset *ennustavat eri tuloksia* koskien "kum
 
 Alla on tilannetta havainnollistava kuva: selitykset ja niiden asettamat panokset testin tuloksille. Kuten aiemmin, yksi palikka vastaa yhtä prosenttia.
 
-*KUVA*
+![Odotukset testin tuloksille](Kuvat/bayes_2-1.jpg)
 
 Ja miten käy, kun tulokset julkistetaan? Väärälle veikkaukselle asetetut panokset katoavat, ja...
 
-*KUVA*
+![Osa panoksista katoaa](Kuvat/bayes_3-1.jpg)
 
 Ja kuten edellisessä tekstissä opittiin, palikoiden vähentyessä käynnistyy deflaatio -- kokonaistodennäköisyyden pitää olla 100 prosenttia. Tässä tapauksessa deflaatiota tapahtuu tosin niin vähän, ettei sitä juuri näe kuvassa.
 
-*KUVA*
+![Deflaation jälkeen](Kuvat/bayes_4-1.jpg)
 
-Joka tapauksessa: Aiemmin palikat jakautuivat suhteessa 80 : 20, jolloin todennäköisyydet olivat 80% ja 20%. Nyt palikat jakautuvat suhteessa 72 : 10, jolloin todennäköisyydet ovat... 72/82 ja 10/82. Uusi todennäköisyys lukemisselitykselle on 72/82 eli noin 88% ja muille selityksille 12%.
+...joka tapauksessa: Aiemmin palikat jakautuivat suhteessa 80 : 20, jolloin todennäköisyydet olivat 80% ja 20%. Nyt palikat jakautuvat suhteessa 72 : 10, jolloin todennäköisyydet ovat... 72/82 ja 10/82. Uusi todennäköisyys lukemisselitykselle on 72/82 eli noin 88% ja muille selityksille 12%.
 
 Joten? Ei ole edelleenkään "käytännössä varmaa", että lukemisselitys on oikea. Silti kyseessä on ihan kohtalainen muutos uskomuksiin: muiden selitysten todennäköisyys melkein puolittui.
 
@@ -90,11 +90,11 @@ Ja suhteen kannalta oleellista ei ole, kuinka hyvin minä tai sinä olemme ennus
 
 Palataan sitten silmäesimerkkiin. Alussa todennäköisyydet eri selityksille ovat 80% ja 20%, siis 4 : 1. Rasitusselitys laittaa 90% panoksistaan (eli 72 palikkaa) sille, että vahvempi silmä on vasen. "Muu"-selitys laittaa tälle 50% panoksistaan. Suhde on siis 9 : 5. Alla on vielä uudestaan aiempi kuva.
 
-*KUVA*
+![Odotukset testin tuloksille](Kuvat/bayes_2-1.jpg)
 
 9 : 5 on hieman ikävä suhde käsitellä. Pyöristetään se yksinkertaisuuden vuoksi suhteeksi 10 : 5 eli 2 : 1. Tämä olisi sama kuin jos rasitusselitys laittaisi kaikki panoksensa vasemmalle (ja "muu"-selitys edelleen tasan oikealle ja vasemmalle).
 
-*KUVA*
+![Pyöristetyt odotukset](Kuvat/bayes_5-1.jpg)
 
 Selvä: Aluksi todennäköisyyksien suhde oli 4 : 1. Testillä saamme 2 : 1 verran evidenssiä rasitusselityksen puolesta. Mikä on uusi, päivitetty arvio?
 

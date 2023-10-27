@@ -134,6 +134,11 @@ Samankaltaisia ideoita on käsitelty Yudkowskyn "[Expecting Short Inferential Di
 
 Paljon enemmän koskien kieltä: "[A Human's Guide to Words](https://www.readthesequences.com/A-Humans-Guide-To-Words-Sequence)" (Yudkowsky).
 
+## Työkalujen väärinkäyttö
+
+Ja muista: [sinulla on oikeus ajatella](https://thezvi.wordpress.com/2017/11/27/you-have-the-right-to-think/) (Zvi Mowshowitz).
+9661318
+
 ## Tehokkaan maailman hypoteesi
 
 Yudkowskyn kirja "[Inadequate Equilibria](https://equilibriabook.com/)" käsittelee vastaavaa teemaa.
