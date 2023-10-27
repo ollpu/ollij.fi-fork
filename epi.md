@@ -4,12 +4,12 @@
 
 ## Työkaluja
 
-- [Ajattele jakaumina]()
-- [Jakaumat ovat leveitä]()
-- [Matalan informaation väitteet]()
-- [Kvantifiointi]()
-- [Yhden muuttujan malli]()
-- [Symmetrian rikkominen, yleispätevät vasta-argumentit ja niin edelleen]()
+- [Ajattele jakaumina](https://ollij.fi/epi/jakaumat)
+- [Jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat)
+- [Matalan informaation väitteet](https://ollij.fi/epi/matala_informaatio)
+- [Kvantifiointi](https://ollij.fi/epi/kvantifiointi)
+- [Yhden muuttujan malli](https://ollij.fi/epi/yksi_muuttuja)
+- [Symmetrian rikkominen, yleispätevät vasta-argumentit ja niin edelleen](https://ollij.fi/epi/symmetrian_rikkominen)
 
 ## Itsestäänselvyyksiä
 
