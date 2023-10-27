@@ -4,7 +4,7 @@
 
 ## Työkaluja
 
-- [Ajattele jakaumina](https://ollij.fi/epi/ajattele_jakaumina)
+- [Binääriset kategoriat ja jakaumat](https://ollij.fi/epi/binaarinen_jakauma)
 - [Jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat)
 - [Matalan informaation väitteet](https://ollij.fi/epi/matala_informaatio)
 - [Kvantifiointi](https://ollij.fi/epi/kvantifiointi)
