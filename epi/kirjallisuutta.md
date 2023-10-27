@@ -2,15 +2,15 @@
 
 Muutamia materiaaleja, joita suosittelen tekstieni teemoihin liittyen.
 
-Minulla on myös [tekstikohtaisia suosituksia ja kommentteja]().
+Minulla on myös [tekstikohtaisia viitteitä ja kommentteja](https://ollij.fi/epi/Muistiinpanoja).
 
-Tämä on varmaan se kohta, jossa sanotaan "on näissä materiaaleissa huonotkin puolensa" tai "en ole kaikkien kanssa samaa mieltä" tai [muuta vastaavaa](). No, siinä. Pidän näitä silti niin hyvinä, että suosittelen niitä muille.
+Tämä on varmaan se kohta, jossa sanotaan "on näissä materiaaleissa huonotkin puolensa" tai "en ole kaikkien kanssa samaa mieltä" tai [muuta vastaavaa](https://ollij.fi/epi/matala_informaatio). No, siinä. Pidän näitä silti niin hyvinä, että suosittelen niitä muille.
 
 ## Yleistä
 
 "[Harry Potter and the Methods of Rationality](https://hpmor.com/)", Eliezer Yudkowsky.
 
-(Kyllä, Harry Potter -fanifiktio.) Hyvin viihdyttävä. Vaikea tiivistää, mitä se oikein käsittelee. Alkuperäisten Harry Potterien lukeminen ei ole tarpeen (minä en ollut lukenut). Suosittelen, ellei ole allerginen fiktiolle tai jotakin.
+(Kyllä, Harry Potter -fanifiktio.) Hyvin viihdyttävä. Vaikea kuvailla. Alkuperäisten Harry Potterien lukeminen ei ole tarpeen (minä en ollut lukenut). Suosittelen, ellei ole allerginen fiktiolle tai jotakin.
 
 "[The Sequences](https://www.readthesequences.com/)" tai lyhyempi "[Highlights from The Sequences](https://www.lesswrong.com/highlights)", Eliezer Yudkowsky.
 
@@ -28,10 +28,10 @@ Ihan tavallinen kirja. Kertoo hyvästä epistä.
 
 Muutama kirja, jotka kertovat hyvin jostakin tietystä aihealueesta.
 
-"The Elephant in the Brain: Hidden Motives in Everyday Life", Kevin Simler ja Robin Hanson. Kertoo ihmisiä ohjaavista epäimartelevista motivaatioista (esimerkkinä status).
+"The Elephant in the Brain: Hidden Motives in Everyday Life", Kevin Simler ja Robin Hanson. Kertoo ihmisiä ohjaavista epäimartelevista motivaatioista.
 
 "Thinking, Fast and Slow", Daniel Kahneman. Kattava teos koskien kognitiivisia vinoumia ja harhoja.
 
-"Enlightenment Now: The Case for Reason, Science, Humanism, and Progress", Steven Pinker. Kertoo ihmiskunnan kehityksestä Valistuksen näkökulmasta.
+"Enlightenment Now: The Case for Reason, Science, Humanism, and Progress", Steven Pinker. Kertoo ihmiskunnan kehityksestä valistuksen näkökulmasta.
 
-"Probability Theory: The Logic of Science", E. T. Jaynes. Käsittelee todennäköisyyslaskentaa *kunnolla*. Ei aloittelijoille. Vaatii matemaattista kypsyyttä ja lukutaitoa.
+"Probability Theory: The Logic of Science", E. T. Jaynes. Käsittelee todennäköisyyslaskentaa kunnolla. Ei aloittelijoille -- vaatii matemaattista kypsyyttä ja lukutaitoa.

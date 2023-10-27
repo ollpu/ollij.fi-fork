@@ -54,4 +54,4 @@ Tekstejä ei ole pakko lukea järjestyksessä ja erityisesti eri osiot voi lukea
 
 Kokoelman jakaa kahtia välisoitto "Miksi uskot mitä uskot?" ja se huipentuu epilogiin "Epi on tärkeää".
 
-Lopussa mainitsen ajatuksiani inspiroineita [muita materiaaleja](). Olen ottanut myös joitakin [tekstikohtaisia muistiinpanoja]().
+Lopussa mainitsen ajatuksiani inspiroineita [muita materiaaleja](https://ollij.fi/epi/kirjallisuutta). Olen ottanut myös joitakin [tekstikohtaisia muistiinpanoja](https://ollij.fi/epi/muistiinpanoja).

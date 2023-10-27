@@ -168,6 +168,6 @@ Laajemmin [ongelma nousee esille](https://www.safe.ai/statement-on-ai-risk) vast
 
 Tämä ei ole miltä täysjärkinen sivilisaatio näyttää.
 
-Väiteet "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia, jolle kannattaisi tehdä jotakin" ovat ilmeisiä. Näistä aiheista on toki kirjoitettu paljon ja käyty debaattia. Nyanssiin uppoutumalla kuitenkin missaa jonkin keskeisin pointin: että nämä *ovat* ilmeisiä asioita, että kyseessä ei ole kompakysymys, että kaiken filosofoinnin jälkeen vesi on edelleen märkää.
+Väiteet "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia, jolle kannattaisi tehdä jotakin" ovat ilmeisiä. Näistä aiheista on toki kirjoitettu paljon ja käyty debaattia. Nyanssiin uppoutumalla kuitenkin missaa jonkin keskeisin pointin: että nämä todella *ovat* ilmeisiä asioita, että kyseessä ei ole kompakysymys, että kaiken filosofoinnin jälkeen vesi on edelleen märkää.
 
 Olen kirjoittanut muutamia asioita koskien epiä. Monet sanomani asiat tuntuvat itsestäänselvyyksiltä. Tämä ei lopulta haittaa minua. Joskus oleellisinta nimittäin on seurata ilmeisiä ohjeita. Joskus tärkeintä ovat ne itsestäänselvyydet -- siis sellaiset asiat kuten järki, tiede ja valistus. Tiedäthän, hyvä epi.
