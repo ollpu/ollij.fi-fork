@@ -18,10 +18,10 @@ Hermostun. Minulla on pari aiemmin mietittyä ideaa mielessä, mutta tarvitsen v
 
 Mumisen kuinka kognitiivisia vinoumia voisi käsitellä paljon paremmin, mutta annan asian olla.
 
-Tekstin välityksellä kommunikoidessa sen sijaan on rajattomasti aikaa miettiä, ja sitä keksiikin enemmän aiheita jotka eivät sovi niin siististi nykyisten oppiaineiden alle ja joita voisi hyvin sisällyttää. (Mainitsen [toisaalla]() joitakin ehdokkaita verrattain tärkeistä asioista, joita koulussa ei niin opeteta.)
+Tekstin välityksellä kommunikoidessa sen sijaan on rajattomasti aikaa miettiä, ja sitä keksiikin enemmän aiheita jotka eivät sovi niin siististi nykyisten oppiaineiden alle ja joita voisi hyvin sisällyttää. (Mainitsen [toisaalla](https://ollij.fi/epi/kerran_luotin) joitakin ehdokkaita verrattain tärkeistä asioista, joita koulussa ei niin opeteta.)
 
 Kyse ei ole kuitenkaan tästä nimenomaisesta ideasta (en oikeasti ole miettinyt sitä kovinkaan kauaa). Keksin sen vain *esimerkkinä aiheesta*, jota olisi vaikea käsitellä suullisesti ilman, että aihetta on miettinyt pidempään etukäteen.
 
-Toinen esimerkki: [Mihin matematiikkaa tarvitaan?]() -tekstissä avasin yhtä keskeistä syytä sille, miksi pidän (tietyntyyppistä) matematiikkaa hyödyllisenä. Vastaus ei ole sellainen, jota pystyisin välittämään suullisesti arkipäivän keskustelussa -- vaikka olen miettinyt asian jo valmiiksi ja kirjoittanut siitä tekstin. Teksti nimittäin hyödyntää toistakymmentä esimerkkiä, joista kunkin käsitteleminen niin ikään vie aikaa, kaikkia ei muista ja jossakin kohtaa pitää pysähtyä miettimään. (Suhtaudun nykyään hieman ymmärtäväisemmin siihen, ettei minulle ole aiemmin tarjottu tyydyttävää vastausta.)
+Toinen esimerkki: [Mihin matematiikkaa tarvitaan?](https://ollij.fi/epi/mihin_matematiikkaa) -tekstissä avasin yhtä keskeistä syytä sille, miksi pidän (tietyntyyppistä) matematiikkaa hyödyllisenä. Vastaus ei ole sellainen, jota pystyisin välittämään suullisesti arkipäivän keskustelussa -- vaikka olen miettinyt asian jo valmiiksi ja kirjoittanut siitä tekstin. Teksti nimittäin hyödyntää toistakymmentä esimerkkiä, joista kunkin käsitteleminen niin ikään vie aikaa, kaikkia ei muista ja jossakin kohtaa pitää pysähtyä miettimään. (Suhtaudun nykyään hieman ymmärtäväisemmin siihen, ettei minulle ole aiemmin tarjottu tyydyttävää vastausta.)
 
 En ole keksinyt hyviä tapoja kiertää keskustelujen lokaaliusongelmaa -- muuta kuin tietysti sen, että kirjoittaa tekstejä.

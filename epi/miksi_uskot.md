@@ -30,7 +30,7 @@ Vastaus on aika monimutkainen, mutta lyhyt versio: "Tiedeyhteisö ja ihmiset joi
 
 Ja nyt kun on selvempää, millasilla pilareilla uskomukseni lepää, huomaa myös, mikä saisi minut epäröimään uskomustani: se että vähintään yksi pilari horjuu tai kaatuu.
 
-Toinen esimerkki: Kirjoittaessani tekstiä "[Kvantifiointi]()" yritin keksiä tilanteita, joissa ihmisten kvantifioinnissa on ollut puutteita. Tovin mietittyäni en keksinyt siistejä esimerkkejä tekstiä varten.
+Toinen esimerkki: Kirjoittaessani tekstiä "[Kvantifiointi](https://ollij.fi/epi/kvantifiointi)" yritin keksiä tilanteita, joissa ihmisten kvantifioinnissa on ollut puutteita. Tovin mietittyäni en keksinyt siistejä esimerkkejä tekstiä varten.
 
 "Hmm, ilmeisesti minä kuitenkin uskon ihmisten kvantifioinnin olevan heikkoa, vaikken keksikään pitkää listaa esimerkkejä."
 
@@ -58,7 +58,7 @@ Mietitkö, miksi uskot mitä uskot? Yritätkö ymmärtää, miksi toinen uskoo m
 
 Perusteluja saa tietysti esittää silloin, kun ne oikeasti ovat relevantteja omien uskomusten kannalta. Kaikki perustelut eivät ole tällaisia. Välillä perusteluja esitetään sen takia, että ne ovat omalla puolella. Välillä esitetään epävalideja argumentteja, koska ne kuulostavat vakuuttavilta. Välillä sanotaan jotakin, mikä on enemmänkin retorinen keino kuin varsinainen perustelu tai väite.
 
-Omakohtaisen kokemuksen ja pohdinnan lisäksi uskomukseni koskien väittelyiden huonoutta perustuvat tutkimukseen "[Role induced bias in court: An experimental analysis]", jossa kokeeseen osallistuneille arvottiin puolustajan tai syyttäjän roolit. Ja miten kävi? "We show that assuming the role of a defense counsel or prosecutor leads to role induced bias even if people are highly motivated to give unbiased judgments." Tulkitsen tämän niin, että väitteleminen on herkästi *vahingollista*, käynnistäen haitallisia kognitiivisia prosesseja.
+Omakohtaisen kokemuksen ja pohdinnan lisäksi uskomukseni koskien väittelyiden huonoutta perustuvat tutkimukseen "[Role induced bias in court: An experimental analysis](https://www.econstor.eu/bitstream/10419/57496/1/636807460.pdf)", jossa kokeeseen osallistuneille arvottiin puolustajan tai syyttäjän roolit. Ja miten kävi? "We show that assuming the role of a defense counsel or prosecutor leads to role induced bias even if people are highly motivated to give unbiased judgments." Tulkitsen tämän niin, että väitteleminen on herkästi *vahingollista*, käynnistäen haitallisia kognitiivisia prosesseja.
 
 Hmm, no ei. Minä huijasin. Tämä ei ole oikea syy uskomukselleni.
 

@@ -34,15 +34,15 @@ Uskon tekoälyn olevan eksistentiaalinen uhka ihmiskunnalle.
 
 Tämä ei ole vain "jossakin kaukana tulevaisuudessa" oleva "epärealistinen hypoteettinen skenaario", vaan lähitulevaisuuden ongelma ja mielestäni kohtalaisen todennäköinen sellainen.
 
-En mene tässä siihen, miksi uskon mitä uskon (mutta [katso tänne]()). [Olen myös varsin tietoinen](), etteivät kaikki ole asiasta tätä mieltä. Tyydyn ottamaan seuraavan näkökulman: *uskomuksilla on seurauksia*. Uskomukseni tekoälyuhkaa koskien ei ole irrallinen muista uskomuksistani.
+En mene tässä siihen, miksi uskon mitä uskon (mutta [katso tänne](https://ollij.fi/epi/tekoaly)). [Olen myös varsin tietoinen](https://ollij.fi/epi/reflektointi), etteivät kaikki ole asiasta tätä mieltä. Tyydyn ottamaan seuraavan näkökulman: *uskomuksilla on seurauksia*. Uskomukseni tekoälyuhkaa koskien ei ole irrallinen muista uskomuksistani.
 
 Ehkä olen tajunnut, että asiat ovat vaikeita, että käsitellessä vaikeita aiheita sitä tulee ajatuksisssaan sorruttua kaikenlaisiin virheisiin ja että "tavallinen maalaisjärki" on täysin riittämätöntä.
 
 Ehkä olen nähnyt, kuinka ongelma sivuutetaan selvästi täysin epävalideilla argumenteilla "asiantuntijoiden" toimesta -- siitäkin huolimatta, että tämä on *aika vakava asia*, jossa olisi *aika tärkeää* olla hyvä epi.
 
-Ehkä olen huomannut, kuinka uhan keskiössä oleva *tekninen ongelma* jää taka-alalle ja [keskustelu imaistaan]() vastakkainasetteluihin, sosiaalisiin dynamiikkoihin ja muihin mukaansatempaiseviin aiheisiin.
+Ehkä olen huomannut, kuinka uhan keskiössä oleva *tekninen ongelma* jää taka-alalle ja [keskustelu imaistaan](https://ollij.fi/epi/keskustelunimaisijat) vastakkainasetteluihin, sosiaalisiin dynamiikkoihin ja muihin mukaansatempaiseviin aiheisiin.
 
-Ehkä nykyään minulla on vähemmän [sokeaa luottoa]() muiden ihmisten epiin, mukaan lukien "niihin, joiden kuuluisi tietää asioista".
+Ehkä nykyään minulla on vähemmän [sokeaa luottoa](https://ollij.fi/epi/kerran_luotin) muiden ihmisten epiin, mukaan lukien "niihin, joiden kuuluisi tietää asioista".
 
 Ehkä olen huomannut, että ihmiset ovat kehnoja käsittelemään epistemisiä erimielisyyksiä -- tilanteita, joissa ollaan *aidosti* ja *vahvasti* eri mieltä asioista, joita on vaikea selvittää.
 
@@ -56,7 +56,7 @@ Ehkä uskon, että sivilisaatio epäonnistuu keskeisimmässä tavoitteessaan.
 
 Asiat ovat vaikeita. Totuudenmukaisten uskomusten muodostaminen on vaikeaa. Etenkin, kun käsitellään sellaisia aiheita, jotka saavat ajattelemaan huonosti ja lankeamaan ansoihin. Olen pyrkinyt teksteissäni välttämään tällaisia haastavia aiheita *pedagogisista* syistä -- samoista syistä, miksi harjoittelu aloitetaan helpoimmista eikä vaikeimmista esimerkeistä -- enkä siksi, etteivät ne ole tärkeitä.
 
-Arvoja koskevat aiheet ovat yksi esimerkki. Olen toisaalla jo käsitellyt [ansoja](), jotka liittyvät sanaan "arvot" ja siihen liittyviin teemoihin. Olen käsitellyt [keskustelunimaisijoita](), jotka vievät keskustelun ja ajattelun mukanaan. Tämä on haastava aihealue.
+Arvoja koskevat aiheet ovat yksi esimerkki. Olen toisaalla jo käsitellyt [ansoja](https://ollij.fi/epi/filosofiatila), jotka liittyvät sanaan "arvot" ja siihen liittyviin teemoihin. Olen käsitellyt [keskustelunimaisijoita](https://ollij.fi/epi/keskustelunimaisijat), jotka vievät keskustelun ja ajattelun mukanaan. Tämä on haastava aihealue.
 
 Juuri "arvoihin" ja "eettisyyteen" liittyvissä aiheissa epi heikkenee -- kysehän ei ole *uskomuksista* vaan *arvoista*, eikö? Juuri näissä aiheissa ihmiset, tietoisesti tai vähemmän tietoisesti, sivuuttavat epin tärkeyden, kun on muita, tärkeämpiä asioita, joita pitää etusijalla.
 
@@ -66,7 +66,7 @@ En tiedä konkreettista esimerkkiä, jonka voin esittää ilman, että matkalla 
 
 Olipa kerran aika, jolloin pidin lihansyöntiä ongelmana: sen seurauksena eläimiä tapetaan ja tämä on paha. Lisäksi lihansyönti johtaa suureen määrään kasvihuonekaasuja. Ilmastonmuutoskaan ei ole hyvä juttu. Etsin aiheesta tietoa netistä ja keskustelin siitä kavereideni kanssa. Luin joitakin lukemia hiilidioksidipäästöistä ja lihansyönnin vaikutuksista. Löysin lukemia, joita siteerata väittelyissä. Minä väittelin aiheesta paljon. Kannustin ihmisiä vähentämään lihan ja muiden eläinperäisten tuotteiden syöntiä. Tein näin itsekin. Ihmiset esittivät väittelyissä erilaisia pointteja. Monet olivat huonoja. Jotkut olivat vähemmän huonoja, mutta ne hukkuivat joukkoon. Aloin nimittäin näkemään trendin, että ihmiset eivät oikeastaan tiedä asiasta.
 
-Vuosia myöhemmin muistellessani näitä tilanteita huomaan monia ongelmia. Keskityin "lihansyöntiin" enkä "eläintuotantoon", ikään kuin ongelma olisi se lihan *syöminen* eikä se *tuotanto*, ikään kuin ongelma olisi nimenomaan *liha* (mikä näennäisesti on syy eläinten tappamiseen) eikä eläintuotannossa aiheutuva *kärsimys*. Ennustettavana seurauksena keskityin yksilön toiminnan hyveellisyyteen (syökö lihaa vai ei) enkä *vaikutuksiin*. En esimerkiksi tullut ajatelleeksi, että broilerit [viettävät](https://ethical.diet/) *kymmenkertaisia* aikoja tuotantolaitoksilla nautoihin verrattuna saman kalorimäärän tuottamiseksi. (Median kautta olin saanut kuvan "punainen liha paha". [Kerran luotin]().) Kuka olisikaan voinut arvata, että [kvantifiointi]() on tärkeää? Listan kärjessä on kananmunat. Kananmuna ei äkkiseltään *tunnu* pahalta -- eihän kananmunan tuottamisessa tarvitse tappaa, kana vain munii. Kuka olisikaan voinut arvata, että pinnalliset mielikuvat voivat olla väärässä? Lähestymistapani ongelman ratkaisemiseen, siis "vakuuta kavereita aiheesta", ei niin ikään perustunut eri strategioiden vertailuun vaan vähemmän imarteleviin syihin.
+Vuosia myöhemmin muistellessani näitä tilanteita huomaan monia ongelmia. Keskityin "lihansyöntiin" enkä "eläintuotantoon", ikään kuin ongelma olisi se lihan *syöminen* eikä se *tuotanto*, ikään kuin ongelma olisi nimenomaan *liha* (mikä näennäisesti on syy eläinten tappamiseen) eikä eläintuotannossa aiheutuva *kärsimys*. Ennustettavana seurauksena keskityin yksilön toiminnan hyveellisyyteen (syökö lihaa vai ei) enkä *vaikutuksiin*. En esimerkiksi tullut ajatelleeksi, että broilerit [viettävät](https://ethical.diet/) *kymmenkertaisia* aikoja tuotantolaitoksilla nautoihin verrattuna saman kalorimäärän tuottamiseksi. (Median kautta olin saanut kuvan "punainen liha paha". [Kerran luotin](https://ollij.fi/epi/kerran_luotin).) Kuka olisikaan voinut arvata, että [kvantifiointi](https://ollij.fi/epi/kvantifiointi) on tärkeää? Listan kärjessä on kananmunat. Kananmuna ei äkkiseltään *tunnu* pahalta -- eihän kananmunan tuottamisessa tarvitse tappaa, kana vain munii. Kuka olisikaan voinut arvata, että pinnalliset mielikuvat voivat olla väärässä? Lähestymistapani ongelman ratkaisemiseen, siis "vakuuta kavereita aiheesta", ei niin ikään perustunut eri strategioiden vertailuun vaan vähemmän imarteleviin syihin.
 
 Epäonnistumiset eivät suinkaan olleet välinpitämättömyyttä. Minä välitin. Se on *välttämätön* askel. Se vain ei ole *riittävä*.
 
@@ -76,7 +76,7 @@ Keskityin aivan liian vähän totuudenmukaisten uskomusten muodostamiseen ja lii
 
 Tietysti minä voisin taputella itseäni selkään siitä, kuinka olin vähemmän väärässä kuin monet muut osapuolet ja siten tuudittautua ajatukseen, että toimin hyvin ja paremmin kuin muut.
 
-...mutta tämä on juuri yksi niistä syistä, minkä vuoksi epi rappeutuu. Standardi on "parempi kuin muut" (lue: voittaa väittely), ei "riittävä hyvien tulosten saamiseksi". Tekosyiden etsimistä, vastuun siirtämistä muualle, sitä että ongelma ei ollut minä vaan nuo [helpot maalitaulut]().
+...mutta tämä on juuri yksi niistä syistä, minkä vuoksi epi rappeutuu. Standardi on "parempi kuin muut" (lue: voittaa väittely), ei "riittävä hyvien tulosten saamiseksi". Tekosyiden etsimistä, vastuun siirtämistä muualle, sitä että ongelma ei ollut minä vaan nuo [helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut).
 
 Tämä on esimerkki yleisemmästä ilmiöstä, kuinka ihmiset nyökkäilevät mukana kuullessaan "epi on tärkeää" ja... eivät oikeasti pidä epiä tärkeänä. Epi on tärkeää, mutta vielä tärkempää on nuo muut jutut.
 
@@ -113,7 +113,7 @@ Muistan tarkalleen, mitä mietin tämän jälkeen:
 
 "Eihän tuo tietenkään onnistu".
 
-Välitön, sanaton [rationalisointi](). En suinkaan pysähtynyt mietitmään, voiko ikääntymistä ratkaista vai ei. Jollain tasolla tiedostin "jos hän on oikeassa, niin se tarkoittaa, että *minä olen väärässä* ja keskityn turhiin asioihin", mutta tämäkin ajatus tapahtui vain sanattomasti mieleni perukoilla. Minä kavahdin ajatusta, alitajuisesti työnsin sen sivuun ja rationalisoin, ettei asialle voi tehdä mitään.
+Välitön, sanaton [rationalisointi](https://ollij.fi/epi/miksi_uskot). En suinkaan pysähtynyt mietitmään, voiko ikääntymistä ratkaista vai ei. Jollain tasolla tiedostin "jos hän on oikeassa, niin se tarkoittaa, että *minä olen väärässä* ja keskityn turhiin asioihin", mutta tämäkin ajatus tapahtui vain sanattomasti mieleni perukoilla. Minä kavahdin ajatusta, alitajuisesti työnsin sen sivuun ja rationalisoin, ettei asialle voi tehdä mitään.
 
 Mutta jos saan olla rehellinen, niin:
 
@@ -125,7 +125,7 @@ Sitten on reaktiot kuten "en tykkää ajatella kuolemaa". En minäkään. Valite
 
 Sitten on reaktiot kuten "se on niin pitkän ajan päästä ettei siitä kannata murehtia". Ihmisillä on tosiaan [tapana painottaa lähitulevaisuutta kohtuuttoman paljon](https://en.wikipedia.org/wiki/Hyperbolic_discounting), mutta tämä ei ole järkevä tapa käsitellä ongelmia, joiden ratkaisemisessa menee pidempään.
 
-Sitten on reaktiot kuten "tavallinen elämä on ihan riittävän pitkä". Minä en näe mikä [rikkoo symmetrian]() 30 tai 80 vuoden tai [paljon]() pidemmän elämän välillä -- ja uskon monen silti preferoivan 80 vuotta 30 yli. Ehkä [nykytilanne ei olekaan optimi]() ja pidempi elämä tosiaan on parempi.
+Sitten on reaktiot kuten "tavallinen elämä on ihan riittävän pitkä". Minä en näe mikä [rikkoo symmetrian](https://ollij.fi/epi/symmetrian_rikkominen) 30 tai 80 vuoden tai *paljon* pidemmän elämän välillä -- ja uskon monen silti preferoivan 80 vuotta 30 yli. Ehkä [nykytilanne ei olekaan optimi](https://ollij.fi/epi/tehokas_maailma) ja pidempi elämä tosiaan on parempi.
 
 Sitten on reaktiot kuten "kuvittele kuinka ikävää elämä on, kun on todella vanha", ikään kuin tämä ei myös olisi ongelma, joka halutaan ratkaista.
 
@@ -149,7 +149,7 @@ En tiedä. Minä todella haluaisin tietää paremmin, siis omata totuudenmukaise
 
 Uskon kuitenkin, että mahdollisuudet olisivat paremmat, jos kuoleman välttäminen nähtäisiin *ihmiskunnan keskeisenä tavoitteena*. Mitä se tietysti on. Kuolema on niitä harvoja asioita, joita ei voi peruuttaa -- sen ratkaisemisen jälkeen meillä on *aikaa*.
 
-*Kaikki* eivät [varmastikaan]() omaa samoja preferenssejä kuin minä. Yleisesti tosin kuolema tunnutaan näkevän pahana asiana. [Filosofisissa keskusteluissa]() tätä voi toki kyseenalaistaa, mutta vaikka kuinka filosofoisi, on vesi edelleen märkää ja käytännössä ihmiset surevat, kun läheinen kuolee. Ja uskoisin olevan paljon sellaisiakin ihmisiä, jotka eivät odota omaa kuolemaansa innolla.
+*Kaikki* eivät [varmastikaan](https://ollij.fi/epi/leveat_jakaumat) omaa samoja preferenssejä kuin minä. Yleisesti tosin kuolema tunnutaan näkevän pahana asiana. [Filosofisissa keskusteluissa](https://ollij.fi/epi/filosofiatila) tätä voi toki kyseenalaistaa, mutta vaikka kuinka filosofoisi, on vesi edelleen märkää ja oikeassa elämässä ihmiset surevat, kun läheinen kuolee. Ja paljon on sellaisiakin ihmisiä, jotka eivät odota omaa kuolemaansa innolla.
 
 Jos et todella pidä kuolemaa pahana asiana, niin voit toki unohtaa tämän kaiken. Me muut voisimme silti tehdä asialle jotain.
 

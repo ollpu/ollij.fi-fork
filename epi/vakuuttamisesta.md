@@ -8,21 +8,21 @@ Tämän seurauksena yrität keksiä vielä parempia perusteluja, jotka vakuuttai
 
 ---
 
-Olen [aiemmin puhunut]() siitä, kuinka keskustelut herkästi lipsuvat väittelyiksi, joissa tavoite on voittaa tai todistaa toinen vääräksi. Keskustelussa ei pohdita syitä omalle uskomukselle, vaan yritetään keksiä perusteluja sille, minkä takia uskomus on oikea. Olen myös kritisoinut tätä argumenttipohjaista lähestymistapaa erimielisyyksien ratkaisemiseen.
+Olen [aiemmin puhunut](https://ollij.fi/epi/miksi_uskot) siitä, kuinka keskustelut herkästi lipsuvat väittelyiksi, joissa tavoite on voittaa tai todistaa toinen vääräksi. Keskustelussa ei pohdita syitä omalle uskomukselle, vaan yritetään keksiä perusteluja sille, minkä takia uskomus on oikea. Olen myös kritisoinut tätä argumenttipohjaista lähestymistapaa erimielisyyksien ratkaisemiseen.
 
 Tämä on yksi ongelma yllä kuvatussa (hypoteettisessa) keskustelussa: "Esitätte perusteluja näkemyksillenne" ja "yrität keksiä vielä parempia perusteluja, jotka vakuuttaisivat kaverisi". Kiinnitän kuitenkin huomion toiseen kohtaan: kommenttiin "Tuo ei kyllä vakuuta yhtään".
 
 Kommentti vihjaa, että on toisen tehtävä vakuuttaa sinut ja että hän on epäonnistunut. Tämä on huono näkökulma: ei ole toisen osapuolen vastuulla vakuuttaa sinua mistään. Näkisin asian mieluummin niin, että toinen henkilö voi *auttaa sinua* muodostamaan totuudenmukaisia uskomuksia esittämällä näkemyksiään ja perustelujaan. Loppukädessä sinun tulee kuitenkin itse tehdä varsinainen työ ja miettiä, mikä on totta. Tästä näkökulmasta on vain *outoa* sanoa "tuo ei kyllä vakuuta yhtään".
 
-[Kohtelias tulkinta]() kuuluu, että kommentti oikeasti tarkoittaa neutraalia "se mitä sanoit ei saa minua muuttamaan uskomuksiani" tai "tuo ei ole [validia päättelyä]()" tai "tuo ei ole [evidenssiä]() esittämällesi väitteelle", mutta kuten usein, pidän tällaisia kohteliaita tulkintoja liiankin kohteliaina rationalisointeina sille, kuinka kaikki tietysti ymmärtävät nämä hienovaraiset erot. [Pidän toki harmillisena](), ettei ole lyhyitä tapoja välittää näitä tarkempia vastauksia, jolloin herkemmin tulee käytettyä lyhyttä mutta huonoa fraasia, ja että yksisanainen konsepti "vakuuttaminen" työntää kohti vastakkainasettelua ja vastuun asettamista toiselle.
+[Kohtelias tulkinta](https://ollij.fi/epi/kohteliaat_tulkinnat) kuuluu, että kommentti oikeasti tarkoittaa neutraalia "se mitä sanoit ei saa minua muuttamaan uskomuksiani" tai "tuo ei ole [validia päättelyä](https://ollij.fi/epi/symmetrian_rikkominen)" tai "tuo ei ole [evidenssiä](https://ollij.fi/epi/uskomusten_muutos) esittämällesi väitteelle", mutta kuten usein, pidän tällaisia kohteliaita tulkintoja liiankin kohteliaina rationalisointeina sille, kuinka kaikki tietysti ymmärtävät nämä hienovaraiset erot. [Pidän toki harmillisena](https://ollij.fi/epi/sanoista), ettei ole lyhyitä tapoja välittää näitä tarkempia vastauksia, jolloin herkemmin tulee käytettyä lyhyttä mutta huonoa fraasia, ja että yksisanainen konsepti "vakuuttaminen" työntää kohti vastakkainasettelua ja vastuun asettamista toiselle.
 
 On muitakin fraaseja, joita tunnutaan käyttävän retorisesti ja vakuuttamistarkoituksissa, vaikka niiden kirjaimelliset merkitykset ovat... epäimartelevia.
 
 "En voi mitenkään käsittää, miksi jotkut ajattelevat noin" -- yleensä ihmiset eivät ylpeile ymmärtämättömyydellään. Toki sehän on muiden vika, kun heillä on sellaisia näkemyksiä, joita sinä et käsitä.
 
-"En tajua, miten et ymmärrä tätä" -- tämä on valitettavaa. Keskustelu varmaankin sujuisi paremmin, jos pystyisit paremmin [ymmärtämään toisen näkemystä]().
+"En tajua, miten et ymmärrä tätä" -- tämä on valitettavaa. Keskustelu varmaankin sujuisi paremmin, jos pystyisit paremmin [ymmärtämään toisen näkemystä](https://ollij.fi/epi/reflektointi).
 
-"En näe mitään syytä uskoa noin" -- kuulostaa siltä, että et kykene käsittelemään argumentteja [tasapuolisesti]().
+"En näe mitään syytä uskoa noin" -- kuulostaa siltä, että et kykene käsittelemään argumentteja [tasapuolisesti](https://ollij.fi/epi/symmetrian_rikkominen).
 
 "En olisi voinut kuvitella, että he tekisivät noin" -- aika päivittää uskomuksiaan. Vai sekoititko sen, mitä *odotit* tapahtuvan sen kanssa, mitä *halusit* tapahtuvan?
 
@@ -34,7 +34,7 @@ Kommentit muotoa "en tajua, miten et ymmärrä tätä" ja "en näe mitään syyt
 
 Kuvitellaan, että olet tuttusi kanssa eri mieltä jostakin. Tuttusi esittää perusteluja tälle vastakkaiselle mielipiteelle. Pidät hänen selityksiään täysin typerinä (kenties perustellusti). Toteat, että tuo näkemys nyt on ihan hölynpölyä.
 
-Näiden näkemysten ei pitäisi juuri vaikuttaa siihen, miten myöhemmin suhtaudut muiden esittämiin *toisiin* perusteluihin samalle näkemykselle. [Tosille väitteille voi nimittäin esittää surkeita perusteluja]() (ja näin käytännössä myös tehdään).
+Näiden näkemysten ei pitäisi juuri vaikuttaa siihen, miten myöhemmin suhtaudut muiden esittämiin *toisiin* perusteluihin samalle näkemykselle. [Tosille väitteille voi nimittäin esittää surkeita perusteluja](https://ollij.fi/epi/symmetrian_rikkominen) (ja näin käytännössä myös tehdään).
 
 Entä miten käy käytännössä?
 
@@ -44,14 +44,14 @@ Tällaisia tuloksia saatiin McGuiren ja Papageorgisin vuoden 1961 tutkimuksessa 
 
 Ensimmäisessä artikkelissa tarjottu selitys on, että ihmiset harvoin altistavat itseään uskomustensa vastaisille näkemyksille. Heikkojen vasta-argumenttien esittäminen luo tällöin "vastustuskykyä", jolloin myöhemmin esitettävät vahvemmat vasta-argumentit vaikuttavat vähemmän kuin ilman vastustuskyvyn luomista.
 
-(Olenko koskaan puhunut siitä, että ei kannata juuttua [helppoihin maalitauluihin]() ja heidän esittämiin typeriin argumentteihin?)
+(Olenko koskaan puhunut siitä, että ei kannata juuttua [helppoihin maalitauluihin](https://ollij.fi/epi/helpot_maalitaulut) ja heidän esittämiin typeriin argumentteihin?)
 
 Ulkopuolelta tämä näyttää samankaltaiselta kuin jos ihmiset sanoisivat "annan teille yhden mahdollisuuden vakuuttaa minut", ja jos tämän mahdollisuuden mokaa, eivät he enää muuta näkemyksiään.
 
-Miten asioita kuuluu käsitellä? Näkemykseni: Jos joku esittää huonoja argumentteja, niin se on *häiriötekijä*, *kohinaa* -- ei enempää, ei vähempää. Se tulee sivuuttaa. Sen ei pitäisi juuri vaikuttaa näkemyksiin koskien itse väitettä. Sen ei pitäisi vaikuttaa siihen, miten evaluoi myöhempiä argumentteja samasta aiheesta. Eikä se varsinkaan ole jotakin, mitä käytetään myöhemmin *aseena* muita [vähän samankaltaisia näkemyksiä]() omaavia vastaan.
+Miten asioita kuuluu käsitellä? Näkemykseni: Jos joku esittää huonoja argumentteja, niin se on *häiriötekijä*, *kohinaa* -- ei enempää, ei vähempää. Se tulee sivuuttaa. Sen ei pitäisi juuri vaikuttaa näkemyksiin koskien itse väitettä. Sen ei pitäisi vaikuttaa siihen, miten evaluoi myöhempiä argumentteja samasta aiheesta. Eikä se varsinkaan ole jotakin, mitä käytetään myöhemmin *aseena* muita [vähän samankaltaisia näkemyksiä](https://ollij.fi/epi/sumuiset_ajatukset) omaavia vastaan.
 
-(Jos sinun tekee mieli vastata "mutta se, että näkemykselle esitetään huonoja perusteluja, on [evidenssiä]() väitteen ja sen omaavien epin huonoudelle", en oikein tiedä, mitä sanoa. Koko tutkimuksen pointti on se, että käytännössä ihmiset soveltavat tätä päättelyä väärin. Se ei toki kerro, *mikä* menee pieleen. Sivuutan pitkän vastauksen, mainitsen vain [kvantifioinnin]() ja [yhden muuttujan mallit]() sekä kehotan keskittymään itse asiaan sosiaalisten dynamiikkojen sijasta.)
+(Jos sinun tekee mieli vastata "mutta se, että näkemykselle esitetään huonoja perusteluja, on [evidenssiä](https://ollij.fi/epi/uskomusten_muutos) väitteen ja sen omaavien epin huonoudelle", en oikein tiedä, mitä sanoa. Koko tutkimuksen pointti on se, että käytännössä ihmiset soveltavat tätä päättelyä väärin. Se ei toki kerro, *mikä* menee pieleen. Sivuutan pitkän vastauksen, mainitsen vain [kvantifioinnin](https://ollij.fi/epi/kvantifiointi) ja [yhden muuttujan mallit](https://ollij.fi/epi/yksi_muuttuja) sekä kehotan keskittymään itse asiaan sosiaalisten dynamiikkojen sijasta.)
 
 Tätä peliä voi pelata myös *yksin*: Valitset jonkin uskomuksen, generoit heikkoja argumentteja sitä vastaan ja kumoat ne. Veikkaisin, että tätä kautta saa vahvistettua omia uskomuksiaan -- vaikka nämä heikot argumentit eivät olisi se, minkä takia järkevät ihmiset ovat eri mieltä kanssasi.
 
-Olenko koskaan puhunut siitä, että ei kannata juuttua [helppoihin maalitauluihin]() ja heidän esittämiin typeriin argumentteihin? Ja että siitä on hyötyä, jos [pystyy ymmärtämään]() toisten ihmisten näkökulmia? Sen sijaan, että väheksyvästi sanotaan "en voi mitenkään käsittää, miksi jotkut ajattelevat noin" ja jätetään asia siihen.
+Olenko koskaan puhunut siitä, että ei kannata juuttua [helppoihin maalitauluihin](https://ollij.fi/epi/helpot_maalitaulut) ja heidän esittämiin typeriin argumentteihin? Ja että siitä on hyötyä, jos [pystyy ymmärtämään](https://ollij.fi/epi/reflektointi) toisten ihmisten näkökulmia? Sen sijaan, että väheksyvästi sanotaan "en voi mitenkään käsittää, miksi jotkut ajattelevat noin" ja jätetään asia siihen.

@@ -8,9 +8,10 @@ Tietenkään minä en vaadi *todistusta* toisen näkemykselle!
 
 Tällainen kommentti saa minut epäilemään, että toisella on varsin binäärinen näkemys oikeista ja vääristä näkemyksistä: näkemyksen muuttaminen vaatii todistuksen tiettyyn suuntaan, ja muuten ihmisille jää samat näkemykset kuin keskustelun alussa. Mutta kuten olen kirjoittanut, on kaikenkokoisia uskomusten muutoksia. Todistus (eli todennäköisyyden muuttaminen suunnilleen nollaksi tai ykköseksi) on näistä äärimmäisin ja ei aina saavutettavissa oikeassa elämässä.
 
-Asetelma myös heijastelee [väittelyä](), jossa ihmiset pyrkivät [vakuuttamaan]() toisen näkemyksestään. Tästä puolestaan olen kirjoittanut "Ei ole 'omia' tai 'muiden' hypoteeseja" ja "Tehtäväsi on vain päivittää uskomuksia todellisuuden parempaa ennustamista varten."
+Asetelma myös heijastelee [väittelyä](https://ollij.fi/epi/miksi_uskot), jossa ihmiset pyrkivät [vakuuttamaan](https://ollij.fi/epi/vakuuttamisesta) toisen näkemyksestään. Tästä puolestaan [olen kirjoittanut](https://ollij.fi/epi/miksi_todennakoisyydet) "Ei ole 'omia' tai 'muiden' hypoteeseja" ja "Tehtäväsi on vain päivittää uskomuksia todellisuuden parempaa ennustamista varten."
 
 Myös asennoitumiset vaihtelevat: joskus uuden tiedon valossa asenne on "onko minun pakko päivittää?" ja joskus "saanko minä päivittää?", kun oikea asenne on "tuleeko minun päivittää?". Päivittämisen ei tulisi tuntua siltä, että oma tai vastustajien joukkue saa maalin.
+
 ---
 
 Ote Daniel Kahnemanin kirjasta "Thinking, Fast and Slow" (lihavointi minun):
@@ -43,11 +44,11 @@ Overconfidence also appears to be endemic in medicine. A study of patients who d
 
 ---
 
-Olen käyttänyt jonkin verran aikaa pelaten sosiaalisen päättelyn pelejä (sellaisia kuin [Mafia]() ja [Vastarinta]()). Näiden konspeti on lyhyesti "jotkut pelaajista ovat hyviksiä, jotkut pahiksia, hyvikset eivät tiedä ketkä ovat pahiksia, pelin edetessä tapahtuu asioita, hyvisten tavoite on saada selville pahikset, pahikset haluavat olla paljastumatta".
+Olen käyttänyt jonkin verran aikaa pelaten sosiaalisen päättelyn pelejä (sellaisia kuin [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) ja [Vastarinta](https://en.wikipedia.org/wiki/The_Resistance_(game))). Näiden konspeti on lyhyesti "jotkut pelaajista ovat hyviksiä, jotkut pahiksia, hyvikset eivät tiedä ketkä ovat pahiksia, pelin edetessä tapahtuu asioita, hyvisten tavoite on saada selville pahikset, pahikset haluavat olla paljastumatta".
 
 On ollut kiinnostavaa seurata joitakin päättelyketjuja.
 
-Ehkäpä yleisin selkeä virhe on seuraava: Ihmiset välillä epähuomiossa pelaavat tavalla, joka on hyvin huono *riippumatta* heidän roolistaan. Vieläpä niin, että *kaikki tietävät* tämän olevan huono pelaus henkilön roolista riippumatta ([ja kaikki tietävät että kaikki tietävät, ja...]()). Ja tähän välillä kuuluu reaktio:
+Ehkäpä yleisin selkeä virhe on seuraava: Ihmiset välillä epähuomiossa pelaavat tavalla, joka on hyvin huono *riippumatta* heidän roolistaan. Vieläpä niin, että *kaikki tietävät* tämän olevan huono pelaus henkilön roolista riippumatta ([ja kaikki tietävät että kaikki tietävät, ja...](https://en.wikipedia.org/wiki/Common_knowledge_(logic))). Ja tähän välillä kuuluu reaktio:
 
 "Tuo pelaaja toimi epäilyttävästi, joten hän on pahisten puolella."
 
@@ -55,9 +56,11 @@ Tämä *kuulostaa* järkevältä (ja ilmeisesti myös vaikuttaa monesta järkev�
 
 "Hypoteesin todennäköisyyttä ei voi mitata yksinään. Hypoteesien vertailuun ja uskomusten päivittämiseen tarvitaan *vähintään* kaksi hypoteesia. Pisteytyksessä katsotaan sitä, kuinka hyvin hypoteesi selittää ilmiötä *verrattuna muihin hypoteeseihin*."
 
-Vertailemalla hypoteeseja "pelaaja on hyvis" ja "pelaaja on pahis" huomataan, ettei "epäilyttävä" pelaus ole (juurikaan) *evidenssiä* kumpaankaan suuntaan. Hypoteesit selittävät tilanteet suunnilleen yhtä hyvin (tai, no, huonosti). Joka tapauksessa pelaus on virhe. Ei ole vahvaa syytä uskoa, että pahikset tekevät todennäköisemmin ilmiselviä virheitä kuin hyvikset.
+Vertailemalla hypoteeseja "pelaaja on hyvis" ja "pelaaja on pahis" huomataan, ettei "epäilyttävä" pelaus ole (juurikaan) [evidenssiä](https://ollij.fi/epi/uskomusten_muutos) kumpaankaan suuntaan. Hypoteesit selittävät tilanteet suunnilleen yhtä hyvin (tai, no, huonosti). Joka tapauksessa pelaus on virhe. Ei ole vahvaa syytä uskoa, että pahikset tekevät todennäköisemmin ilmiselviä virheitä kuin hyvikset.
 
-Mistä väärä päätelmä johtuu? Parhaat veikkaukseni liittyvät [vahvistusharhaan](https://en.wikipedia.org/wiki/Confirmation_bias) (tulkitaan informaatiota vääristyneesti) ja ""[horn effect](https://en.wikipedia.org/wiki/Horn_effect)" (yhden negatiivisen ominaisuuden omaava on negatiivinen myös muilla mittareilla).
+Mistä väärä päätelmä johtuu? Parhaat veikkaukseni liittyvät [vahvistusharhaan](https://en.wikipedia.org/wiki/Confirmation_bias) (tulkitaan informaatiota vääristyneesti) ja "[horn effect](https://en.wikipedia.org/wiki/Horn_effect)" (yhden negatiivisen ominaisuuden omaava on negatiivinen myös muilla mittareilla).
+
+(Jätän tässä käsittelemättä yhteyksiä pelien ulkopuolelle.)
 
 ---
 
@@ -74,6 +77,8 @@ Päivityksen ja vastapäivityksen laki: jos voittamisen seurauksena päivittäis
 "Kruuna: minä voitan -- klaava: sinä häviät."
 
 Konsepteja "lopputulosvinouma" ja "päivittäminen" voi käyttää puolueellisesti, voi kuinka ihmisillä on taipumus tulkita asioita puolueellisesti, mutta toistan taas: uskomusten käsittelyn pitäisi olla tasapuolista.
+
+(Jätän taas käsittelemättä yhteyksiä pelien ulkopuolelle.)
 
 ---
 
@@ -98,7 +103,7 @@ Pistää miettimään, kuinka korkealla jättiläisten olkapäät ovatkaan ja ku
 
 ---
 
-Tutkimuksessa ["Conflict between intuitive and rational processing: When people behave against their better judgment"](https://psycnet.apa.org/record/1994-36023-001) ihmisiä pyydettiin valitsemaan kahden karkkikulhon välillä. Ensimmäisessä kulhossa karkkeja oli kymmenen, joista yksi oli punainen ja loput valkoisia. Jälkimmäisessä kulhossa karkkeja oli sata, joista kokeesta riippuen punaisia oli 5-9 ja taas loput valkoisia. Karkit nostettiin sokkona, ja punaisen karkin nostamisesta sai rahapalkinnon (tai, vaihtoehtoisesti, valkoisen karkin nostaminen johti rahan menettämiseen).
+Tutkimuksessa ["Conflict between intuitive and rational processing: When people behave against their better judgment"](https://psycnet.apa.org/record/1994-36023-001) 79 yliopisto-opiskelijaa pyydettiin valitsemaan kahden karkkikulhon välillä. Ensimmäisessä kulhossa karkkeja oli kymmenen, joista yksi oli punainen ja loput valkoisia. Jälkimmäisessä kulhossa karkkeja oli sata, joista kokeesta riippuen punaisia oli 5-9 ja taas loput valkoisia. Karkit nostettiin sokkona, ja punaisen karkin nostamisesta sai rahapalkinnon (tai, vaihtoehtoisesti, valkoisen karkin nostaminen johti rahan menettämiseen).
 
 Jotta tulokset eivät olisi riippuvaisia koehenkilön laskutaidoista, kulhoihin oli selkeästi merkitty punaisten karkkien prosenttiosuus.
 
@@ -106,4 +111,4 @@ Viiden kokeen aikana koehenkilöistä 82 prosenttia valitsi josskain kohtaa jäl
 
 Koehenkilöt perustelivat näkemyksiään kommenteilla kuten "Valitsin sen, jossa oli enemmän punaisia karkkeja, koska siellä oli enemmän tapoja saada voittaja, vaikka tiesin siellä olevan myös enemmän valkoisia ja että prosentit olivat minua vastaan."
 
-Lohdutuksen sanana kokeeseen osallistui 79 yliopisto-opiskelijaa, joten heistä peräti 14 eivät tehneet virheitä.
+Lohdutuksena voin sanoa, että peräti 14 osallistujaa eivät tehneet virheitä.

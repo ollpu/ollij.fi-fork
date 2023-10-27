@@ -98,7 +98,7 @@ Minua kiinnostaisi kokeen variantti, jossa ihmisiltä kysyttäisiin ensin vastau
 
 ---
 
-Kuvitellaan seuraava peli: Edessäsi on painotettu kolikko (tai tietokonesimulaatio), josta tulee 60 prosentin todennäköisyydellä kruuna ja 40 prosentin todennäköisyydellä klaava. Sinulla on alussa 25 euroa. Voit joka kierroksella ottaa osan rahamäärästäsi ja laittaa sen panokseksi. Jos veikkaat kolikon lopputuloksen oikein, jäät panoksesi verran voitolle ja jos väärin, menetät panoksesi.
+Kuvitellaan seuraava peli: Edessäsi on painotettu kolikko (tai tietokoneen satunnaislukugeneraattori), josta tulee 60 prosentin todennäköisyydellä kruuna ja 40 prosentin todennäköisyydellä klaava. Sinulla on alussa 25 euroa. Voit joka kierroksella ottaa osan rahamäärästäsi ja laittaa sen panokseksi. Jos veikkaat kolikon lopputuloksen oikein, jäät panoksesi verran voitolle ja jos väärin, menetät panoksesi.
 
 (Esimerkiksi 10 euron panoksella oikein arvattuasi pottisi on 35 euroa, väärin arvattuasi 15 euroa.)
 

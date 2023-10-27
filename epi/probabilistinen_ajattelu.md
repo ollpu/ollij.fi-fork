@@ -4,9 +4,9 @@ Olet sopinut tapaavasi kaverisi tänään kello kymmenen. Hän ei saavu ajoissa 
 
 Tarinan opetus?
 
-Ensinnäkin olet epävarma siitä, miten käy: et tiedä, tuleeko kaveri paikalle vai ei. Jos kysyt itseltäsi, saapuuko kaverisi paikalle vai ei, paras vastaus ei ole [binäärinen]() "kyllä" tai "ei", vaan esimerkiksi "en tiedä".
+Ensinnäkin olet epävarma siitä, miten käy: et tiedä, tuleeko kaveri paikalle vai ei. Jos kysyt itseltäsi, saapuuko kaverisi paikalle vai ei, paras vastaus ei ole [binäärinen](https://ollij.fi/epi/binaarinen_jakauma) "kyllä" tai "ei", vaan esimerkiksi "en tiedä".
 
-Lisäksi epävarmuutesi tila muuttuu. Alussa olet epävarmempi kaverisi saapumisesta (ehkä hän tulee, ehkä ei), lopussa varmempi (hän tuskin tulee, luovutan). Vaikka siis kummassakaan tapauksessa "et tiedä" miten käy, uskomusten vahvuutta voi silti vertailla ja [kvantifioida](). Jotkut uskomukset ovat vahvempia kuin toiset, joskus aika paljonkin.
+Lisäksi epävarmuutesi tila muuttuu. Alussa olet epävarmempi kaverisi saapumisesta (ehkä hän tulee, ehkä ei), lopussa varmempi (hän tuskin tulee, luovutan). Vaikka siis kummassakaan tapauksessa "et tiedä" miten käy, uskomusten vahvuutta voi silti vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jotkut uskomukset ovat vahvempia kuin toiset, joskus aika paljonkin.
 
 Hmm... olisipa kätevää, jos olisi jokin tapa käsitellä epävarmuutta kvantitatiivisesti. Sellainen järjestelmä, joka tarjoaa asteikon uskomuksille. Asteikolla isommat luvut voisivat vastata sitä, että luulee näin olevan ja pienemmät taas sitä, että näin ei varmaankaan ole. Ai, ja vielä jos näille luvuille voisi tehdä laskutoimituksia! Niin, että uskomusten epävarmuuksia voisi jotenkin käsitellä ja yhdistellä.
 
@@ -44,7 +44,7 @@ Samaa peliä voi tietysti pelata uudestaan: odotat, kaverisi ei saavu, menetät 
 
 Todennäköisyydet kuvaavat uskomusten vahvuuksia. Kenen uskomuksia? Esimerkiksi sinun. Ihmisillä on yleisesti ottaen eri uskomukset ja siten eri todennäköisyydet. Esimerkiksi kaverisi saattaa tietää saapuuko hän luoksesi sovittuun aikaan, vaikka sinä et tätä tietäisi.
 
-Se, että sanot "on 10 prosentin todennäköisyys, ettei kaverini tule paikalle", kertoo *sinun uskomuksistasi* koskien kaverin tulemista, siis *sinun pääsi sisällöstä*, ei kaverisi sijainnista. Erityisesti väite ei tarkoita, että kaverisi paikalle tuleminen olisi "oikeasti satunnaista" (mitä ikinä tämä tarkoittaakaan). Se kertoo vain ja ainoastaan sinun tietämystäsi koskien väitettä. Tietysti uskomuksesi (toivottavasti) liittyvät siihen, miten asiat oikeasti ovat. Uskomuksesi ja todellisuus ovat kuitenkin kaksi eri asiaa, aivan kuten kartta ja maasto ovat kaksi eri asiaa.
+Se, että sanot "on 10 prosentin todennäköisyys, ettei kaverini tule paikalle", kertoo *sinun uskomuksistasi* koskien kaverin tulemista, siis *sinun pääsi sisällöstä*, ei kaverisi sijainnista. Erityisesti väite ei tarkoita, että kaverisi paikalle tuleminen olisi "oikeasti satunnaista" (mitä ikinä tämä tarkoittaakaan). Se koskee vain ja ainoastaan sinun tietämystäsi. Tietysti (tai toivottavasti) uskomuksesi liittyvät siihen, miten asiat oikeasti ovat. Uskomuksesi ja todellisuus ovat kuitenkin kaksi eri asiaa, aivan kuten kartta ja maasto ovat kaksi eri asiaa.
 
 Ihmiset eivät toki luontaisesti mieti asioita numeerisesti todennäköisyyksien kautta. Ihmiset eivät toisaalta myöskään mieti äänenvoimakkuutta numeerisesti desibelien kautta. Joskus on ollut aika, jolloin ihmiset eivät ole miettineet lämpötilaa numeerisesti Celsius-asteiden kautta (koska asteikkoa ei oltu vielä kehitelty).
 
@@ -56,4 +56,4 @@ Miksi muuttaa uskomuksiaan todennäköisyyksiksi? Samasta syystä kuin etäisyyk
 
 Hyvin usein riittää vain karkeat *arviot*. Joskus "menee 20 minuuttia" todella kommunikoi asian paremmin kuin "menee vähän aikaa" (tietysti olettaen molempien tietävän, mitä 20 minuuttia tarkoittaa). Numeerisia arvoja ei tietenkään aina esitetä, mutta niitä tietenkin aina välillä esitetään. Lisäksi konsepteilla voidaan tehdä (yksinkertaista tai monimutkaisempaa) *mallinnusta*.
 
-Nämä sama huomiot pätevät myös todennäköisyyksien kohdalla. Joskus "olen 90% varma" todella kommunikoi asian paremmin kuin "olen aika varma" (tietysti olettaen molempien tietävän, mitä 90 prosenttia tarkoittaa). Ja konseptien kautta saa varsin hyviä työkaluja ja malleja uskomusten muodostamiseen. Sellaisia itsestäänselvyyksiä, jotka eivät olekaan itsestään selviä.
+Nämä sama huomiot pätevät myös todennäköisyyksien kohdalla. Joskus "olen 90% varma" todella kommunikoi asian paremmin kuin "olen aika varma" (tietysti olettaen molempien tietävän, mitä 90 prosenttia tarkoittaa). Ja konseptien kautta saa varsin hyviä työkaluja ja malleja uskomusten muodostamiseen. Sellaisia itsestäänselvyyksiä, jotka eivät olekaan itsestäänselviä.

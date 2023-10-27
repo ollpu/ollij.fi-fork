@@ -26,7 +26,7 @@ Määrittelin insentiivin viittaamaan "tekijöihin, jotka työntävät ihmisiä 
 
 Vastakkainen näkökulma voisi olla, että ei tällaisilla pienillä tekijöillä ole niin väliä. Ihmiset lentävät silloin, kun on tarvetta, ei turvatarkastuksen jonojen perusteella.
 
-Pidän tätä virheellisenä näkemyksenä. Lyhyesti syyt: Jakaumat ovat leveitä. Ihmiset matkustelevat erinäisistä syistä. Jonotus vaikuttaa ihmisten tunteisiin ja mielleyhtymiin koskien lentämistä. Pienet tekijät työntävät jotkut ihmiset joissakin tilanteissa kriittisen rajan yli, jolloin he eivät matkustakaan. Isolta osin tämä ei ole tietoista ja syytä "lentäessä pitää jonottaa paljon" ei välttämättä osattaisi sanoa eksplisiittisesti.
+Pidän tätä virheellisenä näkemyksenä. Oma näkemykseni on: Asiaa ei tule miettiä näin binäärisesti vaan [jakaumien kautta](https://ollij.fi/epi/binaarinen_jakauma). Ihmiset matkustelevat ([hyvin](https://ollij.fi/epi/leveat_jakaumat)) erinäisistä syistä. Jonotus vaikuttaa ihmisten tunteisiin ja mielleyhtymiin koskien lentämistä. Pienet tekijät työntävät jotkut ihmiset joissakin tilanteissa kriittisen rajan yli, jolloin he eivät matkustakaan. Isolta osin tämä ei ole tietoista ja syytä "lentäessä pitää jonottaa paljon" ei välttämättä osattaisi sanoa eksplisiittisesti.
 
 ---
 
@@ -38,9 +38,7 @@ Jos ollaan rehellisiä, niin monella iso osa opiskelun tavoitteita on tutkinnon 
 
 Tällaista toimintaa on vaikea käsittää "kouluun mennään oppimaan" -näkökulmasta, mutta se selittyy helposti seuraamalla insentiivejä: palkintonahan on työnhaussa hyödyllinen tutkinto.
 
-Insentiivit vaikuttavat tietysti myös muihin kuin opiskelijoihin. Yliopistojen rahoituksesta iso osa perustuu tutkintoihin: vuodesta 2021 alkaen](https://okm.fi/documents/1410845/4392480/Rahoitusmalli+Yliopistot.pdf/3464a1bc-3272-f5db-7361-acdcb498c661/Rahoitusmalli+Yliopistot.pdf) 42% yliopistojen rahoituksesta kohdistuu koulutukseen, mistä 71% määräytyy suoritettujen tutkintojen perusteella. (Vertailun vuoksi: "jatkuvaan oppimiseen" perustuu 12 prosenttia). Tämän näkökulman kautta esimerkiksi anekdootit, joissa opiskelijat saavat kurssisuorituksia... sanotaanko *heikoilla* näytöillä varsinaisesta osaamisesta tai oppimisesta, ovat vähemmän yllättäviä.  
-
-(TODO: toinen esimerkki?)
+Insentiivit vaikuttavat tietysti myös muihin kuin opiskelijoihin. Yliopistojen rahoituksesta iso osa perustuu tutkintoihin: vuodesta 2021 alkaen](https://okm.fi/documents/1410845/4392480/Rahoitusmalli+Yliopistot.pdf/3464a1bc-3272-f5db-7361-acdcb498c661/Rahoitusmalli+Yliopistot.pdf) 42% yliopistojen rahoituksesta kohdistuu koulutukseen, mistä 71% määräytyy suoritettujen tutkintojen perusteella. (Vertailun vuoksi: "jatkuvaan oppimiseen" perustuu 12 prosenttia). Tämän näkökulman kautta esimerkiksi anekdootit, joissa opiskelijat saavat kurssisuorituksia... sanotaanko *heikoilla* näytöillä varsinaisesta osaamisesta tai oppimisesta, ovat vähemmän yllättäviä.
 
 ---
 
@@ -48,17 +46,17 @@ Kolmas iso väite: insentiivit auttavat ymmärtämään, miksi ihmiset tekevät 
 
 Kuten jo sanoin, insentiivit vaikuttavat ihmisten käytökseen ja insentiivejä muuttamalla ihmisten toiminta todella muuttuu. Jos insentiivit sattuvat osoittamaan suuntaan "tee pahoja asioita", niin...
 
-On joitakin toimialoja, yrityksiä ja työntekijöitä, joiden vaikutus maailmaan yleisesti on mielestäni negatiivinen. Valitsen esimerkiksi tupakan: olisi parempi, jos tupakkaa markkinoitaisiin, tuotettaisiin ja kulutettaisiin vähemmän.
+On joitakin toimialoja, yrityksiä ja työntekijöitä, joiden vaikutus maailmaan yleisesti on mielestäni negatiivinen. Valitsen esimerkikseni tupakan: olisi parempi, jos tupakkaa markkinoitaisiin, tuotettaisiin ja kulutettaisiin vähemmän.
 
 Tarkoittaako tämä, että pidän tupakan parissa työskeneteleviä ihmisiä "pahoina"? Ei!
 
-Myönnän, etten tiedä paljoa siitä, millaisia nämä ihmiset ovat ja millaisissa olosuhteissa he ovat. (Heitä myös on monenlaisia: tupakkateollisuuden parissa työskentelee noin *sata miljoonaa* ihmistä. [Siitä huolimatta en itse tunne ketään tällaista]().) Voin kuitenkin hyvin kuvitella, että joillakin yksinkertaisesti ei ole parempia vaihtoehtoja. Jos vaihtoehtoina on tehdä töitä kasvattamalla tupakkaa tai... olla tekemättä näin ja olla saamatta elantoa, niin en todellakaan kutsuisi henkilöä "pahaksi", jos hän valitsee ensimmäisen. Insentiivit osoittavat vahvasti sen suuntaan.
+Myönnän, etten tiedä paljoa siitä, millaisia nämä ihmiset ovat ja millaisissa olosuhteissa he ovat. (Heitä myös on monenlaisia: tupakkateollisuuden parissa työskentelee noin *sata miljoonaa* ihmistä. [Siitäkin huolimatta, etten itse tunne ketään tällaista](https://ollij.fi/epi/leveat_jakaumat).) Voin kuitenkin hyvin kuvitella, että joillakin yksinkertaisesti ei ole parempia vaihtoehtoja. Jos vaihtoehtoina on tehdä töitä kasvattamalla tupakkaa tai... olla tekemättä näin ja olla saamatta elantoa, niin en todellakaan kutsuisi henkilöä "pahaksi", jos hän valitsee ensimmäisen. Insentiivit osoittavat vahvasti sen suuntaan.
 
-(Asiaan liittyy muutkin tekijät, kuten eriävä informaatio: en usko, että [kaikki tietää]() tupakan olevan pahaksi.)
+(Asiaan liittyy muutkin tekijät, kuten eriävä informaatio: en usko, että [kaikki tietää](https://ollij.fi/epi/jattilaisten_olkapailla) tupakan olevan pahaksi.)
 
 Pystyn siis ymmärtämään, tietämättömyydeni vuoksi hyvin hatarasti mutta kuitenkin, että joillakin on hyvät syyt toimia miten he toimivat.
 
-Tuon tämän esille siksi, että ihmisten oletusasetus tuntuu olevan "ongelmat ovat pahojen ihmisten syytä". Esimerkkiä tupakasta kirjoittaessani ajattelin kuvitteellisen lukijan miettivän "no mutta kyllä niitä pahojakin ihmisiä on". En ole sinänsä eri mieltä: jakaumat ovat leveitä, jotkut ihmiset todella ovat pahempia kuin toiset. Silti näihin ["pahoihin ihmisiin" keskitytään liikaa](). Se ei ole keskeisin syy sille, miksi asiat ovat huonosti. Yleisempiä syitä ovat huonot insentiivit, kun huono vaihtoehto on silti paras mitä on (itselle vaikkei laajemmin), kun ihmiset eivät tiedä tekojensa seurauksia, kun asiat ovat vaikeita.
+Tuon tämän esille siksi, että ihmisten oletusasetus tuntuu olevan "ongelmat ovat pahojen ihmisten syytä". Esimerkkiä tupakasta kirjoittaessani ajattelin kuvitteellisen lukijan miettivän "no mutta kyllä niitä pahojakin ihmisiä on". En ole sinänsä eri mieltä: jakaumat ovat leveitä, jotkut ihmiset todella ovat pahempia kuin toiset. Silti näihin ["pahoihin ihmisiin" keskitytään liikaa](https://ollij.fi/epi/helpot_maalitaulut). Se ei ole keskeisin syy sille, miksi asiat ovat huonosti. Yleisempiä syitä ovat huonot insentiivit, kun huono vaihtoehto on silti paras mitä on (itselle vaikkei laajemmin), kun ihmiset eivät tiedä tekojensa seurauksia, kun asiat ovat vaikeita.
 
 (Käytännössä ihmiset harvemmin käyttävät sanaa "paha". Itse kuulen enemmän sanoja "rikas" tai valtaapitävät" tai "poliitikko" tai "fiksu" tai vastaavaa niin, että kontekstista ymmärtää näiden olevan negatiivisesti latautuneita sanoja pitkälti ajaen samaa roolia kuin "paha".)
 
@@ -76,9 +74,9 @@ Riman ollessa näin matalalla on helpompi keksiä parempia vastauksia. Insentiiv
 
 ---
 
-Muinaisen perinteen mukaan missä tahansa peliteoriaa käsittelevässä tekstissä tulee mainita [vangin dilemma](). Käytän seuraavaa muotoilua:
+Muinaisen perinteen mukaan missä tahansa peliteoriaa käsittelevässä tekstissä tulee mainita [vangin dilemma](https://plato.stanford.edu/entries/prisoner-dilemma/). Käytän seuraavaa muotoilua:
 
-"Sinut on valittu yhdeksi pelaajaksi erääseen kahden pelaajan peliin. Molemmilla pelaajilla on alussa 400 euron potti. Pelissä molemmilla pelaajilla on mahdollisuus painaa, toiselta salassa, nappia. Napin painaminen antaa painajalle 100 euroa, mutta vähentää toisen pottia 300 eurolla. Et pelin jälkeen enää koskaan tapaa toista osapuolta. Painatko nappia?"
+"Sinut on valittu yhdeksi pelaajaksi erääseen kahden pelaajan peliin. Molemmilla pelaajilla on alussa 400 euron potti. Pelissä kummallakin pelaajalla on mahdollisuus painaa, toiselta salassa, nappia. Napin painaminen antaa painajalle 100 euroa, mutta vähentää toisen pottia 300 eurolla. Et pelin jälkeen enää koskaan tapaa toista osapuolta. Painatko nappia?"
 
 Kuva tilanteesta, jossa x-koordinaatti kuvaa omaa rahasummaa, y-koordinaatti toisen ja jossa esimerkiksi lyhenne "PE" tarkoittaa "minä painan, toinen ei":
 
@@ -106,15 +104,15 @@ Onneksi tämä on vain ajatusleikki. Oikeassa elämässä ihmisillä ei tietenk�
 
 ---
 
-Joskus huvitan itseäni ajatuksella, että emme ole Pareto-käyrällä vain sen takia, etteivät ihmiset omaa Pareto-käyrän konseptia ([kunnes sysään ajatuksen mielestäni]()).
+Joskus huvitan itseäni ajatuksella, että emme ole Pareto-käyrällä vain sen takia, etteivät ihmiset omaa Pareto-käyrän konseptia ([kunnes sysään ajatuksen mielestäni](https://ollij.fi/epi/yksi_muuttuja)).
 
-Ongelma on toki syvemmällä. Ihmisten käsitys *optimaalisesta toiminnasta* ja *rationaalisesta ihmisestä* on sellainen, joka johtaa huonoihin lopputuloksiin. Olen [aiemminkin]() puhunut siitä, kuinka ihmisten konsepti "rationaalisuudesta" sisältää kaikenlaista hölynpölyä, kuten "rationaalinen ihminen on täysin itsekäs". Ja itsekkyyshän tietysti tarkoittaa, että vangin dilemman kaltaisissa *koordinaatio-ongelmissa* ei tehdä yhteistyötä muiden kanssa.
+Ongelma on toki syvemmällä. Ihmisten käsitys *optimaalisesta toiminnasta* ja *rationaalisesta ihmisestä* on sellainen, joka johtaa huonoihin lopputuloksiin. Olen [aiemminkin](https://ollij.fi/epi/filosofiatila) puhunut siitä, kuinka ihmisten konsepti "rationaalisuudesta" sisältää kaikenlaista hölynpölyä, kuten "rationaalinen ihminen on täysin itsekäs". Ja itsekkyyshän tietysti tarkoittaa, että vangin dilemman kaltaisissa koordinaatio-ongelmissa ei tehdä yhteistyötä muiden kanssa.
 
 Ja koko vangin dilemman pointti, yksi *koko peliteorian* keskeisimmistä pointeista, on mennyt ohi. Jos kerta olet niin rationaalinen, niin mikset saa, mitä haluat? Jos kerta olette niin rationaalisia, niin miksette ole Pareto-käyrällä? Yritän olla juuttumatta sanojen määritelmien käsittelyyn, mutta minulla on ehdotus: jospa vaikka konseptisi rationaalisuudesta vastaisi sitä, millä oikeasti saavutetaan parhaat lopputulokset.
 
 (Hyökkään tietysti olkiukkoa vastaan, eikö? [Wikipedia-sivulla vangin dilemmasta](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) kirjoitetaan "Loyalty to one's partner is, in this game, irrational" -- ja ei, kyse ei ole vain tästä Wikipedia-sivusta. Siten pitää keksiä uusia sanoja kuten "[superrationaalinen](https://en.wikipedia.org/wiki/Superrationality)" sille, mikä on *oikeasti* hyvä tapa toimia. Tai hetkinen, tässä superrationaalisuudessakin on ongelmansa, ja paras toimintatapa onkin se joka on *hyperrationaalinen*...)
 
-Tämä on yksi helposti artikuloitava tekijä sille, mikemme elä [täydellisessä maailmassa](). Ihmisillä ei ole konseptia Pareto-parannuksesta tai Pareto-käyrästä. Ihmiset eivät toimi tavalla, jonka seurauksena päädytään lähellekään Pareto-käyrää. Ihmisten käsitys optimaalisesta, rationaalisesta toiminnasta on sellainen, joka ei johda Pareto-käyrälle. Ihmiset tyytyvät ratkaisuun, joka on "rationaalinen", ei siihen *millä saadaan mitä halutaan*.
+Tämä on yksi helposti artikuloitava tekijä sille, mikemme elä [täydellisessä maailmassa](https://ollij.fi/epi/tehokas_maailma). Ihmisillä ei ole konseptia Pareto-parannuksesta tai Pareto-käyrästä. Ihmiset eivät toimi tavalla, jonka seurauksena päädytään lähellekään Pareto-käyrää. Ihmisten käsitys optimaalisesta, rationaalisesta toiminnasta on sellainen, joka ei johda Pareto-käyrälle. Ihmiset tyytyvät ratkaisuun, joka on "rationaalinen", ei siihen *millä saadaan mitä halutaan*.
 
 Tämän voi toki yrittää tiivistää fraasiksi "ihmiset ovat tyhmiä", mutta pelkään siinä katoavan nyanssia.
 
@@ -124,7 +122,7 @@ Minä taas olen ajatellut, että sivilisaation pointti on ratkoa tällaisia koor
 
 Pienenä ihmettelin, miten talot on rakennettu. Nehän ovat aivan valtavia! Sellaisen rakentamiseen menee ikuisuus! Silti niitä on niin monta!
 
-Vanhempana olen samaan tapaan ihmetellyt muitakin asioita. Mietittyäni tovin kysymystä "Aloittaen yksin ja nollista (ilman alle 100 000 vuotta vanhaa teknologiaa), kuinka kauan kestäisi rakentaa kunnollinen tietokone tai lentää Kuuhun?" olen pitkälti todennut, että nämä ovat todella vaikeita ongelmia. [Jättiläisen hartiat]() ovat niin korkealla, etten näe maahan asti.
+Vanhempana olen samaan tapaan ihmetellyt muitakin asioita. Mietittyäni tovin kysymystä "Aloittaen yksin ja nollista (ilman alle 100 000 vuotta vanhaa teknologiaa), kuinka kauan kestäisi rakentaa kunnollinen tietokone tai lentää Kuuhun?" olen pitkälti todennut, että nämä ovat todella vaikeita ongelmia. [Jättiläisen hartiat](https://ollij.fi/epi/jattilaisten_olkapailla) ovat niin korkealla, etten näe maahan asti.
 
 Siitä huolimatta ihmiskunta on yltänyt näihin saavutuksiin (ja pariin muuhunkin). Vieläpä ilman, että kukaan on antanut valmiiksi vastauksia ja näyttänyt miten asiat kannattaa tehdä -- nämä on saavutettu *oikeasti* nollista, aloittaen maankamaralta eikä jättiläisen olkapäältä.
 

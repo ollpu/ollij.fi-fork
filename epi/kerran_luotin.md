@@ -12,25 +12,25 @@ En tarkoita luottamusta mielessä "eivät valehtele" tai "pitävät sanansa", va
 
 Olen menettänyt luottamustani.
 
-Huomionarvoisin esimerkki koskee eläintuotantoa. (Kyllä, tämä on yksi [niistä aiheista]().)
+Huomionarvoisin esimerkki koskee eläintuotantoa. (Kyllä, tämä on yksi [niistä aiheista](https://ollij.fi/epi/keskustelunimaisijat).)
 
 Ymmärrettyäni, että eläintuotanto on varsin negatiivinen asia päädyin puhumaan aiheesta tuttavilleni. Varmasti hekin ymmärtäisivät? Ei aivan.
 
-Jotkut sivuuttivat asian sillä, että lihansyönti on osa kulttuuria. Jotkut sivuuttivat asian sillä, että lihansyönti on luonnollista. Kumpikaan argumentti ei [riko symmetriaa](). Otettuani tämän esiin en saanut symmetriaa rikkovia argumentteja.
+Jotkut sivuuttivat asian sillä, että lihansyönti on osa kulttuuria. Jotkut sivuuttivat asian sillä, että lihansyönti on luonnollista. Kumpikaan argumentti ei [riko symmetriaa](https://ollij.fi/epi/symmetrian_rikkominen). Otettuani tämän esiin en saanut symmetriaa rikkovia argumentteja.
 
 Jotkut sivuuttivat asian esittämällä väitteen, joka implikoi, ettei tämä ole niin iso ongelma. Selvitettyäni tämän väitteen olevan epätosi en saanut järkeviä vastauksia.
 
 Jotkut sivuuttivat asian ottamalla esiin vielä [isomman ongelman](https://xkcd.com/2368/). Kysyin, että kannattaisiko sille sitten tehdä jotakin. He vastasivat kielteisesti. Lisäksi monet näistä "isommista ongelmista" eivät oikeastaan olleet isompia.
 
-Jotkut sivuuttivat asian varsin [yleispätevällä vasta-argumentilla]() "ei yksi ihminen voi vaikuttaa".
+Jotkut sivuuttivat asian varsin [yleispätevällä vasta-argumentilla](https://ollij.fi/epi/symmetrian_rikkominen) "ei yksi ihminen voi vaikuttaa".
 
-Jotkut sivuuttivat asian sanomalla, että liha on hyvää. Jälkikäteen mietittynä he olivat loppukädessä epistemisesti rehellisimmät osapuolet: he eivät rationalisoineet, he eivät esittäneet epätosia väitteitä, he eivät esittäneet epävalideja vasta-argumentteja, he eivät yrittäneet harhauttaa huomiota toisaalle. He antoivat suoraan merkittävän syyn sille, [miksi he toimivat miten toimivat](). Tämä on miten asioita kuuluu käsitellä.
+Jotkut sivuuttivat asian sanomalla, että liha on hyvää. Jälkikäteen mietittynä he olivat loppukädessä epistemisesti rehellisimmät osapuolet: he eivät rationalisoineet, he eivät esittäneet epätosia väitteitä, he eivät esittäneet epävalideja vasta-argumentteja, he eivät yrittäneet harhauttaa huomiota toisaalle. He antoivat suoraan merkittävän syyn sille, [miksi he toimivat miten toimivat](miksi_uskot). Tämä on miten asioita kuuluu käsitellä.
 
-Koko tämä kokemus oli silmiä avaava. Minun kaverini, ei siis vain [tyhmät ihmiset netissä]() vaan *minun kaverini*, eivät pystyneet keskustelemaan aiheesta edes keskinkertaisella tasolla (joitakin poikkeuksia lukuun ottamatta). Näin, miltä huono epi selkeimmillään näyttää. Opin myös, että ihmisiä ei oikeastaan kiinnosta "moraalijutut".
+Koko tämä kokemus oli silmiä avaava. Minun kaverini, ei siis vain [tyhmät ihmiset netissä](https://ollij.fi/epi/helpot_maalitaulut) vaan *minun kaverini*, eivät pystyneet keskustelemaan aiheesta edes keskinkertaisella tasolla (joitakin poikkeuksia lukuun ottamatta). Näin, miltä huono epi selkeimmillään näyttää. Opin myös, että ihmisiä ei oikeastaan kiinnosta "moraalijutut".
 
 Olen miettinyt, että ehkä tämä oli liian erilainen aihe kuin yleensä vastaan tulevat, ja arkielämässä riittävä "tavallinen maalaisjärki" ei riittänytkään uudenlaisessa tilanteessa.
 
-(Mutta onneksi minä suoriuduin virheettömästi? [En.]())
+(Mutta onneksi minä suoriuduin virheettömästi? [En.](https://ollij.fi/epi/epi_on_tarkeaa))
 
 ---
 
@@ -40,13 +40,13 @@ En tarkoita luottamusta mielessä "uutisissa esitettävät väitteet ovat tosia"
 
 Olen menettänyt luottamustani.
 
-Olen ikäluokkaa, jolle on toitotettu ilmastonmuutosta ihmiskunnan keskeisimpänä ongelmana. (Olen tästä vahvasti eri mieltä, mutta se on toinen asia.) Aiheesta on uutisoitu runsaasti (ja puhuttu koulussa). En silti koe, että olen *informoitu* asian suhteen. Minulta, kuten myös monelta muulta ympäriltäni, on puuttunut vastaukset ihan peruskysymyksiin kuten "Onko Suomen tai maailman kasvihuonepäästöjen määrä nousussa vai laskussa? Miten ne ovat muuttuneet ajan myötä? Mistä kasvihuonepäästöt koostuvat? Paljonko eri energiamuodoilla tuotetaan energiaa?". [Kvantifioinnin]() puute on niin kovin yleistä, kuten myös pinnallisiin mielikuviin ja hyveellisyyteen pohjautuva ajattelu. Näiltä pohjilta järkevän keskustelun ja toiminnan rakentaminen on haastavaa.
+Olen ikäluokkaa, jolle on toitotettu ilmastonmuutosta ihmiskunnan keskeisimpänä ongelmana. (Olen tästä vahvasti eri mieltä, mutta se on toinen asia.) Aiheesta on uutisoitu runsaasti (ja puhuttu koulussa). En silti koe, että olen *informoitu* asian suhteen. Minulta, kuten myös monelta muulta ympäriltäni, on puuttunut vastaukset ihan peruskysymyksiin kuten "Onko Suomen tai maailman kasvihuonepäästöjen määrä nousussa vai laskussa? Miten ne ovat muuttuneet ajan myötä? Mistä kasvihuonepäästöt koostuvat? Paljonko eri energiamuodoilla tuotetaan energiaa?". [Kvantifioinnin](https://ollij.fi/epi/kvantifiointi) puute on niin kovin yleistä, kuten myös pinnallisiin mielikuviin ja hyveellisyyteen pohjautuva ajattelu. Näiltä pohjilta järkevän keskustelun ja toiminnan rakentaminen on haastavaa.
 
 Toisin sanoen: koen että informointi aiheesta, jonka informointiin on käytetty paljon resursseja ja joka nähdään Hyvin Vakavana Asiana, on onnistunut kehnosti. Tämä laskee luottamustani siitä, että yleisesti uutisten kautta saadaan totuudenmukaisia uskomuksia koskien tärkeitä asioita.
 
-Sitten on toki muutakin kritiikkiä. En kuvittele sanovani tässä mitään kovin uutta, mutta sanon silti: [jakaumien]() hännistä ääriesimerkkien poiminta, [insentiivit]() eivät ole kohti informointia tärkeistä aiheista, (erityisesti negatiivisia) tunteita herättävät aiheet myyvät (vertaa: [keskustelunimaisijat](), [helpot maalitaulut]()), lyhyet aikaskaalat / pitkän ajan trendien sivuuttaminen (vertaa: "hyvät asiat tapahtuvat hitaasti, huonot nopeasti"). Ja lukemani uutisartikkelit aiheista, joista tiedän enemmän, luovat usein epätotuudenmukaisia mielikuvia (mutta varmasti muita aiheita käsitellään hyvin?).
+Sitten on toki muutakin kritiikkiä. En kuvittele sanovani tässä mitään kovin uutta, mutta sanon silti: jakaumien hännistä ääriesimerkkien poiminta, [insentiivit](https://ollij.fi/epi/insentiivit) eivät ole kohti informointia tärkeistä aiheista, (erityisesti negatiivisia) tunteita herättävät aiheet myyvät (vertaa: [keskustelunimaisijat](https://ollij.fi/epi/keskustelunimaisijat), [helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut)), lyhyet aikaskaalat / pitkän ajan trendien sivuuttaminen (vertaa: "hyvät asiat tapahtuvat hitaasti, huonot nopeasti"). Ja lukemani uutisartikkelit aiheista, joista tiedän enemmän, luovat usein epätotuudenmukaisia mielikuvia (mutta varmasti muita aiheita käsitellään hyvin?).
 
-Tällaiset tekijät saavat pohtimaan, miksi olenkaan uskonut [kohteliaaseen tulkintaan]() koskien uutisointia.
+Tällaiset tekijät saavat pohtimaan, miksi olenkaan uskonut [kohteliaaseen tulkintaan](https://ollij.fi/epi/kohteliaat_tulkinnat) koskien uutisointia.
 
 ---
 
@@ -56,7 +56,7 @@ En tarkoita luottamusta mielessä "koulussa esitettävät väitteet ovat tosia" 
 
 Olen menettänyt luottamustani.
 
-Koen vaikeuksia kommunikoida syitäni kovin [lyhyesti](), koska ne ovat vähemmän "koulutuksessa on tämä selkeä valtava ongelma" ja enemmän kokoelma yksittäisiä tekijöitä. (Listaan silti joitain näistä yksittäisistä tekijöistä.)
+Koen vaikeuksia kommunikoida syitäni kovin [lyhyesti](https://ollij.fi/epi/lokaali_kommunikaatio), koska ne ovat vähemmän "koulutuksessa on tämä selkeä valtava ongelma" ja enemmän kokoelma yksittäisiä tekijöitä. (Listaan silti joitain näistä yksittäisistä tekijöistä.)
 
 Keskeisimmät syyni uskomukselleni ovat, ettei opetetut asiat olekaan niin tärkeitä ja on paljon tärkeitä asioita, joita koulussa ei käsitellä.
 
@@ -68,15 +68,15 @@ Avaan tätä aloittamalla esimerkeillä asioista, joita minun mielestäni kannat
 
 3. Kognitiiviset vinoumat: käsitellään ja *testataan* niitä, kunnianhimoisemmin jopa opitaan tunnistamaan ja korjaamaan niitä. Ja kognitiiviset vinoumat ovat toki vain selkein kokonaisuus koskien ihmisillä esiintyvää huonoa ajattelua, jota niin ikään voisi käsitellä laajemmin ja systemaattisemmin.
 
-4. Työharjoittelut tai -tutustumiset: minusta on hieman... kummallista, että isoja päätöksiä koskien uravalintaa tulee tehdä vaiheessa, jossa työkokemusta on niukasti jos ollenkaan, ja hyvin harvoin koskien tulevaa ammattia.
+4. Työharjoittelut tai -tutustumiset: minusta on hieman... kummallista, että isoja päätöksiä uravalintaa koskien tulee tehdä vaiheessa, jossa työkokemusta on niukasti jos ollenkaan, ja hyvin harvoin koskien tulevaa ammattia.
 
 Ja vielä pari pienempää ja ei-ihan-niin-keskeistä aihetta, joita voisi olla enemmän: peliteoriaa (siitä voisi tehdä ihan hauskaakin!), todennäköisyydet ja tilastotiede, tiedonhankinta ja analysointi, tunnetaidot, tietokoneella kirjoittaminen (vrt. käsin kirjoittaminen), henkilökohtainen talous (kenties mukaan lukien sijoittaminen).
 
 Uskon vahvasti, että nykyisistä sisällöistä voisi hyvin tehdä uusille aiheille tilaa niin, että lopputulos paranee. Osittain siksi, etten (todellakaan) usko oman listani olevan kokonainen tai paras mahdollinen. Osittain siksi, että minusta tuntuu kohtalaisen ison osan koulussa käymästäni sisällöstä olleen... melko turhaa? (Tulee mieleen useampiakin oppiaineita, joista käteeni ei ole jäänyt läheskään niin paljoa kuin voisi ajatella käytettyjen tuntien perusteella. Kokemukseni ei vaikuta ainutlaatuiselta.)
 
-Osittain taas uskon, että koulutusjärjestelmää voisi *optimoida* paljon kovempaa kuin tällä hetkellä tehdään. En enää usko [tehokkaan maailman hypoteesiin](). Ideaalisti koulutuksessa testattaisiin laajalti erilaisia interventioita ja tutkittaisiin, miten ne vaikuttavat lopputuloksiin. Kuinka hyvin oppilaat oppivat tämän asian, jos heille näytetään tällaisia videoita verrattuna jos opettaja opettaa asiasta tällaisten materiaalien pohjalta? Entä jos testattaisiin tuntien ja välituntien keston tai koulun alkamisajan tai ruokailun ajankohdan vaikutusta jaksamiseen? Tai tutkittaisiin luokan valaistuksen tai melutason tai huoneilman hiilidioksidipitoisuuden yhteyttä hyvinvointiin? Tehtäisiin, tiedätkö, *tiedettä* koskien sitä, miten koulutusta voisi parantaa -- ettei tarvitse vain mennä yksittäisten ihmisten nopeasti keksittyjen esimerkkien pohjalta -- ja sitten tehtäisiin enemmän niitä juttuja, jotka toimivat (tietysti ottaen huomioon kustannustehokkuuden). Luotaisiin insentiivit luoda mahdollisimman hyvää opetussisältöä (tai poimia jo olemassa olevista materiaaleista parhaat), keksiä eri mittareilla hyviä interventioita, ja *yleisesti keksiä tapoja parantaa koulutusta*, sitten *testattaisiin* ehdotuksia ja otettaisiin parhaimpia käyttöön.
+Osittain taas uskon, että koulutusjärjestelmää voisi *optimoida* paljon kovempaa kuin tällä hetkellä tehdään. En enää usko [tehokkaan maailman hypoteesiin](https://ollij.fi/epi/tehokas_maailma). Ideaalisti koulutuksessa testattaisiin laajalti erilaisia interventioita ja tutkittaisiin, miten ne vaikuttavat lopputuloksiin. Kuinka hyvin oppilaat oppivat tämän asian, jos heille näytetään tällaisia videoita verrattuna jos opettaja opettaa asiasta tällaisten materiaalien pohjalta? Entä jos testattaisiin tuntien ja välituntien keston tai koulun alkamisajan tai ruokailun ajankohdan vaikutusta jaksamiseen? Tai tutkittaisiin luokan valaistuksen tai melutason tai huoneilman hiilidioksidipitoisuuden yhteyttä hyvinvointiin? Tehtäisiin, tiedätkö, *tiedettä* koskien sitä, miten koulutusta voisi parantaa -- ettei tarvitse vain mennä yksittäisten ihmisten nopeasti keksittyjen esimerkkien pohjalta -- ja sitten tehtäisiin enemmän niitä juttuja, jotka toimivat (tietysti ottaen huomioon kustannustehokkuuden). Luotaisiin insentiivit luoda mahdollisimman hyvää opetussisältöä (tai poimia jo olemassa olevista materiaaleista parhaat), keksiä eri mittareilla hyviä interventioita, ja *yleisesti keksiä tapoja parantaa koulutusta*, sitten *testattaisiin* ehdotuksia ja otettaisiin parhaimpia käyttöön.
 
-Pystyn jo kuvittelemaan mielessäni kommentit, kuinka [yritän rakentaa paratiisia]() ja kuinka ideani ovat täysin epärealistisia. "Epärealistinen" on kiinnostava sanavalinta -- olen varsin tietoinen, ettei todellisuus näytä tältä ja että tällaista muutosta olisi hyvin haastava toteuttaa. Tämä ei kuitenkaan ole sellainen vahva argumentti nykytilan puolesta kuin miltä se äkkiseltään kuulostaa.
+Pystyn jo kuvittelemaan mielessäni kommentit, kuinka [yritän rakentaa paratiisia](https://ollij.fi/epi/negatiivisuus) ja kuinka ideani ovat täysin epärealistisia. "Epärealistinen" on kiinnostava sanavalinta -- olen varsin tietoinen, ettei todellisuus näytä tältä ja että tällaista muutosta olisi hyvin haastava toteuttaa. Tämä ei kuitenkaan ole sellainen vahva argumentti nykytilan puolesta kuin miltä se äkkiseltään kuulostaa.
 
 ---
 
@@ -96,7 +96,7 @@ Paljon lisää Gwern Branwenin artikkelissa [The Replication Crisis](https://gwe
 
 Muita (kohtalaisen tunnettuja) kritiikkejä koskien akateemista tutkimusta, ei täysin irrallisena toistettavuuskriisiin:
 
-- "Publish or perish" kuuluu sanonta -- tutkijan [insentiivit]() eivät ole "tee mahdollisimman hyvää tiedettä" vaan julkaisujen saaminen (mielellään hyvissä lehdissä).
+- "Publish or perish" kuuluu sanonta -- tutkijan [insentiivit](https://ollij.fi/epi/insentiivit) eivät ole "tee mahdollisimman hyvää tiedettä" vaan julkaisujen saaminen (mielellään hyvissä lehdissä).
 - Negatiivisten tulosten julkaiseminen on haastavampaa kuin positiivisten -- taas, insentiivit osoittavat poispäin hyvän tieteen tekemisestä. Tämä parhaimmillaankin johtaa datan filtteröintiin: positiivisia tuloksia julkaistaan, negatiivisia ei. (Pahimmillaan taas tämä johtaa...)
 - Käsitteeksi muodostunut "p-hacking" eli datan muovaaminen ja tilastollisten testien ajaminen, kunnes positiivisia tuloksia löytyy.
 - Tutkimsten toistamista ei arvosteta (jälleen insentiiviongelma) ja sitä tehdään niukasti.

@@ -12,7 +12,7 @@ Inspiraationa toimi Eliezer Yudkowskyn "[The Fallacy of Gray](https://www.readth
 
 Tämä oli vaikea teksti kirjoittaa. Pointti on sinänsä itsestään selvä: kyllä, asioita voi vertailla ja laittaa järjestykseen ja lukuja voi käyttää suuruuden mittaamiseen. Silti...
 
-Minun oli vaikea keksiä hyviä esimerkkejäkään (pysyessäni kaukana [keskustelunimaisijoista]()). Tämä on asia, mitä tapahtuu sinänsä kaikkialla, mutta tuntuu epäreilulta valita jokin tietty silmätikuksi. "Eihän tuo nyt ole mitenkään ihmeellinen esimerkki, asiat vain ovat noin" ja "miten tuota nyt sitten kvantifioisi järkevästi" olisivat molemmat ihan järkeviä reaktioita. Toisaalta... tämä on vähän minun pointtini. Kvantifiointi ei ole helppoa, sitten sitä ei tehdä, tätä tapahtuu koko ajan ja välillä tästä on haittaa.
+Minun oli vaikea keksiä hyviä esimerkkejäkään (pysyessäni kaukana [keskustelunimaisijoista](https://ollij.fi/epi/keskustelunimaisijat)). Tämä on asia, mitä tapahtuu sinänsä kaikkialla, mutta tuntuu epäreilulta valita jokin tietty silmätikuksi. "Eihän tuo nyt ole mitenkään ihmeellinen esimerkki, asiat vain ovat noin" ja "miten tuota nyt sitten kvantifioisi järkevästi" olisivat molemmat ihan järkeviä reaktioita. Toisaalta... tämä on vähän minun pointtini. Kvantifiointi ei ole helppoa, sitten sitä ei tehdä, tätä tapahtuu koko ajan ja välillä tästä on haittaa.
 
 ## Yhden muuttujan malli
 
@@ -60,9 +60,9 @@ Olen myös tykästynyt termiin [substituutio](https://en.wikipedia.org/wiki/Attr
 
 Scott Alexanderin teksti [On first looking into Chapman’s “Pop Bayesianism”](https://slatestarcodex.com/2013/08/06/on-first-looking-into-chapmans-pop-bayesianism/) on hyvä toinen selitys probabilistisen ajattelun hyödyllisyydestä.
 
-Saatat tunnistaa siitä jotakin omista teksteistäni tuttuja aiheita, kuten itsestäänselvyyksien epäitsestäänselvyys, kuinka ihmiset [eksplisiittisesti kysyttäessä]() pitävät jotakin ilmeisinä ja muussa kontekstissa toimivat sen vastaisesti, [jättiläisten olkapäät]() ovat korkealla, [kohteliaita tulkintoja]() kuinka kaikki tietysti tieteävät perusasiat ja [perusteettomia syytöksiä]() olkiukkojen kimppuun käymisestä, parempi epi on tärkeää nimenomaan mukavuusalueen ulkopuolella vaikeissa aiheissa, ja tietysti ihmisten epäonnistuminen probabilistisessa ajattelussa.
+Saatat tunnistaa siitä jotakin omista teksteistäni tuttuja aiheita, kuten itsestäänselvyyksien epäitsestäänselvyys, kuinka ihmiset [eksplisiittisesti kysyttäessä](https://ollij.fi/epi/ilmeiset_ohjeet) pitävät jotakin ilmeisinä ja muussa kontekstissa toimivat sen vastaisesti, [jättiläisten olkapäät](https://ollij.fi/epi/jattilaisten_olkapailla) ovat korkealla, [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) kuinka kaikki tietysti tieteävät perusasiat ja [perusteettomia syytöksiä](https://ollij.fi/epi/helpot_maalitaulut) olkiukkojen kimppuun käymisestä, parempi epi on tärkeää nimenomaan mukavuusalueen ulkopuolella vaikeissa aiheissa, ja tietysti ihmisten epäonnistuminen probabilistisessa ajattelussa.
 
-(Painottaisin vielä, että numeeristen arvojen pyöritteleminen ei ole oleellisin pointti -- tästä lisää [toisessa tekstissäni]().)
+(Painottaisin vielä, että numeeristen arvojen pyöritteleminen ei ole oleellisin pointti. Tästä lisää myös [toisaalla](https://ollij.fi/epi/miksi_todennakoisyydet).)
 
 ## Uskomusten muutos
 
@@ -80,11 +80,19 @@ Tässä tekstissä käsitellään hieman useampia aiheita. Lista ei tosiaankaan 
 - Yudkowsky: [What is Evidence?](https://www.readthesequences.com/What-Is-Evidence), [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence), ja oikeastaan yleisemmin [Noticing Confusion](https://www.readthesequences.com/Noticing-Confusion-Sequence) -tekstit.
 - Päivityksen ja vastapäivityksen laki on hieman tekninen ja hankala. Lisää aiheesta: Yudkowskyn [Conservation of Expected Evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), Scott Garrabrantin [Yes requires the possibility of No](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no), Abram Demskin [Mistakes with Conservation of Expected Evidence](https://www.lesswrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence)
 
+## Odotusarvosta ja epävarmuudesta
+
+Camillan esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta tulee mitata todennäköisyyksillä ja toisekseen sen, että preferenssejä ja epävarmuutta tulee käsitellä odotusarvojen kautta. Ensimmäinen näistä tuloksista kulkee nimellä [Cox's theorem](https://en.wikipedia.org/wiki/Cox%27s_theorem) ja toinen nimellä [von Neumann–Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
+
+On tosin muitakin tällaisia *koherenssiteoreemoja*, kuten [Dutch book](https://en.wikipedia.org/wiki/Dutch_book) ja Abraham Waldin [Complete class theorem](https://doi.org/10.1214/aoms/1177730345).
+
+Nämä asiat ovat tosin hieman monimutkaisempia kuin mitä Camilla antaa ymmärtää. Odotusarvon maksimoiminen tuntuu johtavan reunatapauksissa epäintuitiivisiin tuloksiin -- enkä tarkoita tällä tilanteita, joissa pelataan absurdin suurista rahasummista (raha tai edes onnellisuus kun eivät vastaa ihmisen [arvoja](https://ollij.fi/epi/filosofiatila), toisin kuin Anna vihjasi). Nämä reunatapaukset ovat kuitenkin enemmän tai vähemmän [filosofisia ajatusleikkejä](https://ollij.fi/epi/filosofiatila), joten en juutu niihin tässä.
+
 ## Kunnolla tehty todennäköisyyslaskenta
 
 "Evidenssin poissaolo on evidenssiä poissaololle" saattaa kuulostaa jonkun korvaan väärältä -- tässä tapauksessa katso yllä linkattu [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence).
 
-Käsittelin tässä kritiikkiä koskien tiedettä varsin lyhyesti. Lisää aiheesta löytyy tekstistäni [Kerran luotin]() ja sen muistiinpanoista.
+Käsittelin tässä kritiikkiä koskien tiedettä varsin lyhyesti. Lisää aiheesta löytyy tekstistäni "[Kerran luotin](https://ollij.fi/epi/kerran_luotin)" ja sen muistiinpanoista.
 
 ## Filosofiatila ja ajatusleikit
 
@@ -100,7 +108,7 @@ Joku voisi käyttää samalle konseptille nimitystä "meemi", mutta ihmisille tu
 
 Tämä on hyvä tilaisuus esittää pahoitteluni kaikille heille, joiden puheita olen teksteissäni käyttänyt esimerkkeinä huonosta epistä. Toivottavasti tekstin luettuanne ymmärrätte, miksi todella halusin puhua oikeista tilanteista enkä vain hypoteettisia "joku voisi ajatella näin" -esimerkkejä. Eikä siinä ole mitään henkilökohtaista -- päinvastoin, pointti on nimenomaan se, että nämä ovat yleisiä ilmiöitä (eikä vain tuttavapiirini ominaisuuksia).
 
-Pidän sitä oikeastaan meriittinä, jos ajatukset ja puheet ovat niin selkeitä, että niitä voi käyttää esimerkkeinä. Paljon yleisempää tuntuu olevan sellainen [sumuinen ajattelu]() ja [epämääräinen puhe](), josta on vaikea sanoa mitä tarkalleen halutaan sanoa ja mitä oikeastaan uskotaan -- että varmaankin tässä on huono epi, mutta toisaalta tilanteeseen löytyy jokin uskottava [kohtelias tulkinta](), jonka valossa kaikki on kunnossa. Tällaisten esimerkkien ympärille on vaikea rakentaa tekstejä.
+Pidän sitä oikeastaan meriittinä, jos ajatukset ja puheet ovat niin selkeitä, että niitä voi käyttää esimerkkeinä. Paljon yleisempää tuntuu olevan sellainen [sumuinen ajattelu](https://ollij.fi/epi/sumuiset_ajatukset) ja [epämääräinen puhe](https://ollij.fi/epi/matala_informaatio), josta on vaikea sanoa mitä tarkalleen halutaan sanoa ja mitä oikeastaan uskotaan -- että varmaankin tässä on huono epi, mutta toisaalta tilanteeseen löytyy jokin uskottava [kohtelias tulkinta](https://ollij.fi/epi/kohteliaat_tulkinnat), jonka valossa kaikki on kunnossa. Tällaisten esimerkkien ympärille on vaikea rakentaa tekstejä.
 
 Scott Alexanderin tekstissä "[The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)" on esitetty sama pointti siitä, että helpot maalitaulut eivät ole se pointti:
 
@@ -148,18 +156,18 @@ Lisää tiedettä koskien voi lukea esimerkiksi [Scott Alexanderilta](https://ww
 
 Olen käyttänyt paljon tilaa kirjoittaakseni itse epistä ja sen parantamisesta. Epin tärkeyttä, sitä miksi välittää tästä kaikesta, käsittelen vasta lopuksi.
 
-Syy on se, että sitä on oikeasti aika vaikea selittää. Ihmisten ensireaktiot liittyvät varsin usein [helppoihin maalitauluihin](). On [monia tapoja sivuuttaa]() konkreettisten ongelmien käsittely. Jotkut ajattelevat, että ongelmien syynä on oikeastaan vain nuo [pahat ihmiset](). Jotkut esittävät ongelmaan ratkaisun [puolen sekunnin mietinnän]() jälkeen. Liian selkeät esimerkit sivuutetaan itsestäänselvyytenä. Erikoisemmat esimerkit saavat kohteekseen [epävalideja argumentteja]() ja selityksiä, kuinka on [naiivia]() uskoa tuollaisen muutoksen olevan mahdollista. Kaiken tämän käsittelyä hankaloittaa [tausta-ajatus](), jonka mukaan maailmassa ei oikeasti voi olla mitään pahasti vialla ja että [luotettavat aikuiset]() pitävät kyllä huolta. Tai [asenne](), että on minun tehtäväni vakuuttaa toinen. Ja jos käsittelen ihmisten epin heikkoutta abstraktilla tasolla, ajattelu ajautuu [hassuihin]() [tiloihin](), ajatellaan vinoumien olevan vain [hassuja kokeita]() ja selitetään kuinka omituisuuksille on varmastikin jokin [hyvä syy]().
+Syy on se, että sitä on oikeasti aika vaikea selittää. Ihmisten ensireaktiot liittyvät varsin usein [helppoihin maalitauluihin](https://ollij.fi/epi/helpot_maalitaulut). On [monia tapoja sivuuttaa](https://ollij.fi/epi/ongelmien_sivuuttamisesta) konkreettisten ongelmien käsittely. Jotkut ajattelevat, että ongelmien syynä on oikeastaan vain nuo [pahat ihmiset](https://ollij.fi/epi/insentiivit). Jotkut esittävät ongelmaan ratkaisun [puolen sekunnin mietinnän](https://ollij.fi/epi/reflektointi) jälkeen. Liian selkeät esimerkit sivuutetaan itsestäänselvyytenä. Erikoisemmat esimerkit saavat kohteekseen [epävalideja argumentteja](https://ollij.fi/epi/symmetrian_rikkominen) ja selityksiä, kuinka on [naiivia](https://ollij.fi/epi/negatiivisuus) uskoa tuollaisen muutoksen olevan mahdollista. Kaiken tämän käsittelyä hankaloittaa [tausta-ajatus](https://ollij.fi/epi/tehokas_maailma), jonka mukaan maailmassa ei oikeasti voi olla mitään pahasti vialla ja että [luotettavat aikuiset](https://ollij.fi/epi/kerran_luotin) pitävät kyllä huolta. Tai [asenne](https://ollij.fi/epi/vakuuttamisesta), että on minun tehtäväni vakuuttaa toinen. Ja jos käsittelen ihmisten epin heikkoutta abstraktilla tasolla, ajattelu ajautuu [hassuihin](https://ollij.fi/epi/kaukotila) [tiloihin](https://ollij.fi/epi/filosofiatila), ajatellaan vinoumien olevan vain [hassuja kokeita](https://ollij.fi/epi/mihin_matematiikkaa) ja selitetään kuinka omituisuuksille on varmastikin jokin [hyvä syy](https://ollij.fi/epi/kohteliaat_tulkinnat).
 
-(Tai sitten jotakin muuta. Tekstissä antamani esimerkit voi sivuuttaa silläkin, että ne ovat abstrakteja, isoja ongelmia. Niihin ei tietenkään yksi ihminen voi vaikuttaa, ja oikeastaan on [rationaalista]() olla tekemättä niille mitään, ja [siten ongelmaa ei ole]().)
+(Tai sitten jotakin muuta. Tekstissä antamani esimerkit voi sivuuttaa silläkin, että ne ovat abstrakteja, isoja ongelmia. Niihin ei tietenkään yksi ihminen voi vaikuttaa, ja oikeastaan on [rationaalista](https://ollij.fi/epi/insentiivit) olla tekemättä niille mitään, ja [siten ongelmaa ei ole](https://ollij.fi/epi/ongelmien_sivuuttamisesta).)
 
 Ehkä en vieläkään saanut selitettyä pointtiani hyvin. Ehkä en osaa sanoa näitä asioita nätisti.
 
 Alan Turing [esitti](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Turing/Turing-1951%20Intelligent%20Machinery-a%20Heretical%20Theory.pdf) *vuonna 1951* ajatukset "once the machine thinking method had started, it would not take long to outstrip our feeble powers" ja "At some stage therefore we should have to expect the machines to take control". Yli *70 vuotta myöhemmin*, yli vuosikymmenen syväoppimisen vallankumouksen alettua ja sen tuomien läpimurtojen jälkeen, kehityksen ollen nopeampaa kuin mitä miltei kukaan on odottanut, tekoälyn tuomien eksistentiaalisten uhkien olemassaoloa pidetään *silti* epäselvinä -- eikä niin, että näiden uhkien välttäminen on *ihmiskunnan keskeisin prioriteetti* ja että tämä on *aika vakava asia*.
 
-Laajemmin [ongelma nousee esille](https://www.safe.ai/statement-on-ai-risk) vasta sitten, kun on saatu valtava määrä empiirisiä todisteita siitä, kuinka tekoäly todella voi ylittää ihmisen tasoon laajassa joukossa tehtäviä. Näitä uhkia ei tietenkään olisi voinut nähdä ennakkoon, ja ongelman käsitteleminen ja varautuminen ennen vuotta 2023 olisi ollut aivan liian ennenaikaista tulevaisuuden spekulointia. (Jotkut tietysti edelleen kiistävät, että mitään uhkaa on. Tai vaikka ongelmia olisikin, niin nyt olisi liian ennenaikaista tehdä niille mitään. Seurataan nyt vielä tilannetta. Ei, en sano, missä kohtaa asiaa kannattaa ottaa vakavissaan.)
+Laajemmin [ongelma nousee esille](https://www.safe.ai/statement-on-ai-risk) vasta sitten, kun on saatu valtava määrä empiirisiä todisteita siitä, kuinka tekoäly todella voi ylittää ihmisen tasoon laajassa joukossa tehtäviä. Näitä uhkia ei tietenkään olisi voinut nähdä ennakkoon, ja ongelman käsitteleminen ja varautuminen ennen vuotta 2023 olisi ollut aivan liian ennenaikaista tulevaisuuden spekulointia. (Jotkut tietysti edelleen kiistävät, että mitään uhkaa on. Tai vaikka ongelmia olisikin, niin nyt olisi liian ennenaikaista tehdä niille mitään. Seurataan nyt vielä tilannetta.)
 
 Tämä ei ole miltä täysjärkinen sivilisaatio näyttää.
 
 Väiteet "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia, jolle kannattaisi tehdä jotakin" ovat ilmeisiä. Näistä aiheista on toki kirjoitettu paljon ja käyty debaattia. Nyanssiin uppoutumalla kuitenkin missaa jonkin keskeisin pointin: että nämä *ovat* ilmeisiä asioita, että kyseessä ei ole kompakysymys, että kaiken filosofoinnin jälkeen vesi on edelleen märkää.
 
-Olen kirjoittanut muutamia asioita koskien epiä. Monet sanomani asiat tuntuvat itsestäänselvyyksiltä. Tämä ei haittaa minua. Joskus oleellisinta nimittäin on seurata ilmeisiä ohjeita. Joskus tärkeintä ovat ne itsestäänselvyydet -- siis sellaiset asiat kuten järki, tiede ja valistus. Tiedäthän, hyvä epi.
+Olen kirjoittanut muutamia asioita koskien epiä. Monet sanomani asiat tuntuvat itsestäänselvyyksiltä. Tämä ei lopulta haittaa minua. Joskus oleellisinta nimittäin on seurata ilmeisiä ohjeita. Joskus tärkeintä ovat ne itsestäänselvyydet -- siis sellaiset asiat kuten järki, tiede ja valistus. Tiedäthän, hyvä epi.

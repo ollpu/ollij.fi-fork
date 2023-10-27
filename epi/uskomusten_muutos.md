@@ -2,7 +2,7 @@
 
 Eräänä päivänä käytin toistakymmentä tuntia lukemiseen. Myöhemmin illalla silmääni koski.
 
-Ei, en sano sen *johtuneen* lukemisesta. Kysehän olisi voinut olla ties mistä muusta. Ehkä nukuin jotenkin huonosti toisella kyljellä. Ehkä kyse oli yleisestä väsymyksestä. Ehkä olin hieronut silmiäni ja siinä kävi jotakin. Ehkä kyse oli jostakin ihan muusta.
+Ei, en sano sen *johtuneen* lukemisesta. Kysehän olisi voinut olla ties mistä muusta. Ehkä nukuin jotenkin huonosti toisella kyljellä. Ehkä kyse oli yleisestä väsymyksestä. Ehkä olin hieronut silmiäni varomattomasti. Ehkä kyse oli jostakin ihan muusta.
 
 En pitänyt näitä selityksiä kovin uskottavina, siis kovin *todennäköisinä*. Selitys "jos lukee paljon, niin silmät rasittuvat" vaikutti järkevältä, muut taas kaukaa haetuilta tai istuvan huonosti muuhun informaatioon. Mutta eihän sitä voi tietää.
 
@@ -38,7 +38,7 @@ Nyt voin paljastaa, että vahvempi silmäni tosiaan on vasen.
 
 Hurraa, "silmä on rasittunut lukemisesta" -selitys vaikuttaa paremmalta!
 
-Ja... mitä sitten? [Kuinka paljon]() tämän oikeasti pitäisi vaikuttaa uskomuksiini? Onko nyt "käytännössä varmaa", että tämä on oikea selitys? Vai onko tämä vain pieni muutos todennäköisyyksiin -- niin pieni, että se on "käytännössä nolla"? Vai jotain tältä väliltä? Tällaisenaan johtopäätös [ei kerro kovin paljoa]().
+Ja... mitä sitten? [Kuinka paljon](https://ollij.fi/epi/kvantifiointi) tämän oikeasti pitäisi vaikuttaa uskomuksiini? Onko nyt "käytännössä varmaa", että tämä on oikea selitys? Vai onko tämä vain pieni muutos todennäköisyyksiin -- niin pieni, että se on "käytännössä nolla"? Vai jotain tältä väliltä? Tällaisenaan johtopäätös [ei kerro kovin paljoa](https://ollij.fi/epi/matala_informaatio).
 
 ---
 
@@ -46,7 +46,7 @@ Tehdään tarkempi analyysi.
 
 Kuten mainitsin, pidin lukemisselitystä selkeästi parhaimpana. Laitan tälle todennäköisyydeksi... 80%?, (Oikeasti ehkä enemmänkin, mutta pidetään luvut helppoina ja pyöreinä.) Ja siten muut selitykset saavat 20%.
 
-Ja kuten todettiin, nämä eri selitykset *ennustavat eri tuloksia* koskien "kumpi silmä on vahvempi" -testiä. "Muut selitykset" -kategorian panokset jakautuvat tasan: ei ole mitään [symmetriaa rikkovaa]() syytä, miksi juuri heikompaan (eikä vahvempaan) silmään olisi kohdistunut isku. Toisaalta taas "lukeminen rasittaa" laittaa hyvin suuren osan panoksistaan vasemman silmän dominanttiudelle. Kuinka suuren osan? Eh, vaikea sanoa. Ehkä 90%? Mennään vaikka sillä.
+Ja kuten todettiin, nämä eri selitykset *ennustavat eri tuloksia* koskien "kumpi silmä on vahvempi" -testiä. "Muut selitykset" -kategorian panokset jakautuvat tasan: ei ole mitään [symmetriaa rikkovaa](https://ollij.fi/epi/symmetrian_rikkominen) syytä, miksi juuri heikompaan (eikä vahvempaan) silmään olisi kohdistunut isku tai muuta. Toisaalta taas "lukeminen rasittaa" laittaa hyvin suuren osan panoksistaan vasemman silmän vahvuudella. Kuinka suuren osan? Eh, vaikea sanoa. Ehkä 90%? Mennään vaikka sillä.
 
 Alla on tilannetta havainnollistava kuva: selitykset ja niiden asettamat panokset testin tuloksille. Kuten aiemmin, yksi palikka vastaa yhtä prosenttia.
 
@@ -70,11 +70,11 @@ Tämä koko prosessi vaikuttaa hieman hankalalta. Eikä ole ihan selvää, ovatk
 
 Eli miten tätä kuuluu ajatella?
 
-Esittelen uuden termin *evidenssi* (engl. evidence). Kenties lähin aidosti suomenkielinen sana on "todistusaineisto", mutta koska emme oikeasti ole oikeussalissa, pitäydyn termissä "evidenssi".
+Esittelen uuden termin *evidenssi* (engl. evidence). Kenties lähin aidosti suomenkielinen sana on "todistusaineisto", mutta koska emme istu oikeussalissa, pitäydyn termissä "evidenssi".
 
 Vahvemman silmän testauksella saadaan informaatiota koskien oikeaa selitystä. Tulos "vahvempi silmä on oikea" on *evidenssiä* muiden selitysten puolesta verrattuna lukemis-rasitus-selitykseen. Vastaavasti "vahvempi silmä on vasen" on evidenssiä lukemis-rasitus-selityksen puolesta.
 
-Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei edelleenkään *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin dominantin silmän testituloksen seurauksena.
+Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei edelleenkään *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin saadessani tietää, kumpi silmistäni on vahvempi.
 
 Mikä on luontevin tapa mitata evidenssin vahvuutta?
 
@@ -90,7 +90,9 @@ Ja suhteen kannalta oleellista ei ole, kuinka hyvin minä tai sinä olemme ennus
 
 Palataan sitten silmäesimerkkiin. Alussa todennäköisyydet eri selityksille ovat 80% ja 20%, siis 4 : 1. Rasitusselitys laittaa 90% panoksistaan (eli 72 palikkaa) sille, että vahvempi silmä on vasen. "Muu"-selitys laittaa tälle 50% panoksistaan. Suhde on siis 9 : 5. Alla on vielä uudestaan aiempi kuva.
 
-"9 : 5" on hieman ikävä suhde käsitellä. Pyöristetään sitä hieman suhteeksi 10 : 5 eli 2 : 1. Tämä olisi sama kuin jos rasitusselitys laittaisi kaikki panoksensa vasemmalle (ja "muu"-selitys edelleen tasan oikealle ja vasemmalle).
+*KUVA*
+
+9 : 5 on hieman ikävä suhde käsitellä. Pyöristetään se yksinkertaisuuden vuoksi suhteeksi 10 : 5 eli 2 : 1. Tämä olisi sama kuin jos rasitusselitys laittaisi kaikki panoksensa vasemmalle (ja "muu"-selitys edelleen tasan oikealle ja vasemmalle).
 
 *KUVA*
 
@@ -112,6 +114,6 @@ Näillä työkaluilla koko prosessin voi tiivistää muutamaan virkkeeseen ja ta
 
 (Tämä vastaa ajatusprosessia, joka minulla oikeasti tapahtui asiaa miettiessäni.)
 
-Tai vielä helpompi temppu: jos epätodennäköistä vaihtoehtoa vastaan tulee 2 : 1 -verran evidenssiä, sen todennäköisyys suunnilleen puolittuu. (Tämä on hyvä arvio ääripäässä, kun todennäköisyys on lähellä nollaa, mutta huono lähempänä 50 prosenttia.)
+Tai vielä helpompi temppu: jos epätodennäköistä vaihtoehtoa vastaan tulee 2 : 1 -verran evidenssiä, sen todennäköisyys suunnilleen puolittuu. (Tämä on hyvä arvio ääripäässä, kun todennäköisyys on lähellä nollaa, mutta huono lähempänä 50 prosenttia.) Muiden hypoteesien todennäköisyys tippuu 20 prosentista suunnilleen 10 prosenttiin, ja rasitusselityksen todennäköisyys on noin 90 prosenttia.
 
-Pointti on siis se, että tämä todella on "helppoa, kun sen osaa": prosessi itsessään on hyvin yksinkertainen, vaikka sen oppiminen tai selittäminen ei olekaan ihan niin yksinkertaista. Idea "uskomuksesi muuttuvat, kun saat uutta informaatiota" ei tunnu minusta kovin mutkikkaalta tai edistyneeltä (joku voisi jopa kutsua sitä itsestäänselvyydeksi). Todennäköisyyksien kautta tätä konseptia saadaan kuvailtua hieman tarkemmin ja syvemmin.
+Pointtini on, että tämä todella on "helppoa, kun sen osaa": prosessi itsessään on hyvin yksinkertainen, vaikka sen oppiminen tai selittäminen ei olekaan ihan niin yksinkertaista. Idea "uskomuksesi muuttuvat, kun saat uutta informaatiota" ei tunnu minusta kovin mutkikkaalta tai edistyneeltä (joku voisi jopa kutsua sitä itsestäänselvyydeksi). Todennäköisyyksien kautta tätä konseptia saadaan kuvailtua hieman tarkemmin ja syvemmin.
