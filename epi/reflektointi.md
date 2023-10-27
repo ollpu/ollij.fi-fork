@@ -1,4 +1,4 @@
-# Reflektointikyky
+# Reflektointi
 
 [Mielen teorialla](https://en.wikipedia.org/wiki/Theory_of_mind) viitataan kykyyn mallintaa muiden ihmisten mielentiloja, esimerkiksi [uskomuksia](). Lapsilla tämä kyky kehittyy noin nelivuotiaana, jolloin he pystyvät yksinkertaisimmissa tilanteissa mallintamaan toisen ihmisen uskomusten olevan virheellisiä.
 
