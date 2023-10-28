@@ -47,7 +47,7 @@ Retoriikka ja johtopäätöksen [sumentaminen](https://ollij.fi/epi/sumuiset_aja
 
 ---
 
-Luin kerran erään kirjan. Kaverini kritisoi lukemistani sen vuoksi, että kirjan kirjailija oli kontroversaali hahmo ([ei, en kerro kenestä on kyse](https://ollij.fi/epi/keskustelunimaisijat)). Yksi argumenteista oli, että kirjan ostaminen tukee kirjailijaa taloudellisesti.
+Luin kerran erään kirjan. Kaverini kritisoi lukemistani sen vuoksi, että kirjan kirjoittaja oli kontroversaali hahmo ([ei, en kerro kenestä on kyse](https://ollij.fi/epi/keskustelunimaisijat)). Yksi argumenteista oli, että kirjan ostaminen tukee kirjailijaa taloudellisesti.
 
 Isosta osasta ostotapahtumia voi vetää argumentin "tämä tukee 'pahoja' tahoja". Mitä isompaan osaan väitteitä argumentti soveltuu, sitä vähemmin se kykenee erottelemaan hyvien ja huonojen ostojen välillä.
 
@@ -65,4 +65,4 @@ On monia nimiä erinäisille virheellisille päättelyn askelille: symmetriaa ri
 
 On varsin houkuttelevaa käyttää jotakin näistä vastakkaisen näkemyksen kumoamiseen: sehän antaa tässä tapauksessa oikean vastauksen! Toisesta näkökulmasta tämä taas näyttää [rationalisoinnilta](https://ollij.fi/epi/miksi_uskot): johtopäätös on valittu ja enää tarvitsee keksiä perustelut. Ja se *on* rationalisointia.
 
-Perusteluja kuuluu käsitellä *tasapuolisesti*. Ei tietenkään niin, että "jokainen perustelu on yhtä validi", vaan että *perustelun* vahvuus on irrallinen *väitteen* totuusarvosta. Epävalidin argumentin salliminen "silloin ja vain silloin, kun se antaa oikeita vastauksia" taas ei ole kovin tasapuolista. Tosillekin väitteille voi esittää huonoja argumentteja. Niitä ei kuulu hyväksyä sen takia, että ne "ovat oikealla puolella".
+Perusteluja kuuluu käsitellä *tasapuolisesti*. Ei tietenkään niin, että jokainen perustelu on yhtä validi ja vahva, vaan että *yksittäisen perustelun* toimivuus on irrallinen *lopullisen väitteen* totuusarvosta. Epävalidin argumentin salliminen silloin (ja vain silloin) kun se antaa oikeita vastauksia taas ei ole kovin tasapuolista. Tosillekin väitteille voi esittää huonoja argumentteja. Niitä ei kuulu hyväksyä sen takia, että ne "ovat oikealla puolella".

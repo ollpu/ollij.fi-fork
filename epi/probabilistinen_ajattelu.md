@@ -30,7 +30,7 @@ Tutkitaan edellistä kuvaa. Palikat, jotka oli asetettu ennen kello 10:10 tulee 
 
 Tässä on... jotakin hassua. 10%, ettei kaveri saavu, 15% sille, että hän vielä tulee, ja... ai niin, menetit sen 75%.
 
-Mutta uskomusten pitäisi yhteensä olla 100% -- ei enempää, ei vähempää. Täten deflaatio iskee ja palikoiden arvo kasvaa! Palikoita on jäljellä enää 25, joten nyt jokainen palikka on neljän prosentin arvoinen.
+Mutta uskomusten pitäisi yhteensä olla 100% -- ei enempää, ei vähempää. Täten deflaatio iskee ja palikoiden arvo kasvaa! Palikoita on jäljellä enää 25, joten nyt jokainen palikka on neljän prosentin arvoinen. (Palikoiden sijaintien muutos on vain visualisoinnissa syntyvä haaste.)
 
 ![Uudet todennäköisyydet tutun saapumisajalle](Kuvat/prob_3)
 
@@ -42,11 +42,11 @@ Samaa peliä voi tietysti pelata uudestaan: odotat, kaverisi ei saavu, menetät 
 
 "En ihan ymmärrä. Mistä käytännössä hankitaan todennäköisyydet eri tilanteille? Etkö voi saada laskuista mitä vain tuloksia ulos laittamalla sisään sopivat todennäköisyydet? Joten mikä hyöty tässä on?", kysytään yleisöstä.
 
-Todennäköisyydet kuvaavat uskomusten vahvuuksia. Kenen uskomuksia? Esimerkiksi sinun. Ihmisillä on yleisesti ottaen eri uskomukset ja siten eri todennäköisyydet. Esimerkiksi kaverisi saattaa tietää saapuuko hän luoksesi sovittuun aikaan, vaikka sinä et tätä tietäisi.
+Todennäköisyydet kuvaavat uskomusten vahvuuksia. Kenen uskomuksia? Esimerkiksi sinun. Ihmisillä on yleisesti ottaen eri uskomukset ja siten eri todennäköisyydet. Kaverisi saattaa tietää, saapuuko hän luoksesi sovittuun aikaan, vaikka sinä et tätä tietäisi.
 
-Se, että sanot "on 10 prosentin todennäköisyys, ettei kaverini tule paikalle", kertoo *sinun uskomuksistasi* koskien kaverin tulemista, siis *sinun pääsi sisällöstä*, ei kaverisi sijainnista. Erityisesti väite ei tarkoita, että kaverisi paikalle tuleminen olisi "oikeasti satunnaista" (mitä ikinä tämä tarkoittaakaan). Se koskee vain ja ainoastaan sinun tietämystäsi. Tietysti (tai toivottavasti) uskomuksesi liittyvät siihen, miten asiat oikeasti ovat. Uskomuksesi ja todellisuus ovat kuitenkin kaksi eri asiaa, aivan kuten kartta ja maasto ovat kaksi eri asiaa.
+Se, että sanot "on 10 prosentin todennäköisyys, ettei kaverini tule paikalle", kertoo *sinun uskomuksistasi* koskien kaverin tulemista, siis *sinun pääsi sisällöstä*, *sinun aivoistasi*, ei kaverisi sijainnista. Erityisesti väite ei tarkoita, että kaverisi paikalle tuleminen olisi "oikeasti satunnaista" (mitä ikinä tämä tarkoittaakaan). Se koskee vain ja ainoastaan sinun tietämystäsi. Tietysti (tai toivottavasti) uskomuksesi liittyvät siihen, miten asiat oikeasti ovat. Uskomuksesi ja todellisuus ovat kuitenkin kaksi eri asiaa, aivan kuten kartta ja maasto ovat kaksi eri asiaa.
 
-Ihmiset eivät toki luontaisesti mieti asioita numeerisesti todennäköisyyksien kautta. Ihmiset eivät toisaalta myöskään mieti äänenvoimakkuutta numeerisesti desibelien kautta. Joskus on ollut aika, jolloin ihmiset eivät ole miettineet lämpötilaa numeerisesti Celsius-asteiden kautta (koska asteikkoa ei oltu vielä kehitelty).
+Ihmiset eivät toki luontaisesti mieti asioita numeerisesti todennäköisyyksien kautta. Ihmiset eivät myöskään mieti äänenvoimakkuutta numeerisesti desibelien kautta. Joskus on ollut aika, jolloin ihmiset eivät ole miettineet lämpötilaa numeerisesti Celsius-asteiden kautta (koska asteikkoa ei oltu vielä kehitelty).
 
 Tästä huolimatta jotkut asiat ovat kuumempia kuin toiset, jotkut äänet kovempia kuin toiset ja jotkut uskomukset vahvempia kuin toiset. Huomaat tämän itsekin, vaikkei kehossasi ole Celsius-asteet ilmoittavaa lämpömittaria tai todennäköisyydet ilmoittavaa uskomuksenvahvuusmittaria.
 

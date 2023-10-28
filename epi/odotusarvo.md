@@ -1,4 +1,4 @@
-# Odotusarvosta ja epävarmuudesta
+# Odotusarvo ja epävarmuus
 
 **Anna:** Lottoaminen ei kannata, koska siinä odotusarvo on negatiivinen.
 

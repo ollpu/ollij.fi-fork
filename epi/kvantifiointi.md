@@ -2,7 +2,7 @@
 
 Kerran kuulin vinkin "kannattaa laittaa pyykinpesukone käyntiin illalla, koska silloin sähkö on halvempaa".
 
-"Ei kuulosta järkevältä", mietin, ja laskin sitten säästön: Tavallisen pesukoneen sähkökulutus on noin kilowattitunti per kerta. Sähkön hinta vaihtelee, mutta päivän minimi ja maksimi ovat keskimäärin kokoluokkaa 10 senttiä kilowattitunnilta.
+"Ei kuulosta järkevältä", mietin, ja laskin sitten säästön: Tavallisen pesukoneen sähkökulutus on noin kilowattitunti per kerta. Sähkön hinta vaihtelee, mutta päivän minimi ja maksimi ovat keskimäärin kokoluokkaa 10 senttiä kilowattitunnilta (asettaen ylärajan säästölle).
 
 *Kymmenen senttiä.*
 

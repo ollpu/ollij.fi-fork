@@ -24,8 +24,6 @@ Jos lähden miettimään, mistä binäärisiin kategorioihin ja jakaumiin liitty
 
 Ensinnäkin jakaumia on kognitiivisesti työläämpää käsitellä. On niin helppoa ajatella, että on ne hyväkuntoiset ihmiset ja sitten on ne huonokuntoiset ihmiset. Vastaavasti on helppoa miettiä parhaimpia ja huonoimpia -- ne [tulevat helpoiten mieleen](https://en.wikipedia.org/wiki/Availability_heuristic). Keskiarvojen, varianssin ja jakaumien muodon käsittely on haastavampaa.
 
-Toiseksi saamassamme informaatiossa on vahvaa suodatusta: kuulemme paljon todennäköisemmin todella hyväkuntoisista kuin keskiverrommista ihmisistä (puhuttaessa kunnosta). Kilpailuissa etsitään parhaita ja heistä on kiinnostavampaa puhua. Seuraus: on ne hyväkuntoiset ihmiset joista aina puhutaan, ja sitten ovat me tavalliset tallaajat. Muistimme, ihmisten puheiden ja median tarjoama data ei ole *representatiivista*.
+Toiseksi saamassamme informaatiossa on vahvaa suodatusta: kuulemme paljon todennäköisemmin todella hyväkuntoisista kuin keskiverrommista ihmisistä (puhuttaessa kunnosta) verrattuna heidän määrään. Kilpailuissa etsitään parhaita ja heistä on kiinnostavampaa puhua. Seuraus: on ne hyväkuntoiset ihmiset joista aina puhutaan, ja sitten on me tavalliset tallaajat. Muistimme, ihmisten puheiden ja median tarjoama data ei ole *representatiivista*.
 
-Tilannekohtaisempia sovelluksia: Joskus binääriset kategoriat näyttäytyvät niin, että on meidän joukkue ja muiden joukkue -- mehän emme ole sellaisia ihmisiä, jotka tekevät... jotakin negatiivista. Joskus taas niitä voi käyttää tekosyynä sille, ettei tee jotain -- enhän minä ole sellainen ihminen, joka tekee... jotakin mitä en muutenkaan halua tehdä.
-
-Toivon, että tämän tekstin luettuasi et enää ole sellainen ihminen, joka ylikäyttää binäärisiä kategorioita.
+Toivon, että tästä eteenpäin et enää ole sellainen ihminen, joka ylikäyttää binäärisiä kategorioita.

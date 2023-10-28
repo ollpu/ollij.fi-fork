@@ -66,7 +66,7 @@ Joten? Ei ole edelleenkään "käytännössä varmaa", että lukemisselitys on o
 
 ---
 
-Tämä koko prosessi vaikuttaa hieman hankalalta. Eikä ole ihan selvää, ovatko tulokset järjen mukaisia. Jos olisin saanut vastaukseksi 88 prosentin sijasta 97% tai 82%, niin olisitko pitänyt niitä järkevinä? Mistä tietää, että nämä muut vastaukset *eivät* ole järkeviä tai oikeita? Tai mistä tiedät, etten ole tehnyt tarkoituksella "laskuvirhettä" ja oikea vastaus on sittenkin 82 prosenttia?
+Tämä koko prosessi vaikuttaa hieman hankalalta. Eikä ole ihan selvää, ovatko tulokset järjen mukaisia. Jos olisin saanut vastaukseksi 88 prosentin sijasta 97% tai 82%, niin olisitko pitänyt tulosta silti järkevänä? Mistä tietää, että nämä muut vastaukset *eivät* ole järkeviä tai oikeita? Tai mistä tiedät, etten ole tehnyt tarkoituksella "laskuvirhettä" ja oikea vastaus on sittenkin 82 prosenttia?
 
 Eli miten tätä kuuluu ajatella?
 
@@ -74,7 +74,7 @@ Esittelen uuden termin *evidenssi* (engl. evidence). Kenties lähin aidosti suom
 
 Vahvemman silmän testauksella saadaan informaatiota koskien oikeaa selitystä. Tulos "vahvempi silmä on oikea" on *evidenssiä* muiden selitysten puolesta verrattuna lukemis-rasitus-selitykseen. Vastaavasti "vahvempi silmä on vasen" on evidenssiä lukemis-rasitus-selityksen puolesta.
 
-Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei edelleenkään *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin saadessani tietää, kumpi silmistäni on vahvempi.
+Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei silti *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin saadessani tietää, kumpi silmistäni on vahvempi.
 
 Mikä on luontevin tapa mitata evidenssin vahvuutta?
 
@@ -88,7 +88,11 @@ Ja suhteen kannalta oleellista ei ole, kuinka hyvin minä tai sinä olemme ennus
 
 ---
 
-Palataan sitten silmäesimerkkiin. Alussa todennäköisyydet eri selityksille ovat 80% ja 20%, siis 4 : 1. Rasitusselitys laittaa 90% panoksistaan (eli 72 palikkaa) sille, että vahvempi silmä on vasen. "Muu"-selitys laittaa tälle 50% panoksistaan. Suhde on siis 9 : 5. Alla on vielä uudestaan aiempi kuva.
+Palataan sitten silmäesimerkkiin. Alussa todennäköisyydet eri selityksille ovat 80% ja 20%, siis 4 : 1. Rasitusselitys laittaa 90% panoksistaan sille, että vahvempi silmä on vasen. "Muu"-selitys laittaa tälle 50% panoksistaan. Suhde on siis 9 : 5.
+
+Pidä mielessä: oleellista on, kuinka *suuren osan* panoksistaan laittaa vaihtoehdolle ja kuinka paljon se on *suhteessa* toiseen (eikä suoraan, kuinka *monta* palikkaa tälle laittaa).
+
+Alla on vielä uudestaan aiempi kuva.
 
 ![Odotukset testin tuloksille](Kuvat/bayes_2-1.jpg)
 
@@ -100,17 +104,17 @@ Selvä: Aluksi todennäköisyyksien suhde oli 4 : 1. Testillä saamme 2 : 1 verr
 
 8 : 1.
 
-Vastauksen todella saa *vain kertomalla suhteet keskenään*.
+Vastauksen todella saa *vain kertomalla suhteet keskenään* -- niin tässä tapauksessa kuin yleisesti.
 
 Miksi? Tämä on oikeasta näkökulmasta katsottuna tavallaan itsestäänselvyys, mutta tämän oikean näkökulman löytäminen ei välttämättä ole ilmeistä. Yritän selittää:
 
 Alussa kutakin oikealla olevaa "muu"-selityksen palikkaa kohden vasemmalta "rasitus"-selitykseltä löytyy 4 palikkaa. Vasen puoli on siis neljä kertaa niin "painava" kuin oikea puoli (kun ajatellaan kullakin palikalla olevan sama paino). Sitten testaamme. Palikoita katoaa. Vasemmalle puolelle jää *suhteessa* kaksinkertainen määrä palikoita, jolloin siitä tulee suhteessa vielä kaksi kertaa aiempaa painavampi oikeaan nähden. Yhteensä tämä vastaa kahdeksankertaista eroa.
 
-Taas, oleellista ei ole kuinka "painava" puoli on *absoluuttisesti* vaan *suhteessa toiseen puoleen*.
+Vielä kerran, oleellista ei ole kuinka painava puoli on *absoluuttisesti* vaan *suhteessa toiseen puoleen*.
 
-Näillä työkaluilla koko prosessin voi tiivistää muutamaan virkkeeseen ja tarvittavan päättelyn tehdä mielessään ilman paperia.
+Näillä työkaluilla koko prosessin voi tiivistää muutamaan virkkeeseen:
 
-"Silmääni koskee. Keksin muutamia selityksiä, mutta lukemisen aiheuttama rasitus vaikuttaa ilmeisimmältä syyltä -- annan sille vaikka 80% todennäköisyyden. Hetkinen, voin testata asiaa. Lukemisselitys antaa huomattavasti eri ennustuksia koskien vasemman silmän dominanttiutta kuin muut selitykset: lukemisselitys vihjaa hyvin vahvasti vasemman silmän olevan vahvempi, muut selitykset taas antavat 50%-50% -ennustuksen. Testataan. Tadaa, vasen silmä todella oli dominantti! Siis alunperin todennäköisyydet olivat 4 : 1, sain evidenssiä suunnilleen 2 : 1 verran, joten uudet todennäköisyydet ovat noin 8 : 1, eli siis 8/9 ja 1/9. Tämä tarkoittaa noin 89% todennäköisyyttä rasitusselitykselle."
+"Silmääni koskee. Keksin muutamia selityksiä, mutta lukemisen aiheuttama rasitus vaikuttaa ilmeisimmältä syyltä -- annan sille vaikka 80% todennäköisyyden. Hetkinen, voin testata asiaa. Lukemisselitys antaa huomattavasti eri ennustuksia koskien vasemman silmän dominanttiutta kuin muut selitykset: lukemisselitys vihjaa hyvin vahvasti vasemman silmän olevan vahvempi, muut selitykset taas antavat 50%-50% -ennustuksen. Testataan. Tadaa, vasen silmä todella oli vahvempi! Siis alunperin todennäköisyydet olivat 4 : 1, sain evidenssiä suunnilleen 2 : 1 verran, joten uudet todennäköisyydet ovat noin 8 : 1, eli siis 8/9 ja 1/9. Tämä tarkoittaa noin 89% todennäköisyyttä rasitusselitykselle."
 
 (Tämä vastaa ajatusprosessia, joka minulla oikeasti tapahtui asiaa miettiessäni.)
 

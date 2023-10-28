@@ -10,13 +10,13 @@ Kumpi on todennäköisempää?
 
 2. Linda on pankkivirkailija ja aktiivinen feministiliikkeessä."
 
-Kirjassaan "Thinking, Fast and Slow" Daniel Kahneman kirjoittaa, että "Noin 85%-90% kanditason opiskelijoista useissa yliopistoissa valitsivat toisen vaihtoehdon".
+Kirjassaan "Thinking, Fast and Slow" Daniel Kahneman kirjoittaa "Noin 85%-90% kanditason opiskelijoista useissa yliopistoissa valitsivat toisen vaihtoehdon".
 
-Varmuuden vuoksi toistan: hyvin suuri osa ihmisistä arvioi väitteen muotoa "A ja B" olevan todennäköisempi kuin väite "A".
+Varmuuden vuoksi toistan: hyvin suuri osa ihmisistä (tarkalleen, yliopisto-opiskelijoista) arvioi väitteen muotoa "A ja B" olevan todennäköisempi kuin väite "A".
 
-Tuloksiin voi reagoida parilla tavalla. Yksi on ajatella että "No mitä ihmettä, mistä tuo johtuu?", muuttaa uskomuksiaan uuden tiedon valossa, miettiä onko tämä merkki jostakin suuremmasta ongelmasta, lukea jospa ongelman syitä tiedetään ja reflektoida, jospa omista ajatuksista voisi mahdollisesti löytyä samantyyppistä ongelmaa.
+Tuloksiin voi reagoida parilla tavalla. Yksi on ajatella että "No mitä ihmettä, mistä tuo johtuu?", muuttaa uskomuksiaan uuden tiedon valossa, miettiä onko tämä merkki jostakin suuremmasta ongelmasta, lukea jos ongelman syitä tiedetään ja reflektoida, jos omista ajatuksista voisi mahdollisesti löytyä samantyyppistä ongelmaa.
 
-Toinen reaktio on "Eihän kukaan nyt ole noin tyhmä! Tai siis, tarkoitan, että ehkä he ymmärsivät tehtävänannon väärin. Niin, että vaihtoehdossa 1 tarkoitetaan, että Linda on pankkivirkailija, mutta *ei* aktiivinen feministiliikkeessä." Onhan itsestäänselvyys, että väite "A" on vähintään niin todennäköinen kuin väite "A ja B" -- joten kyse on varmaan jostakin muusta?
+Toinen reaktio on "Eihän kukaan nyt ole noin tyhmä! Tai siis, tarkoitan, että ehkä he ymmärsivät tehtävänannon väärin. Niin, että vaihtoehdossa 1 tarkoitetaan, että Linda on pankkivirkailija, mutta *ei* aktiivinen feministiliikkeessä." Onhan itsestäänselvyys, että väite "A" on vähintään niin todennäköinen kuin väite "A ja B" -- joten kyse on varmaan jostakin muusta.
 
 Eli kysymys kuuluu: *Onko* kyse jostakin muusta? Tulkitsivatko vastaajat kysymyksen väärin?
 
@@ -87,7 +87,7 @@ It doesn't excuse the subjects if they "misinterpreted" the experimental instruc
 
 Pääsemme sitten varsinaiseen pointtiin. Mainittu jälkimmäinen reaktio, siis "ehkä ihmiset vain tulkitsivat tehtävänannon väärin", on varsin kohtelias: ihmisillä ei oikeasti ole konjunktioharhaa, vaan väärä vastaus johtuu muista syistä.
 
-Tässä tapauksessa kohtelias tulkinta on väärä. Ihmiset todella eivät hahmota, että konjunktiivisten väitteiden todennäköisyydet ovat pienempiä. Aivoissa todella on jotakin vialla.
+Tässä tapauksessa kohtelias tulkinta on väärä. Ihmiset todella eivät hahmota, että konjunktiivisten väitteiden todennäköisyydet ovat pienempiä. Ihmisaivoissa todella on jotakin vialla.
 
 Minusta tuntuu, että tällaista sattuu yleisemminkin: ihmisillä on taipumusta tehdä liian kohteliaita tulkintoja.
 
@@ -107,7 +107,7 @@ On toki hyvä miettiä vähintään kahta erilaista selitystä, mutta kyse on si
 
 "Mutta yleisesti on hyvä, jos ihmiset käyttäytyvät kohteliaasti toisiaan kohtaan." Ääni alkaa kuulostaa kovin [sovintoon pyrkivältä](https://ollij.fi/epi/haitallinen_sovinnollisuus).
 
-Olen samaa mieltä (kuten [voisi kuvitella](https://ollij.fi/epi/reflektointi)). "Näe ankarasti, käyttäydy lempeästi", kuuluu sanonta. "Mitä uskomuksia minulla on?" ja "Miten minun kannattaa toimia näiden uskomusten valossa?" ovat kovin eri asioita. Vaikka väitteet "liian kohteliaiden tulkintojen rationalisointi on huono" ja "kohteliaasti käyttäytyminen on huono" voivat [äkkiseltään kuulostaa samoilta](https://ollij.fi/epi/sumuiset_ajatukset), ne eivät sitä ole ja satun pitämään niistä toista oikeana ja toista vääränä.
+Olen samaa mieltä (kuten [voisi kuvitella](https://ollij.fi/epi/reflektointi)). "Mitä uskomuksia minulla on?" ja "Miten minun kannattaa toimia näiden uskomusten valossa?" ovat kovin eri asioita. Vaikka väitteet "liian kohteliaiden tulkintojen rationalisointi on huono" ja "kohteliaasti käyttäytyminen on huono" voivat [äkkiseltään kuulostaa samoilta](https://ollij.fi/epi/sumuiset_ajatukset), ne eivät sitä ole ja satun pitämään niistä toista oikeana ja toista vääränä.
 
 Näkökulma "kun uskotaan ihmisistä vähän parempaa kuin mitä he ovat, niin ihmisillä on kivempaa" on hölynpölyä ei pelkästään siksi, että ystävällinen voi olla uskomusten ollessa muunlaisiakin, vaan myös siksi, että *uskomuksilla on seurauksia*. Jos uskoo liian hyvää, niin voi päätyä asettamaan [vilpittömän luottonsa](https://ollij.fi/epi/kerran_luotin) asioihin, jotka eivät ole vilpittömän luottamuksen arvoisia. Ehkä [kokonaisuudessaan](https://ollij.fi/epi/yksi_muuttuja) epätotuudenmukaiset uskomukset johtavat siihen, että ihmisillä *ei olekaan* niin kivaa.
 

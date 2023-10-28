@@ -26,15 +26,15 @@ Bellan väite on taas kirjaimellisesti tulkittuna tosi. Hänellä on varmaankin 
 
 Mutta mikä?
 
-Ensimmäinen mahdollinen ongelma Bellan kommentissa on se, jos tällaista kiinnostavampaa pointtia ei oikeastaan ole. Aiheesta keskustellaan eteenpäin ja yritetään kaivaa, mitä mieltä Bella on, ja hänellä ei oikeastaan ole mitään erityistä mielipidettä. Hän vain esitti tällaisen huomion.
+Ensimmäinen mahdollinen ongelma on se, jos tällaista kiinnostavampaa pointtia ei oikeastaan ole. Aiheesta keskustellaan eteenpäin ja yritetään kaivaa, mitä mieltä Bella on, ja hänellä ei oikeastaan ole mitään erityistä mielipidettä. Hän vain esitti tällaisen huomion. Sehän on selvästi tosi.
 
 Toinen ongelma: entä jos Anna on väitteen kanssa eri mieltä? Ei siis tietenkään kirjaimellisen tulkinnan kanssa, vaan niiden kiinnostavampien pointtien kanssa, joita Bella yrittää välittää. Tai ehkä Anna on *joidenkin* (muttei kaikkien) luontevien tulkintojen kanssa eri mieltä. Mitä Anna voi tehdä?
 
 Sanoa "olen eri mieltä"? Vaikuttaa huonolta idealta, koska taas, väite on kirjaimellisesti tulkittuna tosi.
 
-Vastata johonkin luontevaan tulkintaan, miksi on sen kanssa eri mieltä? Kuulostaa siltä, että Bella tulee vastaamaan "tuo ei ole minun pointtini".
+Vastata johonkin luontevaan tulkintaan, miksi on sen kanssa eri mieltä? Kuulostaa siltä, että Bella tulee vastaamaan "tuo ei ole minun pointtini". Tai päädytään muuten puhumaan ristiin.
 
-Pyytää tarkennusta? Hyvällä tuurilla keskustelu etenee taas spesifimpiin väitteisiin. Vaihtoehtoisesti voi saada toisean ympäripyöreän matalan informaation väitteen. Tai ehkä tosiaan Bellalla ei ollut mitään erityistä mielipidettä ja ei ole mitään tarkennettavaa.
+Pyytää tarkennusta? Hyvällä tuurilla keskustelu etenee taas spesifimpiin väitteisiin. Vaihtoehtoisesti voi saada toisean ympäripyöreän väitteen. Tai ehkä tosiaan Bellalla ei ollut mitään erityistä mielipidettä ja ei ole mitään tarkennettavaa.
 
 (Ja entä jos aihe olisikin ollut toinen, ja Bella olisi sanonut "maailmassa on miljoonia köyhiä samalla kun rikkaat omistavat kartanoita"? Väite on kirjaimellisesti tosi -- maailmassa on miljoonia köyhiä, maailmassa on rikkaita ihmisiä jotka omistavat kartanoita, teknisesti nämä tapahtuvat samaan aikaan -- mutta sillä luodaan tietynlainen mielikuva, vihjataan joitakin muita asioita, jotka kuitenkin jäävät epäselviksi ja joita on siten vaikea käsitellä.)
 

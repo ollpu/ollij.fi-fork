@@ -29,15 +29,18 @@ label((x - w/2, -1.8), scale(0.55)*"(20 palikkaa)");
 
 label((w/4, h*0.9), scale(0.8)*"vahva = vasen");
 label((w/4, h*0.7), scale(0.55)*"(80 palikkaa)");
+label((w/4, h*0.55), scale(0.5)*"(100\% selityksen palikoista)");
 
 label((3*w/4, h*0.9), scale(0.8)*"vahva = oikea");
 label((3*w/4, h*0.7), scale(0.55)*"(0 palikkaa)");
+label((3*w/4, h*0.55), scale(0.5)*"(0\% selityksen palikoista)");
 
 label((x - 3*w/4, h*0.9), scale(0.8)*"vahva = vasen");
 label((x - 3*w/4, h*0.7), scale(0.55)*"(10 palikkaa)");
+label((x - 3*w/4, h*0.55), scale(0.5)*"(50\% selityksen palikoista)");
 label((x - w/4, h*0.9), scale(0.8)*"vahva = oikea");
 label((x - w/4, h*0.7), scale(0.55)*"(10 palikkaa)");
-
+label((x - w/4, h*0.55), scale(0.5)*"(50\% selityksen palikoista)");
 
 for(int t = 0; t <= 1; ++t) {
 	for(int y = 1; y <= 2; ++y) {

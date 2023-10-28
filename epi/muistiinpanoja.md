@@ -80,7 +80,7 @@ Tässä tekstissä käsitellään hieman useampia aiheita. Lista ei tosiaankaan 
 - Yudkowsky: [What is Evidence?](https://www.readthesequences.com/What-Is-Evidence), [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence), ja oikeastaan yleisemmin [Noticing Confusion](https://www.readthesequences.com/Noticing-Confusion-Sequence) -tekstit.
 - Päivityksen ja vastapäivityksen laki on hieman tekninen ja hankala. Lisää aiheesta: Yudkowskyn [Conservation of Expected Evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), Scott Garrabrantin [Yes requires the possibility of No](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no), Abram Demskin [Mistakes with Conservation of Expected Evidence](https://www.lesswrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence)
 
-## Odotusarvosta ja epävarmuudesta
+## Odotusarvo ja epävarmuus
 
 Camillan esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta tulee mitata todennäköisyyksillä ja toisekseen sen, että preferenssejä ja epävarmuutta tulee käsitellä odotusarvojen kautta. Ensimmäinen näistä tuloksista kulkee nimellä [Cox's theorem](https://en.wikipedia.org/wiki/Cox%27s_theorem) ja toinen nimellä [von Neumann–Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
 
