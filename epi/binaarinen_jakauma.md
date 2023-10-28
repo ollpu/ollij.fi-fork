@@ -26,4 +26,4 @@ Ensinnäkin jakaumia on kognitiivisesti työläämpää käsitellä. On niin hel
 
 Toiseksi saamassamme informaatiossa on vahvaa suodatusta: kuulemme paljon todennäköisemmin todella hyväkuntoisista kuin keskiverrommista ihmisistä (puhuttaessa kunnosta) verrattuna heidän määrään. Kilpailuissa etsitään parhaita ja heistä on kiinnostavampaa puhua. Seuraus: on ne hyväkuntoiset ihmiset joista aina puhutaan, ja sitten on me tavalliset tallaajat. Muistimme, ihmisten puheiden ja median tarjoama data ei ole *representatiivista*.
 
-Toivon, että tästä eteenpäin et enää ole sellainen ihminen, joka ylikäyttää binäärisiä kategorioita.
+Pyrin itse olemaan yksi heistä, jotka käyttävät jakaumia sopivasti.
