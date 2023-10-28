@@ -24,7 +24,7 @@
 - [Uskomusten muutos](https://ollij.fi/epi/uskomusten_muutos)
 - [Miksi todennäköisyydet?](https://ollij.fi/epi/miksi_todennakoisyydet)
 - [Epävarmuutta ja epäonnistumisia I](https://ollij.fi/epi/epa_I)
-- [Odotusarvosta ja epävarmuudesta](https://ollij.fi/epi/odotusarvosta)
+- [Odotusarvosta ja epävarmuudesta](https://ollij.fi/epi/odotusarvo)
 - [Epävarmuutta ja epäonnistumisia II](https://ollij.fi/epi/epa_II)
 - [Kunnolla tehty todennäköisyyslaskenta](https://ollij.fi/epi/kunnolla)
 - [Mihin matematiikkaa tarvitaan?](https://ollij.fi/epi/mihin_matematiikkaa)
