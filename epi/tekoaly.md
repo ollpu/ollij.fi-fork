@@ -16,4 +16,6 @@ Näiden syiden vuoksi linkkaan lisäksi muita paikkoja, joiden kautta pääsee p
 - [Robert Miles](https://www.youtube.com/@RobertMilesAI) (videoita)
 - [AI Safety Fundamentals](https://course.aisafetyfundamentals.com/alignment) (kurssi)
 
-Ja asiat ovat vaikeita. Ihmiset ovat eri mieltä asioista. Vaikeat ongelmat ovat sellaisia.
+Ja, no, osaat varmaan itsekin käyttää nettiä ja etsiä itsellesi sopivia materiaaleja.
+
+Huomautan, että ihmiset ovat eri mieltä monista aiheeseen liittyvistä kysymyksistä. Vaikeat ongelmat ovat sellaisia.
