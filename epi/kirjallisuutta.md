@@ -2,9 +2,9 @@
 
 Muutamia materiaaleja, joita suosittelen tekstieni teemoihin liittyen.
 
-Minulla on myös [tekstikohtaisia viitteitä ja kommentteja](https://ollij.fi/epi/Muistiinpanoja).
+Minulla on myös [tekstikohtaisia viitteitä ja kommentteja](https://ollij.fi/epi/muistiinpanoja).
 
-Tämä on varmaan se kohta, jossa sanotaan "on näissä materiaaleissa huonotkin puolensa" tai "en ole kaikkien kanssa samaa mieltä" tai [muuta vastaavaa](https://ollij.fi/epi/matala_informaatio). No, siinä. Pidän näitä silti niin hyvinä, että suosittelen niitä muille.
+Tämä on varmaan se kohta, jossa sanotaan "on näissä teksteissä huonotkin puolensa" tai "en ole kaikkien kanssa kaikesta samaa mieltä" tai [muuta vastaavaa](https://ollij.fi/epi/matala_informaatio). No, siinä. Pidän näitä silti niin hyvinä, että suosittelen niitä muille.
 
 ## Yleistä
 

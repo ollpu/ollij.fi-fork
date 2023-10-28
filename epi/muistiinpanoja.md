@@ -1,30 +1,30 @@
 # Muistiinpanoja
 
-## Jakaumat ovat leveitä
+## [Jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat)
 
 Inspiraationa toimi Scott Alexanderin "[Generalizing from One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example)", jossa käsitellään syvemmin yhtä tekijää, joka saa ihmisiä aliarvioimaan jakaumien leveyttä.
 
-## Matalan informaation väitteet
+## [Matalan informaation väitteet](https://ollij.fi/epi/matala_informaatio)
 
 Inspiraationa toimi Eliezer Yudkowskyn "[The Fallacy of Gray](https://www.readthesequences.com/The-Fallacy-Of-Gray)".
 
-## Kvantifiointi
+## [Kvantifiointi](https://ollij.fi/epi/kvantifiointi)
 
 Tämä oli vaikea teksti kirjoittaa. Pointti on sinänsä itsestään selvä: kyllä, asioita voi vertailla ja laittaa järjestykseen ja lukuja voi käyttää suuruuden mittaamiseen. Silti...
 
 Minun oli vaikea keksiä hyviä esimerkkejäkään (pysyessäni kaukana [keskustelunimaisijoista](https://ollij.fi/epi/keskustelunimaisijat)). Tämä on asia, mitä tapahtuu sinänsä kaikkialla, mutta tuntuu epäreilulta valita jokin tietty silmätikuksi. "Eihän tuo nyt ole mitenkään ihmeellinen esimerkki, asiat vain ovat noin" ja "miten tuota nyt sitten kvantifioisi järkevästi" olisivat molemmat ihan järkeviä reaktioita. Toisaalta... tämä on vähän minun pointtini. Kvantifiointi ei ole helppoa, sitten sitä ei tehdä, tätä tapahtuu koko ajan ja välillä tästä on haittaa.
 
-## Yhden muuttujan malli
+## [Yhden muuttujan malli](https://ollij.fi/epi/yksi_muuttuja)
 
 Tämäkin oli hankala kirjoittaa. Minusta tuntuu, että ihmiset tekevät jatkuvasti hyppäyksiä muotoa "tämä asia on tuolla mittarilla hyvä, siispä se on hyvä" (vrt. [halo effect](https://en.wikipedia.org/wiki/Halo_effect)) tai juuttuvat kiinni lempimuuttujaansa ja yksinkertaisiin selityksiin.
 
 Samankaltaista ideaa selitetään Max Goodbirgin tekstissä "[Causal Explanations Considered Harmful](https://superbowl.substack.com/p/causal-explanations-considered-harmful)" (jossa on hyviä kuvia!)
 
-## Symmetrian rikkominen, yleispätevät vasta-argumentit ja niin edelleen
+## [Symmetrian rikkominen, yleispätevät vasta-argumentit ja niin edelleen](https://ollij.fi/epi/symmetrian_rikkominen)
 
 Inspiraationa toimi Yudkowskyn teksti [Local Validity as a Key to Sanity and Civilization](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization). Yudkowsky käsittelee isompaa pointtia, minä tyydyin puhumaan vain peruspointista "tosillekin väitteille on huonoja argumentteja; huonoja argumentteja ei tule hyväksyä, vaikka ne tukevat omaa joukkuetta; argumentin hyvyyttä voi tutkia erikseen väitteen totuudenmukaisesta".
 
-## Ilmeiset ohjeet
+## [Ilmeiset ohjeet](https://ollij.fi/epi/ilmeiset_ohjeet)
 
 Tämä teksti ja laajemmin koko Itsestäänselvyyksiä-osio tuntuvat minusta kokoelman ytimeltä, siltä, minkä päälle kaikki muut rakentuvat.
 
@@ -46,17 +46,17 @@ Stefan Schubertin "[The most basic rationality techniques are often neglected](h
 
 Lisäisin vielä ensimmäiseen pointtiin liittyen "älä sano asioita, joihin et usko".
 
-## Liian kohteliaat tulkinnat
+## [Liian kohteliaat tulkinnat](https://ollij.fi/epi/kohteliaat_tulkinnat)
 
 Vasta jonkin verran konseptia kehiteltyäni ja tekstiä kirjoitettuani tajusin, että Yudkowskyn "[Conjunction Controversy (Or, How They Nail It Down)](https://www.lesswrong.com/posts/cXzTpSiCrNGzeoRAz/conjunction-controversy-or-how-they-nail-it-down)" käsittelee juuri konjunktioharhaa ja varoittaa näistä liian kohteliaista tulkinnoista (vieläpä käyttäen sanaa "charitable"). Noh. Täältä ajatus varmaan pitkälti oli lähtöisin. Suosittelen tekstiä.
 
-## Sumuiset ajatukset
+## [Sumuiset ajatukset](https://ollij.fi/epi/sumuiset_ajatukset)
 
 Tuntui hyvältä saada tälle konseptille jokin nimi. Vaikka sumuisuuden *syyt* ovat moninaisia ja se ilmenee monella eri tavalla, pidän termiä hyödyllisenä.
 
 Olen myös tykästynyt termiin [substituutio](https://en.wikipedia.org/wiki/Attribute_substitution): kun ihmiset käsittelevät jotakin vaativaa ja korvaavat sen jollakin hieman toisella. (Wikipedia-sivulla on muutama hyvä esimerkki.) Eräs klassikkoesimerkki koskee asian *todennäköisyyden* korvaamista sen *representatiivisuudella* (vrt. konjunktioharha). Wikipedia-sivu [representatiivisuusheuristiikasta](https://en.wikipedia.org/wiki/Representativeness_heuristic) käsittelee aihetta laajemmin.
 
-## Probabilistinen ajattelu
+## [Probabilistinen ajattelu](https://ollij.fi/epi/probabilistinen_ajattelu)
 
 Scott Alexanderin teksti [On first looking into Chapman’s “Pop Bayesianism”](https://slatestarcodex.com/2013/08/06/on-first-looking-into-chapmans-pop-bayesianism/) on hyvä toinen selitys probabilistisen ajattelun hyödyllisyydestä.
 
@@ -64,15 +64,15 @@ Saatat tunnistaa siitä jotakin omista teksteistäni tuttuja aiheita, kuten itse
 
 (Painottaisin vielä, että numeeristen arvojen pyöritteleminen ei ole oleellisin pointti. Tästä lisää myös [toisaalla](https://ollij.fi/epi/miksi_todennakoisyydet).)
 
-## Uskomusten muutos
+## [Uskomusten muutos](https://ollij.fi/epi/uskomusten_muutos)
 
 Toisin sanoen: Bayesin kaava.
 
 Netti on pullollaan selityksiä Bayesin kaavalle. Harva tuntuu oikeasti selittävän intuitioita kaavan taustalla. Suuri osa tuntuu olevan vahvasti matematiikkatilassa, jossa lausekkeita ja lukuja vain pyöritellään ympäriinsä (ilman, että oikein ymmärretään mitä tapahtuu). Pyrin tämän vuoksi selittämään idean mahdollisimman yksinkertaisilla laskuilla ja ilman notaatiota.
 
-Muita materiaaleja: Kuten usein, 3Blue1Brown-kanavan selitykset ovat hyviä: [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM). Myös Arbital-sivuston selitys on paremmasta päästä: [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq).
+Kuten usein, 3Blue1Brown-kanavan selitykset ovat hyviä: [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM). Myös Arbital-sivuston selitys on paremmasta päästä: [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq).
 
-## Miksi todennäköisyydet?
+## [Miksi todennäköisyydet?](https://ollij.fi/epi/miksi_todennakoisyydet)
 
 Tässä tekstissä käsitellään hieman useampia aiheita. Lista ei tosiaankaan ole kaikenkattava ja asioita voi selittää eri tavoilla. Tässä joitakin tekstejä, joista olen itse hyötynyt:
 
@@ -80,31 +80,31 @@ Tässä tekstissä käsitellään hieman useampia aiheita. Lista ei tosiaankaan 
 - Yudkowsky: [What is Evidence?](https://www.readthesequences.com/What-Is-Evidence), [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence), ja oikeastaan yleisemmin [Noticing Confusion](https://www.readthesequences.com/Noticing-Confusion-Sequence) -tekstit.
 - Päivityksen ja vastapäivityksen laki on hieman tekninen ja hankala. Lisää aiheesta: Yudkowskyn [Conservation of Expected Evidence](https://www.readthesequences.com/Conservation-Of-Expected-Evidence), Scott Garrabrantin [Yes requires the possibility of No](https://www.lesswrong.com/posts/G5TwJ9BGxcgh5DsmQ/yes-requires-the-possibility-of-no), Abram Demskin [Mistakes with Conservation of Expected Evidence](https://www.lesswrong.com/posts/zTfSXQracE7TW8x4w/mistakes-with-conservation-of-expected-evidence)
 
-## Odotusarvo ja epävarmuus
+## [Odotusarvo ja epävarmuus](https://ollij.fi/epi/odotusarvo)
 
-Camillan esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta tulee mitata todennäköisyyksillä ja toisekseen sen, että preferenssejä ja epävarmuutta tulee käsitellä odotusarvojen kautta. Ensimmäinen näistä tuloksista kulkee nimellä [Cox's theorem](https://en.wikipedia.org/wiki/Cox%27s_theorem) ja toinen nimellä [von Neumann–Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
+Camilla esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta tulee mitata todennäköisyyksillä ja toisekseen sen, että preferenssejä ja epävarmuutta tulee käsitellä odotusarvojen kautta. Ensimmäinen näistä tuloksista kulkee nimellä [Cox's theorem](https://en.wikipedia.org/wiki/Cox%27s_theorem) ja toinen nimellä [von Neumann–Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
 
-On tosin muitakin tällaisia *koherenssiteoreemoja*, kuten [Dutch book](https://en.wikipedia.org/wiki/Dutch_book) ja Abraham Waldin [Complete class theorem](https://doi.org/10.1214/aoms/1177730345).
+On tosin muitakin tällaisia *koherenssiteoreemoja*, kuten [Dutch book](https://en.wikipedia.org/wiki/Dutch_book) ja Abraham Waldin [Complete class theorem](https://doi.org/10.1214/aoms/1177730345). Johtopäätös on samanhenkinen: uskomuksia tulee mitata todennäköisyyksillä ja preferenssejä käsitellä odotusarvojen kautta, tai muuten käy huonosti.
 
 Nämä asiat ovat tosin hieman monimutkaisempia kuin mitä Camilla antaa ymmärtää. Odotusarvon maksimoiminen tuntuu johtavan reunatapauksissa epäintuitiivisiin tuloksiin -- enkä tarkoita tällä tilanteita, joissa pelataan absurdin suurista rahasummista (raha tai edes onnellisuus kun eivät vastaa ihmisen [arvoja](https://ollij.fi/epi/filosofiatila), toisin kuin Anna vihjasi). Nämä reunatapaukset ovat kuitenkin enemmän tai vähemmän [filosofisia ajatusleikkejä](https://ollij.fi/epi/filosofiatila), joten en juutu niihin tässä.
 
-## Kunnolla tehty todennäköisyyslaskenta
+## [Kunnolla tehty todennäköisyyslaskenta](https://ollij.fi/epi/kunnolla)
 
-"Evidenssin poissaolo on evidenssiä poissaololle" saattaa kuulostaa jonkun korvaan väärältä -- tässä tapauksessa katso yllä linkattu [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence).
+"Evidenssin poissaolo on evidenssiä poissaololle" saattaa kuulostaa jonkun korvaan väärältä -- tässä tapauksessa katso [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence) (Yudkowsky).
 
 Käsittelin tässä kritiikkiä koskien tiedettä varsin lyhyesti. Lisää aiheesta löytyy tekstistäni "[Kerran luotin](https://ollij.fi/epi/kerran_luotin)" ja sen muistiinpanoista.
 
-## Filosofiatila ja ajatusleikit
+## [Filosofiatila ja ajatusleikit](https://ollij.fi/epi/filosofiatila)
 
-Olen miettinyt ja lukenut "filosofiaa" koskevia aiheita, ja näihin on sisältynyt varsin paljon kritiikkiä koskien sitä, mitä usein mielletään filosofiaksi. Yksi ajatuksiini vaikuttanut teksti, David Stoven "[What is Wrong with Our Thoughts?](https://web.maths.unsw.edu.au/~jim/wrongthoughts.html)" on... suorasanaisempi kuin itse kehtasin olla.
+Olen miettinyt ja lukenut "filosofiaa" koskevia aiheita, ja näihin on sisältynyt varsin paljon kritiikkiä koskien sitä, mitä usein mielletään filosofiaksi. Yksi ajatuksiini vaikuttanut teksti, David Stoven "[What is Wrong with Our Thoughts?](https://web.maths.unsw.edu.au/~jim/wrongthoughts.html)" on suorasanaisempi kuin itse kehtasin olla.
 
-## Keskustelunimaisijat
+## [Keskustelunimaisijat](https://ollij.fi/epi/keskustelunimaisijat)
 
 Yudkowskyn "[Politics is the Mind-Killer](https://www.readthesequences.com/Politics-Is-The-Mind-Killer)" käsittelee samankaltaisia ideaa. Kyse ei kuitenkaan ole vain politiikasta (edes laajasti miellettynä).
 
-Joku voisi käyttää samalle konseptille nimitystä "meemi", mutta ihmisille tulee tästä sanasta mieleen hyvin eri asioita (jotka eivät välttämättä vastaa sanan alkuperäistä tarkoitusta), enkä tarkoita hyvällä tavalla. "Keskustelunimaisija" on kuvaavampi.
+Joku voisi käyttää samalle konseptille nimitystä "meemi", mutta ihmisille tulee tästä sanasta mieleen hyvin eri asioita (jotka eivät välttämättä vastaa sanan alkuperäistä tarkoitusta), enkä tarkoita tätä hyvällä tavalla. "Keskustelunimaisija" on kuvaavampi.
 
-## Helpot maalitaulut
+## [Helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut)
 
 Tämä on hyvä tilaisuus esittää pahoitteluni kaikille heille, joiden puheita olen teksteissäni käyttänyt esimerkkeinä huonosta epistä. Toivottavasti tekstin luettuanne ymmärrätte, miksi todella halusin puhua oikeista tilanteista enkä vain hypoteettisia "joku voisi ajatella näin" -esimerkkejä. Eikä siinä ole mitään henkilökohtaista -- päinvastoin, pointti on nimenomaan se, että nämä ovat yleisiä ilmiöitä (eikä vain tuttavapiirini ominaisuuksia).
 
@@ -114,50 +114,49 @@ Scott Alexanderin tekstissä "[The Cowpox of Doubt](https://slatestarcodex.com/2
 
 "The more we concentrate on homeopathy, and moon hoaxes, and creationism – the more people who have never felt any temptation towards these beliefs go through the motions of “debunk”-ing them a hundred times to one another for fun – the more we are driving home the message that these are a representative sample of the kinds of problems we face."
 
-## Status
+## [Status](https://ollij.fi/epi/status)
 
 Simlerin ja Hansonin "The Elephant in the Brain" käsittelee statusta ja vastaavia aiheita kirjan edestä.
 
-## Reflektointikyky
+## [Reflektointi](https://ollij.fi/epi/reflektointi)
 
-Reflektiokykyä ja toisten näkemysten ymmärtämistä voi testata [ideologisella Turingin testillä](https://www.lesswrong.com/tag/ideological-turing-tests). Testissä tavoitteena on kyetä esittää vastakkaisen osapuolen näkemys niin, ettei hän pystyisi erottamaan sinua henkilöstä, joka oikeasti uskoo tähän vastakkaiseen näkemykseen. (Nimi tulee Turingin testistä, jossa tietokone yrittää vakuuttavasti esittää ihmistä.)
+Toisten näkemysten ymmärtämistä voi testata [ideologisella Turingin testillä](https://www.lesswrong.com/tag/ideological-turing-tests). Testissä tavoitteena on kyetä esittää vastakkaisen osapuolen näkemys niin, ettei hän pystyisi erottamaan sinua henkilöstä, joka oikeasti uskoo tähän vastakkaiseen näkemykseen. (Nimi tulee Turingin testistä, jossa tietokone yrittää vakuuttavasti esittää ihmistä.)
 
-## Vakuuttamisesta
+## [Vakuuttamisesta](https://ollij.fi/epi/vakuuttamisesta)
 
 Osat koskien helppojen argumenttien kumoamista saivat minut ajattelemaan seuraavaa tekstiä (taas Scott Alexanderilta): "[Weak Men Are Superweapons](https://slatestarcodex.com/2014/05/12/weak-men-are-superweapons/)".
 
-## Suullinen kommunikaatio on lokaalia
+## [Suullinen kommunikaatio on lokaalia](https://ollij.fi/epi/lokaali_kommunikaatio)
 
 Samankaltaisia ideoita on käsitelty Yudkowskyn "[Expecting Short Inferential Distances](https://www.readthesequences.com/Expecting-Short-Inferential-Distances)"-tekstissä.
 
-## Sanoista ja konsepteista
+## [Sanoista ja konsepteista](https://ollij.fi/epi/sanoista)
 
 Paljon enemmän koskien kieltä: "[A Human's Guide to Words](https://www.readthesequences.com/A-Humans-Guide-To-Words-Sequence)" (Yudkowsky).
 
-## Työkalujen väärinkäyttö
+## [Työkalujen väärinkäyttö](https://ollij.fi/epi/tyokalujen_vaarinkaytto)
 
 Ja muista: [sinulla on oikeus ajatella](https://thezvi.wordpress.com/2017/11/27/you-have-the-right-to-think/) (Zvi Mowshowitz).
-9661318
 
-## Tehokkaan maailman hypoteesi
+## [Tehokkaan maailman hypoteesi](https://ollij.fi/epi/tehokas_maailma)
 
-Yudkowskyn kirja "[Inadequate Equilibria](https://equilibriabook.com/)" käsittelee vastaavaa teemaa.
+Yudkowskyn kirja "[Inadequate Equilibria](https://equilibriabook.com/)" käsittelee vastaavaa teemaa laajemmin.
 
-## Negatiivisuus ja status quon puolustajat
+## [Negatiivisuus ja status quon puolustajat](https://ollij.fi/epi/negatiivisuus)
 
 "[Why Our Kind Can't Cooperate](https://www.readthesequences.com/Why-Our-Kind-Cant-Cooperate)" (Yudkowsky) käsittelee vastaavia teemoja.
 
-## Insentiivit, koordinaatio ja Pareto-käyrä
+## [Insentiivit, koordinaatio ja Pareto-käyrä](https://ollij.fi/epi/insentiivit)
 
 Tämä oli ennemminkin kasa irrallisia huomioita ("katso tuonne!") kuin yhtenäinen tarina.
 
 Scott Alexanderin "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)" saa vahvan suositukseni (pituudestaan huolimatta).
 
-## Kerran luotin
+## [Kerran luotin](https://ollij.fi/epi/kerran_luotin)
 
 Lisää tiedettä koskien voi lukea esimerkiksi [Scott Alexanderilta](https://www.lesswrong.com/codex#YhQ39PPHNrRCgYXcs) tai [Yudkowskylta](https://www.readthesequences.com/Science-And-Rationality-Sequence) tai [Gwern Branwenilta](https://gwern.net/#meta-science). Ja mitä tulee ihmiskuntaan ja sen selviytymiseen: [ei ole mitään sääntöä, joka sanoo, että selviämme kyllä](https://www.youtube.com/watch?v=JD_iA7imAPs).
 
-## Epi on tärkeää
+## [Epi on tärkeää](https://ollij.fi/epi/epi_on_tarkeaa)
 
 Olen käyttänyt paljon tilaa kirjoittaakseni itse epistä ja sen parantamisesta. Epin tärkeyttä, sitä miksi välittää tästä kaikesta, käsittelen vasta lopuksi.
 
