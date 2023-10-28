@@ -84,58 +84,58 @@ Bella (epäillen): ...aivan. En ole vieläkään ihan vakuuttunut. Entä sellain
 
 \*Keskustelua etäältä seurannut Camilla astuu esiin\*
 
-**Camilla:**: Kuulostaa siltä, että on minun vuoroni puhua.
+**Camilla:** Kuulostaa siltä, että on minun vuoroni puhua.
 
 **Bella:** Jätän yllättävän ja dramaattisen sisääntulon huomiotta ja annan sinulle vuorosi puhua.
 
-**Camilla:**: Kiitos. Annalla on hyviä pointteja, mutta... häneltä tuntuu puuttuvan pohja, jolle muu päättely perustuu. Tämän vuoksi odotusarvomatematiikan yhdistäminen oikeaan maailmaan onnistui heikosti. Selitykset olivat ikään kuin "[vähän sinne päin](https://ollij.fi/epi/sumuiset_ajatukset)".
+**Camilla:** Kiitos. Annalla on hyviä pointteja, mutta... häneltä tuntuu puuttuvan pohja, jolle muu päättely perustuu. Tämän vuoksi odotusarvomatematiikan yhdistäminen oikeaan maailmaan onnistui heikosti. Selitykset olivat ikään kuin "[vähän sinne päin](https://ollij.fi/epi/sumuiset_ajatukset)".
 
-**Camilla:**: Toiminta toistetuissa peleissä on yksi motivaatio, jonka odotusarvoille voi esittää. Kieltämättä se tarjoaa hyvän intuition. En kuitenkaan pidä sitä *keskeisimpänä* tai *syvimpänä* syynä odotusarvojen tutkimiselle. Kenties fundamentaalein syy on, että *koherenteista preferensseistä ja uskomuksista seuraa, että eri preferensseillä on kvantifioitavat painoarvot ja vaihtoehtoja vertaillaan probabilististen odotusarvojen perusteella*.
+**Camilla:** Toiminta toistetuissa peleissä on yksi motivaatio, jonka odotusarvoille voi esittää. Kieltämättä se tarjoaa hyvän intuition. En kuitenkaan pidä sitä *keskeisimpänä* tai *syvimpänä* syynä odotusarvojen tutkimiselle. Kenties fundamentaalein syy on, että *koherenteista preferensseistä ja uskomuksista seuraa, että eri preferensseillä on kvantifioitavat painoarvot ja vaihtoehtoja vertaillaan probabilististen odotusarvojen perusteella*.
 
 **Bella:** Preferoisin hitaampaa selitystä.
 
 **Anna:** Kuin myös.
 
-**Camilla:**: Se ei ole ihan lyhyt tarina. Tällaisia aiheita on [vaikea kommunikoida suullisesti](https://ollij.fi/epi/lokaali_kommunikaatio), mutta voin yrittää, kunhan sallitte minulle pari minuuttia monologiaikaa.
+**Camilla:** Se ei ole ihan lyhyt tarina. Tällaisia aiheita on [vaikea kommunikoida suullisesti](https://ollij.fi/epi/lokaali_kommunikaatio), mutta voin yrittää, kunhan sallitte minulle pari minuuttia monologiaikaa.
 
-**Camilla:**: Annan selityksessä *oletettiin*, että asioita voi verrata toisiinsa kvantitatiivisesti -- että toinen asia on kolme kertaa niin huono kuin ensimmäinen -- ja sitten todettiin, että eri vaihtoehtoja ja preferenssejä kannattaa painottaa odotusarvon mukaan. Kuten Bella huomautti, tämä ei ole vielä kovin tyydyttävä selitys: miksi olettaa ylipäätään, että asioita voi verrata kvantitatiivisesti? Myös perustelu koskien odotusarvoja toistettujen pelien kautta jättää epäilyksiä koskien sitä, mikä on "uniikki" tilanne ja mikä "toistettu".
+**Camilla:** Annan selityksessä *oletettiin*, että asioita voi verrata toisiinsa kvantitatiivisesti -- että toinen asia on kolme kertaa niin huono kuin ensimmäinen -- ja sitten todettiin, että eri vaihtoehtoja ja preferenssejä kannattaa painottaa odotusarvon mukaan. Kuten Bella huomautti, tämä ei ole vielä kovin tyydyttävä selitys: miksi olettaa ylipäätään, että asioita voi verrata kvantitatiivisesti? Myös perustelu koskien odotusarvoja toistettujen pelien kautta jättää epäilyksiä koskien sitä, mikä on "uniikki" tilanne ja mikä "toistettu".
 
-**Camilla:**: Itse kertoisin tarinan seuraavasti.
+**Camilla:** Itse kertoisin tarinan seuraavasti.
 
 \*Camilla vetää syvään henkeä\*
 
-**Camilla:**: Sinulla on uskomuksia koskien maailmaa. Näissä uskomuksissa on epävarmuutta. Toisaalta näitä epävarmuuksia voi vertailla: pidät joitain asioita "enemmän mahdollisina" kuin toisia. Nämä uskomukset noudattavat myös joitain ilmeisiä ehtoja: esimerkiksi sama väite muotoiltuna eri tavalla on edelleen yhtä "mahdollinen", tai tilanne "sekä A että B tapahtuvat" on enintään niin "mahdollinen" kuin tilanne "A tapahtuu".
+**Camilla:** Sinulla on uskomuksia koskien maailmaa. Näissä uskomuksissa on epävarmuutta. Toisaalta näitä epävarmuuksia voi vertailla: pidät joitain asioita "enemmän mahdollisina" kuin toisia. Nämä uskomukset noudattavat myös joitain ilmeisiä ehtoja: esimerkiksi sama väite muotoiltuna eri tavalla on edelleen yhtä "mahdollinen", tai tilanne "sekä A että B tapahtuvat" on enintään niin "mahdollinen" kuin tilanne "A tapahtuu".
 
 *Ainoa* nämä (ja muutamat muut luontevat ehdot) toteuttava tapa käsitellä epävarmuutta on tavallinen todennäköisyyslaskenta. Mikä tahansa muu tapa johtaa välttämättä näiden luontevien ehtojen rikkomiseen.
 
 **Bella:** Onko tämän tarkoitus olla itsestäänselvää?
 
-**Camilla:**: Ei.
+**Camilla:** Ei.
 
 **Bella:** ...joten aiotko perustella väitettäsi?
 
-**Camilla:**: En nyt. Se on vielä pidempi tarina. Voin kyllä suositella sinulle [yhtä kirjaa](https://ollij.fi/epi/kunnolla), jossa kerrotaan tästä.
+**Camilla:** En nyt. Se on vielä pidempi tarina. Voin kyllä suositella sinulle [yhtä kirjaa](https://ollij.fi/epi/kunnolla), jossa kerrotaan tästä.
 
 **Bella:** Joka tapauksessa, olit pitämässä monologia. Epävarmuuden käsitteleminen todennäköisyyksien avulla käy järkeen. Entä ne preferenssit?
 
-**Camilla:**: Sinulla on joitakin preferenssejä: voit esimerkiksi tykätä omenasta enemmän kuin banaanista (tai siitä, ettei sinulla ole ruokaa ollenkaan). Toisaalta uskomuksesi ovat epävarmoja. Preferenssisi silti, tai nimenomaan *siksi*, ulottuvat tilanteisiin, joissa olet epävarma. Et esimerkiksi tiedä *varmasti* saavasi kaupasta omenoita (ehkä kauppa on poikkeuksellisesti kiinni tai sieltä on omenat loppu), mutta käyt silti kaupassa, koska sinun tekee mieli syödä omena ja uskot suurella todennäköisyydellä saavasi kaupasta omenan.
+**Camilla:** Sinulla on joitakin preferenssejä: voit esimerkiksi tykätä omenasta enemmän kuin banaanista (tai siitä, ettei sinulla ole ruokaa ollenkaan). Toisaalta uskomuksesi ovat epävarmoja. Preferenssisi silti, tai nimenomaan *siksi*, ulottuvat tilanteisiin, joissa olet epävarma. Et esimerkiksi tiedä *varmasti* saavasi kaupasta omenoita (ehkä kauppa on poikkeuksellisesti kiinni tai sieltä on omenat loppu), mutta käyt silti kaupassa, koska sinun tekee mieli syödä omena ja uskot suurella todennäköisyydellä saavasi kaupasta omenan.
 
 Kuten uskomuksilla, myös preferensseillä on joitain luontevia ehtoja, joita niiden olisi hyvä noudattaa. Jos esimerkiksi preferoit vaihtoehtoa A vaihtoehdon B yli ja vaihtoehtoa B vaihtoehdon C yli, niin varmaankin preferoit vaihtoehtoa A vaihtoehdon C yli. Tai jos 100% todennäköisyys saada omena on parempi kuin 100% todennäköisyys saada banaani, on varmaankin 50% todennäköisyys saada omena parempi kuin 50% todennäköisyys saada banaani (jos muissa tapauksissa et saa mitään).
 
-**Camilla:**: *Ainoa* nämä (ja muutamat muut luontevat ehdot) toteuttava tapa käsitellä prefernssejä epävarmojen vaihtoehtojen yli on odotusarvon kautta.
+**Camilla:** *Ainoa* nämä (ja muutamat muut luontevat ehdot) toteuttava tapa käsitellä prefernssejä epävarmojen vaihtoehtojen yli on odotusarvon kautta.
 
 Tarkalleen: jos uskomuksesi ja preferenssisi toteuttavat niitä koskevat luontevat ehdot, eli uskomuksesi ja toimintasi eivät ole 'ilmiselvästi huonoja', niin tästä voi *johtaa* sen, että suhteutat asioita kvantitatiivisesti toisiinsa ja maksimoit kvantitatiivisten preferenssien odotusarvoa.
 
 Ja ei, tämäkään ei ole itsestäänselvyys.
 
-**Camilla:**: Missään kohtaa emme *olettaneet*, että uskomuksesi vastaavat todennäköisyyksiä, että pystyt kvantifioimaan preferenssejäsi tai että painotat epävarmoja tilanteita niiden todennäköisyyksien suhteessa. Nämä ehdot *seuraavat* siitä, että muodostat uskomuksiasi järkevästi ja käsittelet epävarmuutta preferensseissäsi koherentisti.
+**Camilla:** Missään kohtaa emme *olettaneet*, että uskomuksesi vastaavat todennäköisyyksiä, että pystyt kvantifioimaan preferenssejäsi tai että painotat epävarmoja tilanteita niiden todennäköisyyksien suhteessa. Nämä ehdot *seuraavat* siitä, että muodostat uskomuksiasi järkevästi ja käsittelet epävarmuutta preferensseissäsi koherentisti.
 
 **Bella:** Tämä kuulostaa järkevältä -- ainakin selvästi vakuuttavammalta kuin Annan selitys. En tosin ihan vieläkään ymmärrä, mikä on se minkä odotusarvoa maksimoidaan.
 
-**Camilla:**: Sinun preferenssien toteutumista. Jos tämä vastaus ei tyydytä, niin saatat odottaa odotusarvoilta enemmän, kuin mitä niiden on tarkoitus tarjota. Nämä argumentit eivät kerro, *mitä preferenssisi ovat*. Se on sinun asiasi. Matematiikka ei sano, että sinun tulee tykätä omenoista enemmän kuin banaaneista. Sen sijaan nämä argumentit kertovat, *miten preferenssejä tulee käsitellä epävarmuuden tilassa*.
+**Camilla:** Sinun preferenssien toteutumista. Jos tämä vastaus ei tyydytä, niin saatat odottaa odotusarvoilta enemmän, kuin mitä niiden on tarkoitus tarjota. Nämä argumentit eivät kerro, *mitä preferenssisi ovat*. Se on sinun asiasi. Matematiikka ei sano, että sinun tulee tykätä omenoista enemmän kuin banaaneista. Sen sijaan nämä argumentit kertovat, *miten preferenssejä tulee käsitellä epävarmuuden tilassa*.
 
 Jos et toimi tavalla, joka vastaa odotusarvon maksimoimista, niin saat vähemmän niitä asioita, joita preferoisit saavasi enemmän. Koherenssiehtojen rikkomisella on *seurauksia*, ja ne ovat *huonoja seurauksia*.
 
 **Bella:** Hmm, ajattelinkin kysyä siitä seuraavaksi: miksi oikeastaan välitämme koherenssiehdoista? Mikä siinä menee pieleen, jos niitä rikkoo?
 
-**Camilla:**: Riippuu miten niitä rikkoo! Ihmisillä on monia eri taipumuksia, jotka saavat heidät toimimaan inkoherentisti ja minkä seurauksena he saavat vähemmän sitä mitä he haluavat. Tämä taitaa olla helpointa selittää vain antamalla muutama esimerkki, joissa ihmiset toimivat huonosti. Odotas, olen kirjoittanut tekstin aiheesta...
+**Camilla:** Riippuu miten niitä rikkoo! Ihmisillä on monia eri taipumuksia, jotka saavat heidät toimimaan inkoherentisti ja minkä seurauksena he saavat vähemmän sitä mitä he haluavat. Tämä taitaa olla helpointa selittää vain antamalla muutama esimerkki, joissa ihmiset toimivat huonosti. Odotas, olen kirjoittanut tekstin aiheesta...
