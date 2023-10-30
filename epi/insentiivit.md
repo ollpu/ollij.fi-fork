@@ -38,7 +38,7 @@ Jos ollaan rehellisiä, niin monella iso osa opiskelun tavoitteita on tutkinnon 
 
 Tällaista toimintaa on vaikea käsittää "kouluun mennään oppimaan" -näkökulmasta, mutta se selittyy helposti seuraamalla insentiivejä: palkintonahan on työnhaussa hyödyllinen tutkinto.
 
-Insentiivit vaikuttavat tietysti myös muihin kuin opiskelijoihin. Yliopistojen rahoituksesta iso osa perustuu tutkintoihin: vuodesta 2021 alkaen](https://okm.fi/documents/1410845/4392480/Rahoitusmalli+Yliopistot.pdf/3464a1bc-3272-f5db-7361-acdcb498c661/Rahoitusmalli+Yliopistot.pdf) 42% yliopistojen rahoituksesta kohdistuu koulutukseen, mistä 71% määräytyy suoritettujen tutkintojen perusteella. (Vertailun vuoksi: "jatkuvaan oppimiseen" perustuu 12 prosenttia). Tämän näkökulman kautta esimerkiksi anekdootit, joissa opiskelijat saavat kurssisuorituksia... sanotaanko *heikoilla* näytöillä varsinaisesta osaamisesta tai oppimisesta, ovat vähemmän yllättäviä.
+Insentiivit vaikuttavat tietysti myös muihin kuin opiskelijoihin. Yliopistojen rahoituksesta iso osa perustuu tutkintoihin: [vuodesta 2021 alkaen](https://okm.fi/documents/1410845/4392480/Rahoitusmalli+Yliopistot.pdf/3464a1bc-3272-f5db-7361-acdcb498c661/Rahoitusmalli+Yliopistot.pdf) 42% yliopistojen rahoituksesta kohdistuu koulutukseen, mistä 71% määräytyy suoritettujen tutkintojen perusteella. (Vertailun vuoksi: "jatkuvaan oppimiseen" perustuu 12 prosenttia). Tämän näkökulman kautta esimerkiksi anekdootit, joissa opiskelijat saavat kurssisuorituksia... sanotaanko *heikoilla* näytöillä varsinaisesta osaamisesta tai oppimisesta, ovat vähemmän yllättäviä.
 
 ---
 
