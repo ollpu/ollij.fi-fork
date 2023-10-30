@@ -41,4 +41,4 @@ Ja etsimällä asiaa netistä löydän [Opetushallituksen tiedotteen](https://ww
 
 Nuorempana olin toistuvasti yllättynyt tämäntyyppisistä tilastoista. Sen jälkeen olen paremmin sisäistänyt sanonnan "jos olet toistuvasti yllättynyt, älä ole niin yllättynyt" ja kuinka ihmisen ja hänen tuttujensa ominaisuudet eivät todellakaan ole riippumattomia toisistaan ja kuinka, kyllä, ihmiset todella ovat erilaisia.
 
-[Kaikki mitä näet ei ole kaikki mitä on](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). Kenties kaikki kaverisi osaavat lukea ja kenties kukaan tuttusi ei nosta sataa kiloa penkistä. Siitä huolimatta jakaumilla on pitkät hännät.
+Kaikki mitä näet ei ole kaikki mitä on. Kenties kaikki kaverisi osaavat lukea ja kenties kukaan tuttusi ei nosta sataa kiloa penkistä. Siitä huolimatta jakaumilla on pitkät hännät.

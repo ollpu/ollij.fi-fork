@@ -16,7 +16,7 @@ Binäärinen jaottelu ei ole oikea näkökulma aiheeseen. Vasta kun karkea kuva 
 
 Miksi uskon näin? Joitain syitä:
 
-- Omien ajatusten (ja muiden ihmisten puheiden) reflektointi paljastaa, että käytännössä asioita tulee liian usein mietittyä asioita binääristen kategorioiden kautta.
+- Omien ajatusten (ja muiden ihmisten puheiden) reflektointi paljastaa, että käytännössä tulee liian usein mietittyä asioita binääristen kategorioiden kautta.
 - Jakaumien käsittely on opittu taito, ei jotakin, mikä ihmisillä on luonnostaan tai minkä evoluutio on meihin rakentanut. Ihmiskunnalla ei ole aina ollut tilastotieteen oppeja, vaan ne on jouduttu kehittämään.
 - Minulle tulee mieleen muutama [tunnettu](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size) "[paradoksi](https://en.wikipedia.org/wiki/Berkson%27s_paradox)" tai [ajatusvirhe](https://en.wikipedia.org/wiki/Neglect_of_probability) tilastoja koskien.
 

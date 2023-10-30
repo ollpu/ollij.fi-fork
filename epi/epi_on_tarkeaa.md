@@ -76,7 +76,7 @@ Keskityin aivan liian vähän totuudenmukaisten uskomusten muodostamiseen ja lii
 
 Tietysti minä voisin taputella itseäni selkään siitä, kuinka olin vähemmän väärässä kuin monet muut osapuolet ja siten tuudittautua ajatukseen, että toimin hyvin ja paremmin kuin muut.
 
-...mutta tämä on juuri yksi niistä syistä, minkä vuoksi epi rappeutuu. Standardi on "parempi kuin muut" (lue: voittaa väittely), ei "riittävä hyvien tulosten saamiseksi". Tekosyiden etsimistä, vastuun siirtämistä muualle, sitä että ongelma ei ollut minä vaan nuo [helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut).
+...mutta tämä on juuri yksi niistä syistä, minkä vuoksi epi rappeutuu. Rima on "parempi kuin muut" (lue: voittaa väittely), ei "riittävä hyvien tulosten saamiseksi". Tekosyiden etsimistä, vastuun siirtämistä muualle, sitä että ongelma ei ollut minä vaan nuo [helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut).
 
 Tämä on esimerkki yleisemmästä ilmiöstä, kuinka ihmiset nyökkäilevät mukana kuullessaan "epi on tärkeää" ja... eivät oikeasti pidä epiä tärkeänä. Epi on tärkeää, mutta vielä tärkempää on nuo muut jutut.
 

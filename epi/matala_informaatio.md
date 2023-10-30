@@ -50,7 +50,7 @@ Ratkaisu on omata tarkempi kuva siitä, millaisia odottaa määrien olevan ja ve
 
 Ulkopuolinen ei tietenkään voi pakottaa minua toimimaan näin. Välillä ihmiset rationalisoivat niin selkeästi, että muutkin huomaavat sen, mutta suurin osa rationalisoinnista tapahtuu piilossa pään sisällä, missä muut eivät näe. Usein sitä ei edes itse näe.
 
-Jos väitteensä muotoilee ympäripyöreästi, voi vastakkaista informaatiota saadessaan rationalisoida sumuiset ajatuksensa toisiksi: alitajuisesti todeta "tuo ei ole mitä minä tarkoitin (tai uskoin)" ja vaivihkaa muuttaa uskomuksensa johonkin muuhun samalta kuulostavaan. Puhumattakaan siitä, jos mistään ei tule *varmaa* tietoa, kukaan ei *todista* sinua vääräksi, vaan saat "vain" [probabilistista](https://ollij.fi/epi/probabilistinen_ajattelu) [*evidenssiä*](https://ollij.fi/epi/uskomusten_muutos) uskomusta vastaan -- eihän sinun silloin *täydy* muuttaa uskomustasi, vaan voit edelleen pitää kiinni vanhoista uskomuksistasi.
+Jos väitteensä muotoilee ympäripyöreästi, voi vastakkaista informaatiota saadessaan rationalisoida sumuiset ajatuksensa toisiksi: alitajuisesti todeta "tuo ei ole mitä minä tarkoitin (tai uskoin)" ja vaivihkaa muuttaa uskomuksensa johonkin muuhun samalta kuulostavaan. Puhumattakaan siitä, jos mistään ei tule *varmaa* tietoa, kukaan ei *todista* sinua vääräksi, vaan saat "vain" [probabilistista](https://ollij.fi/epi/probabilistinen_ajattelu) [*evidenssiä*](https://ollij.fi/epi/uskomusten_muutos) uskomusta vastaan -- eihän sinun silloin *täydy* muuttaa näkemyksiäsi, vaan voit edelleen pitää kiinni vanhoista uskomuksistasi.
 
 ---
 

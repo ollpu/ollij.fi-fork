@@ -24,9 +24,9 @@ Se, mitä kritisoin, on kun nämä ajatukset esitetään muodossa "hahaa, löysi
 
 Liioittelen vähän (ja tässä on vaihtelua ihmisten välillä). Joka tapauksessa olen käynyt lukuteoria-kryptografia-dialogin ainakin kolmesti niin, että toinen ihminen *tietää* minun tehneeni väitöskirjan lukuteoriasta. Olen joskus saattanut kuulla, että lukuteorialla tosiaan on sovelluksia kryptografiaan. Ei myöskään ole ensimmäinen kerta, kun kuulen perustutkimuksen tärkeydestä.
 
-Pointti ei ole se, että ihmisten pitäisi ääneen sanoa "mutta sinä varmaan olet miettinyt tätä asiaa aiemmin" ja nöyrtyä toisen edessä, vaan että *ajattelisi* asiaa, että *kävisi mielessä* hypoteesi "toinen on miettinyt asiaa aiemmin". (En myöskään sano, että sinun tulisi *olettaa* toisen miettineen ilmeiset pointit ja vastakkaiset näkökulmat läpi -- yksi pointeistani nimenomaan on, että ihmiset eivät luonnostaan ole reflektiokyvyn mestareita.)
+Pointti ei ole se, että ihmisten pitäisi ääneen sanoa "mutta sinä varmaan olet miettinyt tätä asiaa aiemmin" ja nöyrtyä toisen edessä, vaan että *ajattelisi* asiaa, että *kävisi mielessä* hypoteesi "toinen on miettinyt asiaa aiemmin". (En myöskään sano, että sinun tulisi *olettaa* toisen miettineen ilmeiset ajatukset ja vastakkaiset näkökulmat läpi -- yksi pointeistani nimenomaan on, että ihmiset eivät luonnostaan ole reflektiokyvyn mestareita.)
 
-Miksi tällä on väliä? Tällä päästäisiin helpommin *oikeisiin keskusteluihin*. Sen sijaan, että luetellaan aiheesta helposti mieleen tulevia pointteja ("kouluttautuminen kannattaa aina") voidaan *puhua toiselle ihmiselle*. Mitä hän ajattelee? Mitä kokemuksia ja tietoa hänellä on? Miksi hän uskoo mitä uskoo? Ymmärränkö hänen näkemystään?
+Miksi tällä on väliä? Tällä päästäisiin helpommin *oikeisiin keskusteluihin*. Sen sijaan, että luetellaan aiheesta helposti mieleen tulevia ajatuksia ("kouluttautuminen kannattaa aina") voidaan *puhua toiselle ihmiselle*. Mitä hän ajattelee? Mitä kokemuksia ja tietoa hänellä on? Miksi hän uskoo mitä uskoo? Ymmärränkö hänen näkemystään?
 
 Hyötyjä on myös vähemmän vakavissa aiheissa -- silloin, kun tavoite on vain jutella mukavia. Keskustelu on nimittäin mukavampaa, jos samaa keskustelua ei ole käynyt jo muutamaa kertaa aiemmin.
 
