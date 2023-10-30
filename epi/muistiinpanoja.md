@@ -172,6 +172,10 @@ Laajemmin [ongelma nousee esille](https://www.safe.ai/statement-on-ai-risk) vast
 
 Tämä ei ole miltä täysjärkinen sivilisaatio näyttää.
 
-Väiteet "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia, jolle kannattaisi tehdä jotakin" ovat ilmeisiä. Näistä aiheista on toki kirjoitettu paljon ja käyty debaattia. Nyanssiin uppoutumalla kuitenkin missaa jonkin keskeisin pointin: että nämä todella *ovat* ilmeisiä asioita, että kyseessä ei ole kompakysymys, että kaiken filosofoinnin jälkeen vesi on edelleen märkää.
+Väiteet "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia" ovat ilmeisiä. Näistä aiheista on toki kirjoitettu paljon ja käyty debaattia. Nyanssiin uppoutumalla kuitenkin missaa jonkin keskeisin pointin: että oikeasta näkökulmasta nämä todella *ovat* ilmeisiä asioita, että kyseessä ei ole kompakysymys, että kaiken filosofoinnin jälkeen vesi on edelleen märkää. Ja kaiken filosofoinnin jälkeen vastaus kysymykseen "onko se nyt niin paha asia, jos tekoäly tappaa kaikki?" on kyllä.
 
-Olen kirjoittanut muutamia asioita koskien epiä. Monet sanomani asiat tuntuvat itsestäänselvyyksiltä. Tämä ei lopulta haittaa minua. Joskus oleellisinta nimittäin on seurata ilmeisiä ohjeita. Joskus tärkeintä ovat ne itsestäänselvyydet -- siis sellaiset asiat kuten järki, tiede ja valistus. Tiedäthän, hyvä epi.
+Minä välitän. Tavoite on saada hyvä tulevaisuus kaikille. Sitähän varten täällä ollaan.
+
+Oikeasta näkökulmasta tämä on itsestäänselvyys. Niin kovin tärkeä sellainen, mutta itsestäänselvyys kuitenkin. Aika monet sanomistani asioista ovat.
+
+Tämä ei lopulta haittaa minua. Joskus oleellisinta nimittäin on seurata ilmeisiä ohjeita. Joskus tärkeintä ovat ne itsestäänselvyydet -- siis sellaiset asiat kuten järki, tiede ja valistus. Tiedäthän, hyvä epi.
