@@ -12,7 +12,7 @@ Kvantifiointi ei tapahdu luonnostaan. Ihmisten numeeriset intuitiot ovat huonoja
 
 Syyni tälle uskomukselle ovat samankaltaisia kuin [jakaumien](https://ollij.fi/epi/binaarinen_jakauma) tapauksessa: Omat kokemukset tukevat sitä, että kvantifiointia tulee tehtyä liian vähän. Lukujen käsittely ja kvantifiointi ovat opittuja taitoja. [Suuret luvut eivät tunnu oikean kokoisilta](https://xkcd.com/2091/). Asiaan liittyy erinäisiä kognitiivisia vinoumia: asioiden arvottamisessa [määrät ja kokoluokat sivuutetaan](https://en.wikipedia.org/wiki/Scope_neglect), epämukavien tai kivuliaiden kokemuksien arvioinnissa [tapahtuman kesto ei ole keskeinen](https://en.wikipedia.org/wiki/Duration_neglect), epävarman tapahtuman painotus on [epäsuhtainen sen todennäköisyyteen](https://ollij.fi/epi/epa_II).
 
-Monesti kvantifiointi on haastavaa: Tarvittavat luvut eivät ole tiedossa. Ei ole selvää, mitä koskien edes haluaisi lukuja. Lopputulokseen vaikuttaa [monet tekijät](). Jotkin tekijät eivät luontevasti taivu lukumuotoon. Tällöin kvantifiointia tulee tehtyä vielä vähemmän kuin helpoissa "pesukoneen sähkönkulutus" -esimerkeissä.
+Monesti kvantifiointi on haastavaa: Tarvittavat luvut eivät ole tiedossa. Ei ole selvää, mitä koskien edes haluaisi lukuja. Lopputulokseen vaikuttaa [monet tekijät](https://ollij.fi/epi/yksi_muuttuja). Jotkin tekijät eivät luontevasti taivu lukumuotoon. Tällöin kvantifiointia tulee tehtyä vielä vähemmän kuin helpoissa "pesukoneen sähkönkulutus" -esimerkeissä.
 
 Näen kvantifioinnilla hyötyä myös tällaisiin tilanteisiin ("kaikki mallit ovat väärässä, mutta jotkut ovat hyödyllisiä"). Haen takaa kuitenkin vielä keskeisempää ja yksinkertaisempaa pointtia: ihmiset miettivät asioiden suuruusluokkia liian vähän.
 

@@ -39,7 +39,7 @@ Yleispäteviä vasta-argumentteja on paljon. Muutama, joihin olen itse törmänn
 - "kyllä sinä sitten vanhempana ymmärrät" (ja tulet olemaan samaa mieltä kuin minä)
 - "et taida kuitenkaan olla tämän alan asiantuntija" (henkilöltä, joka ei myöskään ole asiantuntija -- ei sillä, että asiantuntijankaan tulisi käyttää tätä)
 - "tuo on vain sinun uskomuksesi" (ja "uskomukset" ovat tietysti epätosia, kuten ovat myös "intuitiot" ja "omat mutut")
-- "aika moni on kanssasi eri mieltä" (mikä pätee [käytännössä aina](), varsinkin jos keskustellaan mistään mielenkiintoisemmasta).
+- "aika moni on kanssasi eri mieltä" (mikä pätee [käytännössä aina](https://ollij.fi/epi/leveat_jakaumat), varsinkin jos keskustellaan mistään mielenkiintoisemmasta).
 
 Yleispätevät vasta-argumentit harvemmin käsittelevät *itse asiaa*, vaan *sinua* ja muita *ihmisiä*. Itse asiaa koskevilla väitteillä ei ole väliä, ainoastaan sillä, että sinä et ole asiantuntija ja muut ihmiset ovat kanssasi eri mieltä.
 
