@@ -56,7 +56,7 @@ Ja miten käy, kun tulokset julkistetaan? Väärälle veikkaukselle asetetut pan
 
 ![Osa panoksista katoaa](Kuvat/bayes_3-1.jpg)
 
-Ja kuten edellisessä tekstissä opittiin, palikoiden vähentyessä käynnistyy deflaatio -- kokonaistodennäköisyyden pitää olla 100 prosenttia. (Tällä kertaa deflaatiota tosin tapahtuu niin vähän, ettei se näy kuvassa niin selkeästi.)
+Ja kuten edellisessä tekstissä opittiin, palikoiden vähentyessä käynnistyy deflaatio -- kokonaistodennäköisyyden pitää olla 100 prosenttia. Tällä kertaa deflaatiota tosin tapahtuu vain vähän, jolloin muutos kuvassa ei ole niin merkittävä:
 
 ![Deflaation jälkeen](Kuvat/bayes_4-1.jpg)
 
