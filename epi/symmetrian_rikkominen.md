@@ -2,7 +2,7 @@
 
 Ennustusmarkkinalla viitataan konseptiin, jossa ihmiset voivat ostaa osakkeita koskien jonkin väitteen tapahtumista. Ideana on, että osakkeiden hinnat vastaavat väitteen todennäköisyyttä.
 
-(Esimerkki: väitettä "Henkilö X voittaa presidentinvaalit" koskien ihmiset voivat ostaa "kyllä"- tai "ei"-osakkeita. Jos X todella voittaa vaalit, muuttuu kukin "kyllä"-osake muuttuu yhden euron arvoiseksi ja "ei"-osakkeet menettävät arvonsa. Ja toisin päin, jos X ei voita. Tällöin "kyllä"-osakkeen hinta vastaa henkilön X voittotodennäköisyyttä.)
+(Esimerkki: väitettä "Henkilö X voittaa presidentinvaalit" koskien ihmiset voivat ostaa "kyllä"- tai "ei"-osakkeita. Jos X todella voittaa vaalit, muuttuu kukin "kyllä"-osake yhden euron arvoiseksi ja "ei"-osakkeet menettävät arvonsa. Ja toisin päin, jos X ei voita. Tällöin "kyllä"-osakkeen hinta vastaa henkilön X voittotodennäköisyyttä.)
 
 Ennustusmarkkinoiden mullistava hyöty on, että niillä saadaan *kerättyä ihmiskunnan paras tietämys* koskien ennustettavaa väitettä (vertaa: [tehokkaiden markkinoiden hypoteesi](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)). [Insentiivit](https://ollij.fi/epi/insentiivit) osoittavat kohti totuudenmukaisten uskomusten muodostamista.
 

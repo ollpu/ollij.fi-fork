@@ -18,7 +18,7 @@ Näissä esimerkeissä sovinnollisuus osoittautui *haitalliseksi* keskustelun ka
 
 Erottelisin seuraavat kaksi asiaa: Yksi koskee sellaisia teemoja kuten kyky ja halu selvittää erimielisyyden syitä, toisen osapuolen näkemyksen aidosti kuunteleminen, [toisen perspektiivin hahmottaminen](https://ollij.fi/epi/reflektointi), empatia ja muut tunnetaidot. Toinen koskee halua olla keskustelun jälkeen samaa mieltä asioista ja erimielisyydestä johtuvia negatiivisia tunteita.
 
-Nämä voivat [kuulostaa suunnilleen samoilta](https://ollij.fi/epi/sumuiset_ajatukset) ja niihin viitataan samoilla sanoilla: ensimmäinen näistä on juurikin sovinnollisuutta, toinen taas on halua olla sovinnossa. Tässä on kuitenkin heinovarainen erottelu, joka erottelee hyvän ja huonon sovinnollisuuden toisistaan.
+Nämä voivat [kuulostaa suunnilleen samoilta](https://ollij.fi/epi/sumuiset_ajatukset) ja niihin viitataan samoilla sanoilla: ensimmäinen näistä on juurikin sovinnollisuutta, toinen taas on halua olla sovinnossa. Tässä on kuitenkin hienovarainen erottelu, joka erottelee hyvän ja huonon sovinnollisuuden toisistaan.
 
 Syyn uskomusten muutokselle ei pitäisi olla "en tykkää olla eri mieltä ihmisten kanssa" tai "oivoi, keskustelun toinen osapuoli ajattelee minun olevan väärässä, tuntuupas tyhmältä". Nämä eivät ole syitä, jotka johtavat systemaattisesti totuudenmukaisiin uskomuksiin vaan siihen, että omat uskomukset muuttuvat samoiksi kuin ympärillä olevilla ihmisillä. (Pahempaa, tämä kannustaa itsevarmana esiintymiseen, muiden tunteisiin vetoamiseen ja totuudenmukaisuudesta irralliseen retoriikkaan, millä saa muita vahvimmiten puolelleensa. Mikä voisikaan mennä pieleen?) Tämä on haitallista sovinnollisuutta.
 

@@ -99,7 +99,7 @@ Muita (kohtalaisen tunnettuja) kritiikkejä koskien akateemista tutkimusta, ei t
 - "Publish or perish" kuuluu sanonta -- tutkijan [insentiivit](https://ollij.fi/epi/insentiivit) eivät ole "tee mahdollisimman hyvää tiedettä" vaan julkaisujen saaminen (mielellään hyvissä lehdissä).
 - Negatiivisten tulosten julkaiseminen on haastavampaa kuin positiivisten -- taas, insentiivit osoittavat poispäin hyvän tieteen tekemisestä. Tämä parhaimmillaankin johtaa datan filtteröintiin: positiivisia tuloksia julkaistaan, negatiivisia ei. (Pahimmillaan taas tämä johtaa...)
 - Käsitteeksi muodostunut "p-hacking" eli datan muovaaminen ja tilastollisten testien ajaminen, kunnes positiivisia tuloksia löytyy.
-- Tutkimsten toistamista ei arvosteta (jälleen insentiiviongelma) ja sitä tehdään niukasti.
+- Tutkimusten toistamista ei arvosteta (jälleen insentiiviongelma) ja sitä tehdään niukasti.
 - Artikkelit ovat usein maksumuurien takana; data on harvoin helposti saatavilla (vaikeuttaen toistamista).
 - Vertaisarviointiprosessi on *hidas*. Omien artikkeleideni kohdalla paperien *vertaisarviointi* on usein vienyt enemmän aikaa kuin itse *tutkimus* ja kirjoitustyö sen taustalla. (Olen myös menettänyt luottoani koskien vertaisarvioinnin toimivuutta.)
 
