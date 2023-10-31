@@ -42,7 +42,7 @@ label((x - w/4, h*0.7), scale(0.55)*"(0 palikkaa)");
 for(int t = 0; t <= 0; ++t) {
 	for(int y = 1; y <= 2; ++y) {
 		for(int k = 1; k <= 5; ++k) {
-			sq(x - w + 1.5 + k + w*t/2, h + y - 1);
+			sq(x - w + 1.5 + k*s + w*t/2, h + y - 1);
 		}
 	}
 }
@@ -50,7 +50,7 @@ for(int t = 0; t <= 0; ++t) {
 
 for(int y = 1; y <= 8; ++y) {
 	for(int k = 1; k <= 9; ++k) {
-		sq(k-0.5, h + y - 1);
+		sq(k*s-1, h + y - 1);
 	}
 }
 
