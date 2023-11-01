@@ -60,9 +60,43 @@ Olen myös tykästynyt termiin [substituutio](https://en.wikipedia.org/wiki/Attr
 
 Scott Alexanderin teksti [On first looking into Chapman’s “Pop Bayesianism”](https://slatestarcodex.com/2013/08/06/on-first-looking-into-chapmans-pop-bayesianism/) on hyvä toinen selitys probabilistisen ajattelun hyödyllisyydestä.
 
-Saatat tunnistaa siitä jotakin omista teksteistäni tuttuja aiheita, kuten itsestäänselvyyksien epäitsestäänselvyys, kuinka ihmiset [eksplisiittisesti kysyttäessä](https://ollij.fi/epi/ilmeiset_ohjeet) pitävät jotakin ilmeisinä ja muussa kontekstissa toimivat sen vastaisesti, [jättiläisten olkapäät](https://ollij.fi/epi/jattilaisten_olkapailla) ovat korkealla, [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) kuinka kaikki tietysti tieteävät perusasiat ja [perusteettomia syytöksiä](https://ollij.fi/epi/helpot_maalitaulut) olkiukkojen kimppuun käymisestä, parempi epi on tärkeää nimenomaan mukavuusalueen ulkopuolella vaikeissa aiheissa, ja tietysti ihmisten epäonnistuminen probabilistisessa ajattelussa.
+Saatat tunnistaa siitä jotakin omista teksteistäni tuttuja aiheita, kuten itsestäänselvyyksien epäitsestäänselvyys, kuinka ihmiset eksplisiittisesti kysyttäessä pitävät jotakin [ilmeisenä](https://ollij.fi/epi/ilmeiset_ohjeet) ja muussa kontekstissa toimivat sen vastaisesti, [jättiläisten olkapäät](https://ollij.fi/epi/jattilaisten_olkapailla) ovat korkealla, [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) kuinka kaikki tietysti tietävät perusasiat ja [perusteettomia syytöksiä](https://ollij.fi/epi/helpot_maalitaulut) olkiukkojen kimppuun käymisestä, parempi epi on tärkeää nimenomaan mukavuusalueen ulkopuolella vaikeissa aiheissa, ja tietysti ihmisten epäonnistuminen probabilistisessa ajattelussa.
 
-(Painottaisin vielä, että numeeristen arvojen pyöritteleminen ei ole oleellisin pointti. Tästä lisää myös [toisaalla](https://ollij.fi/epi/miksi_todennakoisyydet).)
+Painottaisin vielä, että numeeristen arvojen pyöritteleminen ei ole oleellisin pointti. Tästä lisää myös [toisaalla](https://ollij.fi/epi/miksi_todennakoisyydet).
+
+...mutta ymmärrän, miksi ihmiset haluavat vastauksen kysymykseen "miten näitä uskomuksia oikeasti muutetaan todennäköisyyksiksi?", joten alla on lyhyt vastaukseni. Muistutan vielä, että tämä on analoginen kysymyksen "miten kylmän ja kuumuuden tuntemuksia oikeasti muutetaan Celsius-asteiksi?" kanssa. Sitä on aika vaikea selittää lapselle, jolla ei ole tuntumaa Celsius-asteikosta. Selitykset ovat tosin samanlaisia.
+
+**Ensimmäinen näkökulma** on asettaa vertailukohtia. Lämpötila on 20 astetta silloin, kun kesällä on lämmintä. 0 astetta vastaa lämpötilaa syksyn lopulla. Saunassa on 80 astetta.
+
+50 prosenttia vastaa sitä, että pidät kahdesta vaihtoehdosta molempia yhtä todennäköisinä. 100 prosenttia vastaa täyttä varmuutta (jota ei käytännössä ihan saavuteta), 0 prosenttia täyttä varmuutta toiseen suuntaan.
+
+**Toinen näkökulma** on verrata omia tuntemuksia oikeisiin arvoihin. "Nyt minulla on hieman viileä. Sanoisin lämpötilan olevan 10 astetta". Mittari sanoo 14 astetta. Ihan kohtalainen arvio.
+
+Uskomusten tapauksessa prosessi on: Valitse jokin väite, josta olet nyt epävarma, mutta jonka totuusarvon voit saada selville (hieman myöhemmin, etsimällä vastauksen netistä tai jotakin muuta kautta). Mieti, kuinka epävarma olet, ja mittaa sitä numeerisella todennäköisyydellä.
+
+Tämä on hieman vaativampaa kuin lämpötilojen tapauksessa ja tämän hyvin tekemiseen on erilaisia temppuja (esimerkiksi: mieti, kuinka *yllättynyt* olisit eri tuloksia havaitessasi). Lisäksi ensimmäisellä tai toisella kertaa ei vielä välttämättä saa kuvaa siitä, kuinka hyvin onnistuu. Toisaalta jos ensimmäinen arviosi on "90%, että näin on", näin ei olekaan ja et oikeastaan yllättynyt tästä, niin muunnos on varmaankin mennyt pieleen.
+
+(Ja kyllä, [olen tietoinen](https://ollij.fi/epi/reflektointi) vastalauseesta "mutta ehkä sinulla kävi vain huono tuuri!". Ehkä tämä on taas näitä [huumorihakuisia väitteitä, joilla sivuutetaan ongelmia](https://ollij.fi/epi/ongelmien_sivuuttamisesta). Kyllä, välillä käy "huono tuuri", siis että epätodennäköisenä pitämäsi asia tapahtuu. Eikä tämä aina tarkoita, että alkuperäinen uskomuksesi tai sen muunnos todennäköisyydeksi oli huono. Muista silti, että huonon tuurin syyttäminen on [yleispätevä puolustus](https://ollij.fi/epi/symmetrian_rikkominen).)
+
+Avuksi voi olla todennäköisyyksien miettiminen *frekvenssien* ja osuuksien näkökulmasta. 90 prosenttia vastaa sitä, että voisit tehdä kymmenen tällaista ennustusta ja olla keskimäärin väärässä kerran.
+
+**Kolmas näkökulma** on... okei, en keksi tälle lämpötila-analogiaa.
+
+Idea on miettiä, millä kertoimilla olisi valmis lyödä vetoa asiasta. (Kyllä, minunkin äitini varoitti osallistumasta vedonlyönteihin. Jatketaan.) Yleisesti "miten löisin vetoa asiasta" saa miettimään "mitä minä [oikeasti](https://ollij.fi/epi/kaukotila) uskon aiheesta?" ja kertoimien miettiminen auttaa [kvantifioimaan](https://ollij.fi/epi/kvantifiointi) uskomusten vahvuutta.
+
+Miten reagoit ehdotukseen "saat euron, jos tämä asia tapahtuu ja menetät euron, jos se ei tapahdu"?
+
+Jos reaktiosi on "oletko tyhmä, totta kai otan tämä vastaan -- ilmaista rahaa!", niin varmaankin uskomuksesi väitteelle on selvästi yli 50 prosenttia.
+
+Jos reaktiosi on "en, mutta toiseen suuntaan olen valmis ottamaan vedon vastaan", niin uskomuksesi on alle 50 prosenttia.
+
+Jos reaktiosi on "hmm, enpä tiedä", niin uskomuksesi lienee 50 prosentin tienoilla.
+
+Entä ehdotukseen "saat euron, jos tämä asia tapahtuu ja menetät *kaksi* euroa, jos se ei tapahdu"? Tätä kautta saa heijasteltua, ovatko omat todennäköisyydet yli, alle vai suunnilleen 67 prosenttia.
+
+Käytännössä ihmiset suhtautuvat usein epäilevästi vedonlyöntiin: se ei ole sivistynyttä, vaan johtaa uhkapeliriippuvuuteen. Tämä on hyvin harmillinen assosiaatio. Sivistynyttä nimenomaan on se, että ollaan valmiita seisomaan omien sanojen ja uskomusten takana -- eikä niin, että suullisesti otetaan kantaa asioihin, mutta peräännytään ottamasta vastuuta sanomisistaan ja testaamasta uskomuksien hyvyyttä.
+
+Joka tapauksessa tätä voi harrastaa rahan sijasta myös kuvainnollisilla ennustuspisteillä (tai [leikkirahalla](https://manifold.markets/)) -- tai ihan vain ajatuksen tasolla reflektoidakseen, kuinka vahvasti oikeasti uskoo mitä uskoo.
 
 ## [Uskomusten muutos](https://ollij.fi/epi/uskomusten_muutos)
 
@@ -86,7 +120,25 @@ Camilla esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta
 
 On tosin muitakin tällaisia *koherenssiteoreemoja*, kuten [Dutch book](https://en.wikipedia.org/wiki/Dutch_book) ja Abraham Waldin [Complete class theorem](https://doi.org/10.1214/aoms/1177730345). Johtopäätös on samanhenkinen: uskomuksia tulee mitata todennäköisyyksillä ja preferenssejä käsitellä odotusarvojen kautta, tai muuten käy huonosti.
 
-Nämä asiat ovat tosin hieman monimutkaisempia kuin mitä Camilla antaa ymmärtää. Odotusarvon maksimoiminen tuntuu johtavan reunatapauksissa epäintuitiivisiin tuloksiin -- enkä tarkoita tällä tilanteita, joissa pelataan absurdin suurista rahasummista (raha tai edes onnellisuus kun eivät vastaa ihmisen [arvoja](https://ollij.fi/epi/filosofiatila), toisin kuin Anna vihjasi). Nämä reunatapaukset ovat kuitenkin enemmän tai vähemmän [filosofisia ajatusleikkejä](https://ollij.fi/epi/filosofiatila), joten en juutu niihin tässä.
+Nämä asiat ovat tosin hieman monimutkaisempia kuin mitä Camilla antaa ymmärtää. Odotusarvon maksimoiminen tuntuu johtavan reunatapauksissa epäintuitiivisiin tuloksiin -- enkä tarkoita tällä tilanteita, joissa pelataan absurdin suurista rahasummista (raha tai edes onnellisuus kun eivät vastaa ihmisen [arvoja](https://ollij.fi/epi/filosofiatila), toisin kuin Anna vihjasi). Nämä reunatapaukset ovat kuitenkin enemmän tai vähemmän [filosofisia ajatusleikkejä](https://ollij.fi/epi/filosofiatila), joten en juutu niihin tässä (mutta jos välttämättä haluat, niin löydät yhden [täältä](https://www.lesswrong.com/posts/9RCoE7jmmvGd5Zsh2/the-lifespan-dilemma)).
+
+Sain lukijalta palautetta siitä, kuinka dialogissa sivuutettiin preferenssien reflektoinnin haaste: pelkästään "sinun tulee maksimoida odotusarvoa" ei kerro, mitä tehdä ristiriitaisten intuitioiden ja mieltymysten esiintyessä.
+
+Olen samaa mieltä, että tämä on haastavaa. En todellakaan väitä antaneeni tähän ratkaisua.
+
+Pointtiani selkeyttää konsepti *deskriptiivinen-preskriptiivinen-normatiivinen* -jaottelusta.
+
+*Deskriptiivinen* näkökulma epävarmuuteen käsittelee sitä, miten *ihmiset käytännössä* käsittelevät epävarmuutta ja tekevät päätöksiä. Esimerkiksi kognitiivisesta psykologiasta löytyy tällaista lähestymistapaa.
+
+*Normatiivinen* näkökulma käsittelee, miten epävarmuutta ja päätöksiä *ideaalisti* käsitellään. Todennäköisyyslaskenta on keskeinen esimerkki.
+
+*Preskriptiivinen* näkökulma käsittelee sitä, miten *kannattaa* toimia: miten käytännössä voidaan toimia paremmin? Miten päästään täältä tuonne? Tämä yhdistää deskriptiivisen ja normatiivisen puolen huomioita.
+
+Tämän tekstin teema on normatiivinen näkökulma epävarmuuteen ja preferensseihin. Odotusarvot ovat oikea (tai ainakin melko oikea) lähestymistapa. En ottanut kantaa siihen, miten tähän päästään. Se ei ole tekstin aihe.
+
+Käytän tilaisuuden hyväkseni ja huomautan, ettei luonnollisessa kielessä ole itsessään deskriptiivinen-preskriptiivinen -erottelua. "Ihmiset eivät käytännössä tee päätöksiään odotusarvolaskelmien kautta!" voi kuulostaa nasevalta vasta-argumentilta. Tietenkään ihmiset eivät mieti asioita numeeristen todennäköisyyksien kautta! Mutta tämä *deskriptiivinen* väite kuulostaa, ainakin sopivalla äänenpainolla, samalla *preskriptiiviseltä*: että näin ei *kannatakaan* tehdä, että se miten asiat ovat nyt on oikeastaan hyvä. Taas yksi voitto [status quon puolustajille](https://ollij.fi/epi/negatiivisuus).
+
+(Ja yritäpä oikeassa keskustelutilanteessa vastata tällaiseen kommenttiin "deskriptiivisesti tulkittuna väitteesi on selvästi tosi, mutta luonnollisessa kielessä ei ole selvää erottelua deskriptiivisten ja preskriptiivisten väitteiden välillä, ja tunnuit äänensävylläsi samalla esittävän väitteen preskriptiivisessä muodossa ja yrittävän saada tämän muodon kuulostamaan ilmeiseltä, mitä pidän hieman epärehellisenä retorisena keinona".)
 
 ## [Kunnolla tehty todennäköisyyslaskenta](https://ollij.fi/epi/kunnolla)
 
