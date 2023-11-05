@@ -2,7 +2,7 @@
 
 Luin joskus lyhyen kommentin, jonka olen hukannut, mutta jonka sisältö oli suunnilleen seuraava:
 
-"Olessani vuosia sitten matkoilla kaukana ulkomailla muistan jutelleeni eräälle perheenäidille. Jossakin kohtaa keskustelua äiti mainitsi hänen lapsensa olevan hieman tyhmä. Hämmästyin hetkeksi -- eihän noin voi sanoa omasta lapsestaan! Mietittyäni hetken kuitenkin tajusin, että olisi ollut täysin tavanomaista sanoa 'hän ei oikein osaa piirtää' tai 'hän ei ole kovin urheilullinen'. Heidän kulttuurissaan suhtauduttiin hyvin eri tavalla älykkyyteen kuin omassani."
+"Ollessani vuosia sitten matkoilla kaukana ulkomailla muistan jutelleeni eräälle perheenäidille. Jossakin kohtaa keskustelua äiti mainitsi hänen lapsensa olevan hieman tyhmä. Hämmästyin hetkeksi -- eihän noin voi sanoa omasta lapsestaan! Mietittyäni hetken kuitenkin tajusin, että olisi ollut täysin tavanomaista sanoa 'hän ei oikein osaa piirtää' tai 'hän ei ole kovin urheilullinen'. Heidän kulttuurissaan suhtauduttiin hyvin eri tavalla älykkyyteen kuin omassani."
 
 Sitä voisi äkkiseltään ajatella, että sana "tyhmä" on sanan "älykäs" vastakohta, eli että esimerkiksi ihmisestä se tarkoittaisi "kognitiivisilta kyvyiltä heikkoa". Käytännössä sanaa kuitenkin [käytetään eri tarkoituksissa](https://fi.wiktionary.org/wiki/tyhm%C3%A4) ja se luo monia epäneutraaleja mielikuvia -- ikään kuin ihmisen kutsuminen tyhmäksi olisi negatiivinen arvio hänestä yleisesti.
 

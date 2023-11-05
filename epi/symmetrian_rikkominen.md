@@ -14,7 +14,7 @@ Olen puhunut ideasta tutuilleni ja saanut vaihtelevia reaktioita.
 
 Yksi yleinen kritiikki on, että ennustusmarkkinoilla on samoja ongelmia kuin vedonlyönnillä ja uhkapelaamisella (ja siten on ihan hyvä, ettei ennustusmarkkinat ole yleisiä). Olen vastannut, että niillä on valtavia hyötyjä verrattuna muihin rahapeleihin, jotka ovat laillisia ja yleisiä. Kritiikki ei *riko symmetriaa*: miksi pitää nykyiset pelit laillisina mutta estää ennustusmarkkinat?
 
-Toinen yleinen kritiikki on, että markkinoiden luominen luo samalla insentiivin vaikuttaa lopputulokseen. On esimerkiksi eräs varsin ilmeinen (mutta laiton ja muutenkin erittäin epäsuotava) tapa varmistaa, että jostakusta ei tule presidenttiä. Olen vastannut, että vastaavia ongelmia on myös osakemarkkinoissa ja että "market manipulation" on tunnettu konsepti (ja lailla kielletty). Kritiikki ei riko symmetriaa: miksi pitää yritysten osakemarkkinat laillisina mutta estää ennustusmarkkinat?
+Toinen yleinen kritiikki on, että markkinoiden luominen luo samalla insentiivin vaikuttaa lopputulokseen. On esimerkiksi eräs varsin ilmeinen (mutta laiton ja muutenkin erittäin epäsuotava) tapa varmistaa, että jostakusta ei tule presidenttiä. Olen vastannut, että vastaavia ongelmia on myös osakemarkkinoissa ja että "market manipulation" on tunnettu konsepti (ja lailla kielletty). Kritiikki ei riko symmetriaa: miksi pitää yritysten osakemarkkinat laillisina mutta estää ennustusmarkkinat? (Vertaa: https://xkcd.com/1958/.)
 
 En pidä näitä ongelmia *triviaaleina*, mutta, kuten sanottu, en pidä niitä symmetriaa rikkovina (ja siten en pidä niitä ylitsepääsemättöminä). Ja taas, näen suuria hyötyjä ennustusmarkkinoiden potentiaalin realisoituessa.
 
