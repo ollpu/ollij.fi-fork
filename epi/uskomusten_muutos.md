@@ -38,7 +38,7 @@ Nyt voin paljastaa, että vahvempi silmäni tosiaan on vasen.
 
 Hurraa, "silmä on rasittunut lukemisesta" -selitys vaikuttaa paremmalta!
 
-Ja... mitä sitten? [Kuinka paljon](https://ollij.fi/epi/kvantifiointi) tämän oikeasti pitäisi vaikuttaa uskomuksiini? Onko nyt "käytännössä varmaa", että tämä on oikea selitys? Vai onko tämä vain pieni muutos todennäköisyyksiin -- niin pieni, että se on "käytännössä nolla"? Vai jotain tältä väliltä? Tällaisenaan johtopäätös [ei kerro kovin paljoa](https://ollij.fi/epi/matala_informaatio).
+Ja... mitä sitten? [Kuinka paljon](/epi/kvantifiointi) tämän oikeasti pitäisi vaikuttaa uskomuksiini? Onko nyt "käytännössä varmaa", että tämä on oikea selitys? Vai onko tämä vain pieni muutos todennäköisyyksiin -- niin pieni, että se on "käytännössä nolla"? Vai jotain tältä väliltä? Tällaisenaan johtopäätös [ei kerro kovin paljoa](/epi/matala_informaatio).
 
 ---
 
@@ -46,7 +46,7 @@ Tehdään tarkempi analyysi.
 
 Kuten mainitsin, pidin lukemisselitystä selkeästi parhaimpana. Laitan tälle todennäköisyydeksi... 80%?, (Oikeasti ehkä enemmänkin, mutta pidetään luvut helppoina ja pyöreinä.) Ja siten muut selitykset saavat 20%.
 
-Ja kuten todettiin, nämä eri selitykset *ennustavat eri tuloksia* koskien "kumpi silmä on vahvempi" -testiä. "Muut selitykset" -kategorian panokset jakautuvat tasan: ei ole mitään [symmetriaa rikkovaa](https://ollij.fi/epi/symmetrian_rikkominen) syytä, miksi juuri heikompaan (eikä vahvempaan) silmään olisi kohdistunut isku tai muuta. Toisaalta taas "lukeminen rasittaa" laittaa hyvin suuren osan panoksistaan vasemman silmän vahvuudella. Kuinka suuren osan? Eh, vaikea sanoa. Ehkä 90%? Mennään vaikka sillä.
+Ja kuten todettiin, nämä eri selitykset *ennustavat eri tuloksia* koskien "kumpi silmä on vahvempi" -testiä. "Muut selitykset" -kategorian panokset jakautuvat tasan: ei ole mitään [symmetriaa rikkovaa](/epi/symmetrian_rikkominen) syytä, miksi juuri heikompaan (eikä vahvempaan) silmään olisi kohdistunut isku tai muuta. Toisaalta taas "lukeminen rasittaa" laittaa hyvin suuren osan panoksistaan vasemman silmän vahvuudella. Kuinka suuren osan? Eh, vaikea sanoa. Ehkä 90%? Mennään vaikka sillä.
 
 Alla on tilannetta havainnollistava kuva: selitykset ja niiden asettamat panokset testin tuloksille. Kuten aiemmin, yksi palikka vastaa yhtä prosenttia.
 
@@ -74,7 +74,7 @@ Esittelen uuden termin *evidenssi* (engl. evidence). Kenties lähin aidosti suom
 
 Vahvemman silmän testauksella saadaan informaatiota koskien oikeaa selitystä. Tulos "vahvempi silmä on oikea" on *evidenssiä* muiden selitysten puolesta verrattuna lukemis-rasitus-selitykseen. Vastaavasti "vahvempi silmä on vasen" on evidenssiä lukemis-rasitus-selityksen puolesta.
 
-Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei silti *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin saadessani tietää, kumpi silmistäni on vahvempi.
+Evidenssien *suuruutta* tai *vahvuutta* voi vertailla ja [kvantifioida](/epi/kvantifiointi). Jos kävisin lääkärissä ja lääkäri onnistuisi diagnosoimaan syyn oireelleni, muuttuisivat uskomukseni hyvin vahvasti diagnoosin suuntaan. Tämäkään ei silti *todista* mitään, todennäköisyys ei edelleenkään ole täysi sata prosenttia -- diagnoosit ja lääkäritkin kun voivat myös olla väärässä -- mutta uskomukseni muuttuisivat paljon enemmän kuin saadessani tietää, kumpi silmistäni on vahvempi.
 
 Mikä on luontevin tapa mitata evidenssin vahvuutta?
 

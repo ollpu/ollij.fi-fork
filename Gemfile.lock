@@ -266,6 +266,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-titles-from-headings
   wdm (~> 0.1.1)
   webrick (~> 1.3)
 

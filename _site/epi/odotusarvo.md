@@ -26,7 +26,7 @@
 
 **Bella:** Sinulle annetaan kaksi vaihtoehtoa. Ensimmäinen vaihtoehto: saat varmasti 10 miljoonaa euroa. Toinen vaihtoehto: saat 51 prosentin todennäköisyydellä 20 miljoonaa euroa ja 49 prosentin todennäköisyydellä et mitään. Minusta tuntuu, että kannattaa valita ensimmäinen, vaikka toisessa on hieman isompi odotusarvo.
 
-**Anna:** Niin, oikeasti [ei kannata maksimoida rahamäärää vaan onnellisuutta](https://ollij.fi/epi/filosofiatila). 20 miljoonaa euroa ei tee sinua tuplasti niin onnelliseksi kuin 10 miljoonaa euroa. Yleinen nyrkkisääntö sanoo, että onnellisuus käyttäytyy logaritmisesti rahan mukana -- siis esimerkiksi palkan tuplaaminen kasvattaa onnellisuutta suunnilleen yhtä paljon aloituspalkasta riippumatta. Odotusarvoa laskiessa tulee siis ottaa logaritmit rahasummista. Tällä mittarilla laskettuna ensimmäinen vaihtoehto, varma 10 miljoonaa euroa, on parempi.
+**Anna:** Niin, oikeasti [ei kannata maksimoida rahamäärää vaan onnellisuutta](/epi/filosofiatila). 20 miljoonaa euroa ei tee sinua tuplasti niin onnelliseksi kuin 10 miljoonaa euroa. Yleinen nyrkkisääntö sanoo, että onnellisuus käyttäytyy logaritmisesti rahan mukana -- siis esimerkiksi palkan tuplaaminen kasvattaa onnellisuutta suunnilleen yhtä paljon aloituspalkasta riippumatta. Odotusarvoa laskiessa tulee siis ottaa logaritmit rahasummista. Tällä mittarilla laskettuna ensimmäinen vaihtoehto, varma 10 miljoonaa euroa, on parempi.
 
 **Bella:** Eikö yksi skenaario ole se, jossa et saa yhtään rahaa? Ja logaritmi nollasta ei ole määritelty.
 
@@ -60,7 +60,7 @@
 
 **Bella:** En ihan ymmärrä.
 
-**Anna:** Sinä olet käytännössä aina [epävarma uskomuksistasi](https://ollij.fi/epi/probabilistinen_ajattelu) ja siten sinulle tulee vastaan hyvin erilaisia epävarmuutta sisältäviä tilanteita. Kannattaako minun juosta bussipysäkille? En haluaisi juosta, mutta haluaisin kyllä ehtiä seuraavaan vuoroon. Tarvitsenko ulkona takkia? Siellä saattaa olla kylmä, mutten halua turhaan ottaa takkia mukaan. Kannattaako minun käydä hammaslääkärissä tarkastuksessa? Toisaalta se maksaa, mutta toisaalta ehkä he huomaavat jotakin terveydelleni vaarallista. Haenko minä tuonne töihin? Se vaatii vähän vaivaa, ja todennäköisesti minua ei valita, mutta olisin todella tyytyväinen, jos saisin paikan.
+**Anna:** Sinä olet käytännössä aina [epävarma uskomuksistasi](/epi/probabilistinen_ajattelu) ja siten sinulle tulee vastaan hyvin erilaisia epävarmuutta sisältäviä tilanteita. Kannattaako minun juosta bussipysäkille? En haluaisi juosta, mutta haluaisin kyllä ehtiä seuraavaan vuoroon. Tarvitsenko ulkona takkia? Siellä saattaa olla kylmä, mutten halua turhaan ottaa takkia mukaan. Kannattaako minun käydä hammaslääkärissä tarkastuksessa? Toisaalta se maksaa, mutta toisaalta ehkä he huomaavat jotakin terveydelleni vaarallista. Haenko minä tuonne töihin? Se vaatii vähän vaivaa, ja todennäköisesti minua ei valita, mutta olisin todella tyytyväinen, jos saisin paikan.
 
 **Anna:** Vaikka nämä tilanteet ovat hyvin erilaisia, niillä on yksi yhdistävä tekijä: se, miten sinä käsittelet ne. Ja siten oikea maailma on samankanltainen kuin aiempi esimerkkini peleistä: pitkällä aikavälillä keskimääräinen voittosi määräytyy valittujen vaihtoehtojen odotusarvojen perusteella. Kannattaa siis valita sellaiset vaihtoehdot, joilla on iso odotusarvo.
 
@@ -88,7 +88,7 @@
 
 **Bella:** Jätän yllättävän ja dramaattisen sisääntulon huomiotta ja annan sinulle vuorosi puhua.
 
-**Camilla:** Kiitos. Annalla on hyviä pointteja, mutta... häneltä tuntuu puuttuvan pohja, jolle muu päättely perustuu. Tämän vuoksi odotusarvomatematiikan yhdistäminen oikeaan maailmaan onnistui heikosti. Selitykset olivat ikään kuin "[vähän sinne päin](https://ollij.fi/epi/sumuiset_ajatukset)".
+**Camilla:** Kiitos. Annalla on hyviä pointteja, mutta... häneltä tuntuu puuttuvan pohja, jolle muu päättely perustuu. Tämän vuoksi odotusarvomatematiikan yhdistäminen oikeaan maailmaan onnistui heikosti. Selitykset olivat ikään kuin "[vähän sinne päin](/epi/sumuiset_ajatukset)".
 
 **Camilla:** Toiminta toistetuissa peleissä on yksi motivaatio, jonka odotusarvoille voi esittää. Kieltämättä se tarjoaa hyvän intuition. En kuitenkaan pidä sitä *keskeisimpänä* tai *syvimpänä* syynä odotusarvojen tutkimiselle. Kenties fundamentaalein syy on, että *koherenteista preferensseistä ja uskomuksista seuraa, että eri preferensseillä on kvantifioitavat painoarvot ja vaihtoehtoja vertaillaan probabilististen odotusarvojen perusteella*.
 
@@ -96,7 +96,7 @@
 
 **Anna:** Kuin myös.
 
-**Camilla:** Se ei ole ihan lyhyt tarina. Tällaisia aiheita on [vaikea kommunikoida suullisesti](https://ollij.fi/epi/lokaali_kommunikaatio), mutta voin yrittää, kunhan sallitte minulle pari minuuttia monologiaikaa.
+**Camilla:** Se ei ole ihan lyhyt tarina. Tällaisia aiheita on [vaikea kommunikoida suullisesti](/epi/lokaali_kommunikaatio), mutta voin yrittää, kunhan sallitte minulle pari minuuttia monologiaikaa.
 
 **Camilla:** Annan selityksessä *oletettiin*, että asioita voi verrata toisiinsa kvantitatiivisesti -- että toinen asia on kolme kertaa niin huono kuin ensimmäinen -- ja sitten todettiin, että eri vaihtoehtoja ja preferenssejä kannattaa painottaa odotusarvon mukaan. Kuten Bella huomautti, tämä ei ole vielä kovin tyydyttävä selitys: miksi olettaa ylipäätään, että asioita voi verrata kvantitatiivisesti? Myös perustelu koskien odotusarvoja toistettujen pelien kautta jättää epäilyksiä koskien sitä, mikä on "uniikki" tilanne ja mikä "toistettu".
 
@@ -114,7 +114,7 @@
 
 **Bella:** ...joten aiotko perustella väitettäsi?
 
-**Camilla:** En nyt. Se on vielä pidempi tarina. Voin kyllä suositella sinulle [yhtä kirjaa](https://ollij.fi/epi/kunnolla), jossa kerrotaan tästä.
+**Camilla:** En nyt. Se on vielä pidempi tarina. Voin kyllä suositella sinulle [yhtä kirjaa](/epi/kunnolla), jossa kerrotaan tästä.
 
 **Bella:** Joka tapauksessa, olit pitämässä monologia. Epävarmuuden käsitteleminen todennäköisyyksien avulla käy järkeen. Entä ne preferenssit?
 

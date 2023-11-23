@@ -6,7 +6,7 @@ Homo sapiens on noin 300 000 vuotta vanha laji. Korkeakulttuurit syntyivät kymm
 
 Viisi miljardia vuotta, siis 5 000 000 000 vuotta, on *pitkä* aika. Jos pitäisi veikata, niin sanoisin, että keksimme kyllä jotakin.
 
-Miksi ihmiset sanovat näin? Ehkä kyse on [kvantifioinnin puutteesta](https://ollij.fi/epi/kvantifiointi) ja [yhden muuttujan malleista](https://ollij.fi/epi/yksi_muuttuja). Tai ehkä ihmiset ovat kuulleet muualta tämän fraasin ja toistavat sen aihealueen pompatessa esiin ilman, että he kyseenalaistavat sitä.
+Miksi ihmiset sanovat näin? Ehkä kyse on [kvantifioinnin puutteesta](/epi/kvantifiointi) ja [yhden muuttujan malleista](/epi/yksi_muuttuja). Tai ehkä ihmiset ovat kuulleet muualta tämän fraasin ja toistavat sen aihealueen pompatessa esiin ilman, että he kyseenalaistavat sitä.
 
 Ehkä siinä on muutakin.
 
@@ -28,6 +28,6 @@ Kokemuksieni mukaan kaukotila aktivoituu hyvin herkästi silloin, kun puhutaan i
 
 Toinen tapaus on vieraat tilanteet. Tällöin tulee helpommin takerruttua mielikuviin ja narratiiveihin, vaikka muu tietämys riittää hyvin sanomaan, ettei asiat oikeasti toimi noin. Yllä esimerkki omalta kohdaltani.
 
-Usein kaukotilaan liittyy ajatus siitä, että tulevaisuus on tietyillä spesifeillä erilainen kuin menneisyys, vaikkei tälle ole [symmetriaa rikkovaa](https://ollij.fi/epi/symmetrian_rikkominen) syytä. Menneisyys tarjoaa runsaasti dataa, jolla [päivittää uskomuksia](https://ollij.fi/epi/uskomusten_muutos). Kuinka hyvin hypoteesisi ennustaa menneisyyttä? Jos huonosti, niin sinulla on paras olla varsin hyvä syy sille, miksi tulevaisuus on erilainen.
+Usein kaukotilaan liittyy ajatus siitä, että tulevaisuus on tietyillä spesifeillä erilainen kuin menneisyys, vaikkei tälle ole [symmetriaa rikkovaa](/epi/symmetrian_rikkominen) syytä. Menneisyys tarjoaa runsaasti dataa, jolla [päivittää uskomuksia](/epi/uskomusten_muutos). Kuinka hyvin hypoteesisi ennustaa menneisyyttä? Jos huonosti, niin sinulla on paras olla varsin hyvä syy sille, miksi tulevaisuus on erilainen.
 
-Kaukotilanarratiiveja ei ole valittu niiden totuudenmukaisuuden vuoksi, vaan taustalla on jotakin muuta -- kenties niiden yksinkertaisuus tai mielenkiintoisuus tai luomat hyvät tunnetilat. Minusta tuntuu, että kaukaisista aiheista puhuttaessa ikään kuin unohdetaan, että tosiaan, [uskomuksen hyvyyttä mitataan sen totuudenmukaisuudella](https://ollij.fi/epi/miksi_todennakoisyydet). Sen sijaan asioihin suhtaudutaan asenteella "minulla nyt saa olla minkälaisia näkemyksiä tahansa" -- eihän niitä oikein voi todistaa vääräksi (ja ehkä jos myöhemmin voitaisiinkin, niin asia on silloin jo unohdettu).
+Kaukotilanarratiiveja ei ole valittu niiden totuudenmukaisuuden vuoksi, vaan taustalla on jotakin muuta -- kenties niiden yksinkertaisuus tai mielenkiintoisuus tai luomat hyvät tunnetilat. Minusta tuntuu, että kaukaisista aiheista puhuttaessa ikään kuin unohdetaan, että tosiaan, [uskomuksen hyvyyttä mitataan sen totuudenmukaisuudella](/epi/miksi_todennakoisyydet). Sen sijaan asioihin suhtaudutaan asenteella "minulla nyt saa olla minkälaisia näkemyksiä tahansa" -- eihän niitä oikein voi todistaa vääräksi (ja ehkä jos myöhemmin voitaisiinkin, niin asia on silloin jo unohdettu).

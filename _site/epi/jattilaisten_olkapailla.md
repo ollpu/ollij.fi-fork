@@ -12,7 +12,7 @@ Rehellinen mielipiteeni olisi, että nämä näkemykset ovat täyttä hölynpöl
 
 Tämä on tietysti naurettava, kuviteltu tilanne.
 
-Omilla filosofian tunneillani sen sijaan käytettiin runsaasti aikaa antiikin Kreikan filosofien ajatusten käsittelyyn. Näiden joukosta löytyy esimerkiksi Aristoteles näkemyksensä "[jotkut ihmiset ovat luonnostaan orjia](https://en.wikipedia.org/wiki/Natural_slavery)" kanssa. Jostakin syystä tämä hyväksytään. ([Kykenen toki](https://ollij.fi/epi/reflektointi) keksimään tälle [perusteluja](https://ollij.fi/epi/miksi_uskot): Aristoteles on ollut "vaikutusvaltainen ajattelija" tai "historiallisesti merkittävä henkilö" tai "häneltä voi silti oppia jotakin, vaikka jotkut näkemykset ovatkin huonoja ja vanhentuneita" tai "hänestä oppiminen auttaa ymmärtämään filosofian historiaa yleisemmin". En vain pidä näitä *hyvinä* tai [symmetriaa rikkovina](https://ollij.fi/epi/symmetrian_rikkominen) perusteluina.)
+Omilla filosofian tunneillani sen sijaan käytettiin runsaasti aikaa antiikin Kreikan filosofien ajatusten käsittelyyn. Näiden joukosta löytyy esimerkiksi Aristoteles näkemyksensä "[jotkut ihmiset ovat luonnostaan orjia](https://en.wikipedia.org/wiki/Natural_slavery)" kanssa. Jostakin syystä tämä hyväksytään. ([Kykenen toki](/epi/reflektointi) keksimään tälle [perusteluja](/epi/miksi_uskot): Aristoteles on ollut "vaikutusvaltainen ajattelija" tai "historiallisesti merkittävä henkilö" tai "häneltä voi silti oppia jotakin, vaikka jotkut näkemykset ovatkin huonoja ja vanhentuneita" tai "hänestä oppiminen auttaa ymmärtämään filosofian historiaa yleisemmin". En vain pidä näitä *hyvinä* tai [symmetriaa rikkovina](/epi/symmetrian_rikkominen) perusteluina.)
 
 Joskus on ollut aika, jolloin olen ollut yllättynyt kuullessani, kuinka "historian suurimmat ajattelijat" ovat sanoneet ties mitä hölynpölyä. Sittemmin olen ymmärtänyt, että tämä on *juuri miten odottaisikin asian olevan*.
 
@@ -38,6 +38,6 @@ He believes that a murdered body will bleed in the presence of the murderer. He 
 
 A century and a third later, an educated descendant of this Englishman would believe none of these things."
 
-Tavallisesti pitäisin satoja (tai tuhansia) vuosia vanhojen ihmisten näkemysten kritisoimista epäreilun [helppona maalitauluna](https://ollij.fi/epi/helpot_maalitaulut), mutta ihmiset tuntuvat pitävän filosofeja ja heidän näkemyksiään suuressa arvossa. Minullekin on suositeltu vanhojen suurten ajattelijoiden kirjoitusten lukemista. (Ja tietysti lukion filosofia on mitä on.) Ihmiset eivät käsitä, kuinka syvästi maailmankuvat eroavat nyt ja ennen valistusta, tieteellistä vallankumousta ja näitä seurannutta vuosisatojen kehitystä.
+Tavallisesti pitäisin satoja (tai tuhansia) vuosia vanhojen ihmisten näkemysten kritisoimista epäreilun [helppona maalitauluna](/epi/helpot_maalitaulut), mutta ihmiset tuntuvat pitävän filosofeja ja heidän näkemyksiään suuressa arvossa. Minullekin on suositeltu vanhojen suurten ajattelijoiden kirjoitusten lukemista. (Ja tietysti lukion filosofia on mitä on.) Ihmiset eivät käsitä, kuinka syvästi maailmankuvat eroavat nyt ja ennen valistusta, tieteellistä vallankumousta ja näitä seurannutta vuosisatojen kehitystä.
 
 Ymmärrettyäni, kuinka korkealla jättiläisten olkapäät ovatkaan, olen suhtautunut epäilevästi heihin, jotka yrittävät työntää minut takaisin maankamaralle.

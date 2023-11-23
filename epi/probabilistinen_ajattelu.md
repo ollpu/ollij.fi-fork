@@ -4,9 +4,9 @@ Olet sopinut tapaavasi kaverisi tänään kello kymmenen. Hän ei saavu ajoissa 
 
 Tarinan opetus?
 
-Ensinnäkin olet epävarma siitä, miten käy: et tiedä, tuleeko kaveri paikalle vai ei. Jos kysyt itseltäsi, saapuuko kaverisi paikalle vai ei, paras vastaus ei ole [binäärinen](https://ollij.fi/epi/binaarinen_jakauma) "kyllä" tai "ei", vaan esimerkiksi "en tiedä".
+Ensinnäkin olet epävarma siitä, miten käy: et tiedä, tuleeko kaveri paikalle vai ei. Jos kysyt itseltäsi, saapuuko kaverisi paikalle vai ei, paras vastaus ei ole [binäärinen](/epi/binaarinen_jakauma) "kyllä" tai "ei", vaan esimerkiksi "en tiedä".
 
-Lisäksi epävarmuutesi tila muuttuu. Alussa olet epävarmempi kaverisi saapumisesta (ehkä hän tulee, ehkä ei), lopussa varmempi (hän tuskin tulee, luovutan). Vaikka siis kummassakaan tapauksessa "et tiedä" miten käy, uskomusten vahvuutta voi silti vertailla ja [kvantifioida](https://ollij.fi/epi/kvantifiointi). Jotkut uskomukset ovat vahvempia kuin toiset, joskus aika paljonkin.
+Lisäksi epävarmuutesi tila muuttuu. Alussa olet epävarmempi kaverisi saapumisesta (ehkä hän tulee, ehkä ei), lopussa varmempi (hän tuskin tulee, luovutan). Vaikka siis kummassakaan tapauksessa "et tiedä" miten käy, uskomusten vahvuutta voi silti vertailla ja [kvantifioida](/epi/kvantifiointi). Jotkut uskomukset ovat vahvempia kuin toiset, joskus aika paljonkin.
 
 Hmm... olisipa kätevää, jos olisi jokin tapa käsitellä epävarmuutta kvantitatiivisesti. Sellainen järjestelmä, joka tarjoaa asteikon uskomuksille. Asteikolla isommat luvut voisivat vastata sitä, että luulee näin olevan ja pienemmät taas sitä, että näin ei varmaankaan ole. Ai, ja vielä jos näille luvuille voisi tehdä laskutoimituksia! Niin, että uskomusten epävarmuuksia voisi jotenkin käsitellä ja yhdistellä.
 

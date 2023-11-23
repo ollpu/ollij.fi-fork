@@ -6,7 +6,7 @@ Mitä yhteistä seuraavilla tilanteilla on?
 - Yliopistoa aloitteleva kaverini kommentoi "En tiedä luulenko itsestäni liikoja, mutta uskoisin, että jos minut laitettaisiin yläkouluun nyt, niin olisin ihan OK opettaja [vaikken ole suorittanut tarvittavia opintoja]".
 - Esitin kritiikkiä koskien koulutusta ja lähestymistapoja, joilla sitä voisi parantaa. Minulle kommentoitiin "varmaan joo yksi matikan opiskelija tietää miten Suomen koulutusta kuuluu ajaa".
 
-Yksi yhteinen piirre: [status](https://ollij.fi/epi/status). Kolmas kommentti oli vitsi, joka imitoi stereotyyppistä hierarkiassa alemmas näpäytystä. Toisen esimerkin "En tiedä luulenko itsestäni liikoja" taas on juuri sellaista nöyryyttä, johon ihmiset aina välillä tökkivät toisiaan. Ja jos "minä muka tietäisin paremmin", niin sehän tarkoittaa että väitän omaavani enemmän statusta kuin vanhoilla ja kokeneilla valmentajilla, mikä ei tietenkään käy.
+Yksi yhteinen piirre: [status](/epi/status). Kolmas kommentti oli vitsi, joka imitoi stereotyyppistä hierarkiassa alemmas näpäytystä. Toisen esimerkin "En tiedä luulenko itsestäni liikoja" taas on juuri sellaista nöyryyttä, johon ihmiset aina välillä tökkivät toisiaan. Ja jos "minä muka tietäisin paremmin", niin sehän tarkoittaa että väitän omaavani enemmän statusta kuin vanhoilla ja kokeneilla valmentajilla, mikä ei tietenkään käy.
 
 On kuitenkin toinen yhteinen piirre. (Esimerkit sattuvat koskemaan opetusta, mutta se ei ole se, mitä ajan takaa.)
 
@@ -14,7 +14,7 @@ Taloustieteessä [tehokkaiden markkinoiden hypoteesi](https://en.wikipedia.org/w
 
 Sen sijaan hypoteesin variantti, tehokkaan *maailman* hypoteesi, menee jotakuinkin näin: jos luulet huomaavasi maailmassa virheen, olet väärässä.
 
-Tämä on [tietysti](https://ollij.fi/epi/ilmeiset_ohjeet) hölynpölyä -- joten eihän kukaan tietenkään usko tähän tai sano "en usko, että maailmassa on mitään ongelmia". Eksplisiittisesti kysyttäessä ihmiset kiistävät tämän.
+Tämä on [tietysti](/epi/ilmeiset_ohjeet) hölynpölyä -- joten eihän kukaan tietenkään usko tähän tai sano "en usko, että maailmassa on mitään ongelmia". Eksplisiittisesti kysyttäessä ihmiset kiistävät tämän.
 
 ...ja silti nuoremmalla minälläni oli *jokin* tehokkaan maailman hypoteesia vastaava uskomus. Ei eksplisiittisesti. Ei konsistentisti. Kysyttäessä olisin kiistänyt hypoteesin selvästi epätotena. En tietoisesti miettinyt asioita sitä kautta. Mutta *jotakin*, mikä pisti ajattelemaan, että enhän minä voi nähdä miten asioita voisi tehdä paremmin.
 
@@ -22,8 +22,8 @@ Tämä on [tietysti](https://ollij.fi/epi/ilmeiset_ohjeet) hölynpölyä -- jote
 
 Ja siten päädytään uskomaan kaikenlaista hölynpölyä: Matematiikkakilpailujen valmennustoiminta on tehokas. Opettajien palkkausjärjestelmä on tehokas. Koulutusjärjestelmä on tehokas.
 
-Tehokkaan maailman hypoteesin voisi kumota vaikkapa puhumalla [insentiiveistä](https://ollij.fi/epi/insentiivit) ja antamalla listan esimerkkejä, joissa se ei päde. Tämä on kuitenkin [väärä taso](https://ollij.fi/epi/miksi_uskot), jolla käsitellä asiaa. Status-näkökulma selittää ilmiön hyvin: hypoteesiin "uskotaan", ei siksi että sille olisi vahvoja perusteluja, vaan koska muuten on ylimielinen ja luulee itsestään liikoja.
+Tehokkaan maailman hypoteesin voisi kumota vaikkapa puhumalla [insentiiveistä](/epi/insentiivit) ja antamalla listan esimerkkejä, joissa se ei päde. Tämä on kuitenkin [väärä taso](/epi/miksi_uskot), jolla käsitellä asiaa. Status-näkökulma selittää ilmiön hyvin: hypoteesiin "uskotaan", ei siksi että sille olisi vahvoja perusteluja, vaan koska muuten on ylimielinen ja luulee itsestään liikoja.
 
-Ja koska käsittelemme statukseen liittyviä aiheita, jotka saavat herkästi [ajatukset sumenemaan](https://ollij.fi/epi/sumuiset_ajatukset), selkeytän yhtä pointtia: Kun sanon, että on hölynpölyä uskoa koulutusjärjestelmän tehokkuuteen, en tarkoita, että koulutuksesta vastaavat ihmiset ovat "tyhmiä". En todellakaan tarkoita, että nämä ihmiset ovat "epätehokkaita" tai "laiskoja". Kyse on vain siitä, että nämä järjestelmät eivät ole *täydellisiä* tai edes niin hyviä, ettei niistä voisi löytää *ongelmia* tai *parannettavaa*.
+Ja koska käsittelemme statukseen liittyviä aiheita, jotka saavat herkästi [ajatukset sumenemaan](/epi/sumuiset_ajatukset), selkeytän yhtä pointtia: Kun sanon, että on hölynpölyä uskoa koulutusjärjestelmän tehokkuuteen, en tarkoita, että koulutuksesta vastaavat ihmiset ovat "tyhmiä". En todellakaan tarkoita, että nämä ihmiset ovat "epätehokkaita" tai "laiskoja". Kyse on vain siitä, että nämä järjestelmät eivät ole *täydellisiä* tai edes niin hyviä, ettei niistä voisi löytää *ongelmia* tai *parannettavaa*.
 
 Itsestäänselvää? Niinhän ne aina.

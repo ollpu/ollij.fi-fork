@@ -8,7 +8,7 @@ Arkisemmin: tekoälyt voivat olla ihmisiä (paljon) älykkäämpiä.
 
 Ottaen huomioon, että ihmiskunnan nousu rakentuu juuri kognitiivisten kykyjen pohjalle ja tällä on ollut valtavia seurauksia maailmalle, ihmisten kyvyt ylittävät tekoälyt vaikuttavat *hyvin tärkeiltä* aika monesta näkökulmasta.
 
-Eikä tämä ei ole vain ongelma jossakin kaukaisessa tulevaisuudessa, kuten tekoälyn kehitystä seuranneet ymmärtävät.
+Eikä tämä ole vain ongelma jossakin kaukaisessa tulevaisuudessa, kuten tekoälyn kehitystä seuranneet ymmärtävät.
 
 Eli kyseessä on *aika iso* asia ja ajankohtainen sellainen, mutta mikä se uhka on?
 

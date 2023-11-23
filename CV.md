@@ -1,6 +1,6 @@
 # Saavutuksia
 
-[Tässä linkki](https://ollij.fi/cv2023-6_FIN.pdf) tavanomaiseen CV:hen. Alla vapaamuotoisempi lista saavutuksistani, joista olen erityisen ylpeä.
+[Tässä linkki](/cv2023-6_FIN.pdf) tavanomaiseen CV:hen. Alla vapaamuotoisempi lista saavutuksistani, joista olen erityisen ylpeä.
 
 ## Koulutus
 
@@ -33,7 +33,7 @@ Suomen matematiikkavalmennuksen puolella olen tehnyt (muiden valmentajien tuella
 
 ## Tutkimus
 
-Lista kaikista artikkeleistani löytyy [Tutkimus](https://ollij.fi/tutkimus)-osiosta.
+Lista kaikista artikkeleistani löytyy [Tutkimus](/tutkimus)-osiosta.
 
 Pidän erityisesti niistä töistä, joissa käsitellään yksinkertaisen ja luonnollisen kuuloisia ongelmia (vaikkeivat nämä olisikaan teknisesti vaativimmat artikkelini). Erityisesti seuraavien artikkelien parissa oli mukava tehdä töitä:
 

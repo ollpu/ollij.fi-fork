@@ -8,7 +8,7 @@ Tietenkään minä en vaadi *todistusta* toisen näkemykselle!
 
 Tällainen kommentti saa minut epäilemään, että toisella on varsin binäärinen näkemys oikeista ja vääristä näkemyksistä: näkemyksen muuttaminen vaatii todistuksen tiettyyn suuntaan, ja muuten ihmisille jää samat näkemykset kuin keskustelun alussa. Mutta kuten olen kirjoittanut, on kaikenkokoisia uskomusten muutoksia. Todistus (eli todennäköisyyden muuttaminen suunnilleen nollaksi tai ykköseksi) on näistä äärimmäisin ja ei aina saavutettavissa oikeassa elämässä.
 
-Asetelma myös heijastelee [väittelyä](https://ollij.fi/epi/miksi_uskot), jossa ihmiset pyrkivät [vakuuttamaan](https://ollij.fi/epi/vakuuttamisesta) toisen näkemyksestään. Tästä puolestaan [olen kirjoittanut](https://ollij.fi/epi/miksi_todennakoisyydet) "Ei ole 'omia' tai 'muiden' hypoteeseja" ja "Tehtäväsi on vain päivittää uskomuksia todellisuuden parempaa ennustamista varten."
+Asetelma myös heijastelee [väittelyä](/epi/miksi_uskot), jossa ihmiset pyrkivät [vakuuttamaan](/epi/vakuuttamisesta) toisen näkemyksestään. Tästä puolestaan [olen kirjoittanut](/epi/miksi_todennakoisyydet) "Ei ole 'omia' tai 'muiden' hypoteeseja" ja "Tehtäväsi on vain päivittää uskomuksia todellisuuden parempaa ennustamista varten."
 
 Myös asennoitumiset vaihtelevat: joskus uuden tiedon valossa asenne on "onko minun pakko päivittää?" ja joskus "saanko minä päivittää?", kun oikea asenne on "tuleeko minun päivittää?". Päivittämisen ei tulisi tuntua siltä, että oma tai vastustajien joukkue saa maalin.
 
@@ -56,7 +56,7 @@ Tämä *kuulostaa* järkevältä (ja ilmeisesti myös vaikuttaa monesta järkev�
 
 "Hypoteesin todennäköisyyttä ei voi mitata yksinään. Hypoteesien vertailuun ja uskomusten päivittämiseen tarvitaan *vähintään* kaksi hypoteesia. Pisteytyksessä katsotaan sitä, kuinka hyvin hypoteesi selittää ilmiötä *verrattuna muihin hypoteeseihin*."
 
-Vertailemalla hypoteeseja "pelaaja on hyvis" ja "pelaaja on pahis" huomataan, ettei "epäilyttävä" pelaus ole (juurikaan) [evidenssiä](https://ollij.fi/epi/uskomusten_muutos) kumpaankaan suuntaan. Hypoteesit selittävät tilanteet suunnilleen yhtä hyvin (tai, no, huonosti). Joka tapauksessa pelaus on virhe. Ei ole vahvaa syytä uskoa, että pahikset tekevät todennäköisemmin ilmiselviä virheitä kuin hyvikset.
+Vertailemalla hypoteeseja "pelaaja on hyvis" ja "pelaaja on pahis" huomataan, ettei "epäilyttävä" pelaus ole (juurikaan) [evidenssiä](/epi/uskomusten_muutos) kumpaankaan suuntaan. Hypoteesit selittävät tilanteet suunnilleen yhtä hyvin (tai, no, huonosti). Joka tapauksessa pelaus on virhe. Ei ole vahvaa syytä uskoa, että pahikset tekevät todennäköisemmin ilmiselviä virheitä kuin hyvikset.
 
 Mistä väärä päätelmä johtuu? Parhaat veikkaukseni liittyvät [vahvistusharhaan](https://en.wikipedia.org/wiki/Confirmation_bias) (tulkitaan informaatiota vääristyneesti) ja "[horn effect](https://en.wikipedia.org/wiki/Horn_effect)" (yhden negatiivisen ominaisuuden omaava on negatiivinen myös muilla mittareilla).
 

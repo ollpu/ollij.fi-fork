@@ -2,7 +2,7 @@
 
 Vastaan tässä yleisiin vastareaktioihin mitä olen saanut koskien tekoälyuhkaa.
 
-*Nämä eivät ole vahvimmat vasta-argumentit tekoälyuhkaa vastaan* (tai välttämättä edes vasta-argumentteja). Nämä ovat asioita, joita olen kuullut puhuessani (aiheeseen perehtymättömien) kanssa. Ajattelen siksi niiden käsittelyllä olevan pedagogista arvoa. Jos haluaa lukea järkevien ihmisten järkeviä erimielisyyksiä aiheesta, niin tämä ei ole oikea paikka, vaan suosittelen lukemaan [muita tekstejä](https://ollij.fi/tekoaly/lukemista).
+*Nämä eivät ole vahvimmat vasta-argumentit tekoälyuhkaa vastaan* (tai välttämättä edes vasta-argumentteja). Nämä ovat asioita, joita olen kuullut puhuessani (aiheeseen perehtymättömien) kanssa. Ajattelen siksi niiden käsittelyllä olevan pedagogista arvoa. Jos haluaa lukea järkevien ihmisten järkeviä erimielisyyksiä aiheesta, niin tämä ei ole oikea paikka, vaan suosittelen lukemaan [muita tekstejä](/tekoaly/lukemista).
 
 Joka tapauksessa nämä vaikuttavat olevan kysymyksiä, joita monilla on mielessä ja joihin he haluavat vastauksia. Siksi näen arvoa vastausten antamisessa.
 
@@ -50,7 +50,7 @@ Yksi vastaus on: Jos olet eri mieltä eksistentiaalisten uhkien todennäköisyyd
 
 Toinen vastaus on: Eri haitat eivät ole poissulkevia! Yhden haitan nimeäminen "oikeaksi ongelmaksi" muiden kustannuksella vaikuttaa epäproduktiiviselta. Tarvittavat toimet haittojen ennaltaehkäisemiseen tai pienentämiseen ovat, ei aina, mutta välillä samoja. Toivon yhteistyökykyä, vaikka uskomuksissa on eroja.
 
-(Enkä itse ole välinpitämätön huolista kuten "tekoälyn avulla vaikutetaan yleiseen keskusteluun ja poliittiseen päätöksentekoon sekä levitetään misinformaatiota". [Minä ihan välitän totuudenmukaisista uskomuksista](https://ollij.fi/epi). En vähiten siksi, että hyvä yleinen keskustelu ja päätöksenteko vaikuttaa tärkeältä eksistentiaalisten uhkien välttämiseksi, mutta muistakin syistä.)
+(Enkä itse ole välinpitämätön huolista kuten "tekoälyn avulla vaikutetaan yleiseen keskusteluun ja poliittiseen päätöksentekoon sekä levitetään misinformaatiota". [Minä ihan välitän totuudenmukaisista uskomuksista](/epi). En vähiten siksi, että hyvä yleinen keskustelu ja päätöksenteko vaikuttaa tärkeältä eksistentiaalisten uhkien välttämiseksi, mutta muistakin syistä.)
 
 ---
 
@@ -58,7 +58,7 @@ Seuraavaksi käsittelen paria kommenttia, joita pidän... ajattelemattomina. Nä
 
 Jos siis tekstilaji "suorasanaisia, epäkohteliaita vastauksia ajattelemattomiin kommentteihin" ei ole sinun mieleesi, suosittelen hyppäämään seuraavaan tekstiin.
 
-Lukijan ei tule ajatella "nämä ovat ne jutut, joita tekoälyuhkaa epäilevät uskovat!". Taas, järkevien ihmisten järkevät erimielisyydet löytää [toisaalta](https://ollij.fi/tekoly/lukemista).
+Lukijan ei tule ajatella "nämä ovat ne jutut, joita tekoälyuhkaa epäilevät uskovat!". Taas, järkevien ihmisten järkevät erimielisyydet löytää [toisaalta](/tekoly/lukemista).
 
 Hyvä, selvä? Jatkan sitten itse kommentteihin.
 
@@ -80,7 +80,7 @@ Auki kirjoitettuna "yksikään maailmanlopun ennustus ei ole toteutunut" ei enä
 
 Mikä varmaankaan ei ole tällaisen kommentin esittäneen mielestä tyydyttävä vastaus.
 
-Ja minä voin jatkaa, että olen [itse asiassa](https://ollij.fi/epi/reflektointi) kuullut siitä, että tällaisia ennustuksia on tehty.
+Ja minä voin jatkaa, että olen [itse asiassa](/epi/reflektointi) kuullut siitä, että tällaisia ennustuksia on tehty.
 
 Mihin voi vastata, että tämä ei tarkoita, että olen oikeassa.
 
@@ -92,7 +92,7 @@ Minä vastaan, että en oikeastaan tiedä, mikä on varsinainen pointti. Sanoink
 
 Mihin voi turhautua ja sanoa, että tarkoituksella kierrän kysymyksen.
 
-Rehellisesti, olen hieman kyllästynyt peliin "keksi [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) ihmisten retorisista kommenteista". Jos ihmisillä on oikeita pointteja, niin esittäkööt he ne suoraan eikä vähättelevien kommenttien muodossa. Jos näitä oikeita pointteja ei ole, niin on teennäistä esittää kohteliasta ja pohtia, mitä loistavia huomioita näiden näennäisesti ajattelemattomien kommenttien takana on.
+Rehellisesti, olen hieman kyllästynyt peliin "keksi [kohteliaita tulkintoja](/epi/kohteliaat_tulkinnat) ihmisten retorisista kommenteista". Jos ihmisillä on oikeita pointteja, niin esittäkööt he ne suoraan eikä vähättelevien kommenttien muodossa. Jos näitä oikeita pointteja ei ole, niin on teennäistä esittää kohteliasta ja pohtia, mitä loistavia huomioita näiden näennäisesti ajattelemattomien kommenttien takana on.
 
 Mihin voi vastata "pointti on, että aiemmat ennustukset maailmanlopuista ovat olleet selkeästi huonoja, mikä on evidenssiä sille, että muutkin maailmanlopun ennustukset ovat selkeästi huonoja".
 
@@ -100,7 +100,7 @@ Mihin voi vastata "pointti on, että aiemmat ennustukset maailmanlopuista ovat o
 
 Mihin vastaan, että ihmiset voivat muodostaa (ja ilmeisesti muodostavat) uskomuksena tätä kautta. Minä taas en mieti asiaa näin, koska tämä on vain surkea tapa miettiä aihetta. Jos minulta kysyttäisiin todennäköisyyttä sille, että seuraavan sadan vuoden aikana asteroidi iskeytyy Maahan johtaen ihmiskunnan sukupuuttoon, niin minä en vastaisi "ah, tämä on taas noita maailmanlopun ennustuksia, eihän tuo voi tapahtua". Minä miettisin "Kuinkakohan usein Maahan iskeytyy riittävän suuria asteroideja? Hmm, 65 miljoonaa vuotta sitten dinosaurukset..." Vastaavasti kysyttäessä keinotekoisen pandemian aiheuttaman katastrofin todennäköisyyttä miettisin muita asioita kuin "kuinka hyviä maailmanlopun ennustukset ovat yleisesti olleet?".
 
-Jos muut ihmiset ovat tehneet paljon huonoja ennustuksia koskien asteroideja tai pandemioita, niin kenties on hyödyllistä selvittää, mistä nuo huonot ennustukset johtuvat, ettei itse tee samoja virheitä. Kenties on yleisesti hyödyllistä kehittää taitoaan muodostaa [totuudenmukaisia uskomuksia](https://ollij.fi/epi). En sanoisi, että olen sivuuttanut tätäkään puolta aiheesta.
+Jos muut ihmiset ovat tehneet paljon huonoja ennustuksia koskien asteroideja tai pandemioita, niin kenties on hyödyllistä selvittää, mistä nuo huonot ennustukset johtuvat, ettei itse tee samoja virheitä. Kenties on yleisesti hyödyllistä kehittää taitoaan muodostaa [totuudenmukaisia uskomuksia](/epi). En sanoisi, että olen sivuuttanut tätäkään puolta aiheesta.
 
 **Kysymys:** Onko se nyt niin paha, jos tekoäly tappaa kaikki?
 
@@ -108,14 +108,14 @@ On.
 
 "Se oli vitsi."
 
-Olen [toisaalla](https://ollij.fi/epi/ongelmien_sivuuttamisesta) kirjoittanut, kuinka tällaiset huumorihakuiset absurdit väitteet ovat kätevä tapa sivuuttaa ongelmia.
+Olen [toisaalla](/epi/ongelmien_sivuuttamisesta) kirjoittanut, kuinka tällaiset huumorihakuiset absurdit väitteet ovat kätevä tapa sivuuttaa ongelmia.
 
 Joku voisi vastata, että ylianalysoin tilannetta ja että se on vain vitsi.
 
-On aika hauska sattuma, että useampi ihminen on keksinyt tämän saman "vitsin". Ja kun sanon "hauska sattuma", tarkoitan säännönmukaisuutta. Tekoälyuhka vaikuttaa olevan aihe, joka saa ihmisten ajattelun rikki ja sanomaan ties mitä roskaa. "[Kaukaiset](https://ollij.fi/epi/kaukotila)", "[filosofiset](https://ollij.fi/epi/filosofiatila)" aiheet tuppaavat olemaan sellaisia. Olen syystäkin [kirjoittanut](https://ollij.fi/epi) tästä teemasta.
+On aika hauska sattuma, että useampi ihminen on keksinyt tämän saman "vitsin". Ja kun sanon "hauska sattuma", tarkoitan säännönmukaisuutta. Tekoälyuhka vaikuttaa olevan aihe, joka saa ihmisten ajattelun rikki ja sanomaan ties mitä roskaa. "[Kaukaiset](/epi/kaukotila)", "[filosofiset](/epi/filosofiatila)" aiheet tuppaavat olemaan sellaisia. Olen syystäkin [kirjoittanut](/epi) tästä teemasta.
 
 Joku voisi "kohteliaasti" huomauttaa, että kyllä nämä ihmiset oikeasti pitävät sitä huonona asiana.
 
-Mihin vastaan, että tämä on epätosi väite -- [jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat) ja niin edelleen. Osan kohdalla kyse varmaankin on vitsistä, mutta on virheellistä sanoa, ettei kukaan ole tätä mieltä.
+Mihin vastaan, että tämä on epätosi väite -- [jakaumat ovat leveitä](/epi/leveat_jakaumat) ja niin edelleen. Osan kohdalla kyse varmaankin on vitsistä, mutta on virheellistä sanoa, ettei kukaan ole tätä mieltä.
 
 Voit toki pitää sitä itsestäänselvyytenä, että kaikkien kuoleminen on hyvin paha asia ja sen estämiseksi kannattaa tehdä jotakin. Olen tästä samaa mieltä.

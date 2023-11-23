@@ -4,7 +4,7 @@
 
 Hyvä kysymys!
 
-Vaikka usein todennäköisyyksiä käsitellessä esitetään numeerisia esimerkkejä -- aivan kuten minäkin tein edellisissä [parissa](https://ollij.fi/epi/probabilistinen_ajattelu) [tekstissä](https://ollij.fi/epi/uskomusten_muutos) -- eivät nämä ole se keskeisin pointti. Esimerkkien pointti on lähinnä havainnollistaa konsepteja. *Konseptien* pointti on tietysti jotakin ihan muuta kuin "nyt osaat ratkoa laskutehtäviä aiheeseen liittyen". Ne nimittäin antavat valtavasti työkaluja uskomusten ja epävarmuuden käsittelyyn.
+Vaikka usein todennäköisyyksiä käsitellessä esitetään numeerisia esimerkkejä -- aivan kuten minäkin tein edellisissä [parissa](/epi/probabilistinen_ajattelu) [tekstissä](/epi/uskomusten_muutos) -- eivät nämä ole se keskeisin pointti. Esimerkkien pointti on lähinnä havainnollistaa konsepteja. *Konseptien* pointti on tietysti jotakin ihan muuta kuin "nyt osaat ratkoa laskutehtäviä aiheeseen liittyen". Ne nimittäin antavat valtavasti työkaluja uskomusten ja epävarmuuden käsittelyyn.
 
 "Anna esimerkkejä!"
 
@@ -12,15 +12,15 @@ No jos nyt kerran vaaditte, niin ehkä minä keksin jotakin:
 
 1\. Hyvä uskomus on sellainen, joka on totuudenmukainen -- sellainen, joka vastaa todellisuutta hyvin ja joka antaa parempia ennustuksia kuin muut hypoteesit.
 
-Tämä vaikuttaa minusta ilmeiseltä, mutta olen huomannut joidenkin olevan eri mieltä. Joskus jotkut ajattelevat hyvän uskomuksen olevan sellainen, jonka haluaa olevan totta tai josta seuraa hyviä asioita. Tai sellainen, jolle [keksii vahvoja perusteluja](https://ollij.fi/epi/miksi_uskot) ja jota pystyy tarpeen tullen puolustamaan. Tai sellainen, joka on mielenkiintoinen, ajatuksia herättävä ja originaali. Tai sellainen, josta muut kaverit ovat samaa mieltä tai jota he pitävät järkevänä uskomuksena. Tai sellainen, joka on [kohtelias](https://ollij.fi/epi/kohteliaat_tulkinnat) muita ihmisiä kohtaan. Tai sellainen, joka on nöyrä ja vaatimaton. Tai sellainen, joka kuulostaa "normaalilta". Tai sellainen, joka on käytännössä "hyvä meidän joukkue!". Tai...
+Tämä vaikuttaa minusta ilmeiseltä, mutta olen huomannut joidenkin olevan eri mieltä. Joskus jotkut ajattelevat hyvän uskomuksen olevan sellainen, jonka haluaa olevan totta tai josta seuraa hyviä asioita. Tai sellainen, jolle [keksii vahvoja perusteluja](/epi/miksi_uskot) ja jota pystyy tarpeen tullen puolustamaan. Tai sellainen, joka on mielenkiintoinen, ajatuksia herättävä ja originaali. Tai sellainen, josta muut kaverit ovat samaa mieltä tai jota he pitävät järkevänä uskomuksena. Tai sellainen, joka on [kohtelias](/epi/kohteliaat_tulkinnat) muita ihmisiä kohtaan. Tai sellainen, joka on nöyrä ja vaatimaton. Tai sellainen, joka kuulostaa "normaalilta". Tai sellainen, joka on käytännössä "hyvä meidän joukkue!". Tai...
 
-(Vai eikö "en usko, että onnistut" kuulosta [hieman siltä](https://ollij.fi/epi/sumuiset_ajatukset), että toinen *toivoo* sinun epäonnistuvan?)
+(Vai eikö "en usko, että onnistut" kuulosta [hieman siltä](/epi/sumuiset_ajatukset), että toinen *toivoo* sinun epäonnistuvan?)
 
-Joskus totuudenmukaiset uskomukset ovat samalla se, minkä haluaa olevan totta. Joskus niille keksii vahvoja perusteluja. Joskus ne ovat ajatuksia herättäviä. Tämä on [tietysti eri asia](https://ollij.fi/epi/sumuiset_ajatukset) kuin se, että kannattaa uskoa asioita *sen vuoksi*, että haluaa niiden olevan totta tai koska ne ovat kiinnostavia. Kaiken minkä haluaa olevan totta ei ole totta ja kaikki mielenkiintoiset uskomukset eivät ole tosia. Lopullinen mittari on totuudenmukaisuus.
+Joskus totuudenmukaiset uskomukset ovat samalla se, minkä haluaa olevan totta. Joskus niille keksii vahvoja perusteluja. Joskus ne ovat ajatuksia herättäviä. Tämä on [tietysti eri asia](/epi/sumuiset_ajatukset) kuin se, että kannattaa uskoa asioita *sen vuoksi*, että haluaa niiden olevan totta tai koska ne ovat kiinnostavia. Kaiken minkä haluaa olevan totta ei ole totta ja kaikki mielenkiintoiset uskomukset eivät ole tosia. Lopullinen mittari on totuudenmukaisuus.
 
 2\. Olet epävarma uskomuksistasi.
 
-...mutta tämäkin tuntuu välillä unohtuvan. Minähän *tiedän* tämän asian. Mielessä ei ole useampaa hypoteesia, vaan ainoastaan se oikea -- tiedäthän, se miten asiat ovat. Kysymystä "entä jos olen väärässä?" ei tule mietittyä itseltään, toiseksi todennäköisintä hypoteesia ei ole mielessä. [Odotusarvojen](https://ollij.fi/epi/odotusarvo) käsittelyn voi unohtaa kokonaan: ei ne epätodennäköiset asiat kuitenkaan tapahdu.
+...mutta tämäkin tuntuu välillä unohtuvan. Minähän *tiedän* tämän asian. Mielessä ei ole useampaa hypoteesia, vaan ainoastaan se oikea -- tiedäthän, se miten asiat ovat. Kysymystä "entä jos olen väärässä?" ei tule mietittyä itseltään, toiseksi todennäköisintä hypoteesia ei ole mielessä. [Odotusarvojen](/epi/odotusarvo) käsittelyn voi unohtaa kokonaan: ei ne epätodennäköiset asiat kuitenkaan tapahdu.
 
 Ja todella, sinulla voi olla useammalle eri mahdollisuudelle kohtalainen määrä todennäköisyyttä. On muitakin vaihtoehtoja kuin "minä tiedän tämän" tai "en tiedä".
 
@@ -40,7 +40,7 @@ Tämäkin vaikuttaa minusta ilmeiseltä, mutta välillä tuntuu ihmisten kiistä
 
 6\. Hypoteesin todennäköisyyttä ei voi mitata yksinään. Hypoteesien vertailuun ja uskomusten päivittämiseen tarvitaan *vähintään* kaksi hypoteesia. Pisteytyksessä katsotaan sitä, kuinka hyvin hypoteesi selittää ilmiötä *verrattuna muihin hypoteeseihin*.
 
-"Oma hypoteesini selittää tämän hyvin, siispä se on oikeassa" ei ole validia päättelyä -- oleellista on katsoa, kuinka hyvin muut hypoteesit selittävät ilmiön [verrattuna omaan](https://ollij.fi/epi/uskomusten_muutos). Suoremmin sanottuna: et saa pisteitä ennustaessasi "huomenna Aurinko nousee", jos kaikki muut ennustavat samoin. Tämän pointin heikko ymmärrys vaikuttaa yhdeltä tekijältä ihmisten yleisessä taipumuksessa kasvattaa "omien" hypoteesien todennäköisyyksiä liikaa. Mistä tuleekin mieleen:
+"Oma hypoteesini selittää tämän hyvin, siispä se on oikeassa" ei ole validia päättelyä -- oleellista on katsoa, kuinka hyvin muut hypoteesit selittävät ilmiön [verrattuna omaan](/epi/uskomusten_muutos). Suoremmin sanottuna: et saa pisteitä ennustaessasi "huomenna Aurinko nousee", jos kaikki muut ennustavat samoin. Tämän pointin heikko ymmärrys vaikuttaa yhdeltä tekijältä ihmisten yleisessä taipumuksessa kasvattaa "omien" hypoteesien todennäköisyyksiä liikaa. Mistä tuleekin mieleen:
 
 7\. Ei ole "omia" tai "muiden" hypoteeseja. Hypoteesit vain ovat, ja ihmisillä on niitä koskien uskomuksia ja todennäköisyyksiä. Tavoite on muodostaa totuudenmukaiset uskomukset ja saada isot todennäköisyydet oikeille hypoteeseille.
 
@@ -64,13 +64,13 @@ Painotan, että ratkaisuna ei ole jälkiviisaana selittää, kuin tämä oli oik
 
 11\. Jokainen uusi yksityiskohta tiputtaa hypoteesin todennäköisyyttä, vaikka niiden avulla saakin kerrottua "uskottavan", "realistisen kuuloisen" tarinan.
 
-Ihmiset [sekoittavat herkästi](https://ollij.fi/epi/kohteliaat_tulkinnat) todennäköisyyden *representatiivisuuteen* eli siihen, kuinka hyvin tämä tapaus vaikuttaa vastaavan *tyypillistä* laajemman kategorian esimerkkiä.
+Ihmiset [sekoittavat herkästi](/epi/kohteliaat_tulkinnat) todennäköisyyden *representatiivisuuteen* eli siihen, kuinka hyvin tämä tapaus vaikuttaa vastaavan *tyypillistä* laajemman kategorian esimerkkiä.
 
 (Olen tämän vuoksi hieman kahden vaiheilla, onko sana "todennäköisyys", siis "toden"-"näköisyys", hyvin vai huonosti nimetty. Joka tapauksessa selityksen "uskottavuuden" kuuluisi olla sama kuin sen todennäköisyyden, jonka puolestaan pitäisi vastata todellisuutta tai väitteen totuusarvoa.)
 
 12\. Käytössäsi on tasan 100 prosentin edestä todennäköisyyspalikoita eri vaihtoehdoille jaettavaksi. Todennäköisyyden laittaminen yhdelle skenaariolle on todennäköisyyksien vähentämistä muualta.
 
-Eli ei, et voi antaa kaikille tapahtumille suurta todennäköisyyttä ja myöhemmin todeta, kuinka "minä tiesin tämän koko ajan". Voit tietysti antaa kaikille tuloksille *saman* todennäköisyyden: tämä vastaa tietämättömyyden tilaa. Kunnolliset ennustukset vaativat väärässä olemisen riskin; sen, että uskaltaa uskoa tai sanoa joistakin asioista "tuo on hyvin epätodennäköistä" (tai edes kohtalaisen epätodennäköistä), eikä vain esittää [epämääräisiä ympäripyöreitä väitteitä](https://ollij.fi/epi/matala_informaatio).
+Eli ei, et voi antaa kaikille tapahtumille suurta todennäköisyyttä ja myöhemmin todeta, kuinka "minä tiesin tämän koko ajan". Voit tietysti antaa kaikille tuloksille *saman* todennäköisyyden: tämä vastaa tietämättömyyden tilaa. Kunnolliset ennustukset vaativat väärässä olemisen riskin; sen, että uskaltaa uskoa tai sanoa joistakin asioista "tuo on hyvin epätodennäköistä" (tai edes kohtalaisen epätodennäköistä), eikä vain esittää [epämääräisiä ympäripyöreitä väitteitä](/epi/matala_informaatio).
 
 Mistä tuleekin mieleen:
 
@@ -78,7 +78,7 @@ Mistä tuleekin mieleen:
 
 Tarkka idea periaatteen taustalla on *päivityksen ja vastapäivityksen laki*, toiselta nimeltään *evidenssin säilymislaki*:
 
-Kuvitellaan, että olet 80% varma jostakin väitteestä (vaikkapa [silmäsi jomotuksen syystä](https://ollij.fi/epi/uskomusten_muutos)). Haluat selvittää väitettä ja saada sitä koskien informaatiota (esimerkiksi eräällä testillä). Et voi tällaisella testillä kuitenkaan *varmasti* tai *edes odotusarvollisesti* nostaa todennäköisyyttäsi väitteelle. Ehkä yksi testitulos nostaa todennäköisyyden 88 prosenttiin -- mutta toinen testitulos tiputtaa sen 44 prosenttiin, ja *keskimäärin*, siis *odotusarvollisesti*, todennäköisyys on 80 prosenttia. Ehkä luotettavammalla testillä yksi tuloksista nostaa todennäköisyytesi 99 prosenttiin, mutta vastapainona toinen tulos tiputtaa sen 1 prosenttiin.
+Kuvitellaan, että olet 80% varma jostakin väitteestä (vaikkapa [silmäsi jomotuksen syystä](/epi/uskomusten_muutos)). Haluat selvittää väitettä ja saada sitä koskien informaatiota (esimerkiksi eräällä testillä). Et voi tällaisella testillä kuitenkaan *varmasti* tai *edes odotusarvollisesti* nostaa todennäköisyyttäsi väitteelle. Ehkä yksi testitulos nostaa todennäköisyyden 88 prosenttiin -- mutta toinen testitulos tiputtaa sen 44 prosenttiin, ja *keskimäärin*, siis *odotusarvollisesti*, todennäköisyys on 80 prosenttia. Ehkä luotettavammalla testillä yksi tuloksista nostaa todennäköisyytesi 99 prosenttiin, mutta vastapainona toinen tulos tiputtaa sen 1 prosenttiin.
 
 Ei kuitenkaan ole mitään testiä, jolla voit varmasti, perustellusti nostaa todennäköisyytesi 80 prosentista 99 prosenttiin. Mikä se sellainen testi on, josta tietää jo etukäteen, mitä tulee tulokseksi?
 

@@ -10,12 +10,12 @@ Tilanne riistäytyy käsistäni ja keskstelu pyöri tämän toisen aiheen ympär
 
 Mihin aiheeseen minä viittasin?
 
-On joitakin aiheita, joiden mainitseminen pahimmillaan imaisee keskustelun mukanaan ja parhaimmillaankin luo ajattelua häiritseviä mielikuvia. Sellaisia, joista ihmisillä on vahvoja mielipiteitä. Sellaisia, joista ihmisillä on vahvoja tunteita. Sellaisia, joissa Olet Joko Meidän Puolella Tai Meitä Vastaan. Sellaisia, joiden suhteen jotkut ihmiset ovat ihan tyhmiä. Sellaisia, joita miettiessä [ajatukset sumenevat](https://ollij.fi/epi/sumuiset_ajatukset): asiat ovat Hyviä tai Pahoja.
+On joitakin aiheita, joiden mainitseminen pahimmillaan imaisee keskustelun mukanaan ja parhaimmillaankin luo ajattelua häiritseviä mielikuvia. Sellaisia, joista ihmisillä on vahvoja mielipiteitä. Sellaisia, joista ihmisillä on vahvoja tunteita. Sellaisia, joissa Olet Joko Meidän Puolella Tai Meitä Vastaan. Sellaisia, joiden suhteen jotkut ihmiset ovat ihan tyhmiä. Sellaisia, joita miettiessä [ajatukset sumenevat](/epi/sumuiset_ajatukset): asiat ovat Hyviä tai Pahoja.
 
 Muutama yleinen kategoria, joista tällaisia aiheita voi löytää:
 
 - Politiikkaan ja arvoihin liittyvät yhteiskunnalliset aiheet, joissa on vahvaa vastakkainasettelua tai erimielisyyttä
-- Erinäiset [helpot maalitaulut](https://ollij.fi/epi/helpot_maalitaulut)
+- Erinäiset [helpot maalitaulut](/epi/helpot_maalitaulut)
 - Tunnetut historialliset henkilöt, erityisesti valta-asemassa olleet ja pahoja asioita tehneet
 - Erimielisyyttä herättävät tai kontroversaalit julkisuuden henkilöt
 

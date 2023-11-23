@@ -10,7 +10,7 @@ Yleisesti jos haluaa lukea aiheesta lisää: [Alignment Forum](https://www.align
 
 ---
 
-Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkässä versiossa](https://ollij.fi/tekoaly/keskipitka) esittämistäni väitteistä:
+Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkässä versiossa](/tekoaly/keskipitka) esittämistäni väitteistä:
 
 - Väite "syväoppimismallien kouluttaminen jonkin häviöfunktion (engl. loss function) suhteen ei johda malleihin, jotka sisäisesti 'välittävät' tästä tavoitteesta"
     - Rob Miles, "[The OTHER AI Alignment Problem: Mesa-Optimizers and Inner Alignment](https://www.youtube.com/watch?v=bJLcIBixGj8)"

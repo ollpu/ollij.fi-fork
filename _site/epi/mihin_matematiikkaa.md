@@ -10,7 +10,7 @@ Toisaalta matematiikan hyödyt, jos niitä siis tosiaan on, kieltämättä ovat 
 
 Ja... olen ollut aika tyytymätön kuulemiini vastauksiin.
 
-En oikeastaan ole kuullut kovin monia vastauksia. Jotakin "ymmärrät sitten kun olet vanhempi" -suuntaista on tarjottu, kuten myös klassikkoa "kaupan kassalla...". Vakavammat vastaukset yleensä pyörivät tiettyjen sovellusten ympärillä: puhutaan vakuutusmatemaatikoista, tutkijoista tai kuinka tämä henkilö työssään tarvitsee matematiikkaa tässä asiassa. Nämä eivät tunnu kovin [symmetriaa rikkovilta](https://ollij.fi/epi/symmetrian_rikkominen) argumenteilta: yhtä vahvoja vastauksia saa rakennettua aika monelle muulle asialle. Matematiikkaa kuitenkin opetetaan useampia tunteja viikossa, [joten](https://ollij.fi/epi/tehokas_maailma) se varmaankin on hyödyllisempää kuin nuo monet muut asiat -- miksi?
+En oikeastaan ole kuullut kovin monia vastauksia. Jotakin "ymmärrät sitten kun olet vanhempi" -suuntaista on tarjottu, kuten myös klassikkoa "kaupan kassalla...". Vakavammat vastaukset yleensä pyörivät tiettyjen sovellusten ympärillä: puhutaan vakuutusmatemaatikoista, tutkijoista tai kuinka tämä henkilö työssään tarvitsee matematiikkaa tässä asiassa. Nämä eivät tunnu kovin [symmetriaa rikkovilta](/epi/symmetrian_rikkominen) argumenteilta: yhtä vahvoja vastauksia saa rakennettua aika monelle muulle asialle. Matematiikkaa kuitenkin opetetaan useampia tunteja viikossa, [joten](/epi/tehokas_maailma) se varmaankin on hyödyllisempää kuin nuo monet muut asiat -- miksi?
 
 Sitten on toki vastaus "matematiikka opettaa ajattelemaan". Ja ymmärrän hyvin, jos tämä ei vakuuta turhautunutta yläkoululaista -- en koe, että koulumatematiikka onnistuu ajattelemaan opettamisessa.
 
@@ -20,17 +20,17 @@ No mikä sitten on "oikea" vastaus? Mihin sitä matematiikkaa tarvitaan?
 
 On monenlaisia tapoja, joilla ihmisten ajattelu menee pieleen. Tässä joitakin omissa teksteissäni esiintyviä aiheita:
 
-- Ajattelu pohjautuu binäärisiin kategorioihin, kun oikea näkökulma on [jakaumat](https://ollij.fi/epi/binaarinen_jakauma)
-- [Kvantifioinnin](https://ollij.fi/epi/kvantifiointi) puute, jo konkreettisissa tilanteissa koskien rahaa
-- [Kokoluokkien](https://ollij.fi/epi/kvantifiointi) hahmotuksen heikkous tai puute
-- [Yhden muuttujan mallit](https://ollij.fi/epi/yksi_muuttuja)
-- Tapahtumien todennäköisyyksien hahmottamisen ja käsittelemisen virheet -- jo tilanteissa, joissa luvut on eksplisiittisesti annettu (viimeinen esimerkki [täällä](https://ollij.fi/epi/epa_I))
-- Epävarmuuden käsittelyn virheet vähemmän rajatuissa tilanteissa ([esimerkkejä](https://ollij.fi/epi/epa_I))
-- Perusteettoman vahva taipumus valita varmoja ehtoja ja karttaa riskiä menetykselle odotusarvon tutkimisen sijasta (ensimmäiset esimerkit [täällä](https://ollij.fi/epi/epa_II))
-- Epäonnistuminen riskinotosta positiivisen odotusarvon tilanteissa, taas jo selkeästi rajatussa tilanteessa (viimeinen esimerkki [täällä](https://ollij.fi/epi/epa_II))
-- [Konjunktioharha](https://ollij.fi/epi/kohteliaat_tulkinnat) ja yksityiskohtaisemman tarinan arviominen todennäköisemmäksi
-- Korrelaatio ei implikoi kausaatiota (eikä se ei ole "vähän kuin kausaatio mutta heikompi"), korrelaation olemassaolo on usein [matalan informaation väite](https://ollij.fi/epi/matala_informaatio)
-- Fundamentaalisti väärät käsitykset todennäköisyyksistä, implikaatioita tieteelle (lyhyesti [täällä](https://ollij.fi/epi/kunnolla))
+- Ajattelu pohjautuu binäärisiin kategorioihin, kun oikea näkökulma on [jakaumat](/epi/binaarinen_jakauma)
+- [Kvantifioinnin](/epi/kvantifiointi) puute, jo konkreettisissa tilanteissa koskien rahaa
+- [Kokoluokkien](/epi/kvantifiointi) hahmotuksen heikkous tai puute
+- [Yhden muuttujan mallit](/epi/yksi_muuttuja)
+- Tapahtumien todennäköisyyksien hahmottamisen ja käsittelemisen virheet -- jo tilanteissa, joissa luvut on eksplisiittisesti annettu (viimeinen esimerkki [täällä](/epi/epa_I))
+- Epävarmuuden käsittelyn virheet vähemmän rajatuissa tilanteissa ([esimerkkejä](/epi/epa_I))
+- Perusteettoman vahva taipumus valita varmoja ehtoja ja karttaa riskiä menetykselle odotusarvon tutkimisen sijasta (ensimmäiset esimerkit [täällä](/epi/epa_II))
+- Epäonnistuminen riskinotosta positiivisen odotusarvon tilanteissa, taas jo selkeästi rajatussa tilanteessa (viimeinen esimerkki [täällä](/epi/epa_II))
+- [Konjunktioharha](/epi/kohteliaat_tulkinnat) ja yksityiskohtaisemman tarinan arviominen todennäköisemmäksi
+- Korrelaatio ei implikoi kausaatiota (eikä se ei ole "vähän kuin kausaatio mutta heikompi"), korrelaation olemassaolo on usein [matalan informaation väite](/epi/matala_informaatio)
+- Fundamentaalisti väärät käsitykset todennäköisyyksistä, implikaatioita tieteelle (lyhyesti [täällä](/epi/kunnolla))
 
 Ja... minusta näyttää, että *jotakin on syvästi pielessä*.
 

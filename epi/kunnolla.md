@@ -6,7 +6,7 @@ Tajusin asioita, jotka nyt tuntuvat ilmeisiltä, mutta jotka tosiaan eivät ole 
 
 Yksi kirjan kulmakivistä on ns. [Cox'n lause](https://en.wikipedia.org/wiki/Cox%27s_theorem), jossa johdetaan todennäköisyyslaskennan säännöt hyvin heikoista uskomuksia koskevista ehdoista. Todennäköisyyslaskennan säännöt eivät ole vain *suosituksia*: ne ovat *lakeja*, jotka kertovat, miten uskomusten muodostaminen ideaalisti toimii.
 
-Ja kun perustukset on kunnossa, voi lähteä rakentamaan laajempaa kuvaa siitä, miltä hyvä päättely näyttää. Olen koonnut joitakin tällaisia ("ilmeisiä") ohjeita [toisaalla](https://ollij.fi/epi/miksi_todennakoisyydet) -- tarkoitan siis sellaisia ohjeita kuten
+Ja kun perustukset on kunnossa, voi lähteä rakentamaan laajempaa kuvaa siitä, miltä hyvä päättely näyttää. Olen koonnut joitakin tällaisia ("ilmeisiä") ohjeita [toisaalla](/epi/miksi_todennakoisyydet) -- tarkoitan siis sellaisia ohjeita kuten
 
 "Evidenssin poissaolo on evidenssiä poissaololle."
 
@@ -18,7 +18,7 @@ Ja kun perustukset on kunnossa, voi lähteä rakentamaan laajempaa kuvaa siitä,
 
 En ollut ajatellut, että on olemassa viitekehys, joka antaa tällaisia ohjeita *systemaattisesti* seurauksinaan.
 
-Jaynes käyttää kirjassaan muutaman luvun käsitelläkseen verrattain yksinkertaisia ja tunnettuja todennäköisyyslaskennan tilanteita hyvin varovaisesti. Myönnän välillä turhautuneeni, kuinka Jaynes tuntui jankkaavan "eri tavalla laskemisen pitäisi aina antaa sama vastaus", "pitää muistaa käyttää kaikkea käsillä olevaa informaatiota" ja muita [ilmeisiä ohjeita](https://ollij.fi/epi/ilmeiset_ohjeet). Turhautumistani tosin vähensi se, että kirjassa käsiteltiin esimerkkejä siitä, kuinka ihmiset välillä lipsuvat näistä ohjeista huonoin seurauksin.
+Jaynes käyttää kirjassaan muutaman luvun käsitelläkseen verrattain yksinkertaisia ja tunnettuja todennäköisyyslaskennan tilanteita hyvin varovaisesti. Myönnän välillä turhautuneeni, kuinka Jaynes tuntui jankkaavan "eri tavalla laskemisen pitäisi aina antaa sama vastaus", "pitää muistaa käyttää kaikkea käsillä olevaa informaatiota" ja muita [ilmeisiä ohjeita](/epi/ilmeiset_ohjeet). Turhautumistani tosin vähensi se, että kirjassa käsiteltiin esimerkkejä siitä, kuinka ihmiset välillä lipsuvat näistä ohjeista huonoin seurauksin.
 
 Todennäköisyyslaskenta tuntuu hankalalta matematiikan osa-alueelta opettaa, koska ihmisillä tuppaa olemaan aiheesta joitakin intuitioita jo valmiiksi, ja jotkin näistä intuitioista ovat vääriä. (Verrattuna sanotaan algebralliseen lukuteoriaan, jossa ihmisillä ei tunnu olevan syvällä olevia väärinymmärryksiä.) Juuri tämän takia kannattaa käydä perusteet huolellisesti läpi: tämän jälkeen ei saa pelkästään johdettua maalaisjärjellä ilmeisiä ohjeita systemaattisesti, vaan pääsee myös eroon niistä maalaisjärjen ilmeisistä ohjeista, jotka ovat väärässä.
 

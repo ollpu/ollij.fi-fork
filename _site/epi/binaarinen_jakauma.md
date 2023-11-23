@@ -12,7 +12,7 @@ Hmm, erikoista. Nimittäin yleensä kun olen nähnyt oikeaan dataan perustuvia j
 
 Binäärinen jaottelu ei ole oikea näkökulma aiheeseen. Vasta kun karkea kuva jatkuvasta jakaumasta on kunnossa, voidaan lähteä esittämään väitteitä kuten "ihmisten kunto on keskimäärin heikentynyt" tai "hyväkuntoisimman 1% ihmisistä kunto on noussut".
 
-"Tietysti tämä on se, mitä väitteen esittäjä tarkoitti. Tietenkään hän ei oikeasti tarkoittanut, että on ne huonokuntoiset ihmiset ja sitten ne hyväkuntoiset ihmiset", kuuluu vastalause. Pidän tätä [liian kohteliaana tulkintana](https://ollij.fi/epi/kohteliaat_tulkinnat) väitteelle. Ihmiset eivät automaattisesti mieti asioita jakaumina.
+"Tietysti tämä on se, mitä väitteen esittäjä tarkoitti. Tietenkään hän ei oikeasti tarkoittanut, että on ne huonokuntoiset ihmiset ja sitten ne hyväkuntoiset ihmiset", kuuluu vastalause. Pidän tätä [liian kohteliaana tulkintana](/epi/kohteliaat_tulkinnat) väitteelle. Ihmiset eivät automaattisesti mieti asioita jakaumina.
 
 Miksi uskon näin? Joitain syitä:
 

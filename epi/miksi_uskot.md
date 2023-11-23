@@ -30,7 +30,7 @@ Vastaus on aika monimutkainen, mutta lyhyt versio: "Tiedeyhteisö ja ihmiset joi
 
 Ja nyt kun on selvempää, millasilla pilareilla uskomukseni lepää, huomaa myös, mikä saisi minut epäröimään uskomustani: se että vähintään yksi pilari horjuu tai kaatuu.
 
-Toinen esimerkki: Kirjoittaessani tekstiä "[Kvantifiointi](https://ollij.fi/epi/kvantifiointi)" yritin keksiä tilanteita, joissa ihmisten kvantifioinnissa on ollut puutteita. Tovin mietittyäni en keksinyt siistejä esimerkkejä tekstiä varten.
+Toinen esimerkki: Kirjoittaessani tekstiä "[Kvantifiointi](/epi/kvantifiointi)" yritin keksiä tilanteita, joissa ihmisten kvantifioinnissa on ollut puutteita. Tovin mietittyäni en keksinyt siistejä esimerkkejä tekstiä varten.
 
 "Hmm, ilmeisesti minä kuitenkin uskon ihmisten kvantifioinnin olevan heikkoa, vaikken keksikään pitkää listaa esimerkkejä."
 
