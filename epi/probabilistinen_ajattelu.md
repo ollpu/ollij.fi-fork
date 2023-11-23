@@ -14,7 +14,7 @@ Lukijan suureksi yllätykseksi paljastan, että tällainen järjestelmä on olem
 
 Tutkitaan alun esimerkkiä tästä näkökulmasta. Alussa odottaisit kaverisi tulevan paikalle -- et tietenkään *varmasti*, mutta ei kaverisi kovin usein unohda asioita. Ja hän on kohtalaisen täsmällinen, joten hän tuskin tulee paljoa myöhässä.
 
-Sinulla on siis *uskomuksia*, *odotuksia* koskien sitä, milloin kaverisi saapuu. Hyvin todennäköisesti hän saapuu. Jos hän saapuu, niin hän saattaa olla myöhässä tai saattaa olla olematta. On kuitenkin epätodennäköistä, että hän on paljoa myöhässä.
+Sinulla on siis *uskomuksia*, *odotuksia* siitä, milloin kaverisi saapuu. Hyvin todennäköisesti hän saapuu. Jos hän saapuu, niin hän saattaa olla myöhässä tai saattaa olla olematta. On kuitenkin epätodennäköistä, että hän on paljoa myöhässä.
 
 Näitä intuitioita voi muuttaa luvuiksi. Sanotaan, että on 90% todennäköisyys, että kaverisi saapuu paikalle (ja 10%, että ei). Tämä 90 prosentin osuus jakautuu eri saapumisajoille odotustesi mukaisesti: enemmän prosentteja lähelle kello kymmentä, vähemmän muualle.
 

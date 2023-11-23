@@ -2,9 +2,9 @@
 
 Ennustusmarkkinalla viitataan konseptiin, jossa ihmiset voivat ostaa osakkeita koskien jonkin väitteen tapahtumista. Ideana on, että osakkeiden hinnat vastaavat väitteen todennäköisyyttä.
 
-(Esimerkki: väitettä "Henkilö X voittaa presidentinvaalit" koskien ihmiset voivat ostaa "kyllä"- tai "ei"-osakkeita. Jos X todella voittaa vaalit, muuttuu kukin "kyllä"-osake yhden euron arvoiseksi ja "ei"-osakkeet menettävät arvonsa. Ja toisin päin, jos X ei voita. Tällöin "kyllä"-osakkeen hinta vastaa henkilön X voittotodennäköisyyttä.)
+(Esimerkki: väitettä "Henkilö X voittaa presidentinvaalit" koskevalla ihmiset voivat ostaa "kyllä"- tai "ei"-osakkeita. Jos X todella voittaa vaalit, muuttuu kukin "kyllä"-osake yhden euron arvoiseksi ja "ei"-osakkeet menettävät arvonsa. Ja toisin päin, jos X ei voita. Tällöin "kyllä"-osakkeen hinta vastaa henkilön X voittotodennäköisyyttä.)
 
-Ennustusmarkkinoiden mullistava hyöty on, että niillä saadaan *kerättyä ihmiskunnan paras tietämys* koskien ennustettavaa väitettä (vertaa: [tehokkaiden markkinoiden hypoteesi](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)). [Insentiivit](/epi/insentiivit) osoittavat kohti totuudenmukaisten uskomusten muodostamista.
+Ennustusmarkkinoiden mullistava hyöty on, että niillä saadaan *kerättyä ihmiskunnan paras tietämys* ennustettavasta väitteestä (vertaa: [tehokkaiden markkinoiden hypoteesi](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)). [Insentiivit](/epi/insentiivit) osoittavat kohti totuudenmukaisten uskomusten muodostamista.
 
 Pidän ennustusmarkkinoita Hyvänä Asiana. Hyvä epi.
 
@@ -24,7 +24,7 @@ En pidä näitä ongelmia *triviaaleina*, mutta, kuten sanottu, en pidä niitä 
 
 Pari tuttavaani väittelivät kerran asumistuen vaikutuksesta asuntojen vuokriin. Yksi osapuoli esitti tutkimuksen, joka tuki hänen väitettään. Miten toinen osapuoli reagoi?
 
-Hän ei kritisoinut tutkimuksen sisältöä. (Ehkä kritisoitavaa olisi ollut, ehkä ei, en tiedä.) Hän ei sanonut, että on muita tutkimuksia, jotka ovat antaneet eri johtopäätöksiä. Hän ei kiistänyt tutkittavan kysymyksen relevanttiutta väittelyn aihetta koskien. Sen sijaan hän...
+Hän ei kritisoinut tutkimuksen sisältöä. (Ehkä kritisoitavaa olisi ollut, ehkä ei, en tiedä.) Hän ei sanonut, että on muita tutkimuksia, jotka ovat antaneet eri johtopäätöksiä. Hän ei kiistänyt tutkittavan kysymyksen merkityksellisyyttä väittelyn aiheeseen liittyen.  Sen sijaan hän...
 
 ...vastasi, kuinka taloustiede on hyvin hataraa ja yleistämisen kanssa pitää olla tarkkana.
 

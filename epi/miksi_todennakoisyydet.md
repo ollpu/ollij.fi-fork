@@ -42,7 +42,7 @@ Tämäkin vaikuttaa minusta ilmeiseltä, mutta välillä tuntuu ihmisten kiistä
 
 "Oma hypoteesini selittää tämän hyvin, siispä se on oikeassa" ei ole validia päättelyä -- oleellista on katsoa, kuinka hyvin muut hypoteesit selittävät ilmiön [verrattuna omaan](/epi/uskomusten_muutos). Suoremmin sanottuna: et saa pisteitä ennustaessasi "huomenna Aurinko nousee", jos kaikki muut ennustavat samoin. Tämän pointin heikko ymmärrys vaikuttaa yhdeltä tekijältä ihmisten yleisessä taipumuksessa kasvattaa "omien" hypoteesien todennäköisyyksiä liikaa. Mistä tuleekin mieleen:
 
-7\. Ei ole "omia" tai "muiden" hypoteeseja. Hypoteesit vain ovat, ja ihmisillä on niitä koskien uskomuksia ja todennäköisyyksiä. Tavoite on muodostaa totuudenmukaiset uskomukset ja saada isot todennäköisyydet oikeille hypoteeseille.
+7\. Ei ole "omia" tai "muiden" hypoteeseja. Hypoteesit vain ovat, ja ihmisillä on niitä koskevia uskomuksia ja todennäköisyyksiä. Tavoite on muodostaa totuudenmukaiset uskomukset ja saada isot todennäköisyydet oikeille hypoteeseille.
 
 Yleinen harhaluulo "tavoite on saada perusteltua muille, miksi Oma Hypoteesi on oikea" on väärä.
 
@@ -50,7 +50,7 @@ Varmuuden vuoksi selvennän myös, että viittaukseni joukkueisiin on pedagogine
 
 8\. On kaikenkokoisia uskomusten muutoksia. Pienistäkin asioista voi ja kuuluu tehdä pieniä päivityksiä.
 
-Sen sijaan, että sanoo "tämä ei *todista* minun olevan väärässä" tai "kävi vain huono tuuri" tai  "ei vielä näin pienestä määrästä datapisteitä voi sanoa mitään". Joskus uskomukset ovat sellaisia, joita koskien löytyy hyvin vahvoja evidenssien lähteitä ja asiat ovat helppoja. Joskus, tai itse asiassa aika useinkin, näin ei ole, asiat ovat vaikeita ja pitää pystyä käsittelemään dataa, joka ei "todista" väitettä mihinkään suuntaan.
+Sen sijaan, että sanoo "tämä ei *todista* minun olevan väärässä" tai "kävi vain huono tuuri" tai  "ei vielä näin pienestä määrästä datapisteitä voi sanoa mitään". Joskus uskomukset ovat sellaisia, joihin liittyen löytyy hyvin vahvan evidenssin lähteitä ja asiat ovat helppoja. Joskus, tai itse asiassa aika useinkin, näin ei ole, asiat ovat vaikeita ja pitää pystyä käsittelemään dataa, joka ei "todista" väitettä mihinkään suuntaan.
 
 On myös esitetty, että pienet asiat saa ja kannattaa ottaa suurina päivityksinä, jos ne ovat oman joukkueen puolella ja sivuuttaa, jos ne ovat vastakkaisen joukkueen puolella. Asia ei kuitenkaan ole näin.
 
@@ -78,7 +78,7 @@ Mistä tuleekin mieleen:
 
 Tarkka idea periaatteen taustalla on *päivityksen ja vastapäivityksen laki*, toiselta nimeltään *evidenssin säilymislaki*:
 
-Kuvitellaan, että olet 80% varma jostakin väitteestä (vaikkapa [silmäsi jomotuksen syystä](/epi/uskomusten_muutos)). Haluat selvittää väitettä ja saada sitä koskien informaatiota (esimerkiksi eräällä testillä). Et voi tällaisella testillä kuitenkaan *varmasti* tai *edes odotusarvollisesti* nostaa todennäköisyyttäsi väitteelle. Ehkä yksi testitulos nostaa todennäköisyyden 88 prosenttiin -- mutta toinen testitulos tiputtaa sen 44 prosenttiin, ja *keskimäärin*, siis *odotusarvollisesti*, todennäköisyys on 80 prosenttia. Ehkä luotettavammalla testillä yksi tuloksista nostaa todennäköisyytesi 99 prosenttiin, mutta vastapainona toinen tulos tiputtaa sen 1 prosenttiin.
+Kuvitellaan, että olet 80% varma jostakin väitteestä (vaikkapa [silmäsi jomotuksen syystä](/epi/uskomusten_muutos)). Haluat selvittää väitettä ja saada sitä koskevaa informaatiota (esimerkiksi eräällä testillä). Et voi tällaisella testillä kuitenkaan *varmasti* tai *edes odotusarvollisesti* nostaa todennäköisyyttäsi väitteelle. Ehkä yksi testitulos nostaa todennäköisyyden 88 prosenttiin -- mutta toinen testitulos tiputtaa sen 44 prosenttiin, ja *keskimäärin*, siis *odotusarvollisesti*, todennäköisyys on 80 prosenttia. Ehkä luotettavammalla testillä yksi tuloksista nostaa todennäköisyytesi 99 prosenttiin, mutta vastapainona toinen tulos tiputtaa sen 1 prosenttiin.
 
 Ei kuitenkaan ole mitään testiä, jolla voit varmasti, perustellusti nostaa todennäköisyytesi 80 prosentista 99 prosenttiin. Mikä se sellainen testi on, josta tietää jo etukäteen, mitä tulee tulokseksi?
 

@@ -4,7 +4,7 @@ Mitä yhteistä seuraavilla tilanteilla on?
 
 - Nuorempana harrastin matematiikkakilpailuja. Harrastusvuosina minulle muodostui ajatuksia siitä, miten valmennusta voisi kehittää. Välillä kuitenkin mietin: "miten minä muka voisin tietää paremmin kuin valmennustoimintaa vuosikymmeniä pyörittäneet?"
 - Yliopistoa aloitteleva kaverini kommentoi "En tiedä luulenko itsestäni liikoja, mutta uskoisin, että jos minut laitettaisiin yläkouluun nyt, niin olisin ihan OK opettaja [vaikken ole suorittanut tarvittavia opintoja]".
-- Esitin kritiikkiä koskien koulutusta ja lähestymistapoja, joilla sitä voisi parantaa. Minulle kommentoitiin "varmaan joo yksi matikan opiskelija tietää miten Suomen koulutusta kuuluu ajaa".
+- Esitin kritiikkiä koulutusta kohtaan ja lähestymistapoja, joilla sitä voisi parantaa. Minulle kommentoitiin "varmaan joo yksi matikan opiskelija tietää miten Suomen koulutusta kuuluu ajaa".
 
 Yksi yhteinen piirre: [status](/epi/status). Kolmas kommentti oli vitsi, joka imitoi stereotyyppistä hierarkiassa alemmas näpäytystä. Toisen esimerkin "En tiedä luulenko itsestäni liikoja" taas on juuri sellaista nöyryyttä, johon ihmiset aina välillä tökkivät toisiaan. Ja jos "minä muka tietäisin paremmin", niin sehän tarkoittaa että väitän omaavani enemmän statusta kuin vanhoilla ja kokeneilla valmentajilla, mikä ei tietenkään käy.
 
@@ -14,11 +14,11 @@ Taloustieteessä [tehokkaiden markkinoiden hypoteesi](https://en.wikipedia.org/w
 
 Sen sijaan hypoteesin variantti, tehokkaan *maailman* hypoteesi, menee jotakuinkin näin: jos luulet huomaavasi maailmassa virheen, olet väärässä.
 
-Tämä on [tietysti](/epi/ilmeiset_ohjeet) hölynpölyä -- joten eihän kukaan tietenkään usko tähän tai sano "en usko, että maailmassa on mitään ongelmia". Eksplisiittisesti kysyttäessä ihmiset kiistävät tämän.
+Tämä on [ilmiselvästi](/epi/ilmeiset_ohjeet) hölynpölyä -- joten eihän kukaan tietenkään usko tähän tai sano "en usko, että maailmassa on mitään ongelmia". Eksplisiittisesti kysyttäessä ihmiset kiistävät tämän.
 
 ...ja silti nuoremmalla minälläni oli *jokin* tehokkaan maailman hypoteesia vastaava uskomus. Ei eksplisiittisesti. Ei konsistentisti. Kysyttäessä olisin kiistänyt hypoteesin selvästi epätotena. En tietoisesti miettinyt asioita sitä kautta. Mutta *jotakin*, mikä pisti ajattelemaan, että enhän minä voi nähdä miten asioita voisi tehdä paremmin.
 
-(Epäilen, että yleisesti huonoimmat uskomukset ovat juuri sellaisia syvällä olevia näkemyksiä, jotka tietoisesti hylättäisiin ja kysyttäessä kiistetään, mutta jotka kuitenkin ohjaavat selkeämpiä, pinnallisia uskomuksia. Tämä tekee epin parantamisesta hieman hankalaa.)
+(Epäilen, että yleisesti huonoimmat uskomukset ovat juuri sellaisia syvällä olevia näkemyksiä, jotka tietoisesti hylättäisiin ja kysyttäessä kiistettäisiin, mutta jotka kuitenkin ohjaavat selkeämpiä, pinnallisempia uskomuksia. Tämä tekee epin parantamisesta hieman hankalaa.)
 
 Ja siten päädytään uskomaan kaikenlaista hölynpölyä: Matematiikkakilpailujen valmennustoiminta on tehokas. Opettajien palkkausjärjestelmä on tehokas. Koulutusjärjestelmä on tehokas.
 

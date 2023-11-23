@@ -1,6 +1,6 @@
 # Usein kysytyt kysymykset
 
-Vastaan tässä yleisiin vastareaktioihin mitä olen saanut koskien tekoälyuhkaa.
+Vastaan tässä yleisiin vastareaktioihin mitä olen saanut tekoälyuhkaan liittyen.
 
 *Nämä eivät ole vahvimmat vasta-argumentit tekoälyuhkaa vastaan* (tai välttämättä edes vasta-argumentteja). Nämä ovat asioita, joita olen kuullut puhuessani (aiheeseen perehtymättömien) kanssa. Ajattelen siksi niiden käsittelyllä olevan pedagogista arvoa. Jos haluaa lukea järkevien ihmisten järkeviä erimielisyyksiä aiheesta, niin tämä ei ole oikea paikka, vaan suosittelen lukemaan [muita tekstejä](/tekoaly/lukemista).
 
@@ -12,7 +12,7 @@ Tämä on hyvä kysymys.
 
 Aloitan selkeyttämällä tavoitteiden konseptia. Puhuttaessa [AlphaGosta](https://en.wikipedia.org/wiki/AlphaGo) voisi sanoa, että "se yrittää voittaa" tai "sen tavoite on voittaa go". Nämä kuvaavat kohtalaisen hyvin AlphaGon toimintaa -- siitäkin huolimatta, ettei tällaista tavoitetta ole eksplisiittisesti ohjelmoitu AlphaGohon ja "se vain pelaa". Tarkempia, mutta kankeampia, kuvauksia: "AlphaGo tekee sellaisia siirtoja, jotka (hyvin monessa pelilaudan tilanteessa) ovat hyviä pelin voittamisen kannalta" tai "AlphaGo on koulutettu tekemään enemmän sen tyyppisiä siirtoja, jotka ovat harjoituspeleissä johtaneet voittoon".
 
-Ja tämä tieto AlphaGosta johtaa muihin ennustuksiin koskien AlphaGon toimintaa. Perushuomio "voittamisen kannalta hyvä välitavoite on saada kontrollia laudasta" kertoo jotakin siitä, mitä odottaa AlphaGon tekevän, vaikkei sillä "oikeasti" olisi tavoitteita. Saman asian voi nimittäin muotoilla, taas kankeammin, sanomalla "monesti siirrot, jotka johtavat pelin voittamiseen, ovat sellaisia, jotka johtavat kontrolliin laudasta" tai vastaavaa.
+Ja tämä tieto AlphaGosta johtaa muihin ennustuksiin AlphaGon toiminnasta. Perushuomio "voittamisen kannalta hyvä välitavoite on saada kontrollia laudasta" kertoo jotakin siitä, mitä odottaa AlphaGon tekevän, vaikkei sillä "oikeasti" olisi tavoitteita. Saman asian voi nimittäin muotoilla, taas kankeammin, sanomalla "monesti siirrot, jotka johtavat pelin voittamiseen, ovat sellaisia, jotka johtavat kontrolliin laudasta" tai vastaavaa.
 
 Yleisesti sanoisin, että useimmat tekoälyuhka-argumentit voisi muotoilla ilman sanaa "tavoite".
 
@@ -34,11 +34,11 @@ Syväoppimisessa ollaan samankaltaisessa tilanteessa: ymmärrämme kyllä "evolu
 
 **Kysymys:** Tulevaisuuden ennustaminen on hyvin vaikeaa, mutta vaikutat silti olevan aika varma näistä uhista. Avaatko?
 
-Olen samaa mieltä siitä, että ennustaminen on vaikeaa. Olen tietoinen siitä, että aikojen saatossa ihmiset ovat tehneet varsin huonoja ennustuksia koskien tulevaisuutta. (Olen myös tietoinen erinäisistä tekijöistä, jotka saavat ihmisiä tekemään huonoja ennustuksia -- konjunktioharha ja representatiivisuusheuristiikka tulevat nopeasti mieleen, kuten myös laajemmin probabilistisen ajattelun puute.)
+Olen samaa mieltä siitä, että ennustaminen on vaikeaa. Olen tietoinen siitä, että aikojen saatossa ihmiset ovat tehneet varsin huonoja ennustuksia. (Olen myös tietoinen erinäisistä tekijöistä, jotka saavat ihmisiä tekemään huonoja ennustuksia -- konjunktioharha ja representatiivisuusheuristiikka tulevat nopeasti mieleen, kuten myös laajemmin probabilistisen ajattelun puute.)
 
 En sanoisi olevani "aika varma" näistä asioista. Olen joistakin asioista varmempi kuin toisista. "Tekoälyuhka on asia, jonka välttämiseksi kannattaa käyttää paljon enemmän resursseja kuin nyt käytetään" on asia, josta olen käytännössä varma. En kuitenkaan ole varma näiden uhkien realisoitumisesta tai ajankohdista! Niin ikään minulla on näkemyksiä siitä, millaisia asioita uhkien välttämiseksi kannattaisi tehdä, mutta näissäkin on epävarmuutta.
 
-Minulla on toki uskomuksia koskien näitäkin asioita -- "A man always has his probabilities" -- ja näen uhkien olevan todennäköisiä ja lähitulevaisuuden kannalta relevantteja. En tarkenna, mitä tarkoitan "lähitulevaisuudella", koska ensinnäkin olen epävarma ja toisekseen aikajänteet eivät ole *niin* keskeisiä uhan kannalta. Vaikka saisin tietää, että tekoälykehitys viekin pidempään kuin nyt uskon, pitäisin silti uhkaa huomionarvoisena!
+Minulla on toki näihinkin asioihin liittyen uskomuksia -- "A man always has his probabilities" -- ja näen uhkien olevan todennäköisiä ja lähitulevaisuuden kannalta relevantteja. En tarkenna, mitä tarkoitan "lähitulevaisuudella", koska ensinnäkin olen epävarma ja toisekseen aikajänteet eivät ole *niin* keskeisiä uhan kannalta. Vaikka saisin tietää, että tekoälykehitys viekin pidempään kuin nyt uskon, pitäisin silti uhkaa huomionarvoisena!
 
 (Yleensä tulevaisuuden ennustamisen vaikeudesta puhuvat mainitsevat jonkin historiallisen ennustuksen, joka on dramaattisesti aliarvioinut muutokseen kuluvan ajan -- argumenttina sille, että nytkin asioissa menee pidempään kuin ajatellaan. Tätä peliä voi tietysti [pelata kaksinkin](https://en.wikipedia.org/wiki/Flying_Machines_Which_Do_Not_Fly), mikä tarkoittaa, ettei tämä ole kovin hyödyllinen peli. Pikemminkin tällainen yksittäisten esimerkkien pallottelu vaikuttaa minusta haitalliselta.)
 
@@ -46,7 +46,7 @@ Minulla on toki uskomuksia koskien näitäkin asioita -- "A man always has his p
 
 Eri ihmiset tarjoavat erilaisia jatkoja tälle virkkeelle, pyörien yleisesti tekoälyistä koituviin haittoihin (esimerkiksi epätasa-arvoon, vinoumiin, valvontaan, misinformaatioon, autonomisiin aseisiin tai työttömyyteen).
 
-Yksi vastaus on: Jos olet eri mieltä eksistentiaalisten uhkien todennäköisyydestä, niin voit sanoa sen suoraan! Kenties voimme keskittyä erimielisyyteen koskien tätä tai selvittää, mistä muista asioista olemme samaa tai eri mieltä.
+Yksi vastaus on: Jos olet eri mieltä eksistentiaalisten uhkien todennäköisyydestä, niin voit sanoa sen suoraan! Kenties voimme keskittyä erimielisyyteemme tai selvittää, mistä muista asioista olemme samaa tai eri mieltä.
 
 Toinen vastaus on: Eri haitat eivät ole poissulkevia! Yhden haitan nimeäminen "oikeaksi ongelmaksi" muiden kustannuksella vaikuttaa epäproduktiiviselta. Tarvittavat toimet haittojen ennaltaehkäisemiseen tai pienentämiseen ovat, ei aina, mutta välillä samoja. Toivon yhteistyökykyä, vaikka uskomuksissa on eroja.
 
@@ -100,7 +100,7 @@ Mihin voi vastata "pointti on, että aiemmat ennustukset maailmanlopuista ovat o
 
 Mihin vastaan, että ihmiset voivat muodostaa (ja ilmeisesti muodostavat) uskomuksena tätä kautta. Minä taas en mieti asiaa näin, koska tämä on vain surkea tapa miettiä aihetta. Jos minulta kysyttäisiin todennäköisyyttä sille, että seuraavan sadan vuoden aikana asteroidi iskeytyy Maahan johtaen ihmiskunnan sukupuuttoon, niin minä en vastaisi "ah, tämä on taas noita maailmanlopun ennustuksia, eihän tuo voi tapahtua". Minä miettisin "Kuinkakohan usein Maahan iskeytyy riittävän suuria asteroideja? Hmm, 65 miljoonaa vuotta sitten dinosaurukset..." Vastaavasti kysyttäessä keinotekoisen pandemian aiheuttaman katastrofin todennäköisyyttä miettisin muita asioita kuin "kuinka hyviä maailmanlopun ennustukset ovat yleisesti olleet?".
 
-Jos muut ihmiset ovat tehneet paljon huonoja ennustuksia koskien asteroideja tai pandemioita, niin kenties on hyödyllistä selvittää, mistä nuo huonot ennustukset johtuvat, ettei itse tee samoja virheitä. Kenties on yleisesti hyödyllistä kehittää taitoaan muodostaa [totuudenmukaisia uskomuksia](/epi). En sanoisi, että olen sivuuttanut tätäkään puolta aiheesta.
+Jos muut ihmiset ovat tehneet paljon huonoja ennustuksia asteroideihin tai pandemioihin liittyen, niin kenties on hyödyllistä selvittää, mistä nuo huonot ennustukset johtuvat, ettei itse tee samoja virheitä. Kenties on yleisesti hyödyllistä kehittää taitoaan muodostaa [totuudenmukaisia uskomuksia](/epi). En sanoisi, että olen sivuuttanut tätäkään puolta aiheesta.
 
 **Kysymys:** Onko se nyt niin paha, jos tekoäly tappaa kaikki?
 

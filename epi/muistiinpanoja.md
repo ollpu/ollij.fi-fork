@@ -148,11 +148,11 @@ Ja yritäpä oikeassa keskustelutilanteessa vastata tällaiseen kommenttiin "des
 
 "Evidenssin poissaolo on evidenssiä poissaololle" saattaa kuulostaa jonkun korvaan väärältä -- tässä tapauksessa katso [Absence of Evidence is Evidence of Absence](https://www.readthesequences.com/Absence-Of-Evidence-Is-Evidence-Of-Absence) (Yudkowsky).
 
-Käsittelin tässä kritiikkiä koskien tiedettä varsin lyhyesti. Lisää aiheesta löytyy tekstistäni "[Kerran luotin](/epi/kerran_luotin)" ja sen muistiinpanoista.
+Käsittelin tässä tiedekritiikkiä varsin lyhyesti. Lisää aiheesta löytyy tekstistäni "[Kerran luotin](/epi/kerran_luotin)" ja sen muistiinpanoista.
 
 ## [Filosofiatila ja ajatusleikit](/epi/filosofiatila)
 
-Olen miettinyt ja lukenut "filosofiaa" koskevia aiheita, ja näihin on sisältynyt varsin paljon kritiikkiä koskien sitä, mitä usein mielletään filosofiaksi. Yksi ajatuksiini vaikuttanut teksti, David Stoven "[What is Wrong with Our Thoughts?](https://web.maths.unsw.edu.au/~jim/wrongthoughts.html)" on suorasanaisempi kuin itse kehtasin olla.
+Olen miettinyt ja lukenut "filosofiaa" koskevia aiheita, ja näihin on sisältynyt varsin paljon kritiikkiä siitä, mitä usein mielletään filosofiaksi. Yksi ajatuksiini vaikuttanut teksti, David Stoven "[What is Wrong with Our Thoughts?](https://web.maths.unsw.edu.au/~jim/wrongthoughts.html)" on suorasanaisempi kuin itse kehtasin olla.
 
 ## [Keskustelunimaisijat](/epi/keskustelunimaisijat)
 
@@ -180,7 +180,7 @@ Toisten näkemysten ymmärtämistä voi testata [ideologisella Turingin testill�
 
 ## [Vakuuttamisesta](/epi/vakuuttamisesta)
 
-Osat koskien helppojen argumenttien kumoamista saivat minut ajattelemaan seuraavaa tekstiä (taas Scott Alexanderilta): "[Weak Men Are Superweapons](https://slatestarcodex.com/2014/05/12/weak-men-are-superweapons/)".
+Osat helppojen argumenttien kumoamisesta saivat minut ajattelemaan seuraavaa tekstiä (taas Scott Alexanderilta): "[Weak Men Are Superweapons](https://slatestarcodex.com/2014/05/12/weak-men-are-superweapons/)".
 
 ## [Suullinen kommunikaatio on lokaalia](/epi/lokaali_kommunikaatio)
 
@@ -188,7 +188,7 @@ Samankaltaisia ideoita on käsitelty Yudkowskyn "[Expecting Short Inferential Di
 
 ## [Sanoista ja konsepteista](/epi/sanoista)
 
-Paljon enemmän koskien kieltä: "[A Human's Guide to Words](https://www.readthesequences.com/A-Humans-Guide-To-Words-Sequence)" (Yudkowsky).
+Paljon enemmän kielestä: "[A Human's Guide to Words](https://www.readthesequences.com/A-Humans-Guide-To-Words-Sequence)" (Yudkowsky).
 
 ## [Työkalujen väärinkäyttö](/epi/tyokalujen_vaarinkaytto)
 
@@ -210,7 +210,7 @@ Scott Alexanderin "[Meditations on Moloch](https://slatestarcodex.com/2014/07/30
 
 ## [Kerran luotin](/epi/kerran_luotin)
 
-Lisää tiedettä koskien voi lukea esimerkiksi [Scott Alexanderilta](https://www.lesswrong.com/codex#YhQ39PPHNrRCgYXcs) tai [Yudkowskylta](https://www.readthesequences.com/Science-And-Rationality-Sequence) tai [Gwern Branwenilta](https://gwern.net/#meta-science). Ja mitä tulee ihmiskuntaan ja sen selviytymiseen: [ei ole mitään sääntöä, joka sanoo, että selviämme kyllä](https://www.youtube.com/watch?v=JD_iA7imAPs).
+Lisää tieteestä voi lukea esimerkiksi [Scott Alexanderilta](https://www.lesswrong.com/codex#YhQ39PPHNrRCgYXcs) tai [Yudkowskylta](https://www.readthesequences.com/Science-And-Rationality-Sequence) tai [Gwern Branwenilta](https://gwern.net/#meta-science). Ja mitä tulee ihmiskuntaan ja sen selviytymiseen: [ei ole mitään sääntöä, joka sanoo, että selviämme kyllä](https://www.youtube.com/watch?v=JD_iA7imAPs).
 
 ## [Epi on tärkeää](/epi/epi_on_tarkeaa)
 

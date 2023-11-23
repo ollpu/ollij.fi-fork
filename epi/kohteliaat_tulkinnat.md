@@ -20,7 +20,7 @@ Toinen reaktio on "Eihän kukaan nyt ole noin tyhmä! Tai siis, tarkoitan, että
 
 Eli kysymys kuuluu: *Onko* kyse jostakin muusta? Tulkitsivatko vastaajat kysymyksen väärin?
 
-Tätä *konjunktioharhaa* koskien on tehty lukuisia tutkimuksia. Tässä neljä esimerkkiä (käännökset minun). Esimerkit on poimittu Tverskyn ja Kahnemanin vuoden 1983 työstä [Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment](doi:10.1037/0033-295x.90.4.293).
+Tästä *konjunktioharhasta* on tehty lukuisia tutkimuksia. Tässä neljä esimerkkiä (käännökset minun). Esimerkit on poimittu Tverskyn ja Kahnemanin vuoden 1983 työstä [Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment](doi:10.1037/0033-295x.90.4.293).
 
 Ensimmäinen esimerkki:
 

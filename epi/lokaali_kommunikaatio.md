@@ -6,7 +6,7 @@ Tämän dynamiikan seurauksena suullinen kommunikointi on *lokaalia*: Pidettäv�
 
 Kuvitellaan esimerkiksi, että satun puhumaan koulutuksesta ja sen kehittämisestä tuttujeni kanssa. Yksittäisiä asioita, kuten "lisätään/poistetaan oppiaine X" (tai muutetaan sen opetussisällöstä tuollaisia juttuja), saa helposti käsiteltyä. Sen sijaan kokonaan oppiainelistan uudelleenmiettiminen on haastavampaa: tämä vaatisi kynää, paperia, miettimisaikaa ja itse miettimistä.
 
-Sitten voi myös esittää vielä suurempia ja epälokaalimpeja ehdotuksia kuten "luovutaan oppiaineista kokonaan ja tarjotaan vain yksittäisiä kursseja koskien pienempiä teemoja".
+Sitten voi myös esittää vielä suurempia ja epälokaalimpeja ehdotuksia kuten "luovutaan oppiaineista kokonaan ja tarjotaan vain yksittäisiä kursseja pienemmistä teemoista".
 
 "Ahaa, esimerkiksi millaisia kursseja?", kysyy keskustelukumppanini.
 

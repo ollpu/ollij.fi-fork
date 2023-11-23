@@ -48,7 +48,7 @@ Ensimmäisessä artikkelissa tarjottu selitys on, että ihmiset harvoin altistav
 
 Ulkopuolelta tämä näyttää samankaltaiselta kuin jos ihmiset sanoisivat "annan teille yhden mahdollisuuden vakuuttaa minut", ja jos tämän mahdollisuuden mokaa, eivät he enää muuta näkemyksiään.
 
-Miten asioita kuuluu käsitellä? Näkemykseni: Jos joku esittää huonoja argumentteja, niin se on *häiriötekijä*, *kohinaa* -- ei enempää, ei vähempää. Se tulee sivuuttaa. Sen ei pitäisi juuri vaikuttaa näkemyksiin koskien itse väitettä. Sen ei pitäisi vaikuttaa siihen, miten evaluoi myöhempiä argumentteja samasta aiheesta. Eikä se varsinkaan ole jotakin, mitä käytetään myöhemmin *aseena* muita [vähän samankaltaisia näkemyksiä](/epi/sumuiset_ajatukset) omaavia vastaan.
+Miten asioita kuuluu käsitellä? Näkemykseni: Jos joku esittää huonoja argumentteja, niin se on *häiriötekijä*, *kohinaa* -- ei enempää, ei vähempää. Se tulee sivuuttaa. Sen ei pitäisi juuri vaikuttaa itse väitettä koskeviin näkemyksiin. Sen ei pitäisi vaikuttaa siihen, miten evaluoi myöhempiä argumentteja samasta aiheesta. Eikä se varsinkaan ole jotakin, mitä käytetään myöhemmin *aseena* muita [vähän samankaltaisia näkemyksiä](/epi/sumuiset_ajatukset) omaavia vastaan.
 
 (Jos sinun tekee mieli vastata "mutta se, että näkemykselle esitetään huonoja perusteluja, on [evidenssiä](/epi/uskomusten_muutos) väitteen ja sen omaavien epin huonoudelle", en oikein tiedä, mitä sanoa. Koko tutkimuksen pointti on se, että käytännössä ihmiset soveltavat tätä päättelyä väärin. Se ei toki kerro, *mikä* menee pieleen. Sivuutan pitkän vastauksen, mainitsen vain [kvantifioinnin](/epi/kvantifiointi) ja [yhden muuttujan mallit](/epi/yksi_muuttuja) sekä kehotan keskittymään itse asiaan sosiaalisten dynamiikkojen sijasta.)
 

@@ -30,7 +30,7 @@ Muutama kirja, jotka kertovat hyvin jostakin tietystä aihealueesta.
 
 "The Elephant in the Brain: Hidden Motives in Everyday Life", Kevin Simler ja Robin Hanson. Kertoo ihmisiä ohjaavista epäimartelevista motivaatioista.
 
-"Thinking, Fast and Slow", Daniel Kahneman. Kattava teos koskien kognitiivisia vinoumia ja harhoja.
+"Thinking, Fast and Slow", Daniel Kahneman. Kattava teos vinoumista, harhoista ja niihin liittyvästä ajattelusta.
 
 "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress", Steven Pinker. Kertoo ihmiskunnan kehityksestä valistuksen näkökulmasta.
 
