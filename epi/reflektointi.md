@@ -10,7 +10,7 @@ Ehkä minä en esittäisi tätä pulmaa, jos se on sellainen joka ratkeaa kahdes
 
 Vähiten itsevarmat tapaukset voi lakaista sen alle, että on helpompi miettiä ääneen ja varmistaa että on ymmärtänyt tehtävän oikein. On kuitenkin tapauksia, joissa mielen teorian hyödyntäminen on jäänyt vähemmälle.
 
-Sattumoisin reflektointikykyä mittaavissa testeissä esiintyykin kysymyksiä, joissa nopea intuitiivinen vastaus on väärä. Tunnetuin lienee "Pallo ja maila maksavat yhteensä 1,10 euroa. Maila maksaa euron enemmän kuin pallo. Paljonko pallo maksaa?". (Se, että [merkittävä osuus](https://www.sciencedirect.com/science/article/pii/S0010027723000148?) ihmisistä vastaa tähän kysymyksiin väärin, on [taas yksi palovaroitin](https://ollij.fi/epi/lokaali_kommunikaatio).)
+Sattumoisin reflektointikykyä mittaavissa testeissä esiintyykin kysymyksiä, joissa nopea intuitiivinen vastaus on väärä. Tunnetuin lienee "Pallo ja maila maksavat yhteensä 1,10 euroa. Maila maksaa euron enemmän kuin pallo. Paljonko pallo maksaa?". (Se, että [merkittävä osuus](https://www.sciencedirect.com/science/article/pii/S0010027723000148?) ihmisistä vastaa tähän kysymyksiin väärin, on [taas yksi palovaroitin](https://ollij.fi/epi/mihin_matematiikkaa).)
 
 Toisen tyyppisiä esimerkkejä keskustelutilanteista:
 

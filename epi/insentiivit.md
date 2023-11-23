@@ -52,7 +52,7 @@ Tarkoittaako tämä, että pidän tupakan parissa työskeneteleviä ihmisiä "pa
 
 Myönnän, etten tiedä paljoa siitä, millaisia nämä ihmiset ovat ja millaisissa olosuhteissa he ovat. (Heitä myös on monenlaisia: tupakkateollisuuden parissa työskentelee noin *sata miljoonaa* ihmistä. [Siitäkin huolimatta, etten itse tunne ketään tällaista](https://ollij.fi/epi/leveat_jakaumat).) Voin kuitenkin hyvin kuvitella, että joillakin yksinkertaisesti ei ole parempia vaihtoehtoja. Jos vaihtoehtoina on tehdä töitä kasvattamalla tupakkaa tai... olla tekemättä näin ja olla saamatta elantoa, niin en todellakaan kutsuisi henkilöä "pahaksi", jos hän valitsee ensimmäisen. Insentiivit osoittavat vahvasti sen suuntaan.
 
-(Asiaan liittyy muutkin tekijät, kuten eriävä informaatio: en usko, että [kaikki tietää](https://ollij.fi/epi/jattilaisten_olkapailla) tupakan olevan pahaksi.)
+(Asiaan liittyy muutkin tekijät, kuten eriävä informaatio: en usko, että [kaikki tietävät](https://ollij.fi/epi/jattilaisten_olkapailla) tupakan olevan pahaksi.)
 
 Pystyn siis ymmärtämään, tietämättömyydeni vuoksi hyvin hatarasti mutta kuitenkin, että joillakin on hyvät syyt toimia miten he toimivat.
 
@@ -92,7 +92,7 @@ Mitä käy, jos molemmat ajattelevat näin? Seuraa nuolia.
 
 Insentiivit työntävät osapuolia, kunnes päädytään "kuoppaan", "stabiiliin pisteeseen", jossa molemmat painavat nappia. (Tekninen muotoilu: tämä on pelin ainoa Nashin tasapaino.)
 
-Mikä on ongelma? *Kumpikin* teistä preferoi tilaa EE tilan PP sijasta: tällöin molemmat saa 400 euroa verrattuna 200 euroon. Sanotaan, että (ei, ei) on *Pareto-parannus* (paina, paina)-tilaan nähden. Insentiivejä seuraamalla kuitenkin päädytään tilanteeseen, johon *kumpikaan* ei ole tyytyväinen. On vaihtoehto, joka on *molemmille* teistä mieluisampi.
+Mikä on ongelma? *Kumpikin* teistä preferoi tilaa EE tilan PP sijasta: tällöin molemmat saavat 400 euroa verrattuna 200 euroon. Sanotaan, että (ei, ei) on *Pareto-parannus* (paina, paina)-tilaan nähden. Insentiivejä seuraamalla kuitenkin päädytään tilanteeseen, johon *kumpikaan* ei ole tyytyväinen. On vaihtoehto, joka on *molemmille* teistä mieluisampi.
 
 Yleisesti *kaikki* osapuolet haluavat toteuttaa Pareto-parannuksen, jos niitä suinkin on olemassa. *Pareto-käyräksi* kutsutaan tiloja, joille ei enää ole olemassa Pareto-parannusta. *Kaikki* haluavat Pareto-käyrälle tai lähemmäs sitä (kyse on vain *mihin kohtaan* Pareto-käyrällä tähdätään).
 
@@ -114,7 +114,7 @@ Ja koko vangin dilemman pointti, yksi *koko peliteorian* keskeisimmistä pointei
 
 Tämä on yksi helposti artikuloitava tekijä sille, mikemme elä [täydellisessä maailmassa](https://ollij.fi/epi/tehokas_maailma). Ihmisillä ei ole konseptia Pareto-parannuksesta tai Pareto-käyrästä. Ihmiset eivät toimi tavalla, jonka seurauksena päädytään lähellekään Pareto-käyrää. Ihmisten käsitys optimaalisesta, rationaalisesta toiminnasta on sellainen, joka ei johda Pareto-käyrälle. Ihmiset tyytyvät ratkaisuun, joka on "rationaalinen", ei siihen *millä saadaan mitä halutaan*.
 
-Tämän voi toki yrittää tiivistää fraasiksi "ihmiset ovat tyhmiä", mutta pelkään siinä katoavan nyanssia.
+Tämän voi toki yrittää tiivistää fraasiksi "ihmiset ovat tyhmiä", mutta pelkään siinä katoavan jotakin.
 
 Minä taas olen ajatellut, että sivilisaation pointti on ratkoa tällaisia koordinaatio-ongelmia.
 

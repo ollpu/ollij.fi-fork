@@ -1,6 +1,6 @@
 # Helpot maalitaulut
 
-Kohtalaisen usein kun puhutaan siitä miksi hyvä epi, tai tiede tai koulutus tai ajattelutaidot tai kriittinen lukutaito, on tärkeää, mainitaan jossakin kohtaa salaliittoteoriat, ilmastoskeptismi, rokotevastaisuus tai muuta vastaavaa. (Tai ylipäätään jonkun ihmisjoukon, joilla on ihan tyhmiä ajatuksia jostakin aiheesta.)
+Kohtalaisen usein kun puhutaan siitä miksi hyvä epi -- tai tiede, koulutus, ajattelutaidot tai kriittinen lukutaito -- on tärkeää, mainitaan jossakin kohtaa salaliittoteoriat, ilmastoskeptismi, rokotevastaisuus tai muuta vastaavaa. Tai ylipäätään joku ihmisjoukko, jolla on ihan tyhmiä ajatuksia jostakin aiheesta.
 
 Nämä ovat helppoja maalitauluja. En tunne ketään, joka uskoisi mihinkään tunnettuun salaliittoteoriaan. Jos sanon "salaliittoteoriat ovat ihan hölynpölyä", niin kirjaimellisesti kaikki läsnäolevat ovat täysin samaa mieltä. Tällainen keskustelu ei ole kovin kiinnostavaa: Ihmiset vuorotellen luettelevat syitä minkä takia salaliittoteoriat ovat hölynpölyä. Muut nyökkäilevät. Taputellaan itseään selkään siitä kuinka ei itse uskota tuollaiseen hölynpölyyn.
 
@@ -14,7 +14,7 @@ Vaikka olen yrittänyt pitää tekstieni aiheet kaukana näistä [keskustelun si
 
 Minua harmittaa, kun keskustellaan jostakin mielenkiintoisesta aiheesta, josta voisi tehdä hyviä pointteja... kunnes keskustelu päätyykin vain helpon maalitaulun hakkaamiseen. Pohditaan esimerkiksi korruption yleisyyttä ja joku kommentoi "no ainakin Yhdysvalloissa on korruptiota, tiedättekö siitä tapauksesta kun...". Tilaisuus käydä keskustelua vaikeammista kohteista ja oppia uutta muuttuu vain halvan kritiikin esittämiseen.
 
-Toisentyyppinen virhe on näkemystä ja vastakkaista näkemystä puntaroidessa keskittyä heikoimpiin vastakkaisiin argumentteihin. On helppoa ja tyydyttävää murskata nämä heikot näkemykset -- kuin oma jalkapallojoukkue saisi maalin -- mutta se ei oikeastaan ole produktiivista. [Tosillekin väitteille voi esittää surkeita perusteluja](https://ollij.fi/epi/symmetrian_rikkominen), oleellista on keskittyä vahvimpiin syihin uskomukselle.
+Toisentyyppinen virhe on näkemystä ja vastakkaista näkemystä puntaroidessa keskittyä heikoimpiin vastakkaisiin argumentteihin. On helppoa ja tyydyttävää murskata nämä heikot näkemykset -- kuin oma jalkapallojoukkue saisi maalin -- mutta se ei oikeastaan ole produktiivista. [Tosillekin väitteille voi esittää surkeita perusteluja](https://ollij.fi/epi/symmetrian_rikkominen), oleellista on keskittyä vahvimpiin syihin uskomuksille.
 
 En siis tykkää siitä, että hyökätään helppoja maalitauluja kohtaan: sitä, kun niitä käytetään helppona pakotienä sen sijaan, että käsiteltäisiin "oikeita asioita".
 

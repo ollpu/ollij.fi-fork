@@ -25,6 +25,6 @@ Ne vievät myös *ajattelun* mukanaan. Uskon, että tämä teksti loisi hyvin er
 
 (Joku voi tietysti edelleen ajatella, että minulla on tässä jokin taka-ajatus: miksi valitsin juuri nuo yleiset kategoriat? Uskon ja toivon vaikutuksen silti olevan pienempi.)
 
-Ja siten minä en halua antaa konkreettisia esimerkkejä. En halua puhua niistä *spesifeistä esimerkeistä*, haluan puhua tästä *yleisestä ilmiöstä*. Siitä, että tietyt aiheet vievät ajattelun mukanaan, tästä on hyvä olla tietoinen, kannattaa harkita valitsemiaan esimerkkejään tai analogioitaan tätä silmällä pitäen, ja keskustelun siirtyessä ţällaisiin aiheisiin kannattaa olla tavallista tarkempana.
+Ja siten minä en halua antaa konkreettisia esimerkkejä. En halua puhua niistä *spesifeistä esimerkeistä*, haluan puhua tästä *yleisestä ilmiöstä*. Siitä, että tietyt aiheet vievät ajattelun mukanaan, tästä on hyvä olla tietoinen, kannattaa harkita valitsemiaan esimerkkejään tai analogioitaan tätä silmällä pitäen, ja keskustelun siirtyessä tällaisiin aiheisiin kannattaa olla tavallista tarkempana.
 
 Ja ei, en sano mihin aiheeseen alun tilanteessa viittasin.

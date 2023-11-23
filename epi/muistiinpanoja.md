@@ -4,6 +4,8 @@
 
 Inspiraationa toimi Scott Alexanderin "[Generalizing from One Example](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example)", jossa käsitellään syvemmin yhtä tekijää, joka saa ihmisiä aliarvioimaan jakaumien leveyttä.
 
+Kirjoitettuani tekstini törmäsin Duncan Sabienin tekstiin "[Social Dark Matter](https://homosabiens.substack.com/p/social-dark-matter)", joka menee paljon syvemmälle.
+
 ## [Matalan informaation väitteet](https://ollij.fi/epi/matala_informaatio)
 
 Inspiraationa toimi Eliezer Yudkowskyn "[The Fallacy of Gray](https://www.readthesequences.com/The-Fallacy-Of-Gray)".
@@ -120,6 +122,8 @@ Camilla esitti kaksi väitettä: ensinnäkin sen, että uskomusten epävarmuutta
 
 On tosin muitakin tällaisia *koherenssiteoreemoja*, kuten [Dutch book](https://en.wikipedia.org/wiki/Dutch_book) ja Abraham Waldin [Complete class theorem](https://doi.org/10.1214/aoms/1177730345). Johtopäätös on samanhenkinen: uskomuksia tulee mitata todennäköisyyksillä ja preferenssejä käsitellä odotusarvojen kautta, tai muuten käy huonosti.
 
+(Jos haluaa lukea tekstin, jossa koherenssia käsitellään tarkasti yksityiskohtia myöten, suosittelen Yudkowskyn tekstiä [Coherent decisions imply consistent utilities](https://www.lesswrong.com/posts/RQpNHSiWaXTvDxt6R/coherent-decisions-imply-consistent-utilities).)
+
 Nämä asiat ovat tosin hieman monimutkaisempia kuin mitä Camilla antaa ymmärtää. Odotusarvon maksimoiminen tuntuu johtavan reunatapauksissa epäintuitiivisiin tuloksiin -- enkä tarkoita tällä tilanteita, joissa pelataan absurdin suurista rahasummista (raha tai edes onnellisuus kun eivät vastaa ihmisen [arvoja](https://ollij.fi/epi/filosofiatila), toisin kuin Anna vihjasi). Nämä reunatapaukset ovat kuitenkin enemmän tai vähemmän [filosofisia ajatusleikkejä](https://ollij.fi/epi/filosofiatila), joten en juutu niihin tässä (mutta jos välttämättä haluat, niin löydät yhden [täältä](https://www.lesswrong.com/posts/9RCoE7jmmvGd5Zsh2/the-lifespan-dilemma)).
 
 Sain lukijalta palautetta siitä, kuinka dialogissa sivuutettiin preferenssien reflektoinnin haaste: pelkästään "sinun tulee maksimoida odotusarvoa" ei kerro, mitä tehdä ristiriitaisten intuitioiden ja mieltymysten esiintyessä.
@@ -132,13 +136,13 @@ Pointtiani selkeyttää konsepti *deskriptiivinen-preskriptiivinen-normatiivinen
 
 *Normatiivinen* näkökulma käsittelee, miten epävarmuutta ja päätöksiä *ideaalisti* käsitellään. Todennäköisyyslaskenta on keskeinen esimerkki.
 
-*Preskriptiivinen* näkökulma käsittelee sitä, miten *kannattaa* toimia: miten käytännössä voidaan toimia paremmin? Miten päästään täältä tuonne? Tämä yhdistää deskriptiivisen ja normatiivisen puolen huomioita.
+*Preskriptiivinen* näkökulma käsittelee sitä, miten *käytännössä* voidaan toimia *paremmin*. Miten päästään täältä tuonne? Tämä yhdistää deskriptiivisen ja normatiivisen puolen huomioita.
 
 Tämän tekstin teema on normatiivinen näkökulma epävarmuuteen ja preferensseihin. Odotusarvot ovat oikea (tai ainakin melko oikea) lähestymistapa. En ottanut kantaa siihen, miten tähän päästään. Se ei ole tekstin aihe.
 
-Käytän tilaisuuden hyväkseni ja huomautan, ettei luonnollisessa kielessä ole itsessään deskriptiivinen-preskriptiivinen -erottelua. "Ihmiset eivät käytännössä tee päätöksiään odotusarvolaskelmien kautta!" voi kuulostaa nasevalta vasta-argumentilta. Tietenkään ihmiset eivät mieti asioita numeeristen todennäköisyyksien kautta! Mutta tämä *deskriptiivinen* väite kuulostaa, ainakin sopivalla äänenpainolla, samalla *preskriptiiviseltä*: että näin ei *kannatakaan* tehdä, että se miten asiat ovat nyt on oikeastaan hyvä. Taas yksi voitto [status quon puolustajille](https://ollij.fi/epi/negatiivisuus).
+Käytän tilaisuuden hyväkseni ja huomautan, ettei luonnollisessa kielessä ole itsessään deskriptiivinen-preskriptiivinen -erottelua. "Ihmiset eivät käytännössä tee päätöksiään odotusarvolaskelmien kautta!" voi kuulostaa nasevalta vasta-argumentilta: Tietenkään ihmiset eivät mieti asioita numeeristen todennäköisyyksien kautta! (Deskriptiivinen väite.) Sopivalla äänenpainolla saa kuitenkin samalla välitettyä *presekriptiivistä* väitettä: että näin ei kannatakaan tehdä, että todennäköisyyksiä ei kannata käyttää, että se miten asiat ovat nyt on oikeastaan hyvä. (Taas yksi voitto [status quon puolustajille](https://ollij.fi/epi/negatiivisuus).)
 
-(Ja yritäpä oikeassa keskustelutilanteessa vastata tällaiseen kommenttiin "deskriptiivisesti tulkittuna väitteesi on selvästi tosi, mutta luonnollisessa kielessä ei ole selvää erottelua deskriptiivisten ja preskriptiivisten väitteiden välillä, ja tunnuit äänensävylläsi samalla esittävän väitteen preskriptiivisessä muodossa ja yrittävän saada tämän muodon kuulostamaan ilmeiseltä, mitä pidän hieman epärehellisenä retorisena keinona".)
+Ja yritäpä oikeassa keskustelutilanteessa vastata tällaiseen kommenttiin "deskriptiivisesti tulkittuna väitteesi on selvästi tosi, mutta luonnollisessa kielessä ei ole selvää erottelua deskriptiivisten ja preskriptiivisten väitteiden välillä, ja tunnuit äänensävylläsi samalla esittävän väitteen preskriptiivisessä muodossa ja yrittävän saada tämän muodon kuulostamaan ilmeiseltä, mitä pidän hieman epärehellisenä retorisena keinona".
 
 ## [Kunnolla tehty todennäköisyyslaskenta](https://ollij.fi/epi/kunnolla)
 

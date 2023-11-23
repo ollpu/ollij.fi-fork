@@ -12,11 +12,11 @@ No jos nyt kerran vaaditte, niin ehkä minä keksin jotakin:
 
 1\. Hyvä uskomus on sellainen, joka on totuudenmukainen -- sellainen, joka vastaa todellisuutta hyvin ja joka antaa parempia ennustuksia kuin muut hypoteesit.
 
-Tämä vaikuttaa minusta ilmeiseltä, mutta olen huomannut joidenkin olevan eri mieltä. Joskus jotkut ajattelevat hyvän uskomuksen olevan sellainen, jonka haluaa olevan totta tai josta seuraa hyviä asioita. Tai sellainen, jolle [keksii vahvoja perusteluja](https://ollij.fi/epi/miksi_uskot) ja jota pystyy tarpeen tullen puolustamaan. Tai sellainen, joka on mielenkiintoinen, ajatuksia herättävä ja originaali. Tai sellainen, josta muut kaverit ovat samaa mieltä tai jota he pitävät järkevänä uskomuksena. Tai sellainen, joka on [kohtelias](https://ollij.fi/epi/kohteliaat_tulkinnat) muita ihmisiä kohtaan. Tai sellainen, joka on nöyrä ja vaatimaton. Tai sellainen, joka kuulostaa "normaalilta". Tai¸sellainen, joka on käytännössä "hyvä meidän joukkue!". Tai...
+Tämä vaikuttaa minusta ilmeiseltä, mutta olen huomannut joidenkin olevan eri mieltä. Joskus jotkut ajattelevat hyvän uskomuksen olevan sellainen, jonka haluaa olevan totta tai josta seuraa hyviä asioita. Tai sellainen, jolle [keksii vahvoja perusteluja](https://ollij.fi/epi/miksi_uskot) ja jota pystyy tarpeen tullen puolustamaan. Tai sellainen, joka on mielenkiintoinen, ajatuksia herättävä ja originaali. Tai sellainen, josta muut kaverit ovat samaa mieltä tai jota he pitävät järkevänä uskomuksena. Tai sellainen, joka on [kohtelias](https://ollij.fi/epi/kohteliaat_tulkinnat) muita ihmisiä kohtaan. Tai sellainen, joka on nöyrä ja vaatimaton. Tai sellainen, joka kuulostaa "normaalilta". Tai sellainen, joka on käytännössä "hyvä meidän joukkue!". Tai...
 
-(Vai eikö "en usko, että onnistut" kuulosta [hieman siltä](https://ollij.fi/epi/sumuiset_ajatukset), että toinen toivoo  sinun epäonnistuvan?)
+(Vai eikö "en usko, että onnistut" kuulosta [hieman siltä](https://ollij.fi/epi/sumuiset_ajatukset), että toinen *toivoo* sinun epäonnistuvan?)
 
-Joskus totuudenmukaiset uskomukset ovat myös se, minkä haluaa olevan totta. Joskus niille keksii vahvoja perusteluja. Joskus ne ovat ajatuksia herättäviä. Tämä on [tietysti eri asia](https://ollij.fi/epi/sumuiset_ajatukset) kuin se, että kannattaa uskoa asioita *sen vuoksi*, että haluaa niiden olevan totta tai koska ne ovat originaaleja. Kaiken minkä haluaa olevan totta ei ole totta ja kaikki mielenkiintoiset uskomukset eivät ole tosia. Lopullinen mittari on totuudenmukaisuus.
+Joskus totuudenmukaiset uskomukset ovat samalla se, minkä haluaa olevan totta. Joskus niille keksii vahvoja perusteluja. Joskus ne ovat ajatuksia herättäviä. Tämä on [tietysti eri asia](https://ollij.fi/epi/sumuiset_ajatukset) kuin se, että kannattaa uskoa asioita *sen vuoksi*, että haluaa niiden olevan totta tai koska ne ovat kiinnostavia. Kaiken minkä haluaa olevan totta ei ole totta ja kaikki mielenkiintoiset uskomukset eivät ole tosia. Lopullinen mittari on totuudenmukaisuus.
 
 2\. Olet epävarma uskomuksistasi.
 
@@ -30,7 +30,7 @@ Lisää itsestäänselvyyksiä. Jatketaan...
 
 4\. Uskomuksilla on pisteytysjärjestelmä. Jos uskomus tai selitys ennustaa todellisuutta hyvin, siihen luotetaan jatkossa enemmän, ja päinvastoin jos se ennustaa huonosti.
 
-"Enemmän" ei kuitenkaan tarkoita samaa kuin "paljon". Minulla voi olla kaksi hypoteesia, joista ensimmäinen todennäköisyys on 99,9% ja toisen 0,1%. Jos tapahtuu jotakin, minkä toinen hypoteesi selittää paremmin kuin ensimmäinen, sen todennäköisyys *kasvaa*, vaikkapa arvoon 0,2%. Todennäköisyys ei ole kuitenkaan *suuri* ja edelleen luotan enemmän ensimmäiseen hypoteesiin.
+"Enemmän" ei kuitenkaan tarkoita samaa kuin "paljon". Minulla voi olla kaksi hypoteesia, joista ensimmäisen todennäköisyys on 99,9% ja toisen 0,1%. Jos tapahtuu jotakin, minkä toinen hypoteesi selittää paremmin kuin ensimmäinen, sen todennäköisyys *kasvaa*, vaikkapa arvoon 0,2%. Todennäköisyys ei ole kuitenkaan *suuri* ja edelleen luotan enemmän ensimmäiseen hypoteesiin.
 
 Tämäkin vaikuttaa minusta ilmeiseltä, mutta välillä tuntuu ihmisten kiistävän, että heidän mielestään "huono" hypoteesi on selittänyt jonkin ilmiön hyvin -- "tämä hypoteesi selitti ilmiön paremmin kuin tuo toinen" kuulostaa hieman samalta kuin "tämä hypoteesi on parempi kuin tuo toinen". Huonompikin vastustajajoukkue voi joskus saada jalkapallossa maalin ja tämän tunnustaminen ei tarkoita, että kokonaisuudessaan oma joukkue on sittenkin huonompi. Mistä tuleekin mieleen:
 

@@ -4,7 +4,7 @@ Mihin matematiikkaa tarvitaan?
 
 Olen (ja ehkä sinäkin olet) kuullut tätä kysyttävän kerran jos toisenkin, pääosin matematiikan opetuksen kontekstissa.
 
-Joskus tämä kysymys esitetään tilanteessa, jossa henkilö ei halua opetella matematiikkaa. Yläkoulun matematiikantunti, joku turhautuu ja kysyy: "mihin minä tarvitsen tätä?". Tällöin kysymyksen esittäminen koskee pikemminkin ihmisen suhtautumista matematiikkaan kuin matematiika hyödyllisyyttä. En muista kenenkään kysyneen hyödyllisyydestä esimerkiksi musiikin tunnilla, enkä usko tämän johtuvan musiikin ylivoimaisesta hyödyllisyydestä vaan siitä, että ihmiset ihan viihtyivät musiikin tunneilla.
+Joskus tämä kysymys esitetään tilanteessa, jossa henkilö ei halua opetella matematiikkaa. Yläkoulun matematiikan tunti, joku turhautuu ja kysyy: "mihin minä tarvitsen tätä?". Tällöin kysymyksen esittäminen koskee pikemminkin ihmisen suhtautumista matematiikkaan kuin matematiikan hyödyllisyyttä. En muista kenenkään kysyneen hyödyllisyydestä esimerkiksi musiikin tunnilla, enkä usko tämän johtuvan musiikin ylivoimaisesta hyödyllisyydestä vaan siitä, että ihmiset ihan viihtyivät musiikin tunneilla.
 
 Toisaalta matematiikan hyödyt, jos niitä siis tosiaan on, kieltämättä ovat epäilmeisempiä kuin vaikkapa englannin opiskelun. Kysymys on siten järkevä ja se ansaitsee järkevän vastauksen.
 

@@ -32,7 +32,7 @@
 
 **Anna:** Niin no sitä ei kuulu ottaa huomioon, koska nollan euron saaminen tai menettäminen ei vaikuta mitenkään.
 
-Bella (epäillen): ...aivan. En ole vieläkään ihan vakuuttunut. Entä sellainen peli, jossa 50% todennäköisyydellä menettää 100 000 euroa ja 50% todennäköisyydellä voittaa 200 000 euroa. Kannattaako siihen osallistua?
+**Bella** (epäillen): ...aivan. En ole vieläkään ihan vakuuttunut. Entä sellainen peli, jossa 50% todennäköisyydellä menettää 100 000 euroa ja 50% todennäköisyydellä voittaa 200 000 euroa. Kannattaako siihen osallistua?
 
 **Anna:** Logaritmin odotusarvo on, odotas...
 

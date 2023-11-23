@@ -10,11 +10,11 @@ Uskomukseni koskien epin tärkeyttä on syvempi -- kyllä, on muitakin tärkeit�
 
 Tässä kohtaa yleensä alan menettää yleisöni. Ihmiset alkavat epäillä. Miksi epi on *niin* hieno ja tärkeä asia? Mitä hyötyä hyvästä epistä on? Ketä kiinnostaa?
 
-Osittain tässä lienee kyse väärinymmärryksestä. Yleensä ihmiset nimittäin tykkäävät koulutuksesta ja tieteestä. (Silloinkin, kun varsinaiset hyödyt ovat epäsuoria ja vähemmän selkeitä.) Ja yleensä perustelut koulutuksen ja tieteen puolesta ovat liittyvät sellaisiin aiheiisin kuten "sivistys" ja "tieto" ja "parempi ymmärrys", mikä kuulostaa aika samanlaiselta kuin se, mistä epissä on kyse.
+Osittain tässä lienee kyse väärinymmärryksestä. Yleensä ihmiset nimittäin tykkäävät koulutuksesta ja tieteestä. (Silloinkin, kun varsinaiset hyödyt ovat epäsuoria ja vähemmän selkeitä.) Ja yleensä perustelut koulutuksen ja tieteen puolesta liittyvät sellaisiin aiheiisin kuten "sivistys" ja "tieto" ja "parempi ymmärrys", mikä kuulostaa aika samanlaiselta kuin se, mistä epissä on kyse.
 
-Tämä tuskin tyydyttää epäilijöitä. Kaikkihan tietää, että koulutus ja tiede ovat tärkeitä asioita. Kai minulla nyt on jokin kiinnostavampi pointti?
+Tämä tuskin tyydyttää epäilijöitä. Kaikkihan tietävät, että koulutus ja tiede ovat tärkeitä asioita. Kai minulla nyt on jokin kiinnostavampi pointti?
 
-Tässä välissä voisin puhua kuinka kaikki ei tiedä, "ilmiselvien" asioiden toistaminen on välillä hyvä ja uskomuksen kiinnostavuus ei ole sama asia kuin sen totuudenmukaisuus, mutta annan asian olla. Kyllä, minulla *on* myös kiinnostavampaa sanottavaa, anteeksi, muita keskeisiä syitä uskomukselleni epin tärkeydestä.
+Tässä välissä voisin puhua kuinka kaikki eivät tiedä, "ilmiselvien" asioiden toistaminen on välillä hyvä ja uskomuksen kiinnostavuus ei ole sama asia kuin sen totuudenmukaisuus, mutta annan asian olla. Kyllä, minulla *on* myös kiinnostavampaa sanottavaa, anteeksi, muita keskeisiä syitä uskomukselleni epin tärkeydestä.
 
 Näiden syiden välittäminen muille ei ole helppoa. Jos ihmisillä on jo valmiiksi totuudenmukaiset uskomukset, niin kaikki on hyvin ja epin voi unohtaa. Eli syyt uskomukselleni piilevät siinä, että ihmisten uskomukset *eivät* aina ole totuudenmukaisia.
 

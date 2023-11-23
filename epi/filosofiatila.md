@@ -20,9 +20,9 @@ Nimittäin yksi kohtalaisen yleinen keskustelun etenemissuunta on tarkentavat ky
 
 Toinen tapa, jolla keskustelu voi... suistua raiteiltaan, on uusien ajatusleikkien kehittäminen. Entä jos vivun vääntämisen sijasta sinun tulee [tönäistä lihava mies sillalta ratikan pysäyttämiseksi](https://en.wikipedia.org/wiki/Trolley_problem#The_Fat_Man)? Entä jos tämä lihava mies onkin se, joka köytti ihmiset raiteisiin kiinni? Entä jos oletkin lääkäri sairaalassa, ja voit pelastaa viisi potilasta ottamalla elimiä yhdeltä potilaalta (joka tämän seurauksena kuolee)?
 
-[Väittelytilanteessa](https://ollij.fi/epi/miksi_uskot) näihin keksii kyllä ovelan perustelun toisensa jälkeen. Ohjaavatko ne mitenkään ajatuksia tai toimintoja [ihan oikeasti](https://ollij.fi/epi/kaukotila)? En usko.
+[Väittelytilanteessa](https://ollij.fi/epi/miksi_uskot) näihin keksii kyllä ovelia perusteluja yksi toisensa jälkeen. Ohjaavatko ne mitenkään ajatuksia tai toimintaa [ihan oikeasti](https://ollij.fi/epi/kaukotila)? En usko.
 
-Yksi keskeinen puuttuva pala tällaisissa moraalisissa ajatusleikeissä on, että niissä oletetaan *varmoiksi* tilanteen premissit -- siitäkin huolimatta, että ne ovat oikean elämän näkökulmasta hyvin epätodennäköisiä. Oma näkemykseni on, että episteminen epävarmuus on keskeinen aihe. *Totuudenmukaisten uskomusten muodostaminen on keskeinen osa moraalista toimintaa*. Uskon, että *käytännössä*, siis ajatusleikkien ulkopuolella, erimielisyydet parhaasta toimintatavasta ovat usein *epistemisiä* erimielisyyksiä, ei erimielisyyksiä arvoissa (siitäkin huolimatta, että [jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat)). Tästä syystä kaukaa haetut ajatusleikit, jotka laittavat ihmiset filosofiatilaan ja jotka lakaisevat alleen hyvin keskeisen (keskeisimmän?) vaiheen päätöksenteosta, eivät oikein miellytä minua.
+Yksi keskeinen puuttuva pala tällaisissa moraalisissa ajatusleikeissä on, että niissä oletetaan *varmoiksi* tilanteen premissit -- siitäkin huolimatta, että ne ovat oikean elämän näkökulmasta hyvin epätodennäköisiä. Oma näkemykseni on, että episteminen epävarmuus on keskeinen aihe. *Totuudenmukaisten uskomusten muodostaminen on keskeinen osa moraalista toimintaa*. Uskon, että *käytännössä*, siis ajatusleikkien ulkopuolella, erimielisyydet parhaasta toimintatavasta ovat usein *epistemisiä* erimielisyyksiä, ei erimielisyyksiä arvoissa (siitäkin huolimatta, että [jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat) ja ihmisillä todella on erilaisia arvoja). Tästä syystä kaukaa haetut ajatusleikit, jotka laittavat ihmiset filosofiatilaan ja jotka lakaisevat alleen hyvin keskeisen (keskeisimmän?) vaiheen päätöksenteosta, eivät oikein miellytä minua.
 
 ---
 
@@ -30,7 +30,7 @@ Yksi keskeinen puuttuva pala tällaisissa moraalisissa ajatusleikeissä on, ett�
 
 Tähän keksii monenlaisia vastauksia. Joku voisi sanoa, että on jokin tietty raja, mistä lähtien hiekkakasa ei olekaan enää kasa -- vaikkapa 37 hiekanjyvää ei vielä muodosta hiekkakasaa, mutta 38 muodostaa. Joku voisi sanoa, että jo neljällä hiekanjyvällä saa muodostettua kasan laittamalla yhden kolmen muun päälle. Ja kysyttäessä, minkä kokoiset asiat lasketaan hiekanjyviksi, joku vastaa, että suuret kivenlohkareetkin ovat teknisesti hiekanjyviä.
 
-Samaan aikaan todellisuudessa ihmiset eivät käytä sanoja tällä tavalla -- ei edes ne, jotka filosofiatilassa väittävät, että näin asiat "oikeasti ovat". Kuten kaukotilassa, tuntuu että filosofiatilassa asenne on "minulla nyt saa olla minkälaisia näkemyksiä tahansa", ja pointtina on esittää *kiinnostavia* näkemyksiä.
+Samaan aikaan todellisuudessa ihmiset eivät käytä sanoja tällä tavalla -- eivät edes he, jotka filosofiatilassa väittävät, että näin asiat "oikeasti ovat". Kuten kaukotilassa, tuntuu että filosofiatilassa asenne on "minulla nyt saa olla minkälaisia näkemyksiä tahansa", ja pointtina on esittää *kiinnostavia* näkemyksiä.
 
 Hahmotan filosofiatilan koskevan muutakin kuin selvästi filosofisia kysymyksiä.
 

@@ -1,10 +1,10 @@
 # Suullinen kommunikaatio on lokaalia
 
-Arkipäiväisessä keskustelussa puheenvuorot ovat yleensä lyhyitä. Pitkän monologien pitäminen on etiketin vastaista ja pidemmälle mentäessä keskeytyksen todennäköisyys kasvaa. Mietintätauon pitämimen monologin keskellä niin ikään johtaa siihen, että joku esittää kysymyksiä tai kommentteja. Keskustelu ajautuu muualle.
+Arkipäiväisessä keskustelussa puheenvuorot ovat yleensä lyhyitä. Pitkän monologin pitäminen on etiketin vastaista ja pidemmälle mentäessä keskeytyksen todennäköisyys kasvaa. Mietintätauon pitäminen monologin keskellä niin ikään johtaa siihen, että joku esittää kysymyksiä tai kommentteja. Keskustelu ajautuu muualle.
 
 Tämän dynamiikan seurauksena suullinen kommunikointi on *lokaalia*: Pidettävät puheenvuorot ovat lyhyitä. Samanaikaisesti voi esittää vain yhden tai pari esimerkkiä (sen sijaan, että lueteltaisiin pitkiä listoja). Esitettävät muutos- tai parannusehdotukset lähtevät nykyisestä tilasta ja muuttavat vain *yksittäisiä* tekijöitä isompien muutosten sijasta. Ideat eivät mene *syvälle*, niitä ei voi kasata *päällekkäin* torniksi, vaan ajatukset rakentuvat kaikkien jakamien näkemysten ja pohjatietojen päälle. (Tämä vaikutus vahvistuu ihmismäärän kasvaessa -- kahden tai kolmen hengen kesken saa helpommin "aitoja" keskusteluja kuin kahdeksan.)
 
-Kuvitellaan esimerkiksi, että satun puhumaan koulutuksesta ja sen kehittämisestä tuttujeni kanssa. Yksittäisiä asioita, kuten "lisätään/opistetaan oppiaine X" (tai muutetaan sen opetussisällöstä tuollaisia juttuja), saa helposti käsiteltyä. Sen sijaan kokonaan oppiainelistan uudelleenmiettiminen on haastavampaa: tämä vaatisi kynää, paperia, miettimisaikaa ja itse miettimistä.
+Kuvitellaan esimerkiksi, että satun puhumaan koulutuksesta ja sen kehittämisestä tuttujeni kanssa. Yksittäisiä asioita, kuten "lisätään/poistetaan oppiaine X" (tai muutetaan sen opetussisällöstä tuollaisia juttuja), saa helposti käsiteltyä. Sen sijaan kokonaan oppiainelistan uudelleenmiettiminen on haastavampaa: tämä vaatisi kynää, paperia, miettimisaikaa ja itse miettimistä.
 
 Sitten voi myös esittää vielä suurempia ja epälokaalimpeja ehdotuksia kuten "luovutaan oppiaineista kokonaan ja tarjotaan vain yksittäisiä kursseja koskien pienempiä teemoja".
 

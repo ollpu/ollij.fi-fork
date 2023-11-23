@@ -14,7 +14,7 @@ Ja kun perustukset on kunnossa, voi lähteä rakentamaan laajempaa kuvaa siitä,
 
 "Saman informaation tarjoaminen voi perustellusti johtaa ihmisten uskomusten eriämiseen."
 
-"Pienelläkin määrällä dataa voi tehdä pieniä päivityksiä."
+"Pienelläkin määrällä dataa voi perustellusti tehdä pieniä päivityksiä."
 
 En ollut ajatellut, että on olemassa viitekehys, joka antaa tällaisia ohjeita *systemaattisesti* seurauksinaan.
 
