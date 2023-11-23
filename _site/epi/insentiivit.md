@@ -26,7 +26,7 @@ Määrittelin insentiivin viittaamaan "tekijöihin, jotka työntävät ihmisiä 
 
 Vastakkainen näkökulma voisi olla, että ei tällaisilla pienillä tekijöillä ole niin väliä. Ihmiset lentävät silloin, kun on tarvetta, ei turvatarkastuksen jonojen perusteella.
 
-Pidän tätä virheellisenä näkemyksenä. Oma näkemykseni on: Asiaa ei tule miettiä näin binäärisesti vaan [jakaumien kautta](/epi/binaarinen_jakauma). Ihmiset matkustelevat ([hyvin](/epi/leveat_jakaumat)) erinäisistä syistä. Jonotus vaikuttaa ihmisten tunteisiin ja mielleyhtymiin koskien lentämistä. Pienet tekijät työntävät jotkut ihmiset joissakin tilanteissa kriittisen rajan yli, jolloin he eivät matkustakaan. Isolta osin tämä ei ole tietoista ja syytä "lentäessä pitää jonottaa paljon" ei välttämättä osattaisi sanoa eksplisiittisesti.
+Pidän tätä virheellisenä näkemyksenä. Oma näkemykseni on: Asiaa ei tule miettiä näin binäärisesti vaan [jakaumien kautta](/epi/binaarinen_jakauma). Ihmiset matkustelevat ([hyvin](/epi/leveat_jakaumat)) erinäisistä syistä. Jonotus vaikuttaa ihmisten lentämiseen liittyviin tunteisiin ja mielleyhtymiin . Pienet tekijät työntävät jotkut ihmiset joissakin tilanteissa kriittisen rajan yli, jolloin he eivät matkustakaan. Isolta osin tämä ei ole tietoista ja syytä "lentäessä pitää jonottaa paljon" ei välttämättä osattaisi sanoa eksplisiittisesti.
 
 ---
 

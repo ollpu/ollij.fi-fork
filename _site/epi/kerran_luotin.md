@@ -42,11 +42,11 @@ Olen menettänyt luottamustani.
 
 Olen ikäluokkaa, jolle on toitotettu ilmastonmuutosta ihmiskunnan keskeisimpänä ongelmana. (Olen tästä vahvasti eri mieltä, mutta se on toinen asia.) Aiheesta on uutisoitu runsaasti (ja puhuttu koulussa). En silti koe, että olen *informoitu* asian suhteen. Minulta, kuten myös monelta muulta ympäriltäni, on puuttunut vastaukset ihan peruskysymyksiin kuten "Onko Suomen tai maailman kasvihuonepäästöjen määrä nousussa vai laskussa? Miten ne ovat muuttuneet ajan myötä? Mistä kasvihuonepäästöt koostuvat? Paljonko eri energiamuodoilla tuotetaan energiaa?". [Kvantifioinnin](/epi/kvantifiointi) puute on niin kovin yleistä, kuten myös pinnallisiin mielikuviin ja hyveellisyyteen pohjautuva ajattelu. Näiltä pohjilta järkevän keskustelun ja toiminnan rakentaminen on haastavaa.
 
-Toisin sanoen: koen että informointi aiheesta, jonka informointiin on käytetty paljon resursseja ja joka nähdään Hyvin Vakavana Asiana, on onnistunut kehnosti. Tämä laskee luottamustani siitä, että yleisesti uutisten kautta saadaan totuudenmukaisia uskomuksia koskien tärkeitä asioita.
+Toisin sanoen: koen että informointi aiheesta, jonka informointiin on käytetty paljon resursseja ja joka nähdään Hyvin Vakavana Asiana, on onnistunut kehnosti. Tämä laskee luottamustani siitä, että yleisesti uutisten kautta saadaan totuudenmukaisia uskomuksia tärkeistä asioista.
 
 Sitten on toki muutakin kritiikkiä. En kuvittele sanovani tässä mitään kovin uutta, mutta sanon silti: jakaumien hännistä ääriesimerkkien poiminta, [insentiivit](/epi/insentiivit) eivät ole kohti informointia tärkeistä aiheista, (erityisesti negatiivisia) tunteita herättävät aiheet myyvät (vertaa: [keskustelunimaisijat](/epi/keskustelunimaisijat), [helpot maalitaulut](/epi/helpot_maalitaulut)), lyhyet aikaskaalat / pitkän ajan trendien sivuuttaminen (vertaa: "hyvät asiat tapahtuvat hitaasti, huonot nopeasti"). Ja lukemani uutisartikkelit aiheista, joista tiedän enemmän, luovat usein epätotuudenmukaisia mielikuvia (mutta varmasti muita aiheita käsitellään hyvin?).
 
-Tällaiset tekijät saavat pohtimaan, miksi olenkaan uskonut [kohteliaaseen tulkintaan](/epi/kohteliaat_tulkinnat) koskien uutisointia.
+Tällaiset tekijät saavat pohtimaan, miksi olenkaan uskonut [kohteliaaseen tulkintaan](/epi/kohteliaat_tulkinnat) uutisoinnista.
 
 ---
 
@@ -66,15 +66,15 @@ Avaan tätä aloittamalla esimerkeillä asioista, joita minun mielestäni kannat
 
 2. Tiedelukutaito: opetellaan lukemaan tieteellisiä artikkeleja, mielellään taas käytännön kautta.
 
-3. Kognitiiviset vinoumat: käsitellään ja *testataan* niitä, kunnianhimoisemmin jopa opitaan tunnistamaan ja korjaamaan niitä. Ja kognitiiviset vinoumat ovat toki vain selkein kokonaisuus koskien ihmisillä esiintyvää huonoa ajattelua, jota niin ikään voisi käsitellä laajemmin ja systemaattisemmin.
+3. Kognitiiviset vinoumat: käsitellään ja *testataan* niitä, kunnianhimoisemmin jopa opitaan tunnistamaan ja korjaamaan niitä. Ja kognitiiviset vinoumat ovat toki vain selkein kokonaisuus liittyen ihmisten huonoon ajatteluun. Tätä kokonaisuutta voisi niin ikään käsitellä laajemmin ja systemaattisemmin.
 
-4. Työharjoittelut tai -tutustumiset: minusta on hieman... kummallista, että isoja päätöksiä uravalintaa koskien tulee tehdä vaiheessa, jossa työkokemusta on niukasti jos ollenkaan, ja hyvin harvoin koskien tulevaa ammattia.
+4. Työharjoittelut tai -tutustumiset: minusta on hieman... kummallista, että isoja päätöksiä liittyen uravalintaan tulee tehdä vaiheessa, jossa työkokemusta on niukasti jos ollenkaan, ja hyvin harvoin tulevaan ammattiin liittyen.
 
 Ja vielä pari pienempää ja ei-ihan-niin-keskeistä aihetta, joita voisi olla enemmän: peliteoriaa (siitä voisi tehdä ihan hauskaakin!), todennäköisyydet ja tilastotiede, tiedonhankinta ja analysointi, tunnetaidot, tietokoneella kirjoittaminen (vrt. käsin kirjoittaminen), henkilökohtainen talous (kenties mukaan lukien sijoittaminen).
 
 Uskon vahvasti, että nykyisistä sisällöistä voisi hyvin tehdä uusille aiheille tilaa niin, että lopputulos paranee. Osittain siksi, etten (todellakaan) usko oman listani olevan kokonainen tai paras mahdollinen. Osittain siksi, että minusta tuntuu kohtalaisen ison osan koulussa käymästäni sisällöstä olleen... melko turhaa? (Tulee mieleen useampiakin oppiaineita, joista käteeni ei ole jäänyt läheskään niin paljoa kuin voisi ajatella käytettyjen tuntien perusteella. Kokemukseni ei vaikuta ainutlaatuiselta.)
 
-Osittain taas uskon, että koulutusjärjestelmää voisi *optimoida* paljon kovempaa kuin tällä hetkellä tehdään. En enää usko [tehokkaan maailman hypoteesiin](/epi/tehokas_maailma). Ideaalisti koulutuksessa testattaisiin laajalti erilaisia interventioita ja tutkittaisiin, miten ne vaikuttavat lopputuloksiin. Kuinka hyvin oppilaat oppivat tämän asian, jos heille näytetään tällaisia videoita verrattuna jos opettaja opettaa asiasta tällaisten materiaalien pohjalta? Entä jos testattaisiin tuntien ja välituntien keston tai koulun alkamisajan tai ruokailun ajankohdan vaikutusta jaksamiseen? Tai tutkittaisiin luokan valaistuksen tai melutason tai huoneilman hiilidioksidipitoisuuden yhteyttä hyvinvointiin? Tehtäisiin, tiedätkö, *tiedettä* koskien sitä, miten koulutusta voisi parantaa -- ettei tarvitse vain mennä yksittäisten ihmisten nopeasti keksittyjen esimerkkien pohjalta -- ja sitten tehtäisiin enemmän niitä juttuja, jotka toimivat (tietysti ottaen huomioon kustannustehokkuuden). Luotaisiin insentiivit luoda mahdollisimman hyvää opetussisältöä (tai poimia jo olemassa olevista materiaaleista parhaat), keksiä eri mittareilla hyviä interventioita, ja *yleisesti keksiä tapoja parantaa koulutusta*, sitten *testattaisiin* ehdotuksia ja otettaisiin parhaimpia käyttöön.
+Osittain taas uskon, että koulutusjärjestelmää voisi *optimoida* paljon kovempaa kuin tällä hetkellä tehdään. En enää usko [tehokkaan maailman hypoteesiin](/epi/tehokas_maailma). Ideaalisti koulutuksessa testattaisiin laajalti erilaisia interventioita ja tutkittaisiin, miten ne vaikuttavat lopputuloksiin. Kuinka hyvin oppilaat oppivat tämän asian, jos heille näytetään tällaisia videoita verrattuna jos opettaja opettaa asiasta tällaisten materiaalien pohjalta? Entä jos testattaisiin tuntien ja välituntien keston tai koulun alkamisajan tai ruokailun ajankohdan vaikutusta jaksamiseen? Tai tutkittaisiin luokan valaistuksen tai melutason tai huoneilman hiilidioksidipitoisuuden yhteyttä hyvinvointiin? Tehtäisiin, tiedätkö, *tiedettä* siitä, miten koulutusta voisi parantaa -- ettei tarvitse vain mennä yksittäisten ihmisten nopeasti keksimien esimerkkien pohjalta -- ja sitten tehtäisiin enemmän niitä juttuja, jotka toimivat (tietysti ottaen huomioon kustannustehokkuuden). Luotaisiin insentiivit luoda mahdollisimman hyvää opetussisältöä (tai poimia jo olemassa olevista materiaaleista parhaat), keksiä eri mittareilla hyviä interventioita, ja *yleisesti keksiä tapoja parantaa koulutusta*, sitten *testattaisiin* ehdotuksia ja otettaisiin parhaimpia käyttöön.
 
 Pystyn jo kuvittelemaan mielessäni kommentit, kuinka [yritän rakentaa paratiisia](/epi/negatiivisuus) ja kuinka ideani ovat täysin epärealistisia. "Epärealistinen" on kiinnostava sanavalinta -- olen varsin tietoinen, ettei todellisuus näytä tältä ja että tällaista muutosta olisi hyvin haastava toteuttaa. Tämä ei kuitenkaan ole sellainen vahva argumentti nykytilan puolesta kuin miltä se äkkiseltään kuulostaa.
 
@@ -94,7 +94,7 @@ Luottoni mureni kuultuani toistettavuuskriisistä (engl. replication crisis). Kr
 
 Paljon lisää Gwern Branwenin artikkelissa [The Replication Crisis](https://gwern.net/replication).
 
-Muita (kohtalaisen tunnettuja) kritiikkejä koskien akateemista tutkimusta, ei täysin irrallisena toistettavuuskriisiin:
+Muuta (kohtalaisen tunnettua) kritiikkiä akateemista tutkimusta kohtaan, ei täysin irrallisena toistettavuuskriisiistä:
 
 - "Publish or perish" kuuluu sanonta -- tutkijan [insentiivit](/epi/insentiivit) eivät ole "tee mahdollisimman hyvää tiedettä" vaan julkaisujen saaminen (mielellään hyvissä lehdissä).
 - Negatiivisten tulosten julkaiseminen on haastavampaa kuin positiivisten -- taas, insentiivit osoittavat poispäin hyvän tieteen tekemisestä. Tämä parhaimmillaankin johtaa datan filtteröintiin: positiivisia tuloksia julkaistaan, negatiivisia ei. (Pahimmillaan taas tämä johtaa...)

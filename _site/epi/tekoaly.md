@@ -8,7 +8,7 @@ Tekninen katsaus syväoppimisen näkökulmasta: [The alignment problem from a de
 
 Eliezer Yudkowskyn [AGI Ruin: A List of Lethalities](https://www.alignmentforum.org/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) ja Paul Christianon [Where I agree and disagree with Eliezer](https://www.alignmentforum.org/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer) ovat varsin hyviä.
 
-*Periaatteessa* näissä dokumenteissa on keskeisimmät asiat koskien tekoälyuhkaa teknisenä ongelmana. *Käytännössä* näiden asioiden selittäminen on vaikeaa. Jos kuvittelen aihetta ennestään tuntemattoman lukemassa näitä tekstejä, en usko hänen saavan kaikkia oleellisia pointteja irti. Lisäksi lukijoiden taustat vaihtelevat ja ihmisillä on eri ajatuksia ja päällimmäisiä kysymyksiä, joihin he haluavat vastauksia. (Sitten on myös yleiset epiin liittyvät asiat, joista puhuminen on parempi tehdä [erikseen](/epi/).)
+*Periaatteessa* näissä dokumenteissa on keskeisimmät asiat tekoälyuhasta teknisenä ongelmana. *Käytännössä* näiden asioiden selittäminen on vaikeaa. Jos kuvittelen aihetta ennestään tuntemattoman lukemassa näitä tekstejä, en usko hänen saavan kaikkia oleellisia pointteja irti. Lisäksi lukijoiden taustat vaihtelevat ja ihmisillä on eri ajatuksia ja päällimmäisiä kysymyksiä, joihin he haluavat vastauksia. (Sitten on myös yleiset epiin liittyvät asiat, joista puhuminen on parempi tehdä [erikseen](/epi/).)
 
 Näiden syiden vuoksi linkkaan lisäksi muita paikkoja, joiden kautta pääsee pidemmälle (mutta joita kaikkia en ole itse perannut läpi):
 

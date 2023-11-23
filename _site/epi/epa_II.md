@@ -92,7 +92,7 @@ Kuinka paljon olet maksamaan, jotta et joudu osallistumaan kokeeseen?
 
 Mediaanivastaukset olivat 7 dollaria, 10 dollaria ja 19.86 dollaria.
 
-Rahamäärät ovat siis hyvin epäsuhteessa todennäköisyyksiin. Esitetty selitys ilmiölle on, että ihmisten vastaukset perustuvat enimmäkseen nopeaan tunnereaktioon koskien sähköiskua, ja todennäköisyyksien vaikutus näihin reaktioihin ei ole (läheskään) lineaarinen.
+Rahamäärät ovat siis hyvin epäsuhteessa todennäköisyyksiin. Esitetty selitys ilmiölle on, että ihmisten vastaukset perustuvat enimmäkseen sähköiskuun liittyvään tunnereaktioon, ja todennäköisyyksien vaikutus näihin reaktioihin ei ole (läheskään) lineaarinen.
 
 Minua kiinnostaisi kokeen variantti, jossa ihmisiltä kysyttäisiin ensin vastausta 100 prosentin kysymykseen, sitten 1 prosentin kysymykseen, taas 1 prosentin kysymykseen, ja taas...
 

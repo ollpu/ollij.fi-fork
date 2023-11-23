@@ -24,7 +24,7 @@ Eikä ihme: keskustelu on ollut täysin irrallinen niistä syistä, miksi toinen
 
 Sama periaate koskee omien uskomusten reflektointia. Jos epäröit uskomustasi, uudelleenmieti syyt, jonka takia uskot siihen (eikä niin, että listaat argumentteja puolesta ja vastaan).
 
-Esimerkki: Minä uskon ilmastonmuutokseen. Minulla on pinnallinen käsitys siitä, mihin lämpeneminen perustuu. Jos joku kysyy minulta, miksi uskon ilmastonmuutokseen, oikeasta vastauksessa kuitenkin vain *osa* koskee itse fysikaalista mekanismia. Nimittäin vaikka uskomukseni koskien tätä osoitettaisiin virheellisiksi (mikä on ihan mahdollista), minä silti uskoisin ilmastonmuutokseen. Miksi? Mistä uskoni oikein kumpuaa?
+Esimerkki: Minä uskon ilmastonmuutokseen. Minulla on pinnallinen käsitys siitä, mihin lämpeneminen perustuu. Jos joku kysyy minulta, miksi uskon ilmastonmuutokseen, oikeasta vastauksessa kuitenkin vain *osa* koskee itse fysikaalista mekanismia. Nimittäin vaikka uskomukseni tästä osoitettaisiin virheellisiksi (mikä on ihan mahdollista), minä silti uskoisin ilmastonmuutokseen. Miksi? Mistä uskoni oikein kumpuaa?
 
 Vastaus on aika monimutkainen, mutta lyhyt versio: "Tiedeyhteisö ja ihmiset joihin luotan ovat tätä mieltä, esitetty fysikaalinen mekanismi vaikuttaa järkevältä, ilmaston lämpötilasta kerätty data tukee väitettä". (Historiallisesti olen päätynyt uskomukseeni varmaankin sen kautta, että opettajani ovat sanoneet näin, mutta tämä ei ole enää nykyään keskeinen syy uskomukselleni.)
 
@@ -54,11 +54,11 @@ Mikä on refleksinomainen reaktiosi, kun keskustelukumppasi esittää perustelun
 
 Yritätkö generoida perusteluja näkemyksellesi? Pyritkö osoittamaan vastustajan vääräksi? Taas, väittely.
 
-Mietitkö, miksi uskot mitä uskot? Yritätkö ymmärtää, miksi toinen uskoo mitä uskoo? Hyvä. Keksit tavan saada relevanttia informaatiota koskien erimielisyyttä? Erittäin hyvä.
+Mietitkö, miksi uskot mitä uskot? Yritätkö ymmärtää, miksi toinen uskoo mitä uskoo? Hyvä. Keksit tavan saada relevanttia informaatiota erimielisyyteen liittyen? Erittäin hyvä.
 
 Perusteluja saa tietysti esittää silloin, kun ne oikeasti ovat relevantteja omien uskomusten kannalta. Kaikki perustelut eivät ole tällaisia. Välillä perusteluja esitetään sen takia, että ne ovat omalla puolella. Välillä esitetään epävalideja argumentteja, koska ne kuulostavat vakuuttavilta. Välillä sanotaan jotakin, mikä on enemmänkin retorinen keino kuin varsinainen perustelu tai väite.
 
-Omakohtaisen kokemuksen ja pohdinnan lisäksi uskomukseni koskien väittelyiden huonoutta perustuvat tutkimukseen "[Role induced bias in court: An experimental analysis](https://www.econstor.eu/bitstream/10419/57496/1/636807460.pdf)", jossa kokeeseen osallistuneille arvottiin puolustajan tai syyttäjän roolit. Ja miten kävi? "We show that assuming the role of a defense counsel or prosecutor leads to role induced bias even if people are highly motivated to give unbiased judgments." Tulkitsen tämän niin, että väitteleminen on herkästi *vahingollista*, käynnistäen haitallisia kognitiivisia prosesseja.
+Omakohtaisen kokemuksen ja pohdinnan lisäksi uskomukseni väittelyiden huonoudesta perustuvat tutkimukseen "[Role induced bias in court: An experimental analysis](https://www.econstor.eu/bitstream/10419/57496/1/636807460.pdf)", jossa kokeeseen osallistuneille arvottiin puolustajan tai syyttäjän roolit. Ja miten kävi? "We show that assuming the role of a defense counsel or prosecutor leads to role induced bias even if people are highly motivated to give unbiased judgments." Tulkitsen tämän niin, että väitteleminen on herkästi *vahingollista*, käynnistäen haitallisia kognitiivisia prosesseja.
 
 Hmm, no ei. Minä huijasin. Tämä ei ole oikea syy uskomukselleni.
 

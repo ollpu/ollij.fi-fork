@@ -12,7 +12,7 @@ Käsittelen tässä raitiovaunuongelmaa esimerkkinä yleisemmin filosofisista aj
 
 Selkein ongelma ajatusleikissä: sen premissi on, jos nyt ei *epärealistinen*, niin *hyvin epätodennäköinen*.
 
-"Ei sen olekaan tarkoitus olla realistinen, vaan tavoite on saada *yleistyviä* ajatuksia koskien moraalia, jotka soveltuvat ajatusleikin ulkopuolelle", kuuluu vastalause.
+"Ei sen olekaan tarkoitus olla realistinen, vaan tavoite on saada *yleistyviä* ajatuksia moraalista, jotka soveltuvat ajatusleikin ulkopuolelle", kuuluu vastalause.
 
 Vastalauseeni vastalauseelle on, että käytännössä näin ei käy.
 

@@ -21,7 +21,7 @@ No mikä sitten on "oikea" vastaus? Mihin sitä matematiikkaa tarvitaan?
 On monenlaisia tapoja, joilla ihmisten ajattelu menee pieleen. Tässä joitakin omissa teksteissäni esiintyviä aiheita:
 
 - Ajattelu pohjautuu binäärisiin kategorioihin, kun oikea näkökulma on [jakaumat](/epi/binaarinen_jakauma)
-- [Kvantifioinnin](/epi/kvantifiointi) puute, jo konkreettisissa tilanteissa koskien rahaa
+- [Kvantifioinnin](/epi/kvantifiointi) puute, jo konkreettisissa tilanteissa rahaan liittyen
 - [Kokoluokkien](/epi/kvantifiointi) hahmotuksen heikkous tai puute
 - [Yhden muuttujan mallit](/epi/yksi_muuttuja)
 - Tapahtumien todennäköisyyksien hahmottamisen ja käsittelemisen virheet -- jo tilanteissa, joissa luvut on eksplisiittisesti annettu (viimeinen esimerkki [täällä](/epi/epa_I))

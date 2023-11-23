@@ -56,7 +56,7 @@
 
 **Bella:** Kieltämättä tässä on järkeä. Entä jos kyse on vain yksittäisestä tilanteesta? Harvoinhan sama tilanne toistuu kahdesti.
 
-**Anna:** Raja "saman" ja "eri" tilanteen välillä on häilyvä. Halutessasi voit ajatella, että 38. pelikierros on "eri" tilanne kuin 37. pelikierros, mutta tämä ei muuta sitä, miten sinun kannattaa toimia. Toisessa ääripäässä voit halutessasi nähdä kaikki epävarmuutta koskevat tilanteet vain kysymyksenä siitä, *miten sinä käsittelet epävarmuutta*. Ja jos sinun tarvitsee valita yhtenäinen periaate koskien riskinottoa, sen kannattanee muistuttaa odotusarvon maksimointia.
+**Anna:** Raja "saman" ja "eri" tilanteen välillä on häilyvä. Halutessasi voit ajatella, että 38. pelikierros on "eri" tilanne kuin 37. pelikierros, mutta tämä ei muuta sitä, miten sinun kannattaa toimia. Toisessa ääripäässä voit halutessasi nähdä kaikki epävarmuutta koskevat tilanteet vain kysymyksenä siitä, *miten sinä käsittelet epävarmuutta*. Ja jos sinun tarvitsee valita yhtenäinen periaate riskinottoon, sen kannattanee muistuttaa odotusarvon maksimointia.
 
 **Bella:** En ihan ymmärrä.
 
@@ -98,13 +98,13 @@
 
 **Camilla:** Se ei ole ihan lyhyt tarina. Tällaisia aiheita on [vaikea kommunikoida suullisesti](/epi/lokaali_kommunikaatio), mutta voin yrittää, kunhan sallitte minulle pari minuuttia monologiaikaa.
 
-**Camilla:** Annan selityksessä *oletettiin*, että asioita voi verrata toisiinsa kvantitatiivisesti -- että toinen asia on kolme kertaa niin huono kuin ensimmäinen -- ja sitten todettiin, että eri vaihtoehtoja ja preferenssejä kannattaa painottaa odotusarvon mukaan. Kuten Bella huomautti, tämä ei ole vielä kovin tyydyttävä selitys: miksi olettaa ylipäätään, että asioita voi verrata kvantitatiivisesti? Myös perustelu koskien odotusarvoja toistettujen pelien kautta jättää epäilyksiä koskien sitä, mikä on "uniikki" tilanne ja mikä "toistettu".
+**Camilla:** Annan selityksessä *oletettiin*, että asioita voi verrata toisiinsa kvantitatiivisesti -- että toinen asia on kolme kertaa niin huono kuin ensimmäinen -- ja sitten todettiin, että eri vaihtoehtoja ja preferenssejä kannattaa painottaa odotusarvon mukaan. Kuten Bella huomautti, tämä ei ole vielä kovin tyydyttävä selitys: miksi olettaa ylipäätään, että asioita voi verrata kvantitatiivisesti? Myös odotusarvojen perustelu toistettujen pelien kautta jättää epäilyn varaa sille, mikä on "uniikki" tilanne ja mikä "toistettu".
 
 **Camilla:** Itse kertoisin tarinan seuraavasti.
 
 \*Camilla vetää syvään henkeä\*
 
-**Camilla:** Sinulla on uskomuksia koskien maailmaa. Näissä uskomuksissa on epävarmuutta. Toisaalta näitä epävarmuuksia voi vertailla: pidät joitain asioita "enemmän mahdollisina" kuin toisia. Nämä uskomukset noudattavat myös joitain ilmeisiä ehtoja: esimerkiksi sama väite muotoiltuna eri tavalla on edelleen yhtä "mahdollinen", tai tilanne "sekä A että B tapahtuvat" on enintään niin "mahdollinen" kuin tilanne "A tapahtuu".
+**Camilla:** Sinulla on maailmaa koskevia uskomuksia. Näissä uskomuksissa on epävarmuutta. Toisaalta näitä epävarmuuksia voi vertailla: pidät joitain asioita "enemmän mahdollisina" kuin toisia. Nämä uskomukset noudattavat myös joitain ilmeisiä ehtoja: esimerkiksi sama väite muotoiltuna eri tavalla on edelleen yhtä "mahdollinen", tai tilanne "sekä A että B tapahtuvat" on enintään niin "mahdollinen" kuin tilanne "A tapahtuu".
 
 *Ainoa* nämä (ja muutamat muut luontevat ehdot) toteuttava tapa käsitellä epävarmuutta on tavallinen todennäköisyyslaskenta. Mikä tahansa muu tapa johtaa välttämättä näiden luontevien ehtojen rikkomiseen.
 

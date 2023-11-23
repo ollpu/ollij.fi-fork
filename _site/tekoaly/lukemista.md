@@ -1,10 +1,10 @@
 # Lukemista
 
-Uskomukseni koskien tekoälyuhkaa nojaa vahvasti muiden ihmisten kirjoituksiin aiheesta. Kokoan alla joitakin tekstejä, jotka ovat vaikuttaneet ajatuksiini ja joista löytää aiheesta enemmän.
+Uskomukseni tekoälyuhasta nojaavat vahvasti muiden ihmisten kirjoituksiin aiheesta. Kokoan alla joitakin tekstejä, jotka ovat vaikuttaneet ajatuksiini ja joista löytää aiheesta enemmän.
 
 Teksti [AI Alignment, Explained in 5 Points](https://medium.com/@daniel_eth/ai-alignment-explained-in-5-points-95e7207300e3) (Daniel Eth) on kenties paras yleisluontoinen selitys ongelmasta, jonka olen nähnyt.
 
-Koskien itse teknistä ongelmaa, Eliezer Yudkowskyn [AGI Ruin: A List of Lethalities](https://www.alignmentforum.org/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) ja Paul Christianon [Where I agree and disagree with Eliezer](https://www.alignmentforum.org/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer) ovat hyvä kuvaus joistakin yhteisistä ja eriävistä näkemyksistä alan sisällä.
+Itse tekniseen ongelmaan liittyen, Eliezer Yudkowskyn [AGI Ruin: A List of Lethalities](https://www.alignmentforum.org/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) ja Paul Christianon [Where I agree and disagree with Eliezer](https://www.alignmentforum.org/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer) ovat hyvä kuvaus joistakin yhteisistä ja eriävistä näkemyksistä alan sisällä.
 
 Yleisesti jos haluaa lukea aiheesta lisää: [Alignment Forum](https://www.alignmentforum.org/) saattaa alkuun.
 
@@ -29,10 +29,10 @@ Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkä
 - Ehdotus "[...] kysyy kielimallilta parasta toimintatapaa ihmisten arvojen näkökulmasta ja joka sitten tekee niin [...]"
     - On hyvin epäselvää, miten tämä "sitten tekee niin" -osa toteutettaisiin
 - Väite "pelkästään tekoälyjen toiminnan tarkastelu on riittämätöntä turvallisuuden määrittämiseksi"
-    - Ks. yllä linkatut materiaalit koskien "inner alignment" -ongelmaa, erityisesti "deceptive alignment"
+    - Ks. yllä linkatut materiaalit "inner alignment" -ongelmasta, erityisesti "deceptive alignment"
 - Väite "ihmiskunnalla on hyvin heikko käsitys siitä, mitä syväoppimismallien sisällä tapahtuu"
     - (On vaikea antaa viitettä sille, kuinka jotakin asiaa ei ymmärretä verrattuna siihen, että jotakin ymmärretään.)
     - (Tyydyn linkkaamaan Anthropic-organisaation artikkelin [Towards Monosemanticity](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components), joka on nähdäkseni on yksi parhaista edistysaskelista tähän mennessä, antaakseni kuvan alan tilasta.)
-- Koskien uhkakuvia, Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa tietynlaisia skenaarioita
+- Uhkakuvista: Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa tietynlaisia skenaarioita
 
 Iskulauseen "hyvät asiat ovat edelleen hyviä" olen mielestäni poiminut [Zvi Mowshowitzin](https://thezvi.wordpress.com/) teksteistä.

@@ -62,7 +62,7 @@ Prosessi syväoppimismallien kouluttamisen taustalla on karkeasti: "Aloitetaan s
 
 Oleellinen pointti: Ihmisillä, jotka käynnistävät tämän prosessin tietokoneellaan (tai laskentakeskuksellaan), ei ole etukäteen tietoa siitä, millainen lopputulos on. Se tiedetään, että se pärjää hyvin. Sitä ei tiedetä, *miten* tai *miksi* se pärjää niin hyvin.
 
-Tiedämme kirjaimellisesti yhtään mitään koskien malleja, mutta niin vähän, että väite "emme tiedä, miten mallit toimivat" kuvaa tilannetta hyvin. Olemme kaukana vastauksista korkean tason kysymyksiin kuten "Mitä mallin sisällä tapahtui, kun se antoi tuon vastauksen? Miten se päätyi tulokseensa? Miksi se teki noin eikä näin?"
+Tiedämme kirjaimellisesti yhtään mitään malleista, mutta niin vähän, että väite "emme tiedä, miten mallit toimivat" kuvaa tilannetta hyvin. Olemme kaukana vastauksista korkean tason kysymyksiin kuten "Mitä mallin sisällä tapahtui, kun se antoi tuon vastauksen? Miten se päätyi tulokseensa? Miksi se teki noin eikä näin?"
 
 6\. *Ongelman haastavuus kasvaa tekoälyjen kehittyessä*
 
@@ -110,4 +110,4 @@ Erimielisyydet eivät välttämättä ratkea lähitulevaisuudessa. Uhkakuvat eiv
 
 Itse pidän melko todennäköisenä, että eksistentiaalinen katastrofi -- kaikkien ihmisten kuolema tai muuten ihmiskunnan kehityksen katkeaminen -- toteutuu tekoälyn seurauksena. En anna tarkkoja lukemia, jotta en anna väärää kuvaa uskomusteni tarkkuudesta, mutta laitan näille lopputuloksille yli 50 prosenttia. (Tässä numeerinen todennäköisyys kuvastaa yksinkertaisesti minun uskomusteni vahvuutta, kuten olen [toisaalla](/epi/probabilistinen_ajattelu) kirjoittanut.)
 
-Taas, näkemykseni eivät perustu tarkkoihin ennustuksiin koskien lähitulevaisuuden tapahtumia. Matkalla voi tapahtua yllättäviä asioita. Näen kuitenkin tekoälyuhan *konvergenttina*, lopputulokselta jota kohti sivilisaatiomme on lähtökohtaisesti ajautumassa, enkä epätodennäköisenä sivuhaarana. (Edelleen, lukuisat organisaatiot yrittävät rakentaa yleistekoälyn, laskentakapasiteetin kasvaessa ajan myötä tämän saavuttaminen muuttuu helpommaksi ja tulevaisuudessa parhaat tekoälyt eivät tule olemaan huonompia kuin parhaat vuonna 2023.) Uhan välttäminen vaatii muutosta ihmiskunnan oletuksena olevaan kulkusuuntaan.
+Taas, näkemykseni eivät perustu tarkkoihin ennustuksiin lähitulevaisuuden tapahtumista. Matkalla voi tapahtua yllättäviä asioita. Näen kuitenkin tekoälyuhan *konvergenttina*, lopputulokselta jota kohti sivilisaatiomme on lähtökohtaisesti ajautumassa, enkä epätodennäköisenä sivuhaarana. (Edelleen, lukuisat organisaatiot yrittävät rakentaa yleistekoälyn, laskentakapasiteetin kasvaessa ajan myötä tämän saavuttaminen muuttuu helpommaksi ja tulevaisuudessa parhaat tekoälyt eivät tule olemaan huonompia kuin parhaat vuonna 2023.) Uhan välttäminen vaatii muutosta ihmiskunnan oletuksena olevaan kulkusuuntaan.

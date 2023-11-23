@@ -226,3 +226,16 @@ table td { border: 1px solid #404040; }
 
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
+/* unvisited link */
+a:link { color: #c2c2c2; text-decoration: underline; text-decoration-style: dotted; }
+
+/* visited link */
+a:visited { color: #888888; text-decoration: underline; text-decoration-style: dotted; }
+
+/* mouse over link */
+a:hover { color: #606060; text-decoration: underline; }
+
+/* selected link */
+a:active { color: gray; }
+
+body { color: #f2f2f2; font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */ font-family: 'Kurale'; font-style: normal; font-weight: 400; src: url("fonts/kurale-v11-latin-regular.eot"); /* IE9 Compat Modes */ src: url("fonts/kurale-v11-latin-regular.eot?#iefix") format("embedded-opentype"), url("fonts/kurale-v11-latin-regular.woff2") format("woff2"), url("fonts/kurale-v11-latin-regular.woff") format("woff"), url("fonts/kurale-v11-latin-regular.ttf") format("truetype"), url("fonts/kurale-v11-latin-regular.svg#Kurale") format("svg"); /* Legacy iOS */ }

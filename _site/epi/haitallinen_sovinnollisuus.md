@@ -8,7 +8,7 @@ Ensimmäinen väite on vahva (mutta pidän sitä nykyään epätotuudenmukaisena
 
 Ongelma tässä sovinnollisessa lähestymistavassa on se, että se ei oikeastaan johda mihinkään. Kaikki ovat samaa mieltä. Mistäs sitten puhuttaisiin?
 
-Vielä pahempaa on se, että ajatukseni aihetta koskien olivat aika sotkuisia ja enkä täysin erotellut, että nämä ovat hyvin eri väitteitä. Olen puhunut tästä [matalan informaation väitteiden](/epi/matala_informaatio) yhteydessä: sama epämääräinen väite ("harjoittelu ja kiinnostus ovat keskeisiä tekijöitä kehityksen kannalta") vihjaa monenlaisia tulkintoja, joista kenties osa ovat epätosia ja osa tosia, ja ne on siten tärkeä pitää erillään.
+Vielä pahempaa on se, että ajatukseni aihetta koskien olivat aika sotkuisia ja enkä täysin erotellut, että nämä ovat hyvin eri väitteitä. Olen puhunut tästä [matalan informaation väitteiden](/epi/matala_informaatio) yhteydessä: sama epämääräinen väite ("harjoittelu ja kiinnostus ovat tärkeitä kehityksen kannalta") vihjaa monenlaisia tulkintoja, joista kenties osa ovat epätosia ja osa tosia, ja ne on siten tärkeä pitää erillään.
 
 Toisessa tapauksessa päädyin keskusteluun, jossa minulla ja toisella osapuolella oli etukäteen vahvoja näkemyksiä aiheesta. Ajattelin, ettei keskustelusta tule hyvää, jos molemmat lähtevät keskusteluun itsevarmoina omista näkemyksistään. Pyrin siis olemaan sovinnollinen ja antamaan vastapuolen näkemyksille enemmän painoarvoa kuin mitä jälkikäteen pidän perusteltuna. Tässä liiallinen sovinnollisuus johti siihen, etten käsitellyt erimielisyyksiä kuten niitä kuuluu tai kunnolla tuonut esiin miksi olen eri mieltä. Koen keskustelun epäonnistuneen siinä, että oikeasti olisi päästy käsiksi erimielisyyksiin ja niiden syihin.
 
