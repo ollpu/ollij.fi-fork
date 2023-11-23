@@ -34,3 +34,5 @@ Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkä
     - (On vaikea antaa viitettä sille, kuinka jotakin asiaa ei ymmärretä verrattuna siihen, että jotakin ymmärretään.)
     - (Tyydyn linkkaamaan Anthropic-organisaation artikkelin [Towards Monosemanticity](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components), joka on nähdäkseni on yksi parhaista edistysaskelista tähän mennessä, antaakseni kuvan alan tilasta.)
 - Koskien uhkakuvia, Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa tietynlaisia skenaarioita
+
+Iskulauseen "hyvät asiat ovat edelleen hyviä" olen mielestäni poiminut [Zvi Mowshowitzin](https://thezvi.wordpress.com/) teksteistä.

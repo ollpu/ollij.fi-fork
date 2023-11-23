@@ -92,7 +92,7 @@ Minä vastaan, että en oikeastaan tiedä, mikä on varsinainen pointti. Sanoink
 
 Mihin voi turhautua ja sanoa, että tarkoituksella kierrän kysymyksen.
 
-Rehellisesti, olen hieman kyllästynyt peliin "keksi [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) ihmisten retorisista kommenteista". Jos ihmisillä on oikeita pointteja, niin esittäkööt he ne suoraan eikä vähättelevien kommenttien muodossa. Jos näitä oikeita pointteja ei ole, niin on teennäistä esittää kohteliasta ja pohtia, mitä nerokkaita huomioita näiden näennäisesti ajattelemattomien kommenttien takana on.
+Rehellisesti, olen hieman kyllästynyt peliin "keksi [kohteliaita tulkintoja](https://ollij.fi/epi/kohteliaat_tulkinnat) ihmisten retorisista kommenteista". Jos ihmisillä on oikeita pointteja, niin esittäkööt he ne suoraan eikä vähättelevien kommenttien muodossa. Jos näitä oikeita pointteja ei ole, niin on teennäistä esittää kohteliasta ja pohtia, mitä loistavia huomioita näiden näennäisesti ajattelemattomien kommenttien takana on.
 
 Mihin voi vastata "pointti on, että aiemmat ennustukset maailmanlopuista ovat olleet selkeästi huonoja, mikä on evidenssiä sille, että muutkin maailmanlopun ennustukset ovat selkeästi huonoja".
 
@@ -114,6 +114,8 @@ Joku voisi vastata, että ylianalysoin tilannetta ja että se on vain vitsi.
 
 On aika hauska sattuma, että useampi ihminen on keksinyt tämän saman "vitsin". Ja kun sanon "hauska sattuma", tarkoitan säännönmukaisuutta. Tekoälyuhka vaikuttaa olevan aihe, joka saa ihmisten ajattelun rikki ja sanomaan ties mitä roskaa. "[Kaukaiset](https://ollij.fi/epi/kaukotila)", "[filosofiset](https://ollij.fi/epi/filosofiatila)" aiheet tuppaavat olemaan sellaisia. Olen syystäkin [kirjoittanut](https://ollij.fi/epi) tästä teemasta.
 
-Joku voisi "kohteliaasti" huomauttaa, että nämä kyllä nämä ihmiset oikeasti pitävät sitä huonona asiana.
+Joku voisi "kohteliaasti" huomauttaa, että kyllä nämä ihmiset oikeasti pitävät sitä huonona asiana.
 
-Mihin vastaan, että tämä on epätosi väite -- [jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat) ja niin edelleen. Voit toki pitää sitä itsestäänselvyytenä, että kaikkien kuoleminen on hyvin paha asia ja sen estämiseksi kannattaa tehdä jotakin. Olen tästä samaa mieltä.
+Mihin vastaan, että tämä on epätosi väite -- [jakaumat ovat leveitä](https://ollij.fi/epi/leveat_jakaumat) ja niin edelleen. Osan kohdalla kyse varmaankin on vitsistä, mutta on virheellistä sanoa, ettei kukaan ole tätä mieltä.
+
+Voit toki pitää sitä itsestäänselvyytenä, että kaikkien kuoleminen on hyvin paha asia ja sen estämiseksi kannattaa tehdä jotakin. Olen tästä samaa mieltä.
