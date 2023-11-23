@@ -4,7 +4,7 @@ Kerron tässä, minkä vuoksi pidän kohtalaisen todennäköisenä, että tekoä
 
 Tietämättä parempaa tapaa kertoa aiheesta, päädyn luettelemaan erinäisiä uskomuksiani aiheeseen liittyen.
 
-1. *Tekoälyjärjestelmät pystyvät olemaan valtavan paljon kyvykkäämpiä kuin ihmiset oleellisesti missä tahansa kognitiivisissa tehtävissä.*
+1\. *Tekoälyjärjestelmät pystyvät olemaan valtavan paljon kyvykkäämpiä kuin ihmiset oleellisesti missä tahansa kognitiivisissa tehtävissä.*
 
 (Arkisempi muotoilu "tekoälyt voivat olla paljon ihmisiä älykkäämpiä" kärsii sanasta "älykkyys", joka aiheuttaa eri ihmisissä hyvin erilaisia reaktioita, välillä johtaen ajattelun sivuraiteille.)
 
@@ -14,7 +14,7 @@ Niin ikään tekoälyt voivat olla *laadullisesti* parempia kuin ihmiset, samall
 
 Suuri osa tekoälyalasta keskittyy kapeisiin tehtäviin (kuten "miten voittaa ihminen gossa"). Silti tekoäly voi olla *yleisesti* älykäs -- samassa mielessä kuin ihmiset kykenevät miettimään koko ympärillä olevaa maailmaa (tai maailmankaikkeutta), ratkomaan hyvin laajaa joukkoa erilaisia ongelmia ja reflektoimaan omia ajatuksiaan. Ihmisten olemassaolo demonstroi, että tämä on mahdollista. Samanlaisen mekanismin voi toteuttaa tietokoneilla.
 
-2. *Ihmisiä valtavan paljon kyvykkäämpi tekoäly kykenee aiheuttamaan ihmiskunnan tuhon (tähän tavoitellessaan)*
+2\. *Ihmisiä valtavan paljon kyvykkäämpi tekoäly kykenee aiheuttamaan ihmiskunnan tuhon (tähän tavoitellessaan)*
 
 Tämä väite vaikuttaa jakavan ihmisiä: jotkut pitävät sitä itsestäänselvyytenä, jotkut taas ovat vahvasti eri mieltä. Päädyn siksi selittämään näkemyksistäni yleisten vastareaktioiden kautta.
 
@@ -29,7 +29,7 @@ Yksi vastaus on, että ihmiset ja ihmisjoukot yrittävät (ja ovat yrittäneet) 
 Toinen vastaus on puhua siitä, kuinka tekoäly on lopulta vain tietokoneohjelma, eikä se voi tehdä asioita "oikeassa maailmassa". Nämä ajatukset vaikuttavat pohjautuvan huonoihin abstraktioihin. Erottelu "digitaalisen maailman" ja "fyysisen maailman" välillä ei ole aito. Tekoälyt tietenkin vaikuttavat maailmaan: vaikka ne esimerkiksi "vain tuottaisivat tekstiä", niin välillä ihmiset tekevät asioita tekstin lukemisen seurauksena ja tuotettu teksti siten johtaa oikean maailman seurauksiin. Tekoälyjä kehitetään nimenomaan sen takia, että niiden avulla saadaan tehtyä asioita. (Käytettävyyden ja tuottavuuden näkökulmasta voisi myös odottaa, että tekoälyt "laitetaan tekemään" enemmän ja enemmän asioita ilman, että ihmiset toimivat välikätenä. Tämä tietysti on se, mitä tällä hetkellä tapahtuu.)
 
 
-3. *Tavoitteiden asettaminen tekoälyihin on avoin ongelma*
+3\. *Tavoitteiden asettaminen tekoälyihin on avoin ongelma*
 
 Emme yksinkertaisesti osaa asettaa tavoitteita tekoälyihin. Yksi tarkempi muotoilu tämän korkean tason väitteen taustalla:
 
@@ -47,7 +47,7 @@ Vaikka siirryttäisiin syväoppimisen ulkopuolelle, niin ihmiskunta ei tällä h
 
 (Nopeat reaktiot kuten "voimmehan rakentaa järjestelmän, joka kysyy kielimallilta parasta toimintatapaa ihmisten arvojen näkökulmasta ja joka sitten tekee niin" missaavat pointin. Yhtenä ongelmana tällainen järjestelmä optimoi *kielimallin käsitystä* ihmisten arvoista, ei ihmisten arvoja. Taas, emme osaa suunnata tekoälyjä kohti niitä *oikeita asioita*, ainoastaan johonkin "vähän sinne päin".)
 
-4. *Pelkästään tekoälyjen toiminnan tarkastelu on riittämätöntä turvallisuuden määrittämiseksi*
+4\. *Pelkästään tekoälyjen toiminnan tarkastelu on riittämätöntä turvallisuuden määrittämiseksi*
 
 Kuvitellaan, että koulutamme mallin ja testaamme sen toimintaa. Testatessa kaikki on kunnossa: malli käyttäytyy juuri kuten haluamme. Taustalla voi olla eri syitä:
 
@@ -56,7 +56,7 @@ Kuvitellaan, että koulutamme mallin ja testaamme sen toimintaa. Testatessa kaik
 
 Nämä kaksi tapausta johtavat samaan käytökseen, joten niitä ei pysty erottelemaan pelkästään käytöksen perusteella. Erottelu vaatii enemmän tietoa: kuinka todennäköisesti tietyntyyppisiä malleja syntyy syväoppimismalleja koulutettaessa tai mitä mallin sisällä tapahtuu.
 
-5. *Ihmiskunnalla on hyvin heikko käsitys siitä, mitä syväoppimismallien sisällä tapahtuu*
+5\. *Ihmiskunnalla on hyvin heikko käsitys siitä, mitä syväoppimismallien sisällä tapahtuu*
 
 Prosessi syväoppimismallien kouluttamisen taustalla on karkeasti: "Aloitetaan satunnaisesta mallista. Katsotaan, kuinka hyvin se pärjää. Muutetaan sitä (automaattisesti) niin, että se olisi toiminut paremmin. Toistetaan." Käytännössä on todettu, että tällaisten prosessin tuloksina on malleja, jotka pärjäävät hyvin halutulla mittarilla.
 
@@ -64,7 +64,7 @@ Oleellinen pointti: Ihmisillä, jotka käynnistävät tämän prosessin tietokon
 
 Tiedämme kirjaimellisesti yhtään mitään koskien malleja, mutta niin vähän, että väite "emme tiedä, miten mallit toimivat" kuvaa tilannetta hyvin. Olemme kaukana vastauksista korkean tason kysymyksiin kuten "Mitä mallin sisällä tapahtui, kun se antoi tuon vastauksen? Miten se päätyi tulokseensa? Miksi se teki noin eikä näin?"
 
-6. *Ongelman haastavuus kasvaa tekoälyjen kehittyessä*
+6\. *Ongelman haastavuus kasvaa tekoälyjen kehittyessä*
 
 Ihmisiä älykkäämpien tekoälyjen tapauksessa ei voi laskea esimerkiksi sen varaan, että ihmiset pystyvät arvioimaan, onko tekoälyn toiminta "hyvää" vai "huonoa". Kyvykkäät tekoälyt pystyvät johtamaan ihmisiä harhaan, ihmiset eivät kykene hahmottamaan tekoälyn toiminnan seurauksia ja tekoäly keksii asioita, joita ei itse keksi.
 
@@ -74,7 +74,7 @@ Seurauksena uusia ongelmia ilmaantuu mallien kehittyessä. Kenties jotkin ongelm
 
 (Käytännössä taas uusien kykyjen ilmaantuminen kielimalleihin on ennalta-arvaamatonta ja taas, ymmärrys mallien sisäisestä toiminnasta on hyvin heikkoa.)
 
-7. *Ongelman ratkaisemiseen on vain rajallinen määrä aikaa*
+7\. *Ongelman ratkaisemiseen on vain rajallinen määrä aikaa*
 
 On useampia organisaatioita, jotka eksplisiittisesti yrittävät rakentaa yleistekoälyn. Ajankohtien ennustaminen on vaikeaa. Siitä huolimatta näyttää hyvinkin mahdolliselta, että nämä organisaatiot onnistuvat tässä lähitulevaisuudessa. Tekinen ongelma tulee ratkaista tätä ennen.
 
