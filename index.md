@@ -1,5 +1,5 @@
-Työskentelen tekoälyturvallisuuden parissa. Koulutukseltani olen filosofian tohtori ja olen tehnyt lukuteorian tutkimusta.
+Nämä ovat Olli Järviniemen nettisivut.
 
-Lyhyen kuvaksen itsestäni löytää [täältä](/itsestani). Tässä on [listan saavutuksistani / CV](/CV) ja [julkaisuluetteloni](/tutkimus).
+Mielenkiintoisin sisältö näillä sivuilla on [epiä käsittelevä tekstikokoelmani](/epi) sekä [kirjoitukseni tekoälyuhasta](/tekoaly).
 
-Sähköposti: olli.jarviniemi@gmail.com
+Sivuilta löytyy myös [ansio-](/CV) ja [julkaisuluetteloni](/tutkimus).
