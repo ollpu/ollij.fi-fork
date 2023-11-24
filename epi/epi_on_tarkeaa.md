@@ -32,7 +32,7 @@ Uskon tekoälyn olevan eksistentiaalinen uhka ihmiskunnalle.
 
 Tämä ei ole vain "jossakin kaukana tulevaisuudessa" oleva "epärealistinen hypoteettinen skenaario", vaan lähitulevaisuuden ongelma ja mielestäni kohtalaisen todennäköinen sellainen.
 
-En mene tässä siihen, miksi uskon mitä uskon (mutta [katso tänne](/epi/tekoaly)). [Olen myös varsin tietoinen](/epi/reflektointi), etteivät kaikki ole asiasta tätä mieltä. Tyydyn ottamaan seuraavan näkökulman: *uskomuksilla on seurauksia*. Uskomukseni tekoälyuhasta ei ole irrallinen muista uskomuksistani.
+En ikävä kyllä pysty tässä kertomaan, miksi uskon mitä uskon, joten teen sen [toisaalla](/tekoaly). [Olen myös varsin tietoinen](/epi/reflektointi), etteivät kaikki ole asiasta tätä mieltä. Tyydyn siksi tässä ottamaan seuraavan näkökulman: *uskomuksilla on seurauksia*. Uskomukseni tekoälyuhasta ei ole irrallinen muista uskomuksistani.
 
 Ehkä olen nähnyt, kuinka ongelma sivuutetaan selvästi täysin epävalideilla argumenteilla -- niin "tavallisten ihmisten" kuten "asiantuntijoiden" toimesta -- siitäkin huolimatta, että tämä on *aika vakava asia*, jossa olisi *aika tärkeää* olla hyvä epi.
 
