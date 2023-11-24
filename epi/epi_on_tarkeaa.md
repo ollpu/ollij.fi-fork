@@ -76,7 +76,7 @@ Tietysti minä voisin taputella itseäni selkään siitä, kuinka olin vähemmä
 
 ...mutta tämä on juuri yksi niistä syistä, minkä vuoksi epi rappeutuu. Rima on "parempi kuin muut" (lue: voittaa väittely), ei "riittävä hyvien tulosten saamiseksi". Tekosyiden etsimistä, vastuun siirtämistä muualle, sitä että ongelma ei ollut minä vaan nuo [helpot maalitaulut](/epi/helpot_maalitaulut).
 
-Tämä on esimerkki yleisemmästä ilmiöstä, kuinka ihmiset nyökkäilevät mukana kuullessaan "epi on tärkeää" ja... eivät oikeasti pidä epiä tärkeänä. Epi on tärkeää, mutta vielä tärkempää on nuo muut jutut.
+Tämä on esimerkki yleisemmästä ilmiöstä, kuinka ihmiset nyökkäilevät mukana kuullessaan "epi on tärkeää" ja... eivät oikeasti pidä epiä tärkeänä. Epi on tärkeää, mutta vielä tärkempiä ovat nuo muut jutut.
 
 Ja pointtini on, että hyvä epi on *keskeisen tärkeää*, että sitä ei voi vain sivuuttaa muiden "tärkeämpien" juttujen takia.
 

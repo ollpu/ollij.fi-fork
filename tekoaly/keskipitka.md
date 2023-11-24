@@ -39,7 +39,7 @@ Usein tämä idea selitetään tutkimalla vastaavaa tilannetta evoluution ja ihm
 
 Tyypillisesti tekoälymalleja koulutettaessa etsitään laajasta joukosta mahdollisia malleja parametreja muuttamalla sellaisia, jotka pärjäävät hyvin jonkin tietyn häviöfunktion suhteen. Ajankohtainen esimerkki on suuret kielimallit, joissa mittarina on (karkeasti) "kuinka hyvin malli ennustaa tekstiä". Tämä ei kuitenkaan johda malliin, joka sisäisesti "tavoittelee" tekstin ennustamista hyvin -- aivan kuten evoluution "etsiessä" biologisia organismeja geenien levittämisen pohjalta kyseiset organismit eivät sisäisesti "tavoittele" geeniensä levittämistä.
 
-Sama pätee myös vahvistusoppimisen (engl. reinforcement learning) kontekstissa, jossa häviöfunktion sijaan puhutaan palkkioista (engl. reward). Hämäävästä nimestään huolimatta palkkio *määrittelee prosessin, jolla parametreja muutetaan*, eikä itsessään ole asia, jota malli sisäisesti tavoittelee. Hieman epätarkka mutta kenties silti hyödyllinen analogia: nämä palkkiot ovat ikään kuin mielihyvän tai kivun signaalit, vahvistaen tietyntyyppistä toimintaa ("älä tee noin" tai "tee enemmän tuon tyyppisiä juttuja"), mutta ne *eivät ole mitä varsinaisesti haluamme*.
+Sama pätee myös vahvistusoppimisen (engl. reinforcement learning) kontekstissa, jossa häviöfunktion sijaan puhutaan palkkioista (engl. reward). Hämäävästä nimestään huolimatta palkkio *määrittelee prosessin, jolla parametreja muutetaan*, eikä itsessään ole asia, jota malli sisäisesti tavoittelee. Hieman epätarkka mutta kenties silti hyödyllinen analogia: nämä palkkiot ovat ikään kuin mielihyvän tai kivun signaalit, jotka vahvistavat tietyntyyppistä toimintaa ("älä tee noin" tai "tee enemmän tuon tyyppisiä juttuja"), mutta ne *eivät ole mitä varsinaisesti haluamme*.
 
 Yleisesti syväoppimisparadigmassa ei ole tapaa saada *sisäisiä ominaisuuksia* malleihin, vaan optimointi kohdistuu *annettuihin tuloksiin*. Tekoälyä voi kouluttaa tavoitteella "ennusta tekstiä hyvin", jolloin mallin *käytös* vastaa hyvää tekstin ennustamista. Sen sijaan mallin sisäiset ominaisuudet jäävät tuntemattomiksi.
 
@@ -47,20 +47,33 @@ Vaikka siirryttäisiin syväoppimisen ulkopuolelle, niin ihmiskunta ei tällä h
 
 (Nopeat reaktiot kuten "voimmehan rakentaa järjestelmän, joka kysyy kielimallilta parasta toimintatapaa ihmisten arvojen näkökulmasta ja joka sitten tekee niin" missaavat pointin. Yhtenä ongelmana tällainen järjestelmä optimoi *kielimallin käsitystä* ihmisten arvoista, ei ihmisten arvoja. Taas, emme osaa suunnata tekoälyjä kohti niitä *oikeita asioita*, ainoastaan johonkin "vähän sinne päin".)
 
-4\. *Pelkästään tekoälyjen toiminnan tarkastelu on riittämätöntä turvallisuuden määrittämiseksi*
+Monesti keskustelu tekoälyuhasta (etenkin teknisen yleisön ulkopuolella) juuttuu kysymykseen "millaisia arvoja tekoälyyn kannattaisi laittaa?". On toki vaikea ongelma valita sellaiset tavoitteet, että niiden optimoiminen *kovaa* -- ihmiset ylittävällä tasolla -- johtaa hyviin lopputuloksiin. Vielä keskeisempi ongelma on kuitenkin se, *miten nämä tavoitteet ylipäätään saadaan laitettua tekoälyyn*. Vaikka pystyisimme spesifioimaan tarkalleen, millaiset ovat "hyvät arvot", iso osa ongelmaa on edelleen ratkomatta: miten saada nämä hyvät arvot "kytkettyä" tekoälyyn? Haaste ei ole luonteeltaan moraalifilosofinen, tämä on *tekninen ongelma*, johon meillä ei ole ratkaisua.
 
-Kuvitellaan, että koulutamme mallin ja testaamme sen toimintaa. Testatessa kaikki on kunnossa: malli käyttäytyy juuri kuten haluamme. Taustalla voi olla eri syitä:
+4\. *Pelkästään tekoälyjen toiminnan tarkastelu on riittämätöntä*
 
-- Hyvä: Malli pyrkii samoisin asioihin kuin me.
-- Huono: Malli pyrkii muihin asioihin, mutta testatessa käyttäytyy kuten haluamme, koska testien läpäiseminen on hyödyllistä näiden muiden tavoitteiden kannalta.
+Kategorian "kerätään ihmisiltä palautetta siitä, kuinka hyvää mallin toiminta on ja muutetaan mallia palautteen perusteella niin, että se toimii paremmin" lähestymistavat törmäävät tähän ongelmaan: sanottaessa mallille "älä tee noin" saadaan malli ainoastaan *toimimaan tavalla*, jossa ihmiset eivät näe ongelmia.
 
-Nämä kaksi tapausta johtavat samaan käytökseen, joten niitä ei pysty erottelemaan pelkästään käytöksen perusteella. Erottelu vaatii enemmän tietoa: kuinka todennäköisesti tietyntyyppisiä malleja syntyy syväoppimismalleja koulutettaessa tai mitä mallin sisällä tapahtuu.
+Siis: Toiminnan generoivaa prosessia muutetaan, kunnes näkyviä ongelmia ei ole.
+
+Tämä ei saa mallia sisäistämään ja jakamaan ihmisten tavoitteita. "Ihmisten arvot" eivät astu kehiin missään vaiheessa. Toiminnan generoivaa prosessia muutetaan niin, että se tuottaa enemmän "hyväksi" merkittyjä esimerkkejä. Mitä tekemistä tällä on ihmisten arvojen kanssa? Ihmisten palaute tietyssä kontekstissa ei ole sama asia kuin heidän oikeat arvonsa. Ei pelkästään siksi, että palaute ei täysin heijasta arvoja, vaan ennen kaikkea siksi, että nämä ovat täysin eri *tyyppisiä* asioita.
+
+Emme saa mallia toimimaan "ihmisten arvojen mukaisesti", saamme mallin toimimaan tavalla missä ihmiset eivät näe ongelmia.
+
+(Taas, emme osaa asettaa malleille tavoitteita.)
+
+Ongelmia tulee vastaan myös puhtaasti mallin *toiminnassa*, ei vain sisäisissä ominaisuuksissa. Palaute ei täysin heijasta arvoja. Ihmiset tekevät virheitä. Ei pelkästään "sattumalta", vaan: eri ihmiset tekevät samoissa asioissa samantyyppisiä virheitä. Mallin muuttaminen ihmisten palautteen perusteella saa mallin toimimaan tällä virheellisellä tavalla. Jos esimerkiksi ihmiset eivät mieti toimintansa pidemmän ajan seurauksia (tai eivät kykene hahmottamaan näitä seurauksia riittävän hyvin), seuraukset ovatkin pitkällä tähtäimellä huonoja ja mallia muutetaan tekemään tämäntyypiisiä asioita, niin...
+
+Jälleen kerran: Koulutusprosessi ei johda ihmisten arvojen mukaiseen toimintaan, se johtaa ihmisten palautteen mukaiseen toimintaan.
+
+(Tai oikeastaan palautteen mukaiseen toimintaan *koulutusympäristössä*. Miten malli yleistyy uusiin tilanteisiin? Jaa-a. Mallien yleistymistä ymmärretään huonosti. Vastaus "juuri siten, miten toivoisi" ei kuitenkaan ole oikea.)
+
+Nämä hienovaraiset erot ihmisten arvojen ja ihmisten palautteen välillä, oikean toiminnan ja tavoitteiden sisäistämisen välillä, koulutusympäristön toiminnan ja sen ulkopuolisen toiminnan välillä, ovat aidosti tärkeitä. Kuvauksesta "malli oppii ihmisten palautteesta, mistä ihmiset tykkäävät" voisi ajatella, että kaikki on hyvin -- ja eikö tämä kuvaakin sitä, mitä prosessissa tapahtuu?  Tämä on kuitenkin virheellinen selitys siitä, mitä palautetta antaessa oikeasti tapahtuu, "vähän sinne päin", piilottaen yllä käsitellyt ongelmat.
 
 5\. *Ihmiskunnalla on hyvin heikko käsitys siitä, mitä syväoppimismallien sisällä tapahtuu*
 
 Prosessi syväoppimismallien kouluttamisen taustalla on karkeasti: "Aloitetaan satunnaisesta mallista. Katsotaan, kuinka hyvin se pärjää. Muutetaan sitä (automaattisesti) niin, että se olisi toiminut paremmin. Toistetaan." Käytännössä on todettu, että tällaisten prosessin tuloksina on malleja, jotka pärjäävät hyvin halutulla mittarilla.
 
-Oleellinen pointti: Ihmisillä, jotka käynnistävät tämän prosessin tietokoneellaan (tai laskentakeskuksellaan), ei ole etukäteen tietoa siitä, millainen lopputulos on. Se tiedetään, että se pärjää hyvin. Sitä ei tiedetä, *miten* tai *miksi* se pärjää niin hyvin.
+Oleellinen pointti: Ihmisillä, jotka käynnistävät tämän prosessin tietokoneillaan (tai laskentakeskuksillaan), ei ole etukäteen tietoa siitä, millainen lopputulos on. Se tiedetään, että se pärjää hyvin. Sitä ei tiedetä, *miten* tai *miksi* se pärjää niin hyvin.
 
 Tiedämme kirjaimellisesti yhtään mitään malleista, mutta niin vähän, että väite "emme tiedä, miten mallit toimivat" kuvaa tilannetta hyvin. Olemme kaukana vastauksista korkean tason kysymyksiin kuten "Mitä mallin sisällä tapahtui, kun se antoi tuon vastauksen? Miten se päätyi tulokseensa? Miksi se teki noin eikä näin?"
 

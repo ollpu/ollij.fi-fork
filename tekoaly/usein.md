@@ -16,7 +16,9 @@ Ja tämä tieto AlphaGosta johtaa muihin ennustuksiin AlphaGon toiminnasta. Peru
 
 Yleisesti sanoisin, että useimmat tekoälyuhka-argumentit voisi muotoilla ilman sanaa "tavoite".
 
-Toisaalta pidän kohtalaisen todennäköisenä, että kehittyneillä tekoälyillä on tavoitteita -- siis jokseenkin samassa mielessä kuin minulla on tavoitteita tai arvoja, asioita joiden haluan olevan tosia, tiloja joissa haluan todellisuuden olevan. Evoluutio nimittäin on tuottanut (ainakin) ihmiset, joilla tällaisia preferenssejä on. En tiedä tarkkoja mekanismeja preferenssien synnyn taustalla. Siksi minusta on ihan mahdollista, että myös (joidenkin) syväoppimismallien kouluttamisessa syntyy tavoitteen omaavia malleja.
+Toisaalta pidän kohtalaisen todennäköisenä, että kehittyneillä tekoälyillä on tavoitteita -- siis jokseenkin samassa mielessä kuin minulla on tavoitteita tai arvoja, asioita joiden haluan olevan tosia, tiloja joissa haluan todellisuuden olevan. Evoluutio nimittäin on tuottanut (ainakin) ihmiset, joilla tällaisia preferenssejä on. En tiedä tarkkoja mekanismeja preferenssien synnyn taustalla. Näen kuitenkin ihan mahdollisena, että tällaisia samanlaisia mekanismeja syntyy myös tekoälymalleja koulutettaessa ja että (ainakin jotkin) koulutusprosessit luovat tavoitteita omaavia malleja.
+
+Olen kokenut hyödylliseksi erotella näkökulmat "tekoälyillä on tavoitteita, joita ne pyrkivät saavuttamaan" ja "tekoälyt tekevät sen tyyppisiä asioita, joita on vahvistettu koulutuksen aikana" toisistaan.
 
 **Kysymys:** Kai nyt tekoälyjen tekijät tietävät, miten ne toimivat?
 
