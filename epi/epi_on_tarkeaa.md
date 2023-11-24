@@ -139,7 +139,7 @@ Mitä tulee pystymiseen: *miksi uskot mitä uskot*? Nuoremman minän vastaus oli
 
 Nykyään minä uskon, että asialle *voi* tehdä jotakin. Vähintäänkin ihmiset (erityisesti ihmisten *aivot*) [voidaan](https://waitbutwhy.com/2016/03/cryonics.html) *säilyttää* siihen asti, kunnes ihmiskunta on riittävän kehittynyt ratkaisemaan ongelman *kokonaan*.
 
-...mikä taas tarjoaa mahdollisuuksia uusille refleksinomaisille vasta-argumenteille ja rationalisoinneille.
+...minkä sanominen tarjoaa mahdollisuuksia uusille refleksinomaisille vasta-argumenteille ja rationalisoinneille.
 
 Toimiiko säilytääminen oikeasti? Tuleeko ihmiskunta kehittymään riittävästi uudelleenherättämistä varten? Voiko säilyttämisprosessi epäonnistua?
 
