@@ -76,7 +76,7 @@ Seurauksena uusia ongelmia ilmaantuu mallien kehittyessä. Kenties jotkin ongelm
 
 7\. *Ongelman ratkaisemiseen on vain rajallinen määrä aikaa*
 
-On useampia organisaatioita, jotka eksplisiittisesti yrittävät rakentaa yleistekoälyn. Ajankohtien ennustaminen on vaikeaa. Siitä huolimatta näyttää hyvinkin mahdolliselta, että nämä organisaatiot onnistuvat tässä lähitulevaisuudessa. Tekinen ongelma tulee ratkaista tätä ennen.
+On useampia organisaatioita, jotka eksplisiittisesti yrittävät rakentaa yleistekoälyn. Ajankohtien ennustaminen on vaikeaa. Siitä huolimatta näyttää hyvinkin mahdolliselta, että nämä organisaatiot onnistuvat tässä lähitulevaisuudessa. Tekninen ongelma tulee ratkaista tätä ennen.
 
 ---
 
