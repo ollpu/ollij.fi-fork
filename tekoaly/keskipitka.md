@@ -57,6 +57,8 @@ Siis: Toiminnan generoivaa prosessia muutetaan, kunnes näkyviä ongelmia ei ole
 
 Tämä ei saa mallia sisäistämään ja jakamaan ihmisten tavoitteita. "Ihmisten arvot" eivät astu kehiin missään vaiheessa. Toiminnan generoivaa prosessia muutetaan niin, että se tuottaa enemmän "hyväksi" merkittyjä esimerkkejä. Mitä tekemistä tällä on ihmisten arvojen kanssa? Ihmisten palaute tietyssä kontekstissa ei ole sama asia kuin heidän oikeat arvonsa. Ei pelkästään siksi, että palaute ei täysin heijasta arvoja, vaan ennen kaikkea siksi, että nämä ovat täysin eri *tyyppisiä* asioita.
 
+Ja jos mallia "rankaistaan" huonosti toimimisesta (tarkemmin: mallia muutetaan niin, että se tekee vähemmän tuollaisia asioita), niin tämä ohjaa mallia toimimaan niin, ettei huonoa toimintaa näy. Kannustin on kohti huonon toiminnan piilottamista ja huono toiminta piiloutuu. Ihminen voisi kuvailla tätä niin, että tekoäly päätyy huijaamaan ihmisiä, mutta "tietoista yritystä" huijata ei tarvita: jos koulutat mallilta pois näkyvän huonon toiminnan, niin "huonoa toimintaa on edelleen, mutta se on piilossa" on varsin ennustettava lopputulos.
+
 Emme saa mallia toimimaan "ihmisten arvojen mukaisesti", saamme mallin toimimaan tavalla missä ihmiset eivät näe ongelmia.
 
 (Taas, emme osaa asettaa malleille tavoitteita.)
