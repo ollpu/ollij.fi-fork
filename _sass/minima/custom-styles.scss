@@ -67,7 +67,10 @@ a:active {
        url('/fonts/eb-garamond-v27-latin-500italic.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
 
-
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid $border-color-01;
+}
 
 body {
   color: #ffffff;
