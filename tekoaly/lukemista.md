@@ -33,6 +33,8 @@ Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkä
 - Väite "ihmiskunnalla on hyvin heikko käsitys siitä, mitä syväoppimismallien sisällä tapahtuu"
     - (On vaikea antaa viitettä sille, kuinka jotakin asiaa ei ymmärretä verrattuna siihen, että jotakin ymmärretään.)
     - (Tyydyn linkkaamaan Anthropic-organisaation artikkelin [Towards Monosemanticity](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components), joka on nähdäkseni on yksi parhaista edistysaskelista tähän mennessä, antaakseni kuvan alan tilasta.)
-- Uhkakuvista: Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa tietynlaisia skenaarioita
+- Väite "On useampia organisaatioita, jotka eksplisiittisesti yrittävät rakentaa yleistekoälyn"
+    - (Tämä vaikuttaa selvästi todelta niille, jotka tekoälykentän kehitystä seuraavat. En oikein tiedä, miten avata tätä ulkopuolisille: kehotan vain katsomaan, mitä sellaisten yritysten kuten OpenAIn, Google DeepMindin tai Anthropicin sivut tai heidän toimitusjohtajansa puhuvat yleistekoälystä (engl. artificial general intelligence) tai miten media ja muut lähteet kuvailevat yrityksiä.)
+- Uhkakuvista: Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa yhtä kategoriaa skenaarioita
 
 Iskulauseen "hyvät asiat ovat edelleen hyviä" olen mielestäni poiminut [Zvi Mowshowitzin](https://thezvi.wordpress.com/) teksteistä.
