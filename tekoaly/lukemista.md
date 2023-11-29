@@ -35,6 +35,9 @@ Joitakin lisäkommentteja ja materiaaleja, joista voi lukea lisää [keskipitkä
     - (Tyydyn linkkaamaan Anthropic-organisaation artikkelin [Towards Monosemanticity](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components), joka on nähdäkseni on yksi parhaista edistysaskelista tähän mennessä, antaakseni kuvan alan tilasta.)
 - Väite "On useampia organisaatioita, jotka eksplisiittisesti yrittävät rakentaa yleistekoälyn"
     - (Tämä vaikuttaa selvästi todelta niille, jotka tekoälykentän kehitystä seuraavat. En oikein tiedä, miten avata tätä ulkopuolisille: kehotan vain katsomaan, mitä sellaisten yritysten kuten OpenAIn, Google DeepMindin tai Anthropicin sivut tai heidän toimitusjohtajansa puhuvat yleistekoälystä (engl. artificial general intelligence) tai miten media ja muut lähteet kuvailevat yrityksiä.)
-- Uhkakuvista: Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa yhtä kategoriaa skenaarioita
+- Uhkakuvista:
+    - Paul Christianon "[What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like)" kuvaa laajemmin uhkaskenaarioita
+    - Holden Karnofskyn "[AI Could Defeat All Of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)" käsittelee yhtä skenaariota
+
 
 Iskulauseen "hyvät asiat ovat edelleen hyviä" olen mielestäni poiminut [Zvi Mowshowitzin](https://thezvi.wordpress.com/) teksteistä.

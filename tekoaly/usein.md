@@ -6,6 +6,30 @@ Vastaan tässä yleisiin vastareaktioihin mitä olen saanut tekoälyuhkaan liitt
 
 Joka tapauksessa nämä vaikuttavat olevan kysymyksiä, joita monilla on mielessä ja joihin he haluavat vastauksia. Siksi näen arvoa vastausten antamisessa.
 
+**Kysymys:** Miksi odottaa yleistekoälyn rakennettavan lähitulevaisuudessa tai että tämä ylipäätään on mahdollista?
+
+Jaan vastauksen kahteen osaan:
+
+*Ihmisiä tarkastelemalla* huomataan ensinnäkin, että yleisälykkyyksiä on olemassa. Ihmisten aivojen toimintaa voidaan ymmärtää ja samanlaisia prosesseja voidaan toteuttaa tietokoneilla. Arviot ihmisaivojen laskentateholle vaihtelevat 10^15 ja 10^18 laskutoimitusta/sekunti väliltä. (Parhailla supertietokoneilla voi nykyään tehdä noin 10^17-10^18 laskutoimitusta sekunnissa.)
+
+Tällä hetkellä siis on selvästi olemassa riittävä määrä laskentatehoa. Kyse on vain siitä, miten sitä käyttää. On sanomattakin selvää, että nykyisellään (vuonna 2023) emme osaa valjastaa laskentatehoa yleisälykkyyttä kohti.
+
+Toisaalta sitten jos ja kun näin osataan tehdä, niin ei juuri ole syytä olettaa, että tarvitsisimme lähellekään ihmisaivojen käyttämää laskentatehoa. Ihmisaivojen tekemästä työstä vain pieni osa kohdistuu "tärkeisiin" kognitiivisiin tehtäviin ja niitä ei ole oikein optimoitu vaikkapa tieteen tekemiseen. (Voittaessaan shakin maailmanmestarin Deep Blue suoritti noin 10^10 laskutoimitusta sekunnissa, eli alle 0.00001 kertaisen määrän kuin ihmisvastustaja.) Nämä arviot eivät siis kerro lopulta kovin paljoa sen lisäksi, ettei yleistekoäly ole suinkaan tavoittamattomissa.
+
+*Tekoälyn kehitystä* tarkastelemalla saa paremman käsityksen aikajänteistä.
+
+Minun on vaikea kommunikoida alan ulkopuolisille, kuinka nopeaa kehitys tekoälyssä on ja kuinka paljon läpimurtoja viimeisen kymmenen tai viiden vuoden aikana on saatu. Jos tekoälyn kehitys ei ole ennestään tuttua, ohjaan lukijan Richard Ngon tekstiin [Visualizing the deep learning revolution](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5).
+
+Tyydyn tässä sanomaan: Suuret kielimallit yleistyvät uusiin tehtäviin ja saavat uusia kykyjä ennalta-arvaamattomilla tavoilla. Monet väitteet muotoa "tekoäly ei osaa tehdä edes tuota perusasiaa" olivat tosia vuonna 2018 ja epätosia vuonna 2023. Näihin lukeutuu sellaiset tehtävät kuten "kommunikoi sujuvasti luonnollisella kielellä", "vastaa peruskysymyksiin koskien maailmaa" tai "kykene tavallisen järjen mukaiseen päättelyyn". Kielimallit kehittyvät näissä ja monissa muissa tehtävissä vauhdilla eikä kehitys näytä merkkejä hidastumisesta -- päinvastoin uudet mallit ja uudet kyvyt luovat paljon tilaa uusille ideoille, joita ei vain vielä ole ehditty keksimään tai kokeilemaan.
+
+Suoremmin sanottuna: Katsomalla syväoppimisen vallankumousta viimeisen kymmenen vuoden aikana minusta on perusteetonta ajatella, että yleistekoälyyn on varmasti yli (sanotaan) parikymmentä vuotta.
+
+(Mikä on eri asia, kuin että itse pitäisin varmana, että siihen menee alle parikymmentä vuotta. Laitan tälle merkittävän osan todennäköisyyksistäni, mutten kaikkea.)
+
+Niille, jotka haluavat virallisemman tahon arvioita: Metaculus-ennustussivustolla [yhteisön ennustuksen](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) mediaani on tekstin kirjoitushetkellä vuoden 2030 kohdalla (tietyllä yleistekoälykkyyden määritelmällä).
+
+Sanon tosin, jälleen kerran, että uhka ei ole katoamassa itsestään, vaikka yleistekoälyn saavuttamiseen menisikin hieman pidempään. Suhtautuminen "keskitytään eksistentiaalisiin uhkiin vasta sitten, kun ne ovat vain muutaman vuoden päästä" ei ole, miten täysjärkinen sivilisaatio toimii.
+
 **Kysymys:** Miksi tekoälyillä olisi tavoitteita? Puhut esimerkiksi siitä, että monilla tavoitteilla on yhteisiä välitavoitteita (kuten resurssien hankinta) -- mutta miksi olettaa ylipäätään, että tekoälyillä on tavoitteita?
 
 Tämä on hyvä kysymys.
