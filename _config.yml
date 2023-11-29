@@ -40,3 +40,5 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: dark
+
+permalink: /:collection/:path/
