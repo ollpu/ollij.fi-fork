@@ -132,7 +132,7 @@ Ja ei, tämäkään ei ole itsestäänselvyys.
 
 **Bella:** Tämä kuulostaa järkevältä -- ainakin selvästi vakuuttavammalta kuin Annan selitys. En tosin ihan vieläkään ymmärrä, mikä on se minkä odotusarvoa maksimoidaan.
 
-**Camilla:** Sinun preferenssien toteutumista. Jos tämä vastaus ei tyydytä, niin saatat odottaa odotusarvoilta enemmän, kuin mitä niiden on tarkoitus tarjota. Nämä argumentit eivät kerro, *mitä preferenssisi ovat*. Se on sinun asiasi. Matematiikka ei sano, että sinun tulee tykätä omenoista enemmän kuin banaaneista. Sen sijaan nämä argumentit kertovat, *miten preferenssejä tulee käsitellä epävarmuuden tilassa*.
+**Camilla:** Sinun preferenssien toteutumista. Jos tämä vastaus ei tyydytä, niin saatat odottaa odotusarvoilta enemmän kuin mitä niiden on tarkoitus tarjota. Nämä argumentit eivät kerro, *mitä preferenssisi ovat*. Se on sinun asiasi. Matematiikka ei sano, että sinun tulee tykätä omenoista enemmän kuin banaaneista. Sen sijaan nämä argumentit kertovat, *miten preferenssejä tulee käsitellä epävarmuuden tilassa*.
 
 Jos et toimi tavalla, joka vastaa odotusarvon maksimoimista, niin saat vähemmän niitä asioita, joita preferoisit saavasi enemmän. Koherenssiehtojen rikkomisella on *seurauksia*, ja ne ovat *huonoja seurauksia*.
 

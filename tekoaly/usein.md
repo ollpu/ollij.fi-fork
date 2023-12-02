@@ -6,15 +6,17 @@ Vastaan tässä yleisiin vastareaktioihin mitä olen saanut tekoälyuhkaan liitt
 
 Joka tapauksessa nämä vaikuttavat olevan kysymyksiä, joita monilla on mielessä ja joihin he haluavat vastauksia. Siksi näen arvoa vastausten antamisessa.
 
+---
+
 **Kysymys:** Miksi odottaa yleistekoälyn rakennettavan lähitulevaisuudessa tai että tämä ylipäätään on mahdollista?
 
 Jaan vastauksen kahteen osaan:
 
 *Ihmisiä tarkastelemalla* huomataan ensinnäkin, että yleisälykkyyksiä on olemassa. Ihmisten aivojen toimintaa voidaan ymmärtää ja samanlaisia prosesseja voidaan toteuttaa tietokoneilla. Arviot ihmisaivojen laskentateholle vaihtelevat 10^15 ja 10^18 laskutoimitusta/sekunti väliltä. (Parhailla supertietokoneilla voi nykyään tehdä noin 10^17-10^18 laskutoimitusta sekunnissa.)
 
-Tällä hetkellä siis on selvästi olemassa riittävä määrä laskentatehoa. Kyse on vain siitä, miten sitä käyttää. On sanomattakin selvää, että nykyisellään (vuonna 2023) emme osaa valjastaa laskentatehoa yleisälykkyyttä kohti.
+Tällä hetkellä siis on selvästi olemassa riittävä määrä laskentatehoa. Kyse on vain siitä, miten sitä käyttää. On sanomattakin selvää, että nykyisellään (vuonna 2023) emme osaa valjastaa laskentatehoa yleisälykkyyttä kohti yhtä hyvin kuin ihmisaivot.
 
-Toisaalta sitten jos ja kun näin osataan tehdä, niin ei juuri ole syytä olettaa, että tarvitsisimme lähellekään ihmisaivojen käyttämää laskentatehoa. Ihmisaivojen tekemästä työstä vain pieni osa kohdistuu "tärkeisiin" kognitiivisiin tehtäviin ja niitä ei ole oikein optimoitu vaikkapa tieteen tekemiseen. (Voittaessaan shakin maailmanmestarin Deep Blue suoritti noin 10^10 laskutoimitusta sekunnissa, eli alle 0.00001 kertaisen määrän kuin ihmisvastustaja.) Nämä arviot eivät siis kerro lopulta kovin paljoa sen lisäksi, ettei yleistekoäly ole suinkaan tavoittamattomissa.
+Toisaalta sitten jos ja kun näin osataan tehdä, niin ei juuri ole syytä olettaa, että tarvitsisimme lähellekään ihmisaivojen käyttämää laskentatehoa. Ihmisaivojen tekemästä työstä vain pieni osa kohdistuu "tärkeisiin" kognitiivisiin tehtäviin ja niitä ei ole oikein optimoitu vaikkapa tieteen tekemiseen. (Voittaessaan shakin maailmanmestarin Deep Blue suoritti noin 10^10 laskutoimitusta sekunnissa, eli alle 0.00001 kertaisen määrän ihmisvastustajaan verrattuna.) Nämä arviot eivät siis kerro lopulta kovin paljoa sen lisäksi, ettei yleistekoäly ole suinkaan tavoittamattomissa.
 
 *Tekoälyn kehitystä* tarkastelemalla saa paremman käsityksen aikajänteistä.
 

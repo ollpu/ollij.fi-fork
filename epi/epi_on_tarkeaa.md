@@ -20,7 +20,7 @@ Näiden syiden välittäminen muille ei ole helppoa. Jos ihmisillä on jo valmii
 
 Onko minulla antaa esimerkkiä?
 
-Vastaan näin: Mitä käy, jos annan esimerkin, josta ihmiset ovat samaa mieltä kanssani? "Totta kai asia on noin, mutta tuon nyt pystyy näkemään ilman, että tarvitsee puhua tästä 'epistä''." Entä jos annan esimerkin, josta ihmiset ovat eri mieltä? "Jaa, tämä esimerkki ei vakuuta, näyttää siltä että sinä vain olet väärässä tästä asiasta. Sinä niin puhut hyvästä epistä, mutta itse uskot ihan hassuja juttuja."
+Vastaan näin: Mitä käy, jos annan esimerkin, josta ihmiset ovat samaa mieltä kanssani? "Totta kai asia on noin, mutta tuon nyt pystyy näkemään ilman, että tarvitsee puhua tästä 'epistä'." Entä jos annan esimerkin, josta ihmiset ovat eri mieltä? "Jaa, tämä esimerkki ei vakuuta, näyttää siltä että sinä vain olet väärässä tästä asiasta. Sinä niin puhut hyvästä epistä, mutta itse uskot ihan hassuja juttuja."
 
 Ja toki jos on varma omien uskomustensa totuudenmukaisuudesta, niin kaikki näyttää hyvältä ja epin voi unohtaa. (Sanonta kuuluu: epi on turhaa, paitsi silloin kun on väärässä.)
 
