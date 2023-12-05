@@ -12,7 +12,7 @@ Todella, huonot asiat ovat edelleen huonoja. Katastrofit ovat huono. Ihmisten ku
 
 Mikä on tietysti eri asia kuin se, että lyödään hanskat tiskiin ja pelkistetään asiat hyvä-paha-akselille. Huonot asiat ovat edelleen huonoja, ja asioiden virheellisesti pelkistäminen yksinkertaiseksi hyvä-paha-jaotteluksi on huono.
 
-Minä olen ajatellut, että näistä aiheista kirjoittaminen on hyvä. Se, että useampi ymmärtää uhkaa paremmin vaikuttaa minusta hyvältä. Minulla ei ollut tämän lisäksi oikein mitään suurta suunnitelmaa tekstejä kirjoittaessani. Yritän vain tehdä asioita, jotka ovat hyviä. En tiedä, mitä muutakaan sitä tekisi.
+Minä olen ajatellut, että näistä aiheista kirjoittaminen on hyvä. Se, että useampi ymmärtää uhkaa paremmin vaikuttaa minusta hyvältä. Minulla ei ollut tämän lisäksi oikein mitään suurta suunnitelmaa tekstejä kirjoittaessani. Pyrin vain tekemään hyviä asioita.
 
 (Minua tosin huolestuttaa se, että olen esittänyt asiat huonosti, jolloin lukijat eivät vakuutu ja "[annan teille yhden mahdollisuuden vakuuttaa minut](/epi/vakuuttamisesta)" -ilmiön seurauksena sivuuttavat muutkin, kenties paremmat, selitykset aiheesta. Olen huomannut, myös omakohtaisen kokemuksen kautta, että näitä aiheita on oikeasti vaikea selittää.)
 

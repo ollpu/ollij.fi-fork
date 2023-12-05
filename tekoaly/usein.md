@@ -2,7 +2,7 @@
 
 Vastaan tässä yleisiin vastareaktioihin mitä olen saanut tekoälyuhkaan liittyen.
 
-*Nämä eivät ole vahvimmat vasta-argumentit tekoälyuhkaa vastaan* (tai välttämättä edes vasta-argumentteja). Nämä ovat asioita, joita olen kuullut puhuessani (aiheeseen perehtymättömien) kanssa. Ajattelen siksi niiden käsittelyllä olevan pedagogista arvoa. Jos haluaa lukea järkevien ihmisten järkeviä erimielisyyksiä aiheesta, niin tämä ei ole oikea paikka, vaan suosittelen lukemaan [muita tekstejä](/tekoaly/lukemista).
+Toistan: Tämä ei ole "vahvimmat vastakkaiset näkemykset tekoälyuhalle ja miksi olen niiden kanssa eri mieltä" -teksti, tämä on "vastaan usein esitettyihin kysymyksiin tekoälyuhasta" -teksti. Jos haluaa lukea syvemmin alan huippujen eriävistä (ja yhtenevistä) näkemyksistä, niin ohjaan lukijan [toisaalle](/tekoaly/lukemista).
 
 Joka tapauksessa nämä vaikuttavat olevan kysymyksiä, joita monilla on mielessä ja joihin he haluavat vastauksia. Siksi näen arvoa vastausten antamisessa.
 
@@ -22,7 +22,7 @@ Toisaalta sitten jos ja kun näin osataan tehdä, niin ei juuri ole syytä olett
 
 Minun on vaikea kommunikoida alan ulkopuolisille, kuinka nopeaa kehitys tekoälyssä on ja kuinka paljon läpimurtoja viimeisen kymmenen tai viiden vuoden aikana on saatu. Jos tekoälyn kehitys ei ole ennestään tuttua, ohjaan lukijan Richard Ngon tekstiin [Visualizing the deep learning revolution](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5).
 
-Tyydyn tässä sanomaan: Suuret kielimallit yleistyvät uusiin tehtäviin ja saavat uusia kykyjä ennalta-arvaamattomilla tavoilla. Monet väitteet muotoa "tekoäly ei osaa tehdä edes tuota perusasiaa" olivat tosia vuonna 2018 ja epätosia vuonna 2023. Näihin lukeutuu sellaiset tehtävät kuten "kommunikoi sujuvasti luonnollisella kielellä", "vastaa peruskysymyksiin koskien maailmaa" tai "kykene tavallisen järjen mukaiseen päättelyyn". Kielimallit kehittyvät näissä ja monissa muissa tehtävissä vauhdilla eikä kehitys näytä merkkejä hidastumisesta -- päinvastoin uudet mallit ja uudet kyvyt luovat paljon tilaa uusille ideoille, joita ei vain vielä ole ehditty keksimään tai kokeilemaan.
+Tyydyn tässä sanomaan: Suuret kielimallit yleistyvät uusiin tehtäviin ja saavat uusia kykyjä ennalta-arvaamattomilla tavoilla. Monet väitteet muotoa "tekoäly ei osaa tehdä edes tuota perusasiaa" olivat tosia vuonna 2018 ja epätosia vuonna 2023. Näihin lukeutuu sellaiset tehtävät kuten "kommunikoi sujuvasti luonnollisella kielellä", "vastaa peruskysymyksiin koskien maailmaa" tai "kykene tavallisen järjen mukaiseen päättelyyn". Kielimallit kehittyvät näissä ja monissa muissa tehtävissä vauhdilla eikä kehitys näytä merkkejä hidastumisesta -- päinvastoin uudet mallit ja uudet kyvyt luovat paljon tilaa uusille ideoille, joita ei vain vielä ole ehditty keksimään tai kokeilemaan. Kenties pelkkä [skaalaaminen](https://gwern.net/scaling-hypothesis) riittää.
 
 Suoremmin sanottuna: Katsomalla syväoppimisen vallankumousta viimeisen kymmenen vuoden aikana minusta on perusteetonta ajatella, että yleistekoälyyn on varmasti yli (sanotaan) parikymmentä vuotta.
 

@@ -24,7 +24,7 @@ Jotkut sivuuttivat asian ottamalla esiin vielä [isomman ongelman](https://xkcd.
 
 Jotkut sivuuttivat asian varsin [yleispätevällä vasta-argumentilla](/epi/symmetrian_rikkominen) "ei yksi ihminen voi vaikuttaa".
 
-Jotkut sivuuttivat asian sanomalla, että liha on hyvää. Jälkikäteen mietittynä he olivat loppukädessä epistemisesti rehellisimmät osapuolet: he eivät rationalisoineet, he eivät esittäneet epätosia väitteitä, he eivät esittäneet epävalideja vasta-argumentteja, he eivät yrittäneet harhauttaa huomiota toisaalle. He antoivat suoraan merkittävän syyn sille, [miksi he toimivat miten toimivat](miksi_uskot). Tämä on miten asioita kuuluu käsitellä.
+Jotkut sivuuttivat asian sanomalla, että liha on hyvää. Jälkikäteen mietittynä he olivat epistemisesti rehellisimmät osapuolet: he eivät rationalisoineet, he eivät esittäneet epätosia väitteitä, he eivät esittäneet epävalideja vasta-argumentteja, he eivät yrittäneet harhauttaa ja saada huomion toisaalle. He antoivat suoraan merkittävän syyn sille, [miksi he toimivat miten toimivat](miksi_uskot). Tämä on miten asioita kuuluu käsitellä.
 
 Koko tämä kokemus oli silmiä avaava. Minun kaverini, ei siis vain [tyhmät ihmiset netissä](/epi/helpot_maalitaulut) vaan *minun kaverini*, eivät pystyneet keskustelemaan aiheesta edes keskinkertaisella tasolla (joitakin poikkeuksia lukuun ottamatta). Näin, miltä huono epi selkeimmillään näyttää. Opin myös, että ihmisiä ei oikeastaan kiinnosta "moraalijutut".
 

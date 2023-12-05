@@ -52,8 +52,8 @@ Tämä kokoelma koostuu kuudesta osiosta: "Työkaluja", "Itsestäänselvyyksiä"
 
 "Täydellinen maailma" -tekstit kertovat siitä, kuinka maailma ei ole täydellinen.
 
-Tekstejä ei ole pakko lukea järjestyksessä ja erityisesti eri osiot voi lukea haluamassaan järjestyksessä. Tekstit ovat pikemminkin laaja verkosto kuin sivu sivulta rakentuva tarina. Teksteissä on esimerkiksi runsaasti linkkejä toisiinsa, usein myös "aiemmasta" tekstistä "myöhempään".
-
 Kokoelman jakaa kahtia välisoitto "Miksi uskot mitä uskot?" ja se huipentuu epilogiin "Epi on tärkeää".
 
 Lopussa mainitsen ajatuksiani inspiroineita [muita materiaaleja](/epi/kirjallisuutta). Olen myös tehnyt joitakin [tekstikohtaisia muistiinpanoja](/epi/muistiinpanoja).
+
+Tekstejä ei ole pakko lukea järjestyksessä ja erityisesti eri osiot voi lukea haluamassaan järjestyksessä. Tekstit ovat pikemminkin laaja verkosto kuin sivu sivulta rakentuva tarina. Teksteissä on esimerkiksi runsaasti linkkejä toisiinsa, usein myös "aiemmasta" tekstistä "myöhempään". Jos et tiedä, mistä aloittaa, kokeile [Reflektointi](/epi/reflektointi), [Jättiläisten olkapäillä](/epi/jattilaisten_olkapailla) tai [Probabilistinen ajattelu](/epi/probabilistinen_ajattelu).
