@@ -22,9 +22,9 @@ Usein ihmiset haluavat jonkin *yksittäisen tarinan*, miten tällainen valloitus
 
 Intuition lähteitä:
 - Aikuiset ihmiset kykenevät aika paljoon sellaiseen, mihin pienet lapset (tai muut eläimet) eivät kykene.
-- Jos voisin ajatella tuhatkertaisella nopeudella -- samaan tapaan kuin tietokone-ohjelman saa ajamaan nopeammin lisäämällä laskentatehoa -- eli jos muu maailma näyttäytyisi minulle tuhat kertaa hitaammin, pystyisin aika paljoon sellaiseen, mihin en nyt kykene.
+- Jos minusta tehtäisiin miljoonia kopioita, jotka ajattelevat tuhatkertaisella nopeudella -- samaan tapaan kuin yhtä tietokone-ohjelmaa voi ajaa useampia instansseja ja korkeammilla nopeuksilla -- pystyisivät ne aika paljoon sellaiseen, mihin en nyt kykene.
 - Pelatessani shakkia maailmanmestaria vastaan *tiedän*, että tulen häviämään, vaikken tiedä *miten*.
-- Ihmiskunta nykyään kykenee aika paljoon sellaiseen, mikä olisi muutama vuosisataa sitten näyttänyt taikuudelta.
+- Ihmiskunta nykyään kykenee paljoon sellaiseen, mikä olisi muutama vuosisataa sitten näyttänyt taikuudelta.
 
 Pitkälti odotan kehittyneiden tekoälyjen tekevän asioita, joita minä tai muut ihmiset eivät yksinkertaisesti osaa ennakoida etukäteen. Kyvykkäät tekoälyt ajattelevat ajatuksia joita ihmiset eivät.
 

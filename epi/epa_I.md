@@ -4,7 +4,7 @@ Olen keskustelussa saanut kuulla toisen osapuolen sanovan "En voi tietenkään t
 
 Tietenkään minä en vaadi *todistusta* toisen näkemykselle!
 
-(Sanonta "Everything before the word 'but' is bullshit" vaikuttaa soveltuvan tähän tilanteeseen -- seuraavana kuitenkin yritetään todistaa, miksi on oikeassa.)
+(Sanonta "Everything before the word 'but' is bullshit" soveltuu tähän tilanteeseen -- seuraavana kuitenkin yritetään todistaa, miksi on oikeassa.)
 
 Tällainen kommentti saa minut epäilemään, että toisella on varsin binäärinen näkemys oikeista ja vääristä näkemyksistä: näkemyksen muuttaminen vaatii todistuksen tiettyyn suuntaan, ja muuten ihmisille jää samat näkemykset kuin keskustelun alussa. Mutta kuten olen kirjoittanut, on kaikenkokoisia uskomusten muutoksia. Todistus (eli todennäköisyyden muuttaminen suunnilleen nollaksi tai ykköseksi) on näistä äärimmäisin ja ei aina saavutettavissa oikeassa elämässä.
 

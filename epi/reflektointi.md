@@ -20,7 +20,7 @@ Toisen tyyppisiä esimerkkejä keskustelutilanteista:
 
 Joissakin tapauksissa reaktiot ovat järkeviä. Esimerkiksi ennustusmarkkinoiden tapauksessa on minusta hyvä, että ihmiset jakavat mieleensä tulevia ajatuksia. Olen itsekin puolustanut [ilmeisten ohjeiden ja väitteiden](/epi/ilmeiset_ohjeet) esittämistä. Tämä ei ole se, mitä kritisoin.
 
-Se, mitä kritisoin, on kun nämä ajatukset esitetään muodossa "hahaa, löysin kriittisen ongelman, minkä vuoksi ennustusmarkkinat ovat käyttökelvottomia -- et ole varmaankaan miettinyt tätä!", vaikka... oikeastaan olen miettinyt tätä. Se on juuri se yleisin vasta-argumentti mitä ihmiset esittää ideasta kuullessaan, juuri se, minkä keksii muutaman sekunnin mietinnällä.
+Se, mitä kritisoin, on kun nämä ajatukset esitetään muodossa "hahaa, löysin kriittisen ongelman, minkä vuoksi ennustusmarkkinat ovat käyttökelvottomia -- et ole varmaankaan miettinyt tätä!", vaikka... oikeastaan olen miettinyt tätä. Se on juuri se yleisin vasta-argumentti mitä ihmiset esittävät ideasta kuullessaan, juuri se, minkä keksii muutaman sekunnin mietinnällä.
 
 Liioittelen vähän (ja tässä on vaihtelua ihmisten välillä). Joka tapauksessa olen käynyt lukuteoria-kryptografia-dialogin ainakin kolmesti niin, että toinen ihminen *tietää* minun tehneeni väitöskirjan lukuteoriasta. Olen joskus saattanut kuulla, että lukuteorialla tosiaan on sovelluksia kryptografiaan. Ei myöskään ole ensimmäinen kerta, kun kuulen perustutkimuksen tärkeydestä.
 

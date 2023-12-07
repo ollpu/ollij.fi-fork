@@ -28,7 +28,7 @@ On muitakin fraaseja, joita tunnutaan käyttävän retorisesti ja vakuuttamistar
 
 Pystyn mitenkään käsittämään, miksi joku käyttäisi näitä fraaseja. Ne silti vaikuttavat minusta haitallisilta, jos halutaan välttää väittelymoodia.
 
-Kommentit muotoa "en tajua, miten et ymmärrä tätä" ja "en näe mitään syytä uskoa noin" ovat ikään kuin pyyntöjä -- tai aggressiivisuuden vuoksi *vaatimuksia* -- selittää näkemyksiäsi aiheesta. Mutta taas, en ajattele sen olevan toisen vastuulla vakuuttaa muita. (Mainitsen ohimennen, että "todistuksen taakan" siteeraaminen vaikuttaa vahvalta merkiltä, että keskustelu on luisunut väittelymoodiin.)
+Kommentit muotoa "en tajua, miten et ymmärrä tätä" ja "en näe mitään syytä uskoa noin" ovat ikään kuin pyyntöjä -- tai aggressiivisuuden vuoksi *vaatimuksia* -- selittää näkemyksiäsi aiheesta. Mutta taas, en ajattele sen olevan toisen vastuulla vakuuttaa muita. (Mainitsen ohimennen, että "todistajan taakan" siteeraaminen on vahva merkki keskustelun luisumisesta väittelymoodiin.)
 
 ---
 

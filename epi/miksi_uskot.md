@@ -18,7 +18,7 @@ Jos esimerkiksi päädyt uskomaan väitteeseen siksi, että asiantuntija sanoi n
 
 Mitä käy, jos nämä perustelut osoittautuvatkin huonoiksi? Muuttuuko uskomuksesi? Eipä taida: nämä perustelut olivat vain jotain mitä sinulle tuli mieleen, mutta se asiantuntija kyllä tuntuu tietävän asiasta. Hänellä varmaankin on muita syitä, mitä minä en tiedä.
 
-Kuvittele tilanne toisesta näkökulmasta: Henkilö sanoo uskovansa johonkin. Kysyt miksi. Hän esittää perusteluja. Nämä perustelut ovat huonoja, ja selität tämän hänelle. Hän myöntää, että perustelut olivat huonoja. Siitä huolimatta hänen uskomuksena ei muutu!
+Kuvittele tilanne toisesta näkökulmasta: Henkilö sanoo uskovansa johonkin. Kysyt miksi. Hän esittää perusteluja. Nämä perustelut ovat huonoja, ja selität tämän hänelle. Hän myöntää, että perustelut olivat huonoja. Siitä huolimatta hänen uskomuksensa eivät muutu!
 
 Eikä ihme: keskustelu on ollut täysin irrallinen niistä syistä, miksi toinen osapuoli oikeasti uskoo mitä uskoo.
 
@@ -34,7 +34,7 @@ Toinen esimerkki: Kirjoittaessani tekstiä "[Kvantifiointi](/epi/kvantifiointi)"
 
 "Hmm, ilmeisesti minä kuitenkin uskon ihmisten kvantifioinnin olevan heikkoa, vaikken keksikään pitkää listaa esimerkkejä."
 
-"...joten ehkä syyt uskomukselleni ovat jotain muuta kuin ne hypoteettiset esimerkit, joita en keksi."
+"...joten ehkä syyt uskomukselleni ovat jotakin muuta kuin ne hypoteettiset esimerkit, joita en keksi."
 
 "...joten ehkä voisin vain kertoa suoraan oikeat syyt uskomukselleni."
 
@@ -50,7 +50,7 @@ Tämä on surkea tapa.
 
 Hyvä on, arkielämässä ei juuri tule tehtyä iso-v Väittelyitä, joilla on virallinen voittaja. Näkisin keskustelujen silti olevan aivan liian usein pieni-v väittelyitä. Ihmisten *asenne* on se, että tulee esittää mahdollisimman hyvät perustelut. *Suhtaudutaan* toiseen niin, että hän on vastakkaisella puolella. *Kognitiiviset prosessit* keskustelun aikana näyttävät samoilta kuin Väittelyissä.
 
-Mikä on refleksinomainen reaktiosi, kun keskustelukumppasi esittää perustelun näkemykselleen? Pyritä kumoamaan se? Keksimään itse parempi omalle kannalle? Kyse on oleellisten tekijöiden kannalta väittely, kutsui sitä miksi kutsui. Pohditko, kuinka validi se on, ja vasta sitten vastaat? Parempi.
+Mikä on refleksinomainen reaktiosi, kun keskustelukumppasi esittää perustelun näkemykselleen? Pyritä kumoamaan se? Keksimään itse parempi omalle kannalle? Kutsuu miksi kutsuu, kyse on oleellisten tekijöiden kannalta väittelystä. Pohditko, kuinka validi se on, ja vasta sitten vastaat? Parempi.
 
 Yritätkö generoida perusteluja näkemyksellesi? Pyritkö osoittamaan vastustajan vääräksi? Taas, väittely.
 
