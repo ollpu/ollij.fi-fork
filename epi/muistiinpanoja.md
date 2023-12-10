@@ -164,9 +164,9 @@ Joku voisi käyttää samalle konseptille nimitystä "meemi", mutta ihmisille tu
 
 Tämä on hyvä tilaisuus esittää pahoitteluni kaikille heille, joiden puheita olen teksteissäni käyttänyt esimerkkeinä huonosta epistä. Toivottavasti tekstin luettuanne ymmärrätte, miksi todella halusin puhua oikeista tilanteista enkä vain hypoteettisia "joku voisi ajatella näin" -esimerkkejä. Eikä siinä ole mitään henkilökohtaista -- päinvastoin, pointti on nimenomaan se, että nämä ovat yleisiä ilmiöitä (eikä vain tuttavapiirini ominaisuuksia).
 
-Pidän sitä oikeastaan meriittinä, jos ajatukset ja puheet ovat niin selkeitä, että niitä voi käyttää esimerkkeinä. Paljon yleisempää tuntuu olevan sellainen [sumuinen ajattelu](/epi/sumuiset_ajatukset) ja [epämääräinen puhe](/epi/matala_informaatio), josta on vaikea sanoa mitä tarkalleen halutaan sanoa ja mitä oikeastaan uskotaan -- että varmaankin tässä on huono epi, mutta toisaalta tilanteeseen löytyy jokin uskottava [kohtelias tulkinta](/epi/kohteliaat_tulkinnat), jonka valossa kaikki on kunnossa. Tällaisten esimerkkien ympärille on vaikea rakentaa tekstejä.
+Pidän sitä oikeastaan meriittinä, jos ajatukset ja puheet ovat niin selkeitä, että niitä voi käyttää esimerkkeinä. Paljon yleisempää tuntuu olevan sellainen [sumuinen ajattelu](/epi/sumuiset_ajatukset) ja [epämääräinen puhe](/epi/matala_informaatio), josta on vaikea tulkita mitä tarkalleen halutaan sanoa ja mitä oikeastaan uskotaan -- että varmaankin tässä on huono epi, mutta toisaalta tilanteeseen löytyy jokin uskottava [kohtelias tulkinta](/epi/kohteliaat_tulkinnat), jonka valossa kaikki on kunnossa. Tällaisten esimerkkien ympärille on vaikea rakentaa tekstejä.
 
-Scott Alexanderin tekstissä "[The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)" on esitetty sama pointti siitä, että helpot maalitaulut eivät ole se pointti:
+Itse tekstin aiheeseen liittyen nostan esiin Scott Alexanderin tekstin "[The Cowpox of Doubt](https://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/)" ja sieltä seuraavan lainauksen:
 
 "The more we concentrate on homeopathy, and moon hoaxes, and creationism – the more people who have never felt any temptation towards these beliefs go through the motions of “debunk”-ing them a hundred times to one another for fun – the more we are driving home the message that these are a representative sample of the kinds of problems we face."
 
@@ -220,9 +220,9 @@ Syy on se, että sitä on oikeasti aika vaikea selittää. Ihmisten ensireaktiot
 
 (Tai sitten jotakin muuta. Tekstissä antamani esimerkit voi sivuuttaa silläkin, että ne ovat abstrakteja, isoja ongelmia. Niihin ei tietenkään yksi ihminen voi vaikuttaa, ja oikeastaan on [rationaalista](/epi/insentiivit) olla tekemättä niille mitään, ja [siten ongelmaa ei ole](/epi/ongelmien_sivuuttamisesta). Voisin vastata tähän antamalla esimerkkejä tilanteista, joissa "tavallisesta maalaisjärjestä" ja Standardinarratiivista poikkeaminen on antanut henkilökohtaisia hyötyjä, mutta ne voisi sitten sivuuttaa jollakin muulla. Annan siten asian olla.)
 
-Ehkä en myöskään osaa pukea ajatuksiani sanoiksi riittävän hyvin. Tässä on oikeasti [aika paljon selitettävää](/epi/lokaali_kommunikaatio). Yksi osa-alue liittyy tietysti tekoälyyn ja niitä koskeviin uskomuksiini. Pahoittelen, etten kykene selittämään asiaa tässä tilassa, vaan tyydyn ohjaamaan lukijan [muiden materiaalien](/epi/tekoaly) pariin.
+Ehkä en myöskään osaa pukea ajatuksiani sanoiksi riittävän hyvin. Tässä on oikeasti [aika paljon selitettävää](/epi/lokaali_kommunikaatio). Yksi osa-alue liittyy tietysti tekoälyyn ja niitä koskeviin uskomuksiini, joita olen käsitellyt [toisaalla](/tekoaly).
 
-Sen tosin mainitsen, etten suinkaan ole liioitellut tai vääristellyt näkemyksiäni aiheeseen liittyen lukijan vakuuttamiseksi Kun käytän fraasia "eksistentiaalinen uhka", minä todella tarkoitan tätä. Kuten olen sanonut, epi on tärkeää.
+Tässä sanon sen, etten suinkaan ole liioitellut tai vääristellyt näkemyksiäni aiheeseen liittyen lukijan vakuuttamiseksi. Kun käytän fraasia "eksistentiaalinen uhka", minä todella tarkoitan tätä. Kuten olen sanonut, epi on tärkeää.
 
 Sanon myös sen, että minusta "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia" ovat *ilmeisiä*. Näihin aiheisiin liittyy toki muita (hyvin) haastavia kysymyksiä ja ihmiset voivat hyvin olla niistä eri mieltä -- silti nämä *peruspointit* ovat nähdäkseni itsestäänselvyyksiä.
 
