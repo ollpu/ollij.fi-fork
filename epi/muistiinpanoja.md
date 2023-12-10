@@ -220,11 +220,9 @@ Syy on se, että sitä on oikeasti aika vaikea selittää. Ihmisten ensireaktiot
 
 (Tai sitten jotakin muuta. Tekstissä antamani esimerkit voi sivuuttaa silläkin, että ne ovat abstrakteja, isoja ongelmia. Niihin ei tietenkään yksi ihminen voi vaikuttaa, ja oikeastaan on [rationaalista](/epi/insentiivit) olla tekemättä niille mitään, ja [siten ongelmaa ei ole](/epi/ongelmien_sivuuttamisesta). Voisin vastata tähän antamalla esimerkkejä tilanteista, joissa "tavallisesta maalaisjärjestä" ja Standardinarratiivista poikkeaminen on antanut henkilökohtaisia hyötyjä, mutta ne voisi sitten sivuuttaa jollakin muulla. Annan siten asian olla.)
 
-Ehkä en myöskään osaa pukea ajatuksiani sanoiksi riittävän hyvin. Tässä on oikeasti [aika paljon selitettävää](/epi/lokaali_kommunikaatio). Yksi osa-alue liittyy tietysti tekoälyyn ja niitä koskeviin uskomuksiini, joita olen käsitellyt [toisaalla](/tekoaly).
+Ehkä en myöskään osaa pukea ajatuksiani sanoiksi riittävän hyvin. Tässä on oikeasti [aika paljon selitettävää](/epi/lokaali_kommunikaatio).
 
-Tässä sanon sen, etten suinkaan ole liioitellut tai vääristellyt näkemyksiäni aiheeseen liittyen lukijan vakuuttamiseksi. Kun käytän fraasia "eksistentiaalinen uhka", minä todella tarkoitan tätä. Kuten olen sanonut, epi on tärkeää.
-
-Sanon myös sen, että minusta "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "[kuolema on paha asia](https://homosabiens.substack.com/p/why-against-death)" ovat *ilmeisiä*. Näihin aiheisiin liittyy toki muita (hyvin) haastavia kysymyksiä ja ihmiset voivat hyvin olla niistä eri mieltä -- silti nämä *peruspointit* ovat itsestäänselvyyksiä.
+Tyydyn tässä toteamaan lyhyesti, että minusta väitteet "[ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin](/tekoaly)" ja "[kuolema on paha asia](https://homosabiens.substack.com/p/why-against-death)" ovat *ilmeisiä*. Näihin aiheisiin liittyy toki muita (hyvin) haastavia kysymyksiä ja ihmiset voivat hyvin olla niistä eri mieltä -- silti nämä *peruspointit* ovat itsestäänselvyyksiä.
 
 Samoin pidän ilmeisenä, että tavoite on saada hyvä tulevaisuus kaikille. Sitähän varten täällä ollaan.
 
