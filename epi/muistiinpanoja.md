@@ -224,7 +224,7 @@ Ehkä en myöskään osaa pukea ajatuksiani sanoiksi riittävän hyvin. Tässä 
 
 Tässä sanon sen, etten suinkaan ole liioitellut tai vääristellyt näkemyksiäni aiheeseen liittyen lukijan vakuuttamiseksi. Kun käytän fraasia "eksistentiaalinen uhka", minä todella tarkoitan tätä. Kuten olen sanonut, epi on tärkeää.
 
-Sanon myös sen, että minusta "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "kuolema on paha asia" ovat *ilmeisiä*. Näihin aiheisiin liittyy toki muita (hyvin) haastavia kysymyksiä ja ihmiset voivat hyvin olla niistä eri mieltä -- silti nämä *peruspointit* ovat nähdäkseni itsestäänselvyyksiä.
+Sanon myös sen, että minusta "ihmisiä älykkäämmät tekoälyt luovat eksistentiaalisen riskin" ja "[kuolema on paha asia](https://homosabiens.substack.com/p/why-against-death)" ovat *ilmeisiä*. Näihin aiheisiin liittyy toki muita (hyvin) haastavia kysymyksiä ja ihmiset voivat hyvin olla niistä eri mieltä -- silti nämä *peruspointit* ovat itsestäänselvyyksiä.
 
 Samoin pidän ilmeisenä, että tavoite on saada hyvä tulevaisuus kaikille. Sitähän varten täällä ollaan.
 
