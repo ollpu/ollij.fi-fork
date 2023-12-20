@@ -10,20 +10,22 @@ Hmm, erikoista. Nimittäin yleensä kun olen nähnyt oikeaan dataan perustuvia j
 
 ![Jatkuvampi näkökulma](Kuvat/jakauma_2-1.jpg)
 
-Binäärinen jaottelu ei ole oikea näkökulma aiheeseen. Vasta kun karkea kuva jatkuvasta jakaumasta on kunnossa, voidaan lähteä esittämään väitteitä kuten "ihmisten kunto on keskimäärin heikentynyt" tai "hyväkuntoisimman 1% ihmisistä kunto on noussut".
+Binäärinen jaottelu ei ole oikea näkökulma aiheeseen. Ihmiset eivät asetu siististi hyvä- ja huonokuntoisiin, vaan on myös OK-kuntoisia, ääripäitä ja kaikkea siltä väliltä. Ääripäitä lähestyttäessä ihmisten määrä tietysti vähenee.
 
-"Tietysti tämä on se, mitä väitteen esittäjä tarkoitti. Tietenkään hän ei oikeasti tarkoittanut, että on ne huonokuntoiset ihmiset ja sitten ne hyväkuntoiset ihmiset", kuuluu vastalause. Pidän tätä [liian kohteliaana tulkintana](/epi/kohteliaat_tulkinnat) väitteelle. Ihmiset eivät automaattisesti mieti asioita jakaumina.
+Vasta kun karkea kuva jatkuvasta jakaumasta on kunnossa, voidaan lähteä esittämään väitteitä kuten "ihmisten kunto on keskimäärin heikentynyt" tai "hyväkuntoisimman 1% ihmisistä kunto on noussut".
 
-Miksi uskon näin? Joitain syitä:
+Joku voisi sanoa, että tämä on tietysti mitä väitteen esittäjä tarkoitti -- että tietenkään hän ei oikeasti tarkoittanut, että on ne huonokuntoiset ihmiset ja sitten ne hyväkuntoiset. Pidän tätä kuitenkin [liian kohteliaana tulkintana](/epi/kohteliaat_tulkinnat) väitteelle. Väitän, että ihmiset sortuvat tällaisiin virheisiin ja etteivät he automaattisesti mieti asioita jakaumina.
 
-- Omien ajatusten (ja muiden ihmisten puheiden) reflektointi paljastaa, että käytännössä tulee liian usein mietittyä asioita binääristen kategorioiden kautta.
-- Jakaumien käsittely on opittu taito, ei jotakin, mikä ihmisillä on luonnostaan tai minkä evoluutio on meihin rakentanut. Ihmiskunnalla ei ole aina ollut tilastotieteen oppeja, vaan ne on jouduttu kehittämään.
-- Minulle tulee mieleen muutama [tunnettu](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size) "[paradoksi](https://en.wikipedia.org/wiki/Berkson%27s_paradox)" tai [ajatusvirhe](https://en.wikipedia.org/wiki/Neglect_of_probability) tilastoihin liittyen.
+Miksi uskon näin? Tässä on joitain syitä:
 
-Jos lähden miettimään, mistä binäärisiin kategorioihin ja jakaumiin liittyvät virheet johtuvat, niin keksin pari selitystä:
+- Omien ajatusteni ja muiden ihmisten puheiden reflektointi paljastaa, että käytännössä asioita tulee liian usein mietittyä binääristen kategorioiden kautta.
+- Ihmiskunnalla ei ole aina ollut tilastotieteen oppeja, vaan ne on jouduttu kehittämään. Jakaumien käsittely on opittu taito, ei jotakin, mikä ihmisillä on luonnostaan tai minkä evoluutio on meihin rakentanut.
+- Tilastoihin liittyy muutama [tunnettu](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size) "[paradoksi](https://en.wikipedia.org/wiki/Berkson%27s_paradox)" ja [ajatusvirhe](https://en.wikipedia.org/wiki/Neglect_of_probability).
 
-Ensinnäkin jakaumia on kognitiivisesti työläämpää käsitellä. On niin helppoa ajatella, että on ne hyväkuntoiset ihmiset ja sitten on ne huonokuntoiset ihmiset. Vastaavasti on helppoa miettiä parhaimpia ja huonoimpia -- ne [tulevat helpoiten mieleen](https://en.wikipedia.org/wiki/Availability_heuristic). Keskiarvojen, varianssin ja jakaumien muodon käsittely on haastavampaa.
+Tässä on pari syytä sille, mistä virheet johtuvat.
 
-Toiseksi saamassamme informaatiossa on vahvaa suodatusta: kuulemme paljon todennäköisemmin todella hyväkuntoisista kuin keskiverrommista ihmisistä (puhuttaessa kunnosta) verrattuna heidän määrään. Kilpailuissa etsitään parhaita ja heistä on kiinnostavampaa puhua. Seuraus: on ne hyväkuntoiset ihmiset joista aina puhutaan, ja sitten on me tavalliset tallaajat. Muistimme, ihmisten puheiden ja median tarjoama data ei ole *representatiivista*.
+Ensinnäkin jakaumien käsittely on kognitiivisesti raskaampaa. On niin helppoa ajatella, että on ne hyväkuntoiset ihmiset ja sitten on ne huonokuntoiset ihmiset. Vastaavasti on helppoa miettiä parhaimpia ja huonoimpia -- he [tulevat helpoiten mieleen](https://en.wikipedia.org/wiki/Availability_heuristic). Keskiarvojen, varianssin ja jakaumien muodon käsittely on haastavampaa.
+
+Toiseksi saamassamme informaatiossa on vahvaa suodatusta: määrään suhteutettuna kuulemme paljon todennäköisemmin todella hyväkuntoisista kuin kunnoltaan keskiverrommista. Kilpailuissa etsitään parhaita ja heistä on kiinnostavampaa puhua. Seuraus: on ne hyväkuntoiset ihmiset joista aina puhutaan, ja sitten on me tavalliset tallaajat. Muistimme, ihmisten puheiden ja median tarjoama data ei siis ole edustavaa.
 
 Pyrin itse olemaan yksi heistä, jotka käyttävät jakaumia sopivasti.

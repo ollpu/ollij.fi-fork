@@ -26,6 +26,8 @@ Samankaltaista ideaa selitetään Max Goodbirgin tekstissä "[Causal Explanation
 
 Inspiraationa toimi Yudkowskyn teksti [Local Validity as a Key to Sanity and Civilization](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization). Yudkowsky käsittelee isompaa pointtia, minä tyydyin puhumaan vain peruspointista "tosillekin väitteille on huonoja argumentteja; huonoja argumentteja ei tule hyväksyä, vaikka ne tukevat omaa joukkuetta; argumentin hyvyyttä voi tutkia erikseen väitteen totuudenmukaisesta".
 
+Lisää ennustusmarkkinoista: [Prediction Market FAQ](https://www.astralcodexten.com/p/prediction-market-faq).
+
 ## [Ilmeiset ohjeet](/epi/ilmeiset_ohjeet)
 
 Tämä teksti ja laajemmin koko Itsestäänselvyyksiä-osio tuntuvat minusta kokoelman ytimeltä, siltä, minkä päälle kaikki muut rakentuvat.
