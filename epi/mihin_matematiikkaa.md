@@ -49,3 +49,17 @@ Eli selkeissä, hyvin määritellyissä tutkimusolosuhteissa, joissa koehenkilö
 Se on toki totta, että monissa näistä kokeista puhutaan monimutkaisista, edistyneistä matemaattisista konsepteista (kuten todennäköisyyksistä). Täten jos matemaattinen osaaminen on... keskimääräisen yliopisto-opiskelijan tasolla, niin on ihan ymmärettävää, että testeissä pärjätään huonosti.
 
 Mutta onneksi matematiikka ei liity oikeaan elämään, sillä ei ole implikaatioita uskomusten muodostamiselle tai päätöksenteolle, ja oikeassa elämässä ei tule vastaan mitään "todennäköisyyksiä". Nämä ovat vain tällaisia hassuja kokeita.
+
+---
+
+Vastaukseni voi kenties tiivistää kliseeseen "matematiikka opettaa ajattelemaan". Mutta enkö juuri aiemmin sanonut "ymmärrän hyvin, jos tämä ei vakuuta turhautunutta yläkoululaista"? Ilmeisen ristiriidan purkaa se, ettei koulumatematiikka ole kaikki matematiikka.
+
+Millainen matematiikka sitten auttaa ajattelemaan paremmin? Vastaukseni voi lukea rivien välistä tästä ja muista teksteistäni: todennäköisyyslaskenta, peliteoria, tilastot, logiikka ja matemaattista mallinnus
+
+Toisaalta kuvitellessani mielessäni, miltä yläkoulun todennäköisyyslaskennan opetus tai yliopiston logiikan kurssit näyttävät, niin en koe niitäkään erityisen hyödyllisinä ajattelun kehittämiseen. (Muista, että monien tutkimuksien koehenkilöt ovat yliopisto-opiskelijoita.) Näen nimittäin opetuksessa kehitettävää muunkin kuin aihealueen valinnan kohdalla. Näitä aiheita on vaikea opettaa enkä koe nykyisen opetuksen onnistuvan siinä hyvin.
+
+Silti olen vahvasti sitä mieltä, että nämä matemaattiset työkalut ovat hyödyllisiä. Ne ovat merkittäviä askelia ihmiskunnan kehityksessä. Vaikka monet näihin työkaluihin liittyvät kansantajuiset opetukset voivat nykyään tuntua itsestäänselvyyksiltä, niin ne eivät sitä ole ja kumpuavat osittain siitä, että jotkut ovat kehittäneet matematiikan niiden pohjalla. Ja syvemmällä ymmärryksellä on etunsa.
+
+Voin vain kuvitella, millaisista ongelmista päästään eroon nykyiselläkin opetuksella (ja sillä, että yleisesti yhteiskunnassa törmää matemaattisiin konsepteihin). Vastaavasti minun on vaikea hahmottaa, kuinka eri tavoilla ajattelevat ihmiset, jotka eivät ole saaneet *mitään* matematiikan opetusta ja jotka eivät tällaisiin konsepteihin juuri törmää.
+
+Mikä tietysti tarkoittaa suurinta osaa kaikista ihmisistä, joita on koskaan elänyt.
