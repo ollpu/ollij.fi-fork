@@ -58,7 +58,7 @@ Millainen matematiikka sitten auttaa ajattelemaan paremmin? Vastaukseni voi luke
 
 Toisaalta kuvitellessani mielessäni, miltä yläkoulun todennäköisyyslaskennan opetus tai yliopiston logiikan kurssit näyttävät, niin en koe niitäkään erityisen hyödyllisinä ajattelun kehittämiseen. (Muista, että monien tutkimuksien koehenkilöt ovat yliopisto-opiskelijoita.) Näen nimittäin opetuksessa kehitettävää muunkin kuin aihealueen valinnan kohdalla. Näitä aiheita on vaikea opettaa enkä koe nykyisen opetuksen onnistuvan siinä hyvin.
 
-Silti olen vahvasti sitä mieltä, että nämä matemaattiset työkalut ovat hyödyllisiä. Ne ovat merkittäviä askelia ihmiskunnan kehityksessä. Vaikka monet näihin työkaluihin liittyvät kansantajuiset opetukset voivat nykyään tuntua itsestäänselvyyksiltä, niin ne eivät sitä ole ja kumpuavat osittain siitä, että jotkut ovat kehittäneet matematiikan niiden pohjalla. Ja syvemmällä ymmärryksellä on etunsa.
+Silti olen vahvasti sitä mieltä, että nämä matemaattiset työkalut ovat hyödyllisiä. Ne ovat merkittäviä askelia ihmiskunnan kehityksessä. Vaikka monet näihin työkaluihin liittyvät kansantajuiset opetukset voivat nykyään tuntua itsestäänselvyyksiltä, niin ne eivät sitä ole ja kumpuavat osittain siitä, että jotkut ovat kehittäneet matematiikan niiden pohjalla. Ja syvemmällä ymmärryksellä on hyötyjä.
 
 Voin vain kuvitella, millaisista ongelmista päästään eroon nykyiselläkin opetuksella (ja sillä, että yleisesti yhteiskunnassa törmää matemaattisiin konsepteihin). Vastaavasti minun on vaikea hahmottaa, kuinka eri tavoilla ajattelevat ihmiset, jotka eivät ole saaneet *mitään* matematiikan opetusta ja jotka eivät tällaisiin konsepteihin juuri törmää.
 
