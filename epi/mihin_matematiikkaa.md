@@ -62,4 +62,4 @@ Silti olen vahvasti sitä mieltä, että nämä matemaattiset työkalut ovat hy�
 
 Voin vain kuvitella, millaisista ongelmista päästään eroon nykyiselläkin opetuksella (ja sillä, että yleisesti yhteiskunnassa törmää matemaattisiin konsepteihin). Vastaavasti minun on vaikea hahmottaa, kuinka eri tavoilla ajattelevat ihmiset, jotka eivät ole saaneet *mitään* matematiikan opetusta ja jotka eivät tällaisiin konsepteihin juuri törmää.
 
-Mikä tietysti tarkoittaa suurinta osaa kaikista ihmisistä, joita on koskaan elänyt.
+Mikä tietysti tarkoittaa suurinta osaa kaikista ihmisistä, jotka ovat koskaan eläneet.
