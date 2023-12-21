@@ -4,8 +4,8 @@ Uskon tekoälyn olevan eksistentiaalinen uhka ihmiskunnalle. Pidän tämän uhan
 
 Kerron tässä kokoelmassa näkemyksistäni aiheesta.
 
-Aloitan siitä, mistä kuuluu aloittaa: itse asiasta, mitä uskon itse asiasta ja miksi uskon mitä uskon. Lyhyt versio on korkean tason selitys, jossa sanon asioita selittämättä, miksi uskon niihin. Keskipitkä versio menee yksityiskohtiin.
+Aloitan siitä, mistä kuuluu aloittaa: itse asiasta, mitä uskon itse asiasta ja miksi uskon mitä uskon. [Lyhyt versio](/tekoaly/lyhyt) on korkean tason selitys. [Keskipitkä versio](/tekoaly/keskipitka) menee yksityiskohtiin.
 
-Saatuani kerrottua, mitä itse uskon, käsittelen yleisiä kysymyksiä ja reaktioita. Päätän yleisluontoisella kommentilla aiheesta.
+Saatuani kerrottua, mitä itse uskon, käsittelen [yleisiä kysymyksiä](/tekoaly/usein) ja reaktioita. Päätän yleisluontoisella [kommentilla](/tekoaly/joten) aiheesta.
 
-Kokoelman loppuun on koottu lisää lukemista aiheeseen liittyen.
+Kokoelman loppuun on koottu [lisää lukemista](/tekoaly/lukemista) aiheeseen liittyen.

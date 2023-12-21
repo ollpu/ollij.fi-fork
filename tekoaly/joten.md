@@ -1,25 +1,17 @@
 # Joten?
 
-Ihmiset suhtautuvat tekoälyuhkaan monenlaisilla tavoilla.
+Mitä nyt? Jos pitää tekoälyä uhkana, niin miten suhtautua asiaan? Mitä voi tai kannattaa tehdä?
 
-Yksi näkökulma, johon olen tykästynyt: hyvät asiat ovat edelleen hyviä.
+Tietysti ratkotaan ongelmaa.
 
-Olen edellisessä tekstissä kommentoinut, kuinka tekoälyuhka saa jotkut ihmiset sanomaan kaikenlaista hölynpölyä (esimerkkinä kysymys "onko se nyt niin paha, jos tekoäly tappaa kaikki?"). Tällöin olisi hyötyä käyttää "hyvät asiat ovat edelleen hyviä" -periaatetta ja sitä täydentävää "huonot asiat ovat edelleen huonoja" -näkemystä.
+Eli käytännössä? Esimerkiksi: Selvitetään mitä syväoppimismallien sisällä tapahtuu. Puretaan kilpailudynamiikkoja tekoälyorganisaatioiden välilä. Testataan, mihin mallit kykenevät ja eivät kykene, ja rakennetaan tämän pohjalta päätöksentekoa ja lainsäädäntöä. Informoidaan ihmisiä, erityisesti päätöksentekoasemassa olevia, uhasta ja ratkaisuista. Rajoitetaan suurten mallien kouluttamiseen käytettävän laskentatehon määrää. Seurataan ja kontrolloidaan, mihin suurten mallien kouluttamiseen käytettävät laskentasirut menevät. Hidastetaan ja pysäytetään eksistentiaalisen riskin muodostavien mallien kouluttaminen.
 
-Todella, hyvät asiat ovat edelleen hyviä. Omien uskomustensa rehellisesti jakaminen on hyvä. Ihmisten informointi ongelmasta on hyvä. Ongelman ratkominen on hyvä. (Ja hyvä [epi](/epi) on edelleen hyvä asia ja tärkeää.)
+(Pieni präntti: Lista ei ole kattava. Yksityiskohdilla on väliä. Yksityiskohdat ovat vaikeita. Lisään siksi listaan yleisen "ymmärretään ongelmaa ja asioita paremmin" -kohdan.)
 
-Todella, huonot asiat ovat edelleen huonoja. Katastrofit ovat huono. Ihmisten kuoleminen on huono. (Näiden todennäköisyyden kasvaminen ei tee niistä vähemmän huonoja.)
+Millainen on hyvä tilanne? Tässä on yksi kuva: Tiettyä laskentamäärää suuremmat koulutusajot tulee ajaa riippumattoman kansainvälisen tahon laskentakeskuksilla. "Tulee" tarkoittaa kansainvälistä sopimusta, joka sitoo yksityisten tahojen lisäksi myös itse valtioita. Muun laskentatehon kulkeutumista seurataan ja kontrolloidaan ehtojen toteutumisen valvomiseksi. Koulutettaville malleille suoritetaan riippumaton riskiarvio ennen ja jälkeen kouluttamisen. Lähtökohtana on turvallisuustutkimus, ei kyvykkäämpien mallien rakentaminen, ja siihen kohdennetaan resursseja. Mallien kehitysnopeuden määrää ymmärrys ja ymmärryksen taso mallien toiminnasta, kyvyistä ja riskeistä.
 
-Mikä on tietysti eri asia kuin se, että lyödään hanskat tiskiin ja pelkistetään asiat hyvä-paha-akselille. Huonot asiat ovat edelleen huonoja, ja asioiden virheellisesti pelkistäminen yksinkertaiseksi hyvä-paha-jaotteluksi on huono.
+Entä miten yksilönä suhtautua asiaan?
 
-Minä olen ajatellut, että näistä aiheista kirjoittaminen on hyvä. Se, että useampi ymmärtää uhkaa paremmin vaikuttaa minusta hyvältä. Minulla ei ollut tämän lisäksi oikein mitään suurta suunnitelmaa tekstejä kirjoittaessani. Pyrin vain tekemään hyviä asioita.
+On paljon asioita, osa suoria ja osa epäsuorempia, jotka vievät ihmiskunnan parempaan asemaan. "Hyvät asiat ovat edelleen hyviä", kuuluu sanonta. Omalla kohdallani olen ajatellut, että näistä aiheista kannattaa kirjoittaa: se kun on hyvä, että useampi ymmärtää uhkaa paremmin. Olen myös pitänyt [muista aiheista](/epi) kirjoittamista hyvänä, vaikkeivat ne suoraan tekoälyyn liitykään.
 
-(Minua tosin huolestuttaa se, että olen esittänyt asiat huonosti, jolloin lukijat eivät vakuutu ja "[annan teille yhden mahdollisuuden vakuuttaa minut](/epi/vakuuttamisesta)" -ilmiön seurauksena sivuuttavat muutkin, kenties paremmat, selitykset aiheesta. Olen huomannut, myös omakohtaisen kokemuksen kautta, että näitä aiheita on oikeasti vaikea selittää.)
-
-Miten ylipäätään päädyin miettimään ja tekemään asioita aiheeseen liittyen? Siitä on jo jonkin aikaa, mutta päädyin jotakin kautta lukemaan aiheesta. Yleisesti ottaen vain kiinnostuin aiheesta. Pidän aihealuetta mielekkäänä tekemisenä. Minulla oli tosin myös ajatus muotoa "jos tämä ei saa minua muuttamaan toimintaani, niin mikään ei varmaan saisi, ja en tykkää tuosta johtopäätöksestä". (Mikä on päättelyketju, mihin muut eivät välttämättä samaistu, mutta joka auttaa ymmärtämään omaa lähtökohtaani.)
-
-Nähdäkseni on paljon asioita, joiden tekeminen vie asioita parempaan suuntaan ja saa ihmiskunnan parempaan asemaan. Jotkut näistä liittyvät suoraan tekoälyyn (kuten "selvitetään, miten ihmeessä syväoppimismallit toimivat" tai "rauhassa sen laskentatehon kanssa"). Jotkut taas eivät liity. Minusta esimerkiksi laajasti [epin](/epi) parantamiseen liittyvät asiat ovat hyviä.
-
-Kyllä, nämä ongelmat ovat suuria. Sellaisia varteenotettavat ongelmat ovat. Silti ne vaikuttavat mielekkäältä ajanvietteeltä.
-
-Tavoite on saada hyvä tulevaisuus kaikille. Sitähän varten täällä ollaan.
+Tekoälyuhka on ongelma, joka on työstämisen arvoinen. Minusta on tavallaan ilmeistä, että tietysti tätä ongelmaa ratkaistaan -- mitä muutakaan sitä tekisi? Totta kai pyritään siihen, että ihmiskunta selviytyy ja kukoistaa. Totta kai tavoite on saada hyvä tulevaisuus kaikille. Sitähän varten täällä ollaan.
