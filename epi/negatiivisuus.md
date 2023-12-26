@@ -26,8 +26,8 @@ Kerran puhuin kaverilleni lukemastani utopiaan sijoittuvasta fiktiosta ja siinä
 
 (Muistan myös kuulleeni "kukaan ei ole kirjoittanut utopiaa, jossa kukaan haluaisi oikeasti elää". Haluaisin tietää, [mihin tämä uskomus perustuu](/epi/miksi_uskot) -- sehän on selvästi epätosi. Tai ehkä näin sanotaan vain, koska se kuulostaa syvälliseltä viisaudelta.)
 
-Ja joskus ihmisten taipumus negatiivisuuteen ja kriittisyyteen *johtaa* siihen, että asiat eivät ole paremmin. Negatiivinen palaute on yliedustettuna kaikesta palautteesta. Jos on virheitä tai parannettava, niin siitä tietysti huomautetaan. Jos taas kaikki on hyvin, niin silloin tietenkään ei. "Mitä, ei minulla ole mitään sanottavaa, minusta se oli hyvä".
+Negatiivinen palaute on yliedustettuna kaikesta palautteesta. Jos on virheitä tai parannettava, niin siitä tietysti huomautetaan. Jos taas kaikki on hyvin, niin silloin tietenkään ei. "Mitä, eihän minulla ole mitään sanottavaa, minusta se oli hyvä".
 
-Välillä olen tehnyt asioita, joista minä ja muut hyötyvät. Välillä on käynyt niin, että saamani palautteen negatiivisuus tekee kokemuksesta ikävämmän kuin jos en olisi tehnyt mitään. [Arvaa miten käy](/epi/insentiivit).
+Ja joskus ihmisten taipumus negatiivisuuteen ja kriittisyyteen *johtaa* siihen, että asiat eivät ole paremmin. Välillä olen tehnyt asioita, joista minä ja muut hyötyvät. Välillä on käynyt niin, että saamani palautteen negatiivisuus tekee kokemuksesta ikävämmän kuin jos en olisi tehnyt mitään. [Arvaa miten käy](/epi/insentiivit).
 
 Status quon puolustajilla on helppoa: tarvitsee vain kritisoida, ja asiat ovat tapahtumatta kuin itsestään.
